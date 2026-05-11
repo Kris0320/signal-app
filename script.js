@@ -320,7 +320,7 @@
     return `
       <button class="chip${sel}" data-chip="${c.id}" role="tab" aria-selected="${selected}">
         <span class="chip__check" aria-hidden="true">
-          <svg viewBox="0 0 24 24" width="14" height="14"><path d="M9 16.2 4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4Z" fill="currentColor"/></svg>
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12l5 5L20 7"/></svg>
         </span>
         <span class="chip__label">${c.label}${countTxt}</span>
       </button>
@@ -357,7 +357,7 @@
       const sel = state.searchSources.has(key) ? " is-selected" : "";
       return `
         <button class="chip${sel}" data-source="${key}" aria-pressed="${state.searchSources.has(key)}">
-          <span class="chip__check"><svg viewBox="0 0 24 24" width="14" height="14"><path d="M9 16.2 4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4Z" fill="currentColor"/></svg></span>
+          <span class="chip__check"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12l5 5L20 7"/></svg></span>
           ${badgeHTML(key)}
           <span>${s.name}</span>
         </button>
@@ -392,10 +392,10 @@
           </div>
         </div>
         <button class="event-card__save${saved ? " is-saved" : ""}" data-action="toggle-save" data-event="${ev.id}" aria-label="${saved ? "Unsave" : "Save"}" aria-pressed="${saved}">
-          <svg viewBox="0 0 24 24" width="20" height="20">
-            <path d="M17 3H7a2 2 0 0 0-2 2v16l7-3 7 3V5a2 2 0 0 0-2-2Z"
-                  fill="${saved ? "currentColor" : "none"}"
-                  stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+          <svg viewBox="0 0 24 24" width="22" height="22"
+               fill="${saved ? "currentColor" : "none"}"
+               stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M6 3h12v18l-6-3-6 3V3z"/>
           </svg>
         </button>
       </article>
@@ -438,11 +438,15 @@
     host.innerHTML = state.recentSearches.map(q => `
       <li class="recent-item" data-recent="${q.replace(/"/g, "&quot;")}">
         <span class="recent-item__icon">
-          <svg viewBox="0 0 24 24" width="20" height="20"><path d="M13 3a9 9 0 1 0 9 9h-2a7 7 0 1 1-7-7v3l4-4-4-4v3Z" fill="currentColor"/></svg>
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M3 12a9 9 0 1 0 3-6.7"/>
+            <path d="M3 3v5h5"/>
+            <path d="M12 7v5l3 2"/>
+          </svg>
         </span>
         <span class="recent-item__text">${q}</span>
         <span class="recent-item__arrow">
-          <svg viewBox="0 0 24 24" width="18" height="18"><path d="M7 17 17 7M9 7h8v8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17l10-10"/><path d="M9 7h8v8"/></svg>
         </span>
       </li>
     `).join("");
@@ -502,8 +506,9 @@
           </div>
         </div>
         <button class="saved-item__save" data-action="toggle-save" data-event="${ev.id}" aria-label="Unsave">
-          <svg viewBox="0 0 24 24" width="20" height="20">
-            <path d="M17 3H7a2 2 0 0 0-2 2v16l7-3 7 3V5a2 2 0 0 0-2-2Z" fill="currentColor"/>
+          <svg viewBox="0 0 24 24" width="22" height="22"
+               fill="currentColor" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M6 3h12v18l-6-3-6 3V3z"/>
           </svg>
         </button>
       </div>
@@ -691,14 +696,14 @@
         <li>
           <button class="city-row${sel}" data-city="${city}">
             <span class="city-row__pin" aria-hidden="true">
-              <svg viewBox="0 0 24 24" width="20" height="20">
-                <path d="M12 21s-7-6.4-7-11.5a7 7 0 1 1 14 0c0 5.1-7 11.5-7 11.5Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
-                <circle cx="12" cy="9.5" r="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/>
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 21s-7-6.4-7-11.5a7 7 0 1 1 14 0c0 5.1-7 11.5-7 11.5z"/>
+                <circle cx="12" cy="9.5" r="2.5"/>
               </svg>
             </span>
             <span class="city-row__label">${city}</span>
             <span class="city-row__check" aria-hidden="true">
-              <svg viewBox="0 0 24 24" width="20" height="20"><path d="M9 16.2 4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4Z" fill="currentColor"/></svg>
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12l5 5L20 7"/></svg>
             </span>
           </button>
         </li>
@@ -884,6 +889,10 @@
           if (state.currentEventId) toggleSave(state.currentEventId);
           return;
         }
+        if (action === "share-detail") {
+          shareCurrentEvent();
+          return;
+        }
         if (action === "reset-feed-filters") {
           state.feedFilters.clear();
           renderFeedChips();
@@ -1040,6 +1049,55 @@
         }
       }
     });
+  }
+
+  // ----------------------------------------------------------
+  // Share (navigator.share with copy-link fallback)
+  // ----------------------------------------------------------
+  async function shareCurrentEvent() {
+    if (!state.currentEventId) return;
+    const ev = EVENTS.find(e => e.id === state.currentEventId);
+    if (!ev) return;
+
+    const url = window.location.href;
+    const shareData = {
+      title: ev.title,
+      text: `${ev.title} — ${fmtShortDay(eventDate(ev))} · ${ev.area}`,
+      url,
+    };
+
+    if (navigator.share) {
+      try {
+        await navigator.share(shareData);
+        return;
+      } catch (err) {
+        // user cancelled — exit silently
+        if (err && err.name === "AbortError") return;
+        // otherwise fall through to copy fallback
+      }
+    }
+
+    try {
+      await navigator.clipboard.writeText(url);
+      showToast("Link copied");
+    } catch (_) {
+      showToast("Unable to share");
+    }
+  }
+
+  let toastTimer = null;
+  function showToast(msg) {
+    const t = $("#toast");
+    if (!t) return;
+    t.textContent = msg;
+    t.classList.remove("hidden");
+    // next frame so the transition runs
+    requestAnimationFrame(() => t.classList.add("is-visible"));
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => {
+      t.classList.remove("is-visible");
+      setTimeout(() => t.classList.add("hidden"), 220);
+    }, 1800);
   }
 
   // ----------------------------------------------------------

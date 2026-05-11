@@ -48,6 +48,10 @@
 
   --shadow-1: 0 1px 2px rgba(0,0,0,0.06), 0 1px 3px rgba(0,0,0,0.04);
   --shadow-2: 0 2px 4px rgba(0,0,0,0.06), 0 4px 12px rgba(0,0,0,0.06);
+
+  --bottom-nav-h: 80px;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-top: env(safe-area-inset-top, 0px);
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -57,12 +61,9 @@ html, body { height: 100%; }
 body {
   font-family: var(--font-sans);
   color: var(--on-surface);
-  background: var(--surface-dim);
+  background: var(--surface);
   -webkit-font-smoothing: antialiased;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
+  min-height: 100dvh;
 }
 
 button {
@@ -79,65 +80,28 @@ input { font-family: inherit; }
 .hidden { display: none !important; }
 
 /* ============================================================
-   Device frame
+   App container — full-bleed on mobile, centered column on desktop
    ============================================================ */
 .device {
   position: relative;
-  width: min(420px, 100vw);
-  height: min(900px, 100vh);
+  width: 100%;
+  max-width: 480px;
+  min-height: 100dvh;
+  margin: 0 auto;
   background: var(--surface);
-  border-radius: 44px;
   overflow: hidden;
-  box-shadow: var(--shadow-2);
-  display: flex;
-  flex-direction: column;
 }
-
-@media (max-width: 480px) {
-  body { background: var(--surface); }
-  .device { width: 100vw; height: 100vh; border-radius: 0; box-shadow: none; }
-}
-
-/* ============================================================
-   Status bar
-   ============================================================ */
-.status-bar {
-  flex: 0 0 auto;
-  height: 44px;
-  padding: 0 24px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  color: var(--on-surface);
-  font-weight: 600;
-  font-size: 15px;
-  position: relative;
-  z-index: 5;
-}
-.status-time { letter-spacing: 0.2px; }
-.status-notch {
-  width: 92px;
-  height: 26px;
-  background: #000;
-  border-radius: 18px;
-}
-.status-right {
-  display: flex;
-  gap: 6px;
-  align-items: center;
-  color: var(--on-surface);
-}
-.status-right svg { fill: currentColor; }
 
 /* ============================================================
    Screens (z-stack)
    ============================================================ */
 .screen {
   position: absolute;
-  inset: 44px 0 80px 0; /* below status bar, above nav */
+  inset: 0 0 calc(var(--bottom-nav-h) + var(--safe-bottom)) 0;
   display: none;
   flex-direction: column;
   background: var(--surface);
+  padding-top: var(--safe-top);
 }
 .screen.is-active { display: flex; }
 
@@ -237,8 +201,8 @@ input { font-family: inherit; }
    Icon buttons
    ============================================================ */
 .icon-btn {
-  width: 40px;
-  height: 40px;
+  width: 44px;
+  height: 44px;
   border-radius: 50%;
   display: inline-flex;
   align-items: center;
@@ -267,7 +231,7 @@ input { font-family: inherit; }
   display: flex;
   align-items: center;
   gap: 12px;
-  padding: 0 8px 0 18px;
+  padding: 0 20px;
   color: var(--on-surface-variant);
   cursor: pointer;
   transition: background 0.15s;
@@ -277,15 +241,6 @@ input { font-family: inherit; }
 .search-trigger__text {
   flex: 1;
   font-size: 15px;
-  color: var(--on-surface-variant);
-}
-.search-trigger__tune {
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
   color: var(--on-surface-variant);
 }
 
@@ -731,7 +686,6 @@ input { font-family: inherit; }
   background: var(--surface);
 }
 .detail-bar__spacer { flex: 1; }
-.screen--detail { padding-top: 44px; /* below status bar */ }
 
 .detail-scroll {
   flex: 1 1 auto;
@@ -820,7 +774,6 @@ input { font-family: inherit; }
 }
 .primary-btn:hover { filter: brightness(1.05); }
 .primary-btn:active { filter: brightness(0.95); }
-.primary-btn svg { fill: currentColor; }
 
 /* ============================================================
    Bottom nav
@@ -830,11 +783,11 @@ input { font-family: inherit; }
   bottom: 0;
   left: 0;
   right: 0;
-  height: 80px;
+  height: calc(var(--bottom-nav-h) + var(--safe-bottom));
   display: flex;
   background: var(--surface);
   border-top: 1px solid var(--surface-container);
-  padding: 6px 24px 18px;
+  padding: 6px 24px calc(18px + var(--safe-bottom));
   gap: 8px;
   z-index: 4;
 }
@@ -911,7 +864,7 @@ input { font-family: inherit; }
   background: var(--surface);
   border-top-left-radius: 28px;
   border-top-right-radius: 28px;
-  padding: 8px 20px 24px;
+  padding: 8px 20px calc(24px + var(--safe-bottom));
   box-shadow: 0 -6px 24px rgba(0,0,0,0.10);
   transform: translateY(100%);
   transition: transform 0.22s ease;
@@ -942,6 +895,9 @@ input { font-family: inherit; }
   gap: 12px;
   padding: 4px 0 12px;
 }
+/* When the title is a direct flex child (no eyebrow above), drop the eyebrow
+   offset so it vertically centers with the action buttons on the right. */
+.drawer__head > .drawer__title { margin-top: 0; }
 .drawer__eyebrow {
   font-size: 11.5px;
   font-weight: 600;
@@ -1050,4 +1006,33 @@ input { font-family: inherit; }
   font-size: 13px;
   color: var(--on-surface-variant);
   padding: 14px 4px;
+}
+
+/* ============================================================
+   Toast (share fallback feedback)
+   ============================================================ */
+.toast {
+  position: absolute;
+  left: 50%;
+  bottom: calc(var(--bottom-nav-h) + var(--safe-bottom) + 16px);
+  transform: translate(-50%, 8px);
+  background: rgba(20, 20, 30, 0.92);
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 22px;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  white-space: nowrap;
+  z-index: 20;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.18s ease, transform 0.18s ease;
+}
+.toast.is-visible {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+.screen--detail.is-active ~ .toast {
+  bottom: calc(var(--safe-bottom) + 96px);
 }
