@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Signal · Event discovery</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="device">
+    <!-- Status bar -->
+    <div class="status-bar" aria-hidden="true">
+      <span class="status-time">9:41</span>
+      <span class="status-notch"></span>
+      <span class="status-right">
+        <svg viewBox="0 0 18 12" width="18" height="12"><rect x="0" y="6" width="3" height="6" rx="1"/><rect x="5" y="4" width="3" height="8" rx="1"/><rect x="10" y="2" width="3" height="10" rx="1"/><rect x="15" y="0" width="3" height="12" rx="1"/></svg>
+        <svg viewBox="0 0 16 12" width="16" height="12"><path d="M8 11.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm0-4.5a4 4 0 0 1 2.83 1.17l1.06-1.06A5.5 5.5 0 0 0 8 5.5 5.5 5.5 0 0 0 4.11 7.11l1.06 1.06A4 4 0 0 1 8 7Zm0-3a7 7 0 0 1 4.95 2.05l1.06-1.06A8.5 8.5 0 0 0 8 3a8.5 8.5 0 0 0-6.01 2.49l1.06 1.06A7 7 0 0 1 8 4Z"/></svg>
+        <svg viewBox="0 0 24 12" width="24" height="12"><rect x="0.5" y="1.5" width="20" height="9" rx="2" fill="none" stroke="currentColor" stroke-width="1"/><rect x="2" y="3" width="17" height="6" rx="1"/><rect x="21.5" y="4" width="1.5" height="4" rx="0.5"/></svg>
+      </span>
+    </div>
+
+    <!-- ============ FEED ============ -->
+    <section class="screen screen--feed is-active" data-screen="feed">
+      <header class="topbar topbar--feed">
+        <button class="location-switcher" data-action="open-city" aria-label="Change location">
+          <svg class="location-switcher__pin" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+            <path d="M12 21s-7-6.4-7-11.5a7 7 0 1 1 14 0c0 5.1-7 11.5-7 11.5Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
+            <circle cx="12" cy="9.5" r="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/>
+          </svg>
+          <span class="location-switcher__label" id="location-label">London</span>
+          <svg class="location-switcher__chev" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M7 10l5 5 5-5z" fill="currentColor"/></svg>
+        </button>
+      </header>
+
+      <div class="search-trigger" data-action="open-search" role="button" tabindex="0">
+        <svg class="search-trigger__icon" viewBox="0 0 24 24" width="20" height="20"><path d="M10 4a6 6 0 1 1-3.87 10.59l-3.32 3.32-1.41-1.41 3.32-3.32A6 6 0 0 1 10 4Zm0 2a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z" fill="currentColor"/></svg>
+        <span class="search-trigger__text">Search events, speakers, venues</span>
+        <span class="search-trigger__tune" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="20" height="20"><path d="M4 6h10v2H4V6Zm0 5h6v2H4v-2Zm0 5h12v2H4v-2ZM20 5h-2v3h-2v2h2v3h2v-3h2V8h-2V5Z" fill="currentColor"/></svg>
+        </span>
+      </div>
+
+      <div class="chip-row" id="feed-chips" role="tablist" aria-label="Quick filters"></div>
+
+      <div class="feed-scroll">
+        <div id="feed-list" class="feed-list"></div>
+        <div id="feed-empty" class="empty hidden">
+          <p>No events match these filters.</p>
+          <button class="text-btn" data-action="reset-feed-filters">Reset filters</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ SEARCH ============ -->
+    <section class="screen screen--search" data-screen="search">
+      <header class="search-bar">
+        <button class="icon-btn" data-action="close-search" aria-label="Back">
+          <svg viewBox="0 0 24 24" width="22" height="22"><path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12l4.58-4.59Z" fill="currentColor"/></svg>
+        </button>
+        <input id="search-input" class="search-input" type="search" placeholder="Search events, speakers, venues" autocomplete="off" />
+        <button class="icon-btn" aria-label="Voice search" disabled>
+          <svg viewBox="0 0 24 24" width="22" height="22"><path d="M12 14a3 3 0 0 0 3-3V6a3 3 0 1 0-6 0v5a3 3 0 0 0 3 3Zm5-3a5 5 0 0 1-10 0H5a7 7 0 0 0 6 6.92V21h2v-3.08A7 7 0 0 0 19 11h-2Z" fill="currentColor"/></svg>
+        </button>
+      </header>
+
+      <div class="chip-row chip-row--scroll" id="search-chips"></div>
+
+      <div class="search-scroll">
+        <h2 class="section-label">Recent searches</h2>
+        <ul id="recent-list" class="recent-list"></ul>
+
+        <h2 class="section-label">Sources</h2>
+        <div id="source-chips" class="chip-grid"></div>
+
+        <h2 class="section-label" id="search-results-label" hidden>Results</h2>
+        <div id="search-results" class="feed-list"></div>
+      </div>
+    </section>
+
+    <!-- ============ SAVED ============ -->
+    <section class="screen screen--saved" data-screen="saved">
+      <header class="topbar topbar--saved">
+        <h1 class="page-title">Saved</h1>
+        <button class="icon-btn" data-action="open-search" aria-label="Search">
+          <svg viewBox="0 0 24 24" width="22" height="22"><path d="M10 4a6 6 0 1 1-3.87 10.59l-3.32 3.32-1.41-1.41 3.32-3.32A6 6 0 0 1 10 4Zm0 2a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z" fill="currentColor"/></svg>
+        </button>
+      </header>
+
+      <button class="info-card" id="clash-card" data-action="open-saved-calendar" aria-label="Open saved calendar">
+        <span class="info-card__icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="20" height="20"><path d="M19 4h-2V2h-2v2H9V2H7v2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Zm0 16H5V10h14v10Z" fill="currentColor"/></svg>
+        </span>
+        <div class="info-card__text">
+          <div class="info-card__title" id="clash-title">No clashes across your saved events</div>
+          <div class="info-card__sub" id="clash-sub">You're all set for this period.</div>
+        </div>
+        <span class="info-card__chev" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="20" height="20"><path d="M9.29 6.71 14.59 12l-5.3 5.29 1.42 1.42 6.7-6.71-6.7-6.71-1.42 1.42Z" fill="currentColor"/></svg>
+        </span>
+      </button>
+
+      <div class="segmented" id="saved-segmented" role="tablist" aria-label="Saved view"></div>
+
+      <div class="saved-scroll">
+        <div id="saved-list" class="saved-list"></div>
+        <div id="saved-empty" class="empty hidden">
+          <p>Nothing saved yet.</p>
+          <button class="text-btn" data-action="go-feed">Browse the feed</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ DETAIL ============ -->
+    <section class="screen screen--detail" data-screen="detail">
+      <header class="detail-bar">
+        <button class="icon-btn" data-action="close-detail" aria-label="Back">
+          <svg viewBox="0 0 24 24" width="22" height="22"><path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12l4.58-4.59Z" fill="currentColor"/></svg>
+        </button>
+        <span class="detail-bar__spacer"></span>
+        <button class="icon-btn" aria-label="Share" disabled>
+          <svg viewBox="0 0 24 24" width="22" height="22"><path d="M18 16a3 3 0 0 0-2.4 1.2l-7.1-4.1a3 3 0 0 0 0-2.2l7.1-4.1A3 3 0 1 0 15 5l-7.1 4.1a3 3 0 1 0 0 5.8L15 19a3 3 0 1 0 3-3Z" fill="currentColor"/></svg>
+        </button>
+        <button class="icon-btn" aria-label="More" disabled>
+          <svg viewBox="0 0 24 24" width="22" height="22"><circle cx="12" cy="5" r="1.7" fill="currentColor"/><circle cx="12" cy="12" r="1.7" fill="currentColor"/><circle cx="12" cy="19" r="1.7" fill="currentColor"/></svg>
+        </button>
+      </header>
+
+      <div class="detail-scroll">
+        <div class="detail-media" id="detail-media">event media</div>
+
+        <h2 class="detail-title" id="detail-title"></h2>
+        <p class="detail-desc" id="detail-desc"></p>
+
+        <div class="tag-row" id="detail-tags"></div>
+
+        <div class="detail-meta">
+          <div class="detail-meta__row">
+            <span class="detail-meta__icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" width="20" height="20"><path d="M19 4h-2V2h-2v2H9V2H7v2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Zm0 16H5V10h14v10Z" fill="currentColor"/></svg>
+            </span>
+            <div>
+              <div class="detail-meta__primary" id="detail-date"></div>
+              <div class="detail-meta__secondary" id="detail-duration"></div>
+            </div>
+          </div>
+          <div class="detail-meta__row">
+            <span class="detail-meta__icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" width="20" height="20"><path d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7Zm0 9.5A2.5 2.5 0 1 1 14.5 9 2.5 2.5 0 0 1 12 11.5Z" fill="currentColor"/></svg>
+            </span>
+            <div>
+              <div class="detail-meta__primary" id="detail-venue"></div>
+              <div class="detail-meta__secondary" id="detail-price"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="detail-cta">
+        <button class="icon-btn icon-btn--surface" data-action="toggle-save-detail" aria-label="Save event">
+          <svg viewBox="0 0 24 24" width="22" height="22"><path d="M17 3H7a2 2 0 0 0-2 2v16l7-3 7 3V5a2 2 0 0 0-2-2Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+        </button>
+        <button class="primary-btn" id="detail-open-btn">
+          <span id="detail-open-label">Open on source</span>
+          <svg viewBox="0 0 24 24" width="18" height="18"><path d="M14 3v2h3.59l-9.3 9.3 1.41 1.41 9.3-9.3V10h2V3h-7ZM5 5v14h14v-7h-2v5H7V7h5V5H5Z" fill="currentColor"/></svg>
+        </button>
+      </div>
+    </section>
+
+    <!-- Calendar drawer (opened from a saved item's date block) -->
+    <div class="drawer-backdrop hidden" id="drawer-backdrop" data-action="close-drawer"></div>
+    <aside class="drawer hidden" id="calendar-drawer" aria-hidden="true" aria-label="Event date">
+      <div class="drawer__handle" aria-hidden="true"></div>
+      <header class="drawer__head">
+        <div>
+          <div class="drawer__eyebrow" id="drawer-eyebrow">Event date</div>
+          <div class="drawer__title" id="drawer-title"></div>
+        </div>
+        <button class="icon-btn" data-action="close-drawer" aria-label="Close">
+          <svg viewBox="0 0 24 24" width="22" height="22"><path d="M18.3 5.71 12 12.01l-6.3-6.3-1.41 1.41 6.3 6.3-6.3 6.3 1.41 1.41 6.3-6.3 6.3 6.3 1.41-1.41-6.3-6.3 6.3-6.3-1.41-1.41Z" fill="currentColor"/></svg>
+        </button>
+      </header>
+      <div class="cal">
+        <div class="cal__month" id="cal-month"></div>
+        <div class="cal__dow" aria-hidden="true">
+          <span>Mo</span><span>Tu</span><span>We</span><span>Th</span><span>Fr</span><span>Sa</span><span>Su</span>
+        </div>
+        <div class="cal__grid" id="cal-grid"></div>
+      </div>
+    </aside>
+
+    <!-- City picker drawer (opened from the Discover location switcher) -->
+    <div class="drawer-backdrop hidden" id="city-backdrop" data-action="close-city"></div>
+    <aside class="drawer hidden" id="city-drawer" aria-hidden="true" aria-label="Choose location">
+      <div class="drawer__handle" aria-hidden="true"></div>
+      <header class="drawer__head">
+        <div>
+          <div class="drawer__title">Choose city</div>
+        </div>
+        <button class="icon-btn" data-action="close-city" aria-label="Close">
+          <svg viewBox="0 0 24 24" width="22" height="22"><path d="M18.3 5.71 12 12.01l-6.3-6.3-1.41 1.41 6.3 6.3-6.3 6.3 1.41 1.41 6.3-6.3 6.3 6.3 1.41-1.41-6.3-6.3 6.3-6.3-1.41-1.41Z" fill="currentColor"/></svg>
+        </button>
+      </header>
+      <ul class="city-list" id="city-list"></ul>
+    </aside>
+
+    <!-- Saved calendar drawer (opened from the clash info-card) -->
+    <div class="drawer-backdrop hidden" id="saved-cal-backdrop" data-action="close-saved-calendar"></div>
+    <aside class="drawer drawer--tall hidden" id="saved-calendar-drawer" aria-hidden="true" aria-label="Saved calendar">
+      <div class="drawer__handle" aria-hidden="true"></div>
+      <header class="drawer__head">
+        <div>
+          <div class="drawer__eyebrow">Saved calendar</div>
+          <div class="drawer__title" id="saved-cal-month"></div>
+        </div>
+        <div class="drawer__head-actions">
+          <button class="icon-btn" data-action="saved-cal-prev" aria-label="Previous month">
+            <svg viewBox="0 0 24 24" width="22" height="22"><path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12l4.58-4.59Z" fill="currentColor"/></svg>
+          </button>
+          <button class="icon-btn" data-action="saved-cal-next" aria-label="Next month">
+            <svg viewBox="0 0 24 24" width="22" height="22"><path d="M8.59 7.41 10 6l6 6-6 6-1.41-1.41L13.17 12 8.59 7.41Z" fill="currentColor"/></svg>
+          </button>
+          <button class="icon-btn" data-action="close-saved-calendar" aria-label="Close">
+            <svg viewBox="0 0 24 24" width="22" height="22"><path d="M18.3 5.71 12 12.01l-6.3-6.3-1.41 1.41 6.3 6.3-6.3 6.3 1.41 1.41 6.3-6.3 6.3 6.3 1.41-1.41-6.3-6.3 6.3-6.3-1.41-1.41Z" fill="currentColor"/></svg>
+          </button>
+        </div>
+      </header>
+      <div class="cal">
+        <div class="cal__dow" aria-hidden="true">
+          <span>Mo</span><span>Tu</span><span>We</span><span>Th</span><span>Fr</span><span>Sa</span><span>Su</span>
+        </div>
+        <div class="cal__grid cal__grid--interactive" id="saved-cal-grid"></div>
+      </div>
+      <div class="saved-cal-day">
+        <div class="saved-cal-day__label" id="saved-cal-day-label"></div>
+        <div class="saved-list saved-list--inline" id="saved-cal-day-list"></div>
+      </div>
+    </aside>
+
+    <!-- Bottom nav -->
+    <nav class="bottom-nav" id="bottom-nav" aria-label="Primary">
+      <button class="nav-btn is-active" data-nav="feed" aria-label="Discover">
+        <span class="nav-btn__icon">
+          <svg viewBox="0 0 24 24" width="22" height="22"><path d="M12 3 3 10v11h6v-7h6v7h6V10l-9-7Z" fill="currentColor"/></svg>
+        </span>
+        <span class="nav-btn__label">Discover</span>
+      </button>
+      <button class="nav-btn" data-nav="saved" aria-label="Saved">
+        <span class="nav-btn__icon">
+          <svg viewBox="0 0 24 24" width="22" height="22"><path d="M17 3H7a2 2 0 0 0-2 2v16l7-3 7 3V5a2 2 0 0 0-2-2Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+        </span>
+        <span class="nav-btn__label">Saved</span>
+      </button>
+    </nav>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
