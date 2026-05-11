@@ -1,0 +1,5 @@
+{
+  "_comment": "Config for the KCL connector. monthsAhead = how many calendar months ahead of (and including) the current month to fetch. Each month is one HTTP request to www.kcl.ac.uk/events/events-calendar?date=YYYY-M.",
+  "monthsAhead": 2,
+  "userAgent": "Signal-app/0.1 (prototype; https://github.com/krisfolder)"
+}

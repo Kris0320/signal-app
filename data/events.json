@@ -1,0 +1,961 @@
+[
+  {
+    "id": "e1",
+    "title": "Foundation Models in Clinical Imaging",
+    "desc": "A working session with NHS radiologists and DeepMind alumni on validating foundation models against real diagnostic workflows.",
+    "source": "IC",
+    "date": "2026-05-12T18:30:00",
+    "durationMin": 120,
+    "venue": "South Kensington",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "AI in healthcare",
+      "Machine learning",
+      "University lectures"
+    ],
+    "format": "In person",
+    "match": 96
+  },
+  {
+    "id": "e2",
+    "title": "Type as Infrastructure",
+    "desc": "A panel on typography systems for software products and the operational realities of maintaining them at scale.",
+    "source": "RCA",
+    "date": "2026-05-13T19:00:00",
+    "durationMin": 90,
+    "venue": "Battersea",
+    "area": "Battersea",
+    "price": 0,
+    "tags": [
+      "Design",
+      "Typography",
+      "Talks"
+    ],
+    "format": "In person",
+    "match": 88
+  },
+  {
+    "id": "e3",
+    "title": "AI Policy Briefing: Medical Devices Act",
+    "desc": "Regulatory briefing on what the Medical Devices Act means for AI-assisted diagnostics in the UK.",
+    "source": "RSA",
+    "date": "2026-05-14T12:30:00",
+    "durationMin": 75,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 15,
+    "tags": [
+      "AI in healthcare",
+      "Policy",
+      "Briefings"
+    ],
+    "format": "In person",
+    "match": 84
+  },
+  {
+    "id": "e4",
+    "title": "Speculative Futures Salon",
+    "desc": "Anab Jain in conversation about design fiction as a tool for institutional decision-making.",
+    "source": "RCA",
+    "date": "2026-05-16T18:30:00",
+    "durationMin": 90,
+    "venue": "Kensington",
+    "area": "Kensington",
+    "price": 0,
+    "tags": [
+      "Design",
+      "Talks",
+      "Speculative design"
+    ],
+    "format": "In person",
+    "match": 91
+  },
+  {
+    "id": "e5",
+    "title": "Practical Robotics Reading Group",
+    "desc": "Monthly reading group covering recent robotics learning papers, hosted by the UCL CDT cohort.",
+    "source": "UCL",
+    "date": "2026-05-13T17:00:00",
+    "durationMin": 90,
+    "venue": "Bloomsbury",
+    "area": "Bloomsbury",
+    "price": 0,
+    "tags": [
+      "Robotics",
+      "Reading group",
+      "Machine learning"
+    ],
+    "format": "In person",
+    "match": 79
+  },
+  {
+    "id": "e6",
+    "title": "Designing for AI-First Products",
+    "desc": "Workshop on patterns and pitfalls for designing interfaces where the primary collaborator is a model.",
+    "source": "EB",
+    "date": "2026-05-15T10:00:00",
+    "durationMin": 240,
+    "venue": "Shoreditch",
+    "area": "Shoreditch",
+    "price": 45,
+    "tags": [
+      "Design",
+      "AI",
+      "Workshops"
+    ],
+    "format": "In person",
+    "match": 82
+  },
+  {
+    "id": "e7",
+    "title": "Open Source Health Data Meetup",
+    "desc": "Lightning talks on open datasets and reproducibility in clinical ML research.",
+    "source": "MU",
+    "date": "2026-05-12T19:00:00",
+    "durationMin": 120,
+    "venue": "King's Cross",
+    "area": "King's Cross",
+    "price": 0,
+    "tags": [
+      "AI in healthcare",
+      "Open source",
+      "Meetup"
+    ],
+    "format": "In person",
+    "match": 77
+  },
+  {
+    "id": "e8",
+    "title": "Sound, Space and AI",
+    "desc": "Live spatial-audio performance paired with a talk on generative sound for installation work.",
+    "source": "BB",
+    "date": "2026-05-18T20:00:00",
+    "durationMin": 90,
+    "venue": "Barbican",
+    "area": "Barbican",
+    "price": 18,
+    "tags": [
+      "Sound",
+      "Performance",
+      "AI"
+    ],
+    "format": "In person",
+    "match": 73
+  },
+  {
+    "id": "e9",
+    "title": "Wired Health Curtain-Raiser",
+    "desc": "Preview programme for the Wired Health summit — short talks from clinical-AI startups.",
+    "source": "WH",
+    "date": "2026-05-20T09:30:00",
+    "durationMin": 180,
+    "venue": "Kensington",
+    "area": "Kensington",
+    "price": 25,
+    "tags": [
+      "AI in healthcare",
+      "Startups",
+      "Conference"
+    ],
+    "format": "In person",
+    "match": 81
+  },
+  {
+    "id": "e10",
+    "title": "Building with Claude: Office Hours",
+    "desc": "Open office hours for developers shipping with the Anthropic API. Bring your prompt failures.",
+    "source": "MU",
+    "date": "2026-05-14T17:30:00",
+    "durationMin": 90,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Developer",
+      "Meetup"
+    ],
+    "format": "Online",
+    "match": 86
+  },
+  {
+    "id": "e11",
+    "title": "Radiology AI: Failure Modes",
+    "desc": "Clinical reading session on where current radiology models fail, with case examples.",
+    "source": "KCL",
+    "date": "2026-05-19T18:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "AI in healthcare",
+      "Machine learning",
+      "University lectures"
+    ],
+    "format": "In person",
+    "match": 89
+  },
+  {
+    "id": "e12",
+    "title": "Designers Reading Foucault",
+    "desc": "Slow-reading group working through Discipline and Punish in the context of platform design.",
+    "source": "LH",
+    "date": "2026-05-15T19:00:00",
+    "durationMin": 120,
+    "venue": "Marylebone",
+    "area": "Marylebone",
+    "price": 5,
+    "tags": [
+      "Design",
+      "Reading group",
+      "Theory"
+    ],
+    "format": "In person",
+    "match": 68
+  },
+  {
+    "id": "kcl:morning-prayer-online-3",
+    "sourceEventId": "285bafa1-365d-4647-b130-c41f2899be55",
+    "title": "Morning Prayer - Online",
+    "desc": "A short, simple online prayer service.",
+    "source": "KCL",
+    "date": "2026-06-01T09:30:00",
+    "durationMin": 30,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-online-3",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:innovation-journeys-across-kings",
+    "sourceEventId": "ba0e7591-2210-4729-97a2-fede444109a7",
+    "title": "Innovation Journeys Across King’s: From Small Ideas to Impact",
+    "desc": "Innovation Journeys Across King’s: From Small Ideas to Impact invites staff to explore the innovation already happening across our community.",
+    "source": "KCL",
+    "date": "2026-06-01T11:30:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "King's Innovation Catalyst",
+      "Faculty of Arts & Humanities",
+      "King’s Business School"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/innovation-journeys-across-kings",
+    "image": "https://www.kcl.ac.uk/newimages/innovation-catalyst/kic-events-images/staff-experience-festival-thumbnail.xd0d066dd.png"
+  },
+  {
+    "id": "kcl:postgraduate-offer-holder-medtech-innovation-entrepreneurship-webinar-1-jun-2026",
+    "sourceEventId": "ce373cc1-ad74-4190-a557-0994a90a1cf9",
+    "title": "MedTech Innovation & Entrepreneurship MSc - Online Information Session - 1 Jun 2026",
+    "desc": "Join your exclusive offer holder events to hear from current students.",
+    "source": "KCL",
+    "date": "2026-06-01T12:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "King’s Business School"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/postgraduate-offer-holder-medtech-innovation-entrepreneurship-webinar-1-jun-2026",
+    "image": "https://www.kcl.ac.uk/newimages/study/postgraduate/medtech.x660dd01e.jpg?w=995&h=440&crop=780,440,60,0"
+  },
+  {
+    "id": "kcl:navigating-new-waters-the-rise-of-private-maritime-security-companies",
+    "sourceEventId": "9e794f7b-f182-4d67-9207-141b99a08e92",
+    "title": "Navigating New Waters: The Rise of Private Maritime Security Companies",
+    "desc": "Explore the structural factors that have led to the resurgence of PMSCs in the late 20th and early 21st centuries",
+    "source": "KCL",
+    "date": "2026-06-01T17:30:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "International",
+      "Faculty of Social Science & Public Policy",
+      "School of Security Studies"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/navigating-new-waters-the-rise-of-private-maritime-security-companies",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/260601-maritime770.xf646bb3c.png"
+  },
+  {
+    "id": "kcl:morning-prayer-at-denmark-hill-5",
+    "sourceEventId": "b33e63b3-3092-420e-a109-585f29e5a877",
+    "title": "Morning Prayer at Denmark Hill",
+    "desc": "Morning Prayer service every Tuesday morning in term time.",
+    "source": "KCL",
+    "date": "2026-06-02T09:30:00",
+    "durationMin": 20,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-denmark-hill-5",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:stars-seminar-with-professor-sara-brown",
+    "sourceEventId": "286a65d1-1227-4c98-86db-d06894e767cc",
+    "title": "From genetic risk to prevention and/or treatment of atopic eczema – a challenging but rewarding pathway",
+    "desc": "Seminar with Professor Sara Brown",
+    "source": "KCL",
+    "date": "2026-06-02T12:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Technology & Science",
+      "Health"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/stars-seminar-with-professor-sara-brown",
+    "image": "https://www.kcl.ac.uk/newimages/folsm/prof-sara-brown-stars-seminar.xf501a65d.png"
+  },
+  {
+    "id": "kcl:international-lunch-at-waterloo-6",
+    "sourceEventId": "08438db4-5bb1-40db-8323-1ef0e46816c5",
+    "title": "International Lunch at Waterloo",
+    "desc": "Meet other members of the King's community and enjoy a (free!) lunch.",
+    "source": "KCL",
+    "date": "2026-06-02T12:00:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/international-lunch-at-waterloo-6",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/lunch-2.x5ac34aef.jpg?w=860&h=573&crop=780,440,0,50"
+  },
+  {
+    "id": "kcl:innovation-for-patient-benefit",
+    "sourceEventId": "5b81d04c-d3e4-44e7-b358-14e1dfca1fb3",
+    "title": "Innovation for Patient Benefit: Where to Start?",
+    "desc": "An interactive workshop exploring how innovation can translate into real-world patient benefit.",
+    "source": "KCL",
+    "date": "2026-06-02T12:30:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Faculty of Dentistry, Oral & Craniofacial Sciences",
+      "Faculty of Life Sciences & Medicine",
+      "Florence Nightingale Faculty of Nursing, Midwifery & Palliative Care"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/innovation-for-patient-benefit",
+    "image": "https://www.kcl.ac.uk/newimages/innovation-catalyst/kic-events-images/staff-experience-festival-thumbnail.xd0d066dd.png"
+  },
+  {
+    "id": "kcl:deans-office-book-club-at-waterloo-6",
+    "sourceEventId": "90ec74a7-abd5-405d-aa42-b5caf416705a",
+    "title": "Dean's Office Book Club at Waterloo",
+    "desc": "Read & discuss 'The Memory Police' by Yoko Ogawa.",
+    "source": "KCL",
+    "date": "2026-06-02T13:10:00",
+    "durationMin": 50,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/deans-office-book-club-at-waterloo-6",
+    "image": "https://www.kcl.ac.uk/newimages/ioppn/blogs/research-culture-blogs/research-culture-books.xfddcebed.jpg?w=780&h=520&crop=780,440,0,80"
+  },
+  {
+    "id": "kcl:graduate-jobs-virtual-fair-2026",
+    "sourceEventId": "b74fba7e-3f78-4544-b034-36eec9233c3f",
+    "title": "Graduate Jobs Virtual Fair 2026",
+    "desc": "Highlight immediate recruiting roles to our graduating students and recent alumni this summer.",
+    "source": "KCL",
+    "date": "2026-06-02T14:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "University",
+      "Employer Engagement"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/graduate-jobs-virtual-fair-2026",
+    "image": "https://www.kcl.ac.uk/newimages/careers/ee/festivals/2022-fairs-images/graduate-jobs.x90b0f7bd.jpg?w=782&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:premier-emba-london-2-june-2026",
+    "sourceEventId": "e755526c-2961-4df9-8d9f-fa4442326517",
+    "title": "Premier EMBA - London | 2 June 2026",
+    "desc": "Join us at the upcoming Premier EMBA event in London.",
+    "source": "KCL",
+    "date": "2026-06-02T17:00:00",
+    "durationMin": 270,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Business & Finance"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/premier-emba-london-2-june-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/Schools/IoP/News-and-Events/london.x8976e108.png?crop=780,440,0,5"
+  },
+  {
+    "id": "kcl:choral-evensong-at-the-strand-11",
+    "sourceEventId": "f45c3a9a-708e-4b50-8021-3fca7cb19797",
+    "title": "Choral Evensong at the Strand",
+    "desc": "A service of words and music on Tuesdays in term time with the Choir of King's College London.",
+    "source": "KCL",
+    "date": "2026-06-02T17:30:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Arts & Culture",
+      "International",
+      "Society"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/choral-evensong-at-the-strand-11",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/choir-images/organ-pipes-closeup.x5473cfb6.jpg?w=780&h=585&crop=780,440,0,73"
+  },
+  {
+    "id": "kcl:nihr-insight-writing-for-scientific-publication",
+    "sourceEventId": "85733ea8-c477-4a1d-88a2-5e4ec8ff1666",
+    "title": "NIHR INSIGHT Writing for Scientific Publication",
+    "desc": "This in-person workshop will provide insights and practical advice on writing a research paper.",
+    "source": "KCL",
+    "date": "2026-06-03T09:30:00",
+    "durationMin": 420,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "Health"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/nihr-insight-writing-for-scientific-publication",
+    "image": "https://www.kcl.ac.uk/newimages/students-studying-together.x52f6c055.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:dvars-online-1",
+    "sourceEventId": "9fbb2efc-3e56-4d48-b6de-e8c677e1006c",
+    "title": "Dvar of the Week - Online",
+    "desc": "Exploring the Torah, and its meaning for us now.",
+    "source": "KCL",
+    "date": "2026-06-03T09:30:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Student",
+      "International"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/dvars-online-1",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/jewish-prayer.xc748a2cc.jpg?w=780&h=517&crop=780,440,0,0"
+  },
+  {
+    "id": "kcl:mindfulness-with-jenny-online-copy",
+    "sourceEventId": "e19d1285-25cb-42a8-8626-28d07011e81f",
+    "title": "Mindfulness with Jenny - Online",
+    "desc": "A session of guided mindfulness.",
+    "source": "KCL",
+    "date": "2026-06-03T10:00:00",
+    "durationMin": 50,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Student",
+      "International"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-copy",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/summer-flower.xed31565f.jpg?w=780&h=518&crop=780,440,0,39"
+  },
+  {
+    "id": "ic:209153",
+    "sourceEventId": "209153",
+    "title": "Great Exhibition Road Festival",
+    "desc": "The Great Exhibition Road Festival is a free annual celebration of science and the arts each summer in South Kensington. Join us on 6-7 June 2026 for a weekend of free science and arts events for all ages.",
+    "source": "IC",
+    "date": "2026-06-06T12:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Exhibition Road, Great Exhibition Road Festival/Marquee - Prince’s Gardens, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Festival",
+      "Great Exhibition Road Festival",
+      "Public and Community Involvement, Engagement and Participation",
+      "public engagement",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209153/great-exhibition-road-festival-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250608-gerf-festival-bf-979-57-2_1777546039310_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:208187",
+    "sourceEventId": "208187",
+    "title": "Research Beyond Borders: The Role of Universities in Supporting Exiled and At-Risk Academics",
+    "desc": "Imperial College London and the Council for At-Risk Academics (Cara) warmly invite you to join them for an evening exploring the important role of universities in providing sanctuary to exiled academics and how we can do more to show meaningful, sustained solidarity with at-risk scholars around the world.\n\nUniversities have a long-standing moral and intellectual role as places of refuge, inquiry, and free expression. When academics are forced into exile – often due to war, repression, or persecution – universities can provide not just employment, but safety, dignity, and a continuation of their life’s work. Sadly, more academics than ever seek a safe place to continue their research.\n\nEstablished in 1933, Cara works with universities across the UK to help at-risk academics find safety…",
+    "source": "IC",
+    "date": "2026-05-12T17:30:00+01:00",
+    "durationMin": 120,
+    "venue": "Queen's Tower Rooms, Main Entrance, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Symposium",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208187/research-beyond-borders-the-role-of-universities-in-supporting-exiled-and-at-risk-academics/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/cara-event-web-banner-tp_1774974829140_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207081",
+    "sourceEventId": "207081",
+    "title": "Crystallogenesis: order at the interface",
+    "desc": "How does order emerge from disorder? Professor Jerry Heng, Professor in Particle Technology in the Department of Chemical Engineering, will explore how crystals first form, how order can re-emerge after disruption, and how new beginnings spark innovation and collaboration.\n\nPlease register to attend in person. A live stream for online attendance is available on this page.\n\nWe look forward to seeing you on Wednesday 13 May!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nCrystallisation is at the heart of many processes that shape the materials, medicines, and technologies of modern life. Yet the ability to control the earliest moment of crystal formation remains elusive. This…",
+    "source": "IC",
+    "date": "2026-05-13T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Lecture theatre G16, Sir Alexander Fleming Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Institutional Event",
+      "Chemical engineering",
+      "Imperial Inaugurals",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207081/crystallogenesis-order-at-the-interface/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperialinaugural-eventbritebannerjerryheng3_1773074852621_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207786",
+    "sourceEventId": "207786",
+    "title": "In conversation With Professor Chris Johnson, Chief Scientific Advisor at the Department for Science, Innovation and Technology",
+    "desc": "Discover more about how academic research interacts with policymaking and how to navigate that interaction as a researcher or academic with Imperial Policy Forum ’s In conversation series.\n\nJoin host Amanda Wolthuizen, Vice-President (Strategic Engagement and Communications), for a conversation with Professor Chris Johnson, Chief Scientific Advisor at the Department for Science, Innovation and Technology.\n\nA networking reception will take place after the event.\n\nAbout the speaker\n\nProfessor Chris Johnson is the Chief Scientific Adviser in the Department for Science, Innovation and Technology (DSIT) having taken up the role in July 2024. Prior to this, he served as Pro Vice Chancellor for Engineering and Physical Sciences at Queen’s University, Belfast (2020-24) and Head of Computing…",
+    "source": "IC",
+    "date": "2026-05-13T17:30:00+01:00",
+    "durationMin": 90,
+    "venue": "Lecture theatre 2, Imperial Business School, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Symposium",
+      "The Forum",
+      "Institutional Event",
+      "Staff"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207786/in-conversation-with-professor-chris-johnson-chief-scientific-advisor-at-the-department-for-science-innovation-and-technology/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/cj-headshot_1776173483666_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:209206",
+    "sourceEventId": "209206",
+    "title": "Stag Beetle Loggery Workshop",
+    "desc": "Join the Gardening team to build a stag beetle loggery in Prince’s Gardens. This session combines nature conservation, practical skills and teamwork.\n\nPlease wear weather appropriate clothing and wear sturdy, closed-toe footwear.\n\nGuidance and equipment will be provided.\n\nView the full Mental Health Awareness Week programme .",
+    "source": "IC",
+    "date": "2026-05-14T12:00:00+01:00",
+    "durationMin": 150,
+    "venue": "Meet in Prince's Gardens, opposite Ethos Sports Centre, South Kensington, Ethos Sports Centre, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209206/stag-beetle-loggery-workshop/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/stag-beetle-loggery_1777627679597_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209199",
+    "sourceEventId": "209199",
+    "title": "Moving towards better mental health fundraiser",
+    "desc": "Our very own Deputy Chief Property Officer will celebrate 20 years at Imperial by completing a half-marathon with support from colleagues and the Imperial community. As part of the event, Jane will be fundraising for the Student Minds charity and giving out freebies to anyone who joins her.\n\nYou can also find out more about the wellbeing support offered across Imperial and take part in a range of wellbeing activities.\n\nYou can support Jane and donate to Student Minds .\n\nView the full Mental Health Awareness Week programme.",
+    "source": "IC",
+    "date": "2026-05-12T09:30:00+01:00",
+    "durationMin": 210,
+    "venue": "Imperial Main Reception, Exhibition Road, South Kensington, Main Entrance, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209199/moving-towards-better-mental-health-fundraiser/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/untitled-design-2_1777647045349_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:204737",
+    "sourceEventId": "204737",
+    "title": "IDE Seminar Series – Dr Hiral Shah",
+    "desc": "Understanding the value of infectious disease modelling – from academia to industry\n\nMore information to come.\n\nLocation: White City, School of Public Health Building Room: SPH 204 – Seminar Room I n-person event. If you wish to join online, please register here.",
+    "source": "IC",
+    "date": "2026-05-12T12:30:00+01:00",
+    "durationMin": 55,
+    "venue": "SPH 204 - Seminar Room , School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Infectious diseases",
+      "MRC Centre for Global Infectious Disease Analysis",
+      "Modelling",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/204737/ide-seminar-series-dr-hiral-shah/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ide-seminars-dr-hiral-shah-tv_1769094760359_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209181",
+    "sourceEventId": "209181",
+    "title": "SPC Seminar – Space Prof Anthony Yeates – Durham",
+    "desc": "External Speaker – Prof. Anthony Yeates from Applied Mathematics – Durham University\n\nTitle – Rogue active regions and solar cycle predictability\n\nAbstract\n\nIn the Babcock-Leighton framework, cycle-to-cycle amplitude variations are now believed to arise from fluctuations in the active-region emergence process. I will outline how we can quantify the impact of any individual active region on the solar cycle, using surface flux transport modelling. This has led to the idea of “rogue active regions” and the possibility that they could put fundamental limits on solar cycle predictability.",
+    "source": "IC",
+    "date": "2026-05-12T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "144, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209181/spc-seminar-space-prof-anthony-yeates-durham/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209324",
+    "sourceEventId": "209324",
+    "title": "Dynamical Systems Seminar – Tolga Birdal (Imperial College London)",
+    "desc": "",
+    "source": "IC",
+    "date": "2026-05-12T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "145, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209324/dynamical-systems-seminar-tolga-birdal-imperial-college-london/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:208992",
+    "sourceEventId": "208992",
+    "title": "Canada’s Aluminium Industry: 100 years legacy shaping the future",
+    "desc": "This is in-person only event. The event will be followed by the Q&A with the speaker and a networking reception.\n\nAbout the Talk\n\nAt the dawn of the twenty-first century, Canada reached a milestone of 100 years in primary aluminium production — a legacy shaped by post-WWII industrial expertise spanning research centers, equipment manufacturers, metal producers, and transformers. Early into the new century, however, the industry faced the greatest recession since the war, compounded by the rise of low-cost Asian producers, particularly China, whose disruption of global markets led to capacity closures across Western countries and the emergence of new players in the Middle East and India. Canada’s aluminium industry was no longer the poster child of the post-war era and was confronted with…",
+    "source": "IC",
+    "date": "2026-05-12T16:00:00+01:00",
+    "durationMin": 120,
+    "venue": "iCube , Dyson Building of Design Engineering, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Industry",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208992/canadas-aluminium-industry-100-years-legacy-shaping-the-future/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/the-role-of-algorithms-and-applications-in-the-convergence-of-quantum-ai-and-hpc-2_1777291670868_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:208757",
+    "sourceEventId": "208757",
+    "title": "Faculty of Medicine Staff Rounds | 12.30 Professor Ioanna Tzoulaki, Professor of Chronic Disease Epidemiology [SPH] | 13.00 Dr Jai Cegla, Consultant in Metabolic Medicine, Lead Clinician for Lipids and CV Risk [MDR]",
+    "desc": "The Faculty of Medicine Staff Round series brings together academics and clinicians across the University and our NHS partners to explore and showcase how engagement with patients and treating clinical cases leads to scientific research which can benefit patients and populations.\n\nChair:\n\nProfessor Alex Comninos\n\nSpeaker details:\n\n12.30 to 13.00\n\n13.00 to 13.30\n\nThis is an internal only event . On-campus venues and online streaming details for this session can be found on the FoM Staff Round webpage (requires log-in): https://www.imperial.ac.uk/medicine/fom-staff/staff-rounds/",
+    "source": "IC",
+    "date": "2026-05-13T12:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208757/13-may-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/staffround25-26event_1760974072139_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207863",
+    "sourceEventId": "207863",
+    "title": "Community Garden Action Days",
+    "desc": "Drop-in sessions from 13:00–16:00 on Wednesdays. After the Easter break, sessions will resume on 22nd April. You’re also welcome to drop in and volunteer to water the plants during the break.\n\nJoin the student organisers and volunteers in the Community Garden at the Chaplaincy Centre. A chance to get outside, and be involved in growing plants, sowing seeds, clearing new ground, or pruning bushes. If this is your first session of gardening or if you have plenty of experience, all are welcome.\n\nOpen to students and staff. Drop-in during the afternoon and stay for as long as you like. Gloves, protective gear and tools provided, with wet weather options in needed.\n\nThe Community Garden at the Chaplaincy, accessed through the Multi-Faith Centre at15 Princes Gardens, or via the side gate of…",
+    "source": "IC",
+    "date": "2026-05-13T13:00:00+01:00",
+    "durationMin": 180,
+    "venue": "Chaplaincy Multi-Faith Centre",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207863/community-garden-action-days-4/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gardening-banner_1714416170181_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209363",
+    "sourceEventId": "209363",
+    "title": "Present with impact sessions",
+    "desc": "Reach your audience by translating complex technical content into clear, impactful messaging within a coherent narrative framework. Use your voice to engage.\n\nJoin us for one, two or all of the following sessions. Add the event(s) you wish to attend to your calendar!\n\n29 Apr\n\nPresent with impact 1: Narrative\n\nBy the end of this session, you will:\n\nhave analysed a presentation to reveal its narrative\n\nhave understood how narrative structures a presentation\n\nhave planned and given a short presentation, focussing on its narrative\n\nhave considered strategies for guiding our audience through the narrative\n\nbe shown how to access CfAE’s wider provision\n\n6 May\n\nPresent with impact 2: Audience\n\nBy the end of this session, you will know more about and have practised:\n\nways to engage different…",
+    "source": "IC",
+    "date": "2026-05-13T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "ASL-316 - Access through the SHERFIELD building, Sherfield Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Practice session",
+      "CfAE speaking and listening practice sessions",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209363/present-with-impact-sessions-5/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/310825-dg-icl-cfae-134-3000-x-850_1751901648543_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:208256",
+    "sourceEventId": "208256",
+    "title": "Junior Analysis Seminar – Émile Breton (Rennes)",
+    "desc": "Title\n\nThe Vlasov-Maxwell system : modified scattering and absence of linear scattering\n\nAbstract\n\nPlease note that the seminar will take place in person in room 213 of Huxley Building .\n\nClick here to get to the Junior Analysis Seminar webpage .",
+    "source": "IC",
+    "date": "2026-05-13T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "213, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208256/junior-analysis-seminar-emile-breton-rennes/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/seminar-picture_1599821877881_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:208831",
+    "sourceEventId": "208831",
+    "title": "Mohn Centre Special Seminar / Astrid Guttman Seminar and Q&A.",
+    "desc": "The Mohn Centre is delighted to announce that Dr Astrid Guttmann will deliver a special seminar focusing on her work on prenatal opioid exposure and the meaningful involvement of Indigenous communities in this research. The seminar will be followed by a Q&A session.\n\nThis seminar sits within the Mohn Centre’s wider work to establish a network of child health equity centres, in partnership with colleagues in Toronto, Melbourne and London. This growing network represents a shared global commitment to advancing equitable child health research through sustained international collaboration.\n\nDr Astrid Guttmann is a general paediatrician and Senior Scientist at the Hospital for Sick Children, co-Director of the Edwin S.H. Leong Centre for Healthy Children at the University of Toronto, and…",
+    "source": "IC",
+    "date": "2026-05-13T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "2nd Floor, Room 202, School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Epidemiology",
+      "Mohn Centre for Childrens Health and Wellbeing",
+      "Centre for Paediatrics and Child Health",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208831/mohn-centre-special-seminar-astrid-guttman-seminar-and-qa/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/mohn-pic_1777285968757_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209328",
+    "sourceEventId": "209328",
+    "title": "Bioengineering Department Seminar with Dr Guosong Hong",
+    "desc": "PLEASE NOTE:\n\nThis seminar is IN PERSON ONLY in room RSM 2.28, Second Floor, Royal School of Mines at Imperial’s South Kensington campus.\n\nClick here for the South Kensington campus map .\n\nGUEST SPEAKER: Dr Guosong Hong, Assistant Professor of Materials Science and Engineering, Stanford University\n\nTALK TITLE: Seeing the Invisible: From Ultrasound-Activated Light to Transparency in Mice\n\nABSTRACT: Light plays a central role in science, shaping both how we study living systems and how we perceive the world around us. As we observe in daily life, light has difficulty penetrating living biology tissue, mainly because of scattering and absorption. This limitation hampers the use of light in biological research, often necessitating invasive procedures such as tissue sectioning, insertion of…",
+    "source": "IC",
+    "date": "2026-05-13T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "RSM 2.28, Second Floor, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Institutional Event",
+      "Imaging",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209328/bioengineering-department-seminar-with-dr-guosong-hong/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/hong-seminar-banner-imperial-events-page-13may_1778073943614_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:205219",
+    "sourceEventId": "205219",
+    "title": "Kickstart Your MedTech Venture: Expert Insights & Knowledge Base Launch",
+    "desc": "Discover how to turn MedTech research into impact—expert talks, funding insights, and the launch of the MedTechONE Knowledge Base.\n\nOpen to Imperial Staff and Students and special invitees only.\n\nBringing a MedTech idea from the lab to real-world impact can feel complex, fragmented, and hard to navigate—especially at an early career stage. Knowing what to do next, who to speak to, and what evidence matters can make all the difference. Kickstarting Your MedTech Venture is an afternoon event designed to support Imperial MedTech researchers—particularly Early-Career Researchers—who are interested in translation, commercialisation, or building impact from their research.\n\nThe event combines the official launch of the MedTechONE Knowledge Base with expert-led insights on business strategy,…",
+    "source": "IC",
+    "date": "2026-05-13T14:30:00+01:00",
+    "durationMin": 210,
+    "venue": "G34, Sir Alexander Fleming Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "MedTech",
+      "MedTechONE",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/205219/kickstart-your-medtech-venture-expert-insights-knowledge-base-launch/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/210713-molecular-evolution-tanai-028_1777332102201_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209007",
+    "sourceEventId": "209007",
+    "title": "Introduction to the Self-Initiated Humour Protocol (online)",
+    "desc": "A new ground-breaking study in algorithmic human development is now open to all Imperial College students.",
+    "source": "IC",
+    "date": "2026-05-13T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209007/introduction-to-the-self-initiated-humour-protocol-online-16/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/info-page-banner65d34eff_1754060142063_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209286",
+    "sourceEventId": "209286",
+    "title": "Quantum metrology with single trapped molecules",
+    "desc": "Professor Stefan Willitsch, University of Basel, Switzerland\n\nQuantum metrology with single trapped molecules\n\nPrecision-spectroscopic investigations of molecular systems have recently gained considerable interest in the context of a variety of applications in fundamental physics. These include setting stringent constraints on the magnitude of the dipole moment of the electron, exploring potential time variations of fundamental constants and developing new types of highly precise clocks. In the talk, we will review recent progress on precision measurements on single trapped molecules focusing on the nitrogen molecular ion N2+. We will touch on the specific properties of molecules in the context of frequency metrology, discuss aspects of state initialisation and control, and highlight…",
+    "source": "IC",
+    "date": "2026-05-13T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "LT2 - Floor 1 - Blackett Laboratory , Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209286/quantum-metrology-with-single-trapped-molecules/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209444",
+    "sourceEventId": "209444",
+    "title": "Number Theory Seminar – Peter Dillery",
+    "desc": "Peter Dillery: Global multiplicity formulas in the Langlands program\n\nMore information available on the Number Theory seminar website",
+    "source": "IC",
+    "date": "2026-05-13T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "King's College",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209444/number-theory-seminar-peter-dillery-2/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "_comment": "Config for the Imperial connector. listingUrl can be overridden to a category-specific page (e.g. /events/lectures/) if needed. The landing page already returns ~24 upcoming events with ISO datetimes, so one request is enough.",
+  "listingUrl": "https://www.imperial.ac.uk/events/",
+  "userAgent": "Signal-app/0.1 (prototype; https://github.com/krisfolder)"
+}

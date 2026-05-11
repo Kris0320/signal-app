@@ -1,0 +1,8 @@
+{
+  "_comment": "London Meetup groups to follow. Add or remove entries here; each 'urlname' is the slug after meetup.com/ in the group's URL. Run `npm run fetch` to pick up changes.",
+  "groups": [
+    { "urlname": "London-AI", "note": "general AI/ML talks" },
+    { "urlname": "Papers-We-Love-London", "note": "CS paper readings" },
+    { "urlname": "London-Futurists", "note": "tech / speculative talks" }
+  ]
+}

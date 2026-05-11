@@ -1,0 +1,13 @@
+{
+  "name": "signal-app",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "serve": "python3 -m http.server 8000"
+  }
+}
