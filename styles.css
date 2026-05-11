@@ -417,6 +417,18 @@ input { font-family: inherit; }
   font-weight: 700;
   letter-spacing: 0.4px;
   flex: 0 0 auto;
+  overflow: hidden;
+}
+.event-card__thumb--img {
+  background: var(--surface-container-high);
+  color: transparent;
+  padding: 0;
+}
+.event-card__thumb--img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
 .event-card__body {
@@ -703,6 +715,16 @@ input { font-family: inherit; }
   justify-content: center;
   color: var(--on-surface-variant);
   font-size: 14px;
+  overflow: hidden;
+}
+.detail-media--has-image { color: transparent; }
+.detail-media--has-image img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
 }
 
 /* Detail tag row — descriptive tags + source badge live together */
@@ -722,6 +744,7 @@ input { font-family: inherit; }
   font-size: 15px;
   line-height: 1.5;
   color: var(--on-surface-variant);
+  white-space: pre-line;
 }
 
 .detail-meta {
@@ -774,6 +797,7 @@ input { font-family: inherit; }
 }
 .primary-btn:hover { filter: brightness(1.05); }
 .primary-btn:active { filter: brightness(0.95); }
+.primary-btn[disabled] { opacity: .5; cursor: not-allowed; filter: none; }
 
 /* ============================================================
    Bottom nav

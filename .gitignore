@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.env.local
+*.pem
+node_modules/
+data/sources/*.raw.json

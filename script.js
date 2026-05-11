@@ -8,192 +8,24 @@
   // Data: sources, events, tag taxonomy
   // ----------------------------------------------------------
   const SOURCES = {
-    IC:  { name: "Imperial",       cls: "src-IC" },
-    EB:  { name: "Eventbrite",     cls: "src-EB" },
-    MU:  { name: "Meetup",         cls: "src-MU" },
-    UCL: { name: "UCL",            cls: "src-UCL" },
-    RCA: { name: "RCA",            cls: "src-RCA" },
-    KCL: { name: "King's College", cls: "src-KCL" },
-    BB:  { name: "Barbican",       cls: "src-BB" },
-    RSA: { name: "RSA House",      cls: "src-RSA" },
-    WH:  { name: "Wired Health",   cls: "src-WH" },
-    LH:  { name: "Lutyens Hall",   cls: "src-LH" },
+    IC:  { name: "Imperial",       cls: "src-IC",  url: "https://www.imperial.ac.uk/events/" },
+    EB:  { name: "Eventbrite",     cls: "src-EB",  url: "https://www.eventbrite.co.uk/d/united-kingdom--london/events/" },
+    MU:  { name: "Meetup",         cls: "src-MU",  url: "https://www.meetup.com/find/?location=gb--london" },
+    UCL: { name: "UCL",            cls: "src-UCL", url: "https://www.ucl.ac.uk/events/" },
+    RCA: { name: "RCA",            cls: "src-RCA", url: "https://www.rca.ac.uk/news-and-events/events/" },
+    KCL: { name: "King's College", cls: "src-KCL", url: "https://www.kcl.ac.uk/events/events-calendar" },
+    BB:  { name: "Barbican",       cls: "src-BB",  url: "https://www.barbican.org.uk/whats-on" },
+    RSA: { name: "RSA House",      cls: "src-RSA", url: "https://www.thersa.org/events" },
+    WH:  { name: "Wired Health",   cls: "src-WH",  url: "https://wiredhealth.com/" },
+    LH:  { name: "Lutyens Hall",   cls: "src-LH",  url: "https://www.google.com/search?q=Lutyens+Hall+London+events" },
   };
 
   // ISO date strings so "today / this week" can be computed against a fixed
   // anchor — keeps the prototype deterministic regardless of the real date.
   const TODAY = new Date("2026-05-12T00:00:00");
 
-  const EVENTS = [
-    {
-      id: "e1",
-      title: "Foundation Models in Clinical Imaging",
-      desc: "A working session with NHS radiologists and DeepMind alumni on validating foundation models against real diagnostic workflows.",
-      source: "IC",
-      date: "2026-05-12T18:30:00",
-      durationMin: 120,
-      venue: "South Kensington",
-      area: "South Kensington",
-      price: 0,
-      tags: ["AI in healthcare", "Machine learning", "University lectures"],
-      format: "In person",
-      match: 96,
-    },
-    {
-      id: "e2",
-      title: "Type as Infrastructure",
-      desc: "A panel on typography systems for software products and the operational realities of maintaining them at scale.",
-      source: "RCA",
-      date: "2026-05-13T19:00:00",
-      durationMin: 90,
-      venue: "Battersea",
-      area: "Battersea",
-      price: 0,
-      tags: ["Design", "Typography", "Talks"],
-      format: "In person",
-      match: 88,
-    },
-    {
-      id: "e3",
-      title: "AI Policy Briefing: Medical Devices Act",
-      desc: "Regulatory briefing on what the Medical Devices Act means for AI-assisted diagnostics in the UK.",
-      source: "RSA",
-      date: "2026-05-14T12:30:00",
-      durationMin: 75,
-      venue: "Strand",
-      area: "Strand",
-      price: 15,
-      tags: ["AI in healthcare", "Policy", "Briefings"],
-      format: "In person",
-      match: 84,
-    },
-    {
-      id: "e4",
-      title: "Speculative Futures Salon",
-      desc: "Anab Jain in conversation about design fiction as a tool for institutional decision-making.",
-      source: "RCA",
-      date: "2026-05-16T18:30:00",
-      durationMin: 90,
-      venue: "Kensington",
-      area: "Kensington",
-      price: 0,
-      tags: ["Design", "Talks", "Speculative design"],
-      format: "In person",
-      match: 91,
-    },
-    {
-      id: "e5",
-      title: "Practical Robotics Reading Group",
-      desc: "Monthly reading group covering recent robotics learning papers, hosted by the UCL CDT cohort.",
-      source: "UCL",
-      date: "2026-05-13T17:00:00",
-      durationMin: 90,
-      venue: "Bloomsbury",
-      area: "Bloomsbury",
-      price: 0,
-      tags: ["Robotics", "Reading group", "Machine learning"],
-      format: "In person",
-      match: 79,
-    },
-    {
-      id: "e6",
-      title: "Designing for AI-First Products",
-      desc: "Workshop on patterns and pitfalls for designing interfaces where the primary collaborator is a model.",
-      source: "EB",
-      date: "2026-05-15T10:00:00",
-      durationMin: 240,
-      venue: "Shoreditch",
-      area: "Shoreditch",
-      price: 45,
-      tags: ["Design", "AI", "Workshops"],
-      format: "In person",
-      match: 82,
-    },
-    {
-      id: "e7",
-      title: "Open Source Health Data Meetup",
-      desc: "Lightning talks on open datasets and reproducibility in clinical ML research.",
-      source: "MU",
-      date: "2026-05-12T19:00:00",
-      durationMin: 120,
-      venue: "King's Cross",
-      area: "King's Cross",
-      price: 0,
-      tags: ["AI in healthcare", "Open source", "Meetup"],
-      format: "In person",
-      match: 77,
-    },
-    {
-      id: "e8",
-      title: "Sound, Space and AI",
-      desc: "Live spatial-audio performance paired with a talk on generative sound for installation work.",
-      source: "BB",
-      date: "2026-05-18T20:00:00",
-      durationMin: 90,
-      venue: "Barbican",
-      area: "Barbican",
-      price: 18,
-      tags: ["Sound", "Performance", "AI"],
-      format: "In person",
-      match: 73,
-    },
-    {
-      id: "e9",
-      title: "Wired Health Curtain-Raiser",
-      desc: "Preview programme for the Wired Health summit — short talks from clinical-AI startups.",
-      source: "WH",
-      date: "2026-05-20T09:30:00",
-      durationMin: 180,
-      venue: "Kensington",
-      area: "Kensington",
-      price: 25,
-      tags: ["AI in healthcare", "Startups", "Conference"],
-      format: "In person",
-      match: 81,
-    },
-    {
-      id: "e10",
-      title: "Building with Claude: Office Hours",
-      desc: "Open office hours for developers shipping with the Anthropic API. Bring your prompt failures.",
-      source: "MU",
-      date: "2026-05-14T17:30:00",
-      durationMin: 90,
-      venue: "Online",
-      area: "Online",
-      price: 0,
-      tags: ["AI", "Developer", "Meetup"],
-      format: "Online",
-      match: 86,
-    },
-    {
-      id: "e11",
-      title: "Radiology AI: Failure Modes",
-      desc: "Clinical reading session on where current radiology models fail, with case examples.",
-      source: "KCL",
-      date: "2026-05-19T18:00:00",
-      durationMin: 120,
-      venue: "Strand",
-      area: "Strand",
-      price: 0,
-      tags: ["AI in healthcare", "Machine learning", "University lectures"],
-      format: "In person",
-      match: 89,
-    },
-    {
-      id: "e12",
-      title: "Designers Reading Foucault",
-      desc: "Slow-reading group working through Discipline and Punish in the context of platform design.",
-      source: "LH",
-      date: "2026-05-15T19:00:00",
-      durationMin: 120,
-      venue: "Marylebone",
-      area: "Marylebone",
-      price: 5,
-      tags: ["Design", "Reading group", "Theory"],
-      format: "In person",
-      match: 68,
-    },
-  ];
+  // Event data is loaded from data/events.json at init() time.
+  let EVENTS = [];
 
   // ----------------------------------------------------------
   // State
@@ -273,12 +105,34 @@
     return `<span class="source-badge${cls} ${s.cls}">${srcKey}</span>`;
   }
 
-  function thumbHTML(srcKey) {
-    const s = sourceMeta(srcKey);
-    return `<span class="event-card__thumb ${s.cls}">${srcKey}</span>`;
+  function escapeAttr(s) {
+    return String(s || "").replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+  }
+  function thumbHTML(ev) {
+    const s = sourceMeta(ev.source);
+    if (ev.image) {
+      return `<span class="event-card__thumb event-card__thumb--img"><img src="${escapeAttr(ev.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.event-card__thumb').classList.remove('event-card__thumb--img');this.closest('.event-card__thumb').classList.add('${s.cls}');this.closest('.event-card__thumb').textContent='${ev.source}'"></span>`;
+    }
+    return `<span class="event-card__thumb ${s.cls}">${ev.source}</span>`;
   }
 
   function eventDate(ev) { return new Date(ev.date); }
+
+  // ----------------------------------------------------------
+  // Ranking
+  // ----------------------------------------------------------
+  // Real fetched events have namespaced ids ("kcl:...", "ic:...", "mu:...").
+  // Seed/demo events use the bare "e<n>" pattern. Real events should sit at
+  // the top of Discover and Search so the product visibly feels multi-source;
+  // seed entries stay as fallback content below them.
+  function sourceTier(ev) {
+    return /^[a-z]+:/i.test(ev.id || "") ? 1 : 0;
+  }
+  function compareEvents(a, b) {
+    const t = sourceTier(b) - sourceTier(a);
+    if (t !== 0) return t;
+    return (b.match || 0) - (a.match || 0);
+  }
 
   // ----------------------------------------------------------
   // Filtering
@@ -378,7 +232,7 @@
     const priceClass = ev.price === 0 ? " is-free" : "";
     return `
       <article class="event-card" data-event="${ev.id}">
-        ${thumbHTML(ev.source)}
+        ${thumbHTML(ev)}
         <div class="event-card__body">
           <h3 class="event-card__title">${ev.title}</h3>
           <div class="event-card__meta">
@@ -405,7 +259,7 @@
   function renderFeed() {
     const list = EVENTS
       .filter(matchesFeedFilters)
-      .sort((a, b) => b.match - a.match);
+      .sort(compareEvents);
     const host = $("#feed-list");
     host.innerHTML = list.map(renderEventCard).join("");
     $("#feed-empty").classList.toggle("hidden", list.length > 0);
@@ -424,7 +278,7 @@
       label.hidden = true;
       return;
     }
-    const list = EVENTS.filter(matchesSearch).sort((a, b) => b.match - a.match);
+    const list = EVENTS.filter(matchesSearch).sort(compareEvents);
     label.hidden = false;
     if (list.length === 0) {
       host.innerHTML = `<div class="empty"><p>No events match this search.</p></div>`;
@@ -601,9 +455,18 @@
     const d = eventDate(ev);
     const s = sourceMeta(ev.source);
 
+    const media = $("#detail-media");
+    if (ev.image) {
+      media.innerHTML = `<img src="${escapeAttr(ev.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.remove('detail-media--has-image');this.parentNode.textContent='event media'">`;
+      media.classList.add("detail-media--has-image");
+    } else {
+      media.classList.remove("detail-media--has-image");
+      media.textContent = "event media";
+    }
+
     $("#detail-title").textContent = ev.title;
     $("#detail-desc").textContent = ev.desc;
-    const sourceTag = `<span class="tag tag--source src-${ev.source}">${ev.source}</span>`;
+    const sourceTag = `<span class="tag tag--source src-${ev.source}">${s.name}</span>`;
     const tagHTML = ev.tags.map(t => `<span class="tag">${t}</span>`).join("");
     $("#detail-tags").innerHTML = `${sourceTag}${tagHTML}`;
     $("#detail-date").textContent = fmtShortDay(d);
@@ -612,8 +475,27 @@
     $("#detail-price").textContent = priceLabel(ev.price);
     $("#detail-open-label").textContent = `Open on ${s.name}`;
 
+    const openBtn = $("#detail-open-btn");
+    const openUrl = ev.url || s.url || null;
+    if (openUrl) {
+      openBtn.removeAttribute("disabled");
+      openBtn.setAttribute("aria-disabled", "false");
+    } else {
+      openBtn.setAttribute("disabled", "");
+      openBtn.setAttribute("aria-disabled", "true");
+    }
+
     updateDetailSaveState();
     showScreen("detail");
+  }
+
+  function openCurrentEventSource() {
+    if (!state.currentEventId) return;
+    const ev = EVENTS.find(e => e.id === state.currentEventId);
+    if (!ev) return;
+    const url = ev.url || sourceMeta(ev.source).url || null;
+    if (!url) return;
+    window.open(url, "_blank", "noopener,noreferrer");
   }
 
   function updateDetailSaveState() {
@@ -893,6 +775,10 @@
           shareCurrentEvent();
           return;
         }
+        if (action === "open-source") {
+          openCurrentEventSource();
+          return;
+        }
         if (action === "reset-feed-filters") {
           state.feedFilters.clear();
           renderFeedChips();
@@ -1103,7 +989,23 @@
   // ----------------------------------------------------------
   // Init
   // ----------------------------------------------------------
-  function init() {
+  async function loadEvents() {
+    const res = await fetch("data/events.json", { cache: "no-cache" });
+    if (!res.ok) throw new Error(`Failed to load events.json: ${res.status}`);
+    return res.json();
+  }
+
+  async function init() {
+    try {
+      EVENTS = await loadEvents();
+    } catch (err) {
+      console.error(err);
+      const host = $("#feed-list");
+      if (host) {
+        host.innerHTML = `<div class="empty"><p>Couldn't load events. Try refreshing.</p></div>`;
+      }
+      return;
+    }
     renderFeedChips();
     renderFeed();
     renderSegmented();
