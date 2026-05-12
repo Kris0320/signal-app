@@ -4,12 +4,12 @@
 // Pipeline:
 //   1. Load .env (so MEETUP_* credentials are available)
 //   2. Read the current data/events.json
-//   3. For each enabled connector (currently: meetup), fetch + normalize
+//   3. For each enabled connector, fetch + normalize
 //   4. Drop any existing entries whose id matches the connector's prefix
 //      (e.g. "mu:*" for meetup), then append the freshly normalized ones
 //   5. Write data/events.json back, pretty-printed
 //
-// Seed entries (ids "e1".."e12") are preserved untouched. Run anytime:
+// Run anytime:
 //
 //   npm run fetch
 
@@ -19,6 +19,8 @@ import { dirname, join, resolve } from "node:path";
 import { fetchMeetupEvents } from "./connectors/meetup.mjs";
 import { fetchKclEvents } from "./connectors/kcl.mjs";
 import { fetchImperialEvents } from "./connectors/imperial.mjs";
+import { fetchLseEvents } from "./connectors/lse.mjs";
+import { fetchUclEvents } from "./connectors/ucl.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, "..");
@@ -26,6 +28,8 @@ const EVENTS_PATH = join(ROOT, "data", "events.json");
 const MEETUP_GROUPS_PATH = join(ROOT, "data", "sources", "meetup-groups.json");
 const KCL_CONFIG_PATH = join(ROOT, "data", "sources", "kcl.json");
 const IMPERIAL_CONFIG_PATH = join(ROOT, "data", "sources", "imperial.json");
+const LSE_CONFIG_PATH = join(ROOT, "data", "sources", "lse.json");
+const UCL_CONFIG_PATH = join(ROOT, "data", "sources", "ucl.json");
 const ENV_PATH = join(ROOT, ".env");
 
 // Minimal .env loader — no dotenv dependency. Skips comments and blank lines.
@@ -77,6 +81,22 @@ const CONNECTORS = [
     },
   },
   {
+    name: "lse",
+    idPrefix: "lse:",
+    async run() {
+      const config = await readJson(LSE_CONFIG_PATH, {});
+      return fetchLseEvents({ config });
+    },
+  },
+  {
+    name: "ucl",
+    idPrefix: "ucl:",
+    async run() {
+      const config = await readJson(UCL_CONFIG_PATH, {});
+      return fetchUclEvents({ config });
+    },
+  },
+  {
     name: "meetup",
     idPrefix: "mu:",
     async run({ env }) {
@@ -113,10 +133,9 @@ async function main() {
 
   await writeFile(EVENTS_PATH, JSON.stringify(merged, null, 2) + "\n", "utf8");
 
-  const seedCount = merged.filter((e) => /^e\d+$/.test(e.id || "")).length;
   console.log("\nDone.");
   for (const s of summaries) console.log(`  ${s}`);
-  console.log(`  total in events.json: ${merged.length} (${seedCount} seed + ${merged.length - seedCount} from sources)`);
+  console.log(`  total in events.json: ${merged.length} from sources`);
 }
 
 main().catch((err) => {

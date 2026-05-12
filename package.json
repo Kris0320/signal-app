@@ -8,6 +8,7 @@
   },
   "scripts": {
     "fetch": "node scripts/fetch.mjs",
-    "serve": "python3 -m http.server 8000"
+    "serve": "python3 -m http.server 8000",
+    "dev": "node scripts/dev-server.mjs"
   }
 }

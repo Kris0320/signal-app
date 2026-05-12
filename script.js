@@ -12,6 +12,7 @@
     EB:  { name: "Eventbrite",     cls: "src-EB",  url: "https://www.eventbrite.co.uk/d/united-kingdom--london/events/" },
     MU:  { name: "Meetup",         cls: "src-MU",  url: "https://www.meetup.com/find/?location=gb--london" },
     UCL: { name: "UCL",            cls: "src-UCL", url: "https://www.ucl.ac.uk/events/" },
+    LSE: { name: "LSE",            cls: "src-LSE", url: "https://www.lse.ac.uk/events/search-events" },
     RCA: { name: "RCA",            cls: "src-RCA", url: "https://www.rca.ac.uk/news-and-events/events/" },
     KCL: { name: "King's College", cls: "src-KCL", url: "https://www.kcl.ac.uk/events/events-calendar" },
     BB:  { name: "Barbican",       cls: "src-BB",  url: "https://www.barbican.org.uk/whats-on" },
@@ -23,9 +24,12 @@
   // ISO date strings so "today / this week" can be computed against a fixed
   // anchor — keeps the prototype deterministic regardless of the real date.
   const TODAY = new Date("2026-05-12T00:00:00");
+  const RECENT_SEARCHES_KEY = "signal.recentSearches";
 
   // Event data is loaded from data/events.json at init() time.
   let EVENTS = [];
+  let eventsSignature = "";
+  const EVENTS_REFRESH_MS = 5 * 60 * 1000;
 
   // ----------------------------------------------------------
   // State
@@ -38,10 +42,24 @@
     searchQuery: "",
     saved: new Set(),
     savedView: "date",                // date | match | source
-    recentSearches: ["radiology AI", "Anab Jain", "free this week"],
+    recentSearches: loadRecentSearches(),
     currentEventId: null,
     city: "London",
   };
+
+  function loadRecentSearches() {
+    try {
+      const raw = localStorage.getItem(RECENT_SEARCHES_KEY);
+      const parsed = raw ? JSON.parse(raw) : [];
+      return Array.isArray(parsed) ? parsed.filter(Boolean).slice(0, 5) : [];
+    } catch {
+      return [];
+    }
+  }
+
+  function saveRecentSearches() {
+    localStorage.setItem(RECENT_SEARCHES_KEY, JSON.stringify(state.recentSearches.slice(0, 5)));
+  }
 
   const CITIES = ["London", "Manchester", "Edinburgh", "Bristol", "Cambridge"];
 
@@ -101,17 +119,82 @@
 
   function badgeHTML(srcKey, size) {
     const s = sourceMeta(srcKey);
-    const cls = size === "lg" ? " source-badge--lg" : "";
+    const cls = size === "lg" ? " source-badge--lg" : (size === "xs" ? " source-badge--xs" : "");
     return `<span class="source-badge${cls} ${s.cls}">${srcKey}</span>`;
   }
 
   function escapeAttr(s) {
     return String(s || "").replace(/&/g, "&amp;").replace(/"/g, "&quot;");
   }
+
+  function escapeHTML(s) {
+    return String(s || "")
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#39;");
+  }
+
+  function imageFocus(ev) {
+    const image = ev.image || "";
+    if (
+      image.includes("cara-event-web-banner")
+      || image.includes("imperialinaugural-eventbritebanner")
+      || image.includes("ide-seminars-dr-hiral-shah-tv")
+      || image.includes("info-page-banner")
+    ) {
+      return "right center";
+    }
+    if (
+      image.includes("staffround25-26event")
+      || image.includes("events-placeholder")
+      || image.includes("the-role-of-algorithms")
+    ) {
+      return "left center";
+    }
+    return "center";
+  }
+
+  function imageScale(ev) {
+    const image = ev.image || "";
+    if (image.includes("stag-beetle-loggery")) return "1.18";
+    if (
+      image.includes("cara-event-web-banner")
+      || image.includes("ide-seminars-dr-hiral-shah-tv")
+    ) {
+      return "1.1";
+    }
+    return "1";
+  }
+
+  function detailImageScale(ev) {
+    const image = ev.image || "";
+    if (image.includes("stag-beetle-loggery")) return "1.06";
+    return "1";
+  }
+
+  function imageStyle(ev) {
+    return ` style="--image-focus: ${escapeAttr(imageFocus(ev))}; --image-scale: ${escapeAttr(imageScale(ev))}; --detail-image-scale: ${escapeAttr(detailImageScale(ev))}"`;
+  }
+
+  function detailTagItems(tags) {
+    const seen = new Set();
+    return (tags || [])
+      .flatMap(tag => String(tag).split(","))
+      .map(tag => tag.trim())
+      .filter(tag => {
+        const key = tag.toLowerCase();
+        if (!tag || seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
+  }
+
   function thumbHTML(ev) {
     const s = sourceMeta(ev.source);
     if (ev.image) {
-      return `<span class="event-card__thumb event-card__thumb--img"><img src="${escapeAttr(ev.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.event-card__thumb').classList.remove('event-card__thumb--img');this.closest('.event-card__thumb').classList.add('${s.cls}');this.closest('.event-card__thumb').textContent='${ev.source}'"></span>`;
+      return `<span class="event-card__thumb event-card__thumb--img"><img src="${escapeAttr(ev.image)}" alt="" loading="lazy" referrerpolicy="no-referrer"${imageStyle(ev)} onerror="this.closest('.event-card__thumb').classList.remove('event-card__thumb--img');this.closest('.event-card__thumb').classList.add('${s.cls}');this.closest('.event-card__thumb').textContent='${ev.source}'"></span>`;
     }
     return `<span class="event-card__thumb ${s.cls}">${ev.source}</span>`;
   }
@@ -121,17 +204,16 @@
   // ----------------------------------------------------------
   // Ranking
   // ----------------------------------------------------------
-  // Real fetched events have namespaced ids ("kcl:...", "ic:...", "mu:...").
-  // Seed/demo events use the bare "e<n>" pattern. Real events should sit at
-  // the top of Discover and Search so the product visibly feels multi-source;
-  // seed entries stay as fallback content below them.
-  function sourceTier(ev) {
-    return /^[a-z]+:/i.test(ev.id || "") ? 1 : 0;
+  function isRealEvent(ev) {
+    return /^[a-z]+:/i.test(ev.id || "");
   }
+
   function compareEvents(a, b) {
-    const t = sourceTier(b) - sourceTier(a);
-    if (t !== 0) return t;
     return (b.match || 0) - (a.match || 0);
+  }
+
+  function activeSourceKeys() {
+    return Object.keys(SOURCES).filter(key => EVENTS.some(ev => ev.source === key));
   }
 
   // ----------------------------------------------------------
@@ -206,7 +288,11 @@
 
   function renderSourceChips() {
     const host = $("#source-chips");
-    host.innerHTML = Object.keys(SOURCES).map(key => {
+    const keys = activeSourceKeys();
+    for (const key of [...state.searchSources]) {
+      if (!keys.includes(key)) state.searchSources.delete(key);
+    }
+    host.innerHTML = keys.map(key => {
       const s = sourceMeta(key);
       const sel = state.searchSources.has(key) ? " is-selected" : "";
       return `
@@ -234,8 +320,10 @@
       <article class="event-card" data-event="${ev.id}">
         ${thumbHTML(ev)}
         <div class="event-card__body">
-          <h3 class="event-card__title">${ev.title}</h3>
+          <h3 class="event-card__title">${escapeHTML(ev.title)}</h3>
           <div class="event-card__meta">
+            ${badgeHTML(ev.source, "xs")}
+            <span class="dot"></span>
             <span>${fmtShortDay(d)}</span>
             <span class="dot"></span>
             <span>${fmtTime(d)}</span>
@@ -289,8 +377,12 @@
 
   function renderRecent() {
     const host = $("#recent-list");
+    if (state.recentSearches.length === 0) {
+      host.innerHTML = "";
+      return;
+    }
     host.innerHTML = state.recentSearches.map(q => `
-      <li class="recent-item" data-recent="${q.replace(/"/g, "&quot;")}">
+      <li class="recent-item" data-recent="${escapeAttr(q)}">
         <span class="recent-item__icon">
           <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
             <path d="M3 12a9 9 0 1 0 3-6.7"/>
@@ -298,7 +390,7 @@
             <path d="M12 7v5l3 2"/>
           </svg>
         </span>
-        <span class="recent-item__text">${q}</span>
+        <span class="recent-item__text">${escapeHTML(q)}</span>
         <span class="recent-item__arrow">
           <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17l10-10"/><path d="M9 7h8v8"/></svg>
         </span>
@@ -340,6 +432,7 @@
 
   function renderSavedItem(ev) {
     const d = eventDate(ev);
+    const priceClass = ev.price === 0 ? " is-free" : "";
     return `
       <div class="saved-item" data-event="${ev.id}">
         <div class="saved-item__date">
@@ -356,7 +449,7 @@
             <span class="dot"></span>
             <span>${ev.area}</span>
             <span class="dot"></span>
-            <span>${priceLabel(ev.price)}</span>
+            <span class="event-card__price${priceClass}">${priceLabel(ev.price)}</span>
           </div>
         </div>
         <button class="saved-item__save" data-action="toggle-save" data-event="${ev.id}" aria-label="Unsave">
@@ -457,17 +550,19 @@
 
     const media = $("#detail-media");
     if (ev.image) {
-      media.innerHTML = `<img src="${escapeAttr(ev.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.remove('detail-media--has-image');this.parentNode.textContent='event media'">`;
+      media.innerHTML = `<img src="${escapeAttr(ev.image)}" alt="" loading="lazy" referrerpolicy="no-referrer"${imageStyle(ev)} onerror="this.parentNode.classList.remove('detail-media--has-image');this.parentNode.textContent='event media'">`;
       media.classList.add("detail-media--has-image");
+      media.classList.remove("detail-media--source");
     } else {
       media.classList.remove("detail-media--has-image");
-      media.textContent = "event media";
+      media.classList.add("detail-media--source", s.cls);
+      media.textContent = ev.source;
     }
 
     $("#detail-title").textContent = ev.title;
     $("#detail-desc").textContent = ev.desc;
     const sourceTag = `<span class="tag tag--source src-${ev.source}">${s.name}</span>`;
-    const tagHTML = ev.tags.map(t => `<span class="tag">${t}</span>`).join("");
+    const tagHTML = detailTagItems(ev.tags).map(t => `<span class="tag" title="${escapeAttr(t)}">${escapeHTML(t)}</span>`).join("");
     $("#detail-tags").innerHTML = `${sourceTag}${tagHTML}`;
     $("#detail-date").textContent = fmtShortDay(d);
     $("#detail-duration").textContent = `${fmtTime(d)} · ${durationLabel(ev.durationMin)}`;
@@ -930,7 +1025,8 @@
         const q = state.searchQuery.trim();
         if (q && !state.recentSearches.includes(q)) {
           state.recentSearches.unshift(q);
-          state.recentSearches = state.recentSearches.slice(0, 6);
+          state.recentSearches = state.recentSearches.slice(0, 5);
+          saveRecentSearches();
           renderRecent();
         }
       }
@@ -992,12 +1088,47 @@
   async function loadEvents() {
     const res = await fetch("data/events.json", { cache: "no-cache" });
     if (!res.ok) throw new Error(`Failed to load events.json: ${res.status}`);
-    return res.json();
+    const text = await res.text();
+    return {
+      events: JSON.parse(text),
+      signature: text,
+    };
+  }
+
+  function renderAfterEventsChange() {
+    renderFeedChips();
+    renderFeed();
+    renderSegmented();
+    renderSearchChips();
+    renderSourceChips();
+    renderRecent();
+    renderSaved();
+
+    if (state.currentEventId && EVENTS.some(ev => ev.id === state.currentEventId)) {
+      openDetail(state.currentEventId);
+    } else if (state.screen === "detail") {
+      showScreen("feed");
+    }
+  }
+
+  async function refreshEvents() {
+    try {
+      const next = await loadEvents();
+      if (next.signature === eventsSignature) return;
+      EVENTS = next.events.filter(isRealEvent);
+      eventsSignature = next.signature;
+      renderAfterEventsChange();
+      showToast("Events updated");
+    } catch (err) {
+      console.warn("Event refresh failed:", err);
+    }
   }
 
   async function init() {
     try {
-      EVENTS = await loadEvents();
+      const initial = await loadEvents();
+      EVENTS = initial.events.filter(isRealEvent);
+      eventsSignature = initial.signature;
     } catch (err) {
       console.error(err);
       const host = $("#feed-list");
@@ -1015,6 +1146,7 @@
     renderSaved();
     wireEvents();
     showScreen("feed");
+    setInterval(refreshEvents, EVENTS_REFRESH_MS);
   }
 
   document.addEventListener("DOMContentLoaded", init);

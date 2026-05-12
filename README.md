@@ -47,14 +47,29 @@ npm run serve         # python3 -m http.server 8000
 # then visit http://localhost:8000
 ```
 
+For automatic local data refresh, use the Node preview server instead:
+
+```bash
+npm run dev
+```
+
+`npm run dev` serves the app at `http://localhost:8000`, runs `npm run fetch` once on startup, then refreshes external sources every 30 minutes. The browser also re-reads `data/events.json` every 5 minutes, so new data appears without a manual page refresh.
+
+You can tune the interval:
+
+```bash
+FETCH_INTERVAL_MS=900000 npm run dev   # 15 minutes
+AUTO_FETCH=0 npm run dev               # serve only, no source refresh
+```
+
 ## Refreshing real data
-Real-source connectors live in `scripts/connectors/`. Each one normalizes upstream records into the same `data/events.json` schema and namespaces its IDs (e.g. `kcl:...` for King's, `mu:...` for Meetup) so seed data and other sources are never disturbed.
+Real-source connectors live in `scripts/connectors/`. Each one normalizes upstream records into the same `data/events.json` schema and namespaces its IDs (e.g. `kcl:...` for King's, `lse:...`, `ucl:...`, `mu:...` for Meetup) so sources can be refreshed independently.
 
 ```bash
 npm run fetch
 ```
 
-Each run drops the connector's namespaced entries from `data/events.json` and re-fetches them fresh. Seed entries (`e1`-`e12`) and other sources' entries are left untouched.
+Each run drops the connector's namespaced entries from `data/events.json` and re-fetches them fresh. The app now displays only real connector-backed events.
 
 ### KCL connector
 Runs automatically — no credentials needed. Fetches `kcl.ac.uk/events/events-calendar?date=YYYY-M` for the current month and the next month, extracts the embedded `window.REDUX_DATA` JSON the React SPA server-renders, and normalizes ~15 events per month.
@@ -66,8 +81,13 @@ Runs automatically — no credentials needed. One HTTP request to `imperial.ac.u
 
 Tune behaviour in `data/sources/imperial.json`.
 
+### LSE and UCL connectors
+Run automatically — no credentials needed. LSE follows configured event listing pages and keeps high-signal AI, data science, health, healthcare, and digital health events. UCL follows configured high-signal detail URLs for AI and healthcare-related university events.
+
+Tune behaviour in `data/sources/lse.json` and `data/sources/ucl.json`.
+
 ### Feed ranking
-Real fetched events (any id with a source prefix like `kcl:`, `ic:`, `mu:`) are ranked ahead of seed entries (`e1`-`e12`) in the Discover feed and Search results. Within each tier, the existing `match` score is preserved. Seed events remain as fallback content so the prototype still functions when all connectors are skipped.
+Events are ranked by their normalized `match` score. The app ignores demo seed IDs and only displays connector-backed events with source-prefixed IDs.
 
 ### Connecting Meetup (optional)
 Without credentials the script logs `meetup: skipped` and leaves Meetup entries (if any from a previous run) alone — the rest of the fetch continues. To enable, set up the signed-JWT (server-to-server) flow:
@@ -100,12 +120,16 @@ signal-app/
 │   └── sources/
 │       ├── imperial.json
 │       ├── kcl.json
+│       ├── lse.json
+│       ├── ucl.json
 │       └── meetup-groups.json
 ├── scripts/
 │   ├── fetch.mjs
 │   ├── connectors/
 │   │   ├── imperial.mjs
 │   │   ├── kcl.mjs
+│   │   ├── lse.mjs
+│   │   ├── ucl.mjs
 │   │   └── meetup.mjs
 │   └── lib/
 │       ├── meetup-auth.mjs

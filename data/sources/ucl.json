@@ -1,0 +1,17 @@
+{
+  "_comment": "Config for the UCL connector. Add detailUrls for high-signal AI/healthcare university events; listingUrls can be added later if UCL exposes stable index pages for a department.",
+  "detailUrls": [
+    "https://www.ucl.ac.uk/engineering/events/2026/jun/ai-and-its-impact-global-health-system",
+    "https://www.ucl.ac.uk/behaviour-change/events/2026/oct/using-artificial-intelligence-improve-behavioural-research-2026"
+  ],
+  "keywords": [
+    "ai",
+    "artificial intelligence",
+    "machine learning",
+    "health",
+    "healthcare",
+    "digital health",
+    "behavioural research"
+  ],
+  "userAgent": "Signal-app/0.1 (prototype; https://github.com/krisfolder)"
+}

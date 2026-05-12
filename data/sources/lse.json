@@ -1,0 +1,24 @@
+{
+  "_comment": "Config for the LSE connector. listingUrls are lightweight LSE event index pages; the connector follows event links and keeps AI/data/healthcare-related events first.",
+  "listingUrls": [
+    "https://www.lse.ac.uk/dsi/events/upcoming-dsi-events",
+    "https://www.lse.ac.uk/events/search-events",
+    "https://www.lse.ac.uk/health-policy/events",
+    "https://www.lse.ac.uk/lse-health/events"
+  ],
+  "keywords": [
+    "ai",
+    "artificial intelligence",
+    "machine learning",
+    "data science",
+    "llm",
+    "health",
+    "healthcare",
+    "health policy",
+    "digital health",
+    "medicines",
+    "pharmaceutical"
+  ],
+  "maxDetailPages": 32,
+  "userAgent": "Signal-app/0.1 (prototype; https://github.com/krisfolder)"
+}

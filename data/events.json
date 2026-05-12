@@ -1,221 +1,5 @@
 [
   {
-    "id": "e1",
-    "title": "Foundation Models in Clinical Imaging",
-    "desc": "A working session with NHS radiologists and DeepMind alumni on validating foundation models against real diagnostic workflows.",
-    "source": "IC",
-    "date": "2026-05-12T18:30:00",
-    "durationMin": 120,
-    "venue": "South Kensington",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "AI in healthcare",
-      "Machine learning",
-      "University lectures"
-    ],
-    "format": "In person",
-    "match": 96
-  },
-  {
-    "id": "e2",
-    "title": "Type as Infrastructure",
-    "desc": "A panel on typography systems for software products and the operational realities of maintaining them at scale.",
-    "source": "RCA",
-    "date": "2026-05-13T19:00:00",
-    "durationMin": 90,
-    "venue": "Battersea",
-    "area": "Battersea",
-    "price": 0,
-    "tags": [
-      "Design",
-      "Typography",
-      "Talks"
-    ],
-    "format": "In person",
-    "match": 88
-  },
-  {
-    "id": "e3",
-    "title": "AI Policy Briefing: Medical Devices Act",
-    "desc": "Regulatory briefing on what the Medical Devices Act means for AI-assisted diagnostics in the UK.",
-    "source": "RSA",
-    "date": "2026-05-14T12:30:00",
-    "durationMin": 75,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 15,
-    "tags": [
-      "AI in healthcare",
-      "Policy",
-      "Briefings"
-    ],
-    "format": "In person",
-    "match": 84
-  },
-  {
-    "id": "e4",
-    "title": "Speculative Futures Salon",
-    "desc": "Anab Jain in conversation about design fiction as a tool for institutional decision-making.",
-    "source": "RCA",
-    "date": "2026-05-16T18:30:00",
-    "durationMin": 90,
-    "venue": "Kensington",
-    "area": "Kensington",
-    "price": 0,
-    "tags": [
-      "Design",
-      "Talks",
-      "Speculative design"
-    ],
-    "format": "In person",
-    "match": 91
-  },
-  {
-    "id": "e5",
-    "title": "Practical Robotics Reading Group",
-    "desc": "Monthly reading group covering recent robotics learning papers, hosted by the UCL CDT cohort.",
-    "source": "UCL",
-    "date": "2026-05-13T17:00:00",
-    "durationMin": 90,
-    "venue": "Bloomsbury",
-    "area": "Bloomsbury",
-    "price": 0,
-    "tags": [
-      "Robotics",
-      "Reading group",
-      "Machine learning"
-    ],
-    "format": "In person",
-    "match": 79
-  },
-  {
-    "id": "e6",
-    "title": "Designing for AI-First Products",
-    "desc": "Workshop on patterns and pitfalls for designing interfaces where the primary collaborator is a model.",
-    "source": "EB",
-    "date": "2026-05-15T10:00:00",
-    "durationMin": 240,
-    "venue": "Shoreditch",
-    "area": "Shoreditch",
-    "price": 45,
-    "tags": [
-      "Design",
-      "AI",
-      "Workshops"
-    ],
-    "format": "In person",
-    "match": 82
-  },
-  {
-    "id": "e7",
-    "title": "Open Source Health Data Meetup",
-    "desc": "Lightning talks on open datasets and reproducibility in clinical ML research.",
-    "source": "MU",
-    "date": "2026-05-12T19:00:00",
-    "durationMin": 120,
-    "venue": "King's Cross",
-    "area": "King's Cross",
-    "price": 0,
-    "tags": [
-      "AI in healthcare",
-      "Open source",
-      "Meetup"
-    ],
-    "format": "In person",
-    "match": 77
-  },
-  {
-    "id": "e8",
-    "title": "Sound, Space and AI",
-    "desc": "Live spatial-audio performance paired with a talk on generative sound for installation work.",
-    "source": "BB",
-    "date": "2026-05-18T20:00:00",
-    "durationMin": 90,
-    "venue": "Barbican",
-    "area": "Barbican",
-    "price": 18,
-    "tags": [
-      "Sound",
-      "Performance",
-      "AI"
-    ],
-    "format": "In person",
-    "match": 73
-  },
-  {
-    "id": "e9",
-    "title": "Wired Health Curtain-Raiser",
-    "desc": "Preview programme for the Wired Health summit — short talks from clinical-AI startups.",
-    "source": "WH",
-    "date": "2026-05-20T09:30:00",
-    "durationMin": 180,
-    "venue": "Kensington",
-    "area": "Kensington",
-    "price": 25,
-    "tags": [
-      "AI in healthcare",
-      "Startups",
-      "Conference"
-    ],
-    "format": "In person",
-    "match": 81
-  },
-  {
-    "id": "e10",
-    "title": "Building with Claude: Office Hours",
-    "desc": "Open office hours for developers shipping with the Anthropic API. Bring your prompt failures.",
-    "source": "MU",
-    "date": "2026-05-14T17:30:00",
-    "durationMin": 90,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "AI",
-      "Developer",
-      "Meetup"
-    ],
-    "format": "Online",
-    "match": 86
-  },
-  {
-    "id": "e11",
-    "title": "Radiology AI: Failure Modes",
-    "desc": "Clinical reading session on where current radiology models fail, with case examples.",
-    "source": "KCL",
-    "date": "2026-05-19T18:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "AI in healthcare",
-      "Machine learning",
-      "University lectures"
-    ],
-    "format": "In person",
-    "match": 89
-  },
-  {
-    "id": "e12",
-    "title": "Designers Reading Foucault",
-    "desc": "Slow-reading group working through Discipline and Punish in the context of platform design.",
-    "source": "LH",
-    "date": "2026-05-15T19:00:00",
-    "durationMin": 120,
-    "venue": "Marylebone",
-    "area": "Marylebone",
-    "price": 5,
-    "tags": [
-      "Design",
-      "Reading group",
-      "Theory"
-    ],
-    "format": "In person",
-    "match": 68
-  },
-  {
     "id": "kcl:morning-prayer-online-3",
     "sourceEventId": "285bafa1-365d-4647-b130-c41f2899be55",
     "title": "Morning Prayer - Online",
@@ -549,26 +333,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250608-gerf-festival-bf-979-57-2_1777546039310_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:208187",
-    "sourceEventId": "208187",
-    "title": "Research Beyond Borders: The Role of Universities in Supporting Exiled and At-Risk Academics",
-    "desc": "Imperial College London and the Council for At-Risk Academics (Cara) warmly invite you to join them for an evening exploring the important role of universities in providing sanctuary to exiled academics and how we can do more to show meaningful, sustained solidarity with at-risk scholars around the world.\n\nUniversities have a long-standing moral and intellectual role as places of refuge, inquiry, and free expression. When academics are forced into exile – often due to war, repression, or persecution – universities can provide not just employment, but safety, dignity, and a continuation of their life’s work. Sadly, more academics than ever seek a safe place to continue their research.\n\nEstablished in 1933, Cara works with universities across the UK to help at-risk academics find safety…",
-    "source": "IC",
-    "date": "2026-05-12T17:30:00+01:00",
-    "durationMin": 120,
-    "venue": "Queen's Tower Rooms, Main Entrance, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Symposium",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208187/research-beyond-borders-the-role-of-universities-in-supporting-exiled-and-at-risk-academics/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/cara-event-web-banner-tp_1774974829140_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:207081",
     "sourceEventId": "207081",
     "title": "Crystallogenesis: order at the interface",
@@ -632,28 +396,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209206/stag-beetle-loggery-workshop/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/stag-beetle-loggery_1777627679597_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:208992",
-    "sourceEventId": "208992",
-    "title": "Canada’s Aluminium Industry: 100 years legacy shaping the future",
-    "desc": "This is in-person only event. The event will be followed by the Q&A with the speaker and a networking reception.\n\nAbout the Talk\n\nAt the dawn of the twenty-first century, Canada reached a milestone of 100 years in primary aluminium production — a legacy shaped by post-WWII industrial expertise spanning research centers, equipment manufacturers, metal producers, and transformers. Early into the new century, however, the industry faced the greatest recession since the war, compounded by the rise of low-cost Asian producers, particularly China, whose disruption of global markets led to capacity closures across Western countries and the emergence of new players in the Middle East and India. Canada’s aluminium industry was no longer the poster child of the post-war era and was confronted with…",
-    "source": "IC",
-    "date": "2026-05-12T16:00:00+01:00",
-    "durationMin": 120,
-    "venue": "iCube , Dyson Building of Design Engineering, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Industry",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208992/canadas-aluminium-industry-100-years-legacy-shaping-the-future/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/the-role-of-algorithms-and-applications-in-the-convergence-of-quantum-ai-and-hpc-2_1777291670868_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208757",
@@ -849,7 +591,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209286/quantum-metrology-with-single-trapped-molecules/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209444",
@@ -870,7 +612,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209444/number-theory-seminar-peter-dillery-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:209346",
@@ -915,5 +657,109 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/204044/imperial-fungal-science-network-seminar-series-keynote-speaker-paul-a-rowley-the-university-of-idaho/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/fungal-science-network-banner-excellence-badge-1_1674564595626_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209554",
+    "sourceEventId": "209554",
+    "title": "From HIV Infrastructure to Integrated Chronic Care in Africa – A New Model for HIV, Hepatitis B, Diabetes and Hypertension Care?",
+    "desc": "Recent reductions in US global health funding and the abrupt suspension of some PEPFAR and United States Agency for International Development supported activities have exposed the vulnerability of highly vertical disease programmes across Africa.\n\nBut this disruption has also accelerated a major rethink: Can the extensive HIV infrastructure built over two decades now become the platform for integrated long-term chronic care?\n\nThis seminar will explore the transition towards integrated patient-centred clinics delivering care for: HIV, Hepatitis B, Diabetes, Hypertension and other chronic conditions.\n\nProfessor Easterbrook will introduce the policy drivers, evidence base, and opportunities to leverage existing HIV systems to improve efficiency, sustainability, and access to high-quality…",
+    "source": "IC",
+    "date": "2026-05-14T12:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Peart Room, 10th Floor, Queen Elizabeth The Queen Mother Wing, St Mary's Campus",
+    "area": "St Mary's",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209554/from-hiv-infrastructure-to-integrated-chronic-care-in-africa-a-new-model-for-hiv-hepatitis-b-diabetes-and-hypertension-care/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/from-hiv-infrastructure-to-integrated-chronic-care-in-africa_1778575931449_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "lse:will-ai-secure-humanitys-future",
+    "sourceEventId": "will-ai-secure-humanitys-future",
+    "title": "Will AI secure humanity’s future?",
+    "desc": "Will AI secure humanity’s future?",
+    "source": "LSE",
+    "date": "2026-06-20T15:30:00+01:00",
+    "durationMin": 60,
+    "venue": "In-person and online public event (Marshall Building)",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/events/lse-festival/2026/will-ai-secure-humanitys-future",
+    "image": null
+  },
+  {
+    "id": "lse:parallel-reforms-to-the-nhs-and-local-government-is-anyone-building-the-bridges-1",
+    "sourceEventId": "parallel-reforms-to-the-nhs-and-local-government-is-anyone-building-the-bridges-1",
+    "title": "Parallel Reforms to the NHS and Local Government: Is Anyone Building the Bridges?",
+    "desc": "Parallel Reforms to the NHS and Local Government: Is Anyone Building the Bridges?",
+    "source": "LSE",
+    "date": "2026-06-09T18:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Parallel Reforms to the NHS and Local Government: Is Anyone Building the Bridges?",
+    "area": "Holborn",
+    "price": 0,
+    "tags": [
+      "Healthcare",
+      "health",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/health-policy/events/2025-26/parallel-reforms-to-the-nhs-and-local-government-is-anyone-building-the-bridges-1",
+    "image": null
+  },
+  {
+    "id": "ucl:ai-and-its-impact-global-health-system",
+    "sourceEventId": "ai-and-its-impact-global-health-system",
+    "title": "AI and its impact on the global health system",
+    "desc": "Create international and national networks | Identify unmet healthcare needs | Familiarise yourself with the funding and translational landscape AI and its impact on the global health system How do we help solve some of the big healthcare problems facing the global community today? And how do we do it with AI? The Institute of Healthcare Engineering and UCL Centre for Digital Public Health in Emergencies (the new WHO Collaborating Centre for Digital Public Health and Pandemic Preparedness) is bringing together global partners (like the WHO), researchers, clinicians, engineer and policymakers to discuss the problems facing the global community. More importantly, we want to come up with…",
+    "source": "UCL",
+    "date": "2026-06-11T12:30:00+01:00",
+    "durationMin": 330,
+    "venue": "United Kingdom",
+    "area": "Bloomsbury",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Healthcare",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 86,
+    "url": "https://www.ucl.ac.uk/engineering/events/2026/jun/ai-and-its-impact-global-health-system",
+    "image": "https://www.ucl.ac.uk/engineering/sites/engineering/files/2026-04/ai%20in%20healthcare%20background.png"
+  },
+  {
+    "id": "ucl:using-artificial-intelligence-improve-behavioural-research-2026",
+    "sourceEventId": "using-artificial-intelligence-improve-behavioural-research-2026",
+    "title": "Using Artificial Intelligence to improve Behavioural Research 2026",
+    "desc": "CBC Bookshop & Associated Publications Climate change & sustainability resources CBC Bookshop & Associated Publications Climate change & sustainability resources Using Artificial Intelligence to improve Behavioural Research 2026 Using Artificial Intelligence to improve Behavioural Research 2026 Registrations are now open for this advanced module on &#039;Using Artificial Intelligence to improve Behavioural Research&#039;, which will take place online on 22 October 2026.",
+    "source": "UCL",
+    "date": "2026-10-22T10:00:00+01:00",
+    "durationMin": 360,
+    "venue": "Registrations are now open for this advanced module on &#039;Using Artificial Intelligence to improve Behavioural Research&#039;, which will take place online on 22 October 2026.",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Behaviour",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 78,
+    "url": "https://www.ucl.ac.uk/behaviour-change/events/2026/oct/using-artificial-intelligence-improve-behavioural-research-2026",
+    "image": "https://www.ucl.ac.uk/behaviour-change/sites/behaviour_change/files/styles/medium_image/public/events/itp_advanced_image.png?itok=oRZ0t13V"
   }
 ]
