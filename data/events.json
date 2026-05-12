@@ -443,10 +443,10 @@
     "image": "https://www.kcl.ac.uk/ImportedImages/Schools/IoP/News-and-Events/london.x8976e108.png?crop=780,440,0,5"
   },
   {
-    "id": "kcl:choral-evensong-at-the-strand-11",
+    "id": "kcl:kings-leavers-choral-evensong-at-the-strand",
     "sourceEventId": "f45c3a9a-708e-4b50-8021-3fca7cb19797",
-    "title": "Choral Evensong at the Strand",
-    "desc": "A service of words and music on Tuesdays in term time with the Choir of King's College London.",
+    "title": "King’s Leavers Choral Evensong at the Strand",
+    "desc": "The final Choral Evensong service of the academic year.",
     "source": "KCL",
     "date": "2026-06-02T17:30:00",
     "durationMin": 60,
@@ -460,8 +460,29 @@
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/choral-evensong-at-the-strand-11",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/choir-images/organ-pipes-closeup.x5473cfb6.jpg?w=780&h=585&crop=780,440,0,73"
+    "url": "https://www.kcl.ac.uk/events/kings-leavers-choral-evensong-at-the-strand",
+    "image": "https://www.kcl.ac.uk/departmentalimages/deans-office/chaplaincy/sheet-music-red-rose.x6817f38f.jpg?w=780&h=509&crop=780,440,0,35"
+  },
+  {
+    "id": "kcl:festival-of-storytelling-opening-event-and-book-swap",
+    "sourceEventId": "9735b12d-849d-4030-b22c-d1b8d552deec",
+    "title": "Festival of Storytelling: Opening Event and Book Swap",
+    "desc": "Join our launch to learn about the upcoming highlights and hear from King's academics and invited guests on the power of a good story. Bring a book to swap and talk over drinks about why you're sharing it, and go away with a book new to you.",
+    "source": "KCL",
+    "date": "2026-06-02T18:00:00",
+    "durationMin": 210,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Festival",
+      "Arts & Culture",
+      "Faculty of Arts & Humanities"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/festival-of-storytelling-opening-event-and-book-swap",
+    "image": "https://www.kcl.ac.uk/newimages/ah/dfi/260602-Opening-Storytelling.x27d6f5bb.png?w=780&h=440"
   },
   {
     "id": "kcl:nihr-insight-writing-for-scientific-publication",
@@ -503,27 +524,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/dvars-online-1",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/jewish-prayer.xc748a2cc.jpg?w=780&h=517&crop=780,440,0,0"
-  },
-  {
-    "id": "kcl:mindfulness-with-jenny-online-copy",
-    "sourceEventId": "e19d1285-25cb-42a8-8626-28d07011e81f",
-    "title": "Mindfulness with Jenny - Online",
-    "desc": "A session of guided mindfulness.",
-    "source": "KCL",
-    "date": "2026-06-03T10:00:00",
-    "durationMin": 50,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "University",
-      "Student",
-      "International"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-copy",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/summer-flower.xed31565f.jpg?w=780&h=518&crop=780,440,0,39"
   },
   {
     "id": "ic:209153",
@@ -632,92 +632,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209206/stag-beetle-loggery-workshop/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/stag-beetle-loggery_1777627679597_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209199",
-    "sourceEventId": "209199",
-    "title": "Moving towards better mental health fundraiser",
-    "desc": "Our very own Deputy Chief Property Officer will celebrate 20 years at Imperial by completing a half-marathon with support from colleagues and the Imperial community. As part of the event, Jane will be fundraising for the Student Minds charity and giving out freebies to anyone who joins her.\n\nYou can also find out more about the wellbeing support offered across Imperial and take part in a range of wellbeing activities.\n\nYou can support Jane and donate to Student Minds .\n\nView the full Mental Health Awareness Week programme.",
-    "source": "IC",
-    "date": "2026-05-12T09:30:00+01:00",
-    "durationMin": 210,
-    "venue": "Imperial Main Reception, Exhibition Road, South Kensington, Main Entrance, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209199/moving-towards-better-mental-health-fundraiser/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/untitled-design-2_1777647045349_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:204737",
-    "sourceEventId": "204737",
-    "title": "IDE Seminar Series – Dr Hiral Shah",
-    "desc": "Understanding the value of infectious disease modelling – from academia to industry\n\nMore information to come.\n\nLocation: White City, School of Public Health Building Room: SPH 204 – Seminar Room I n-person event. If you wish to join online, please register here.",
-    "source": "IC",
-    "date": "2026-05-12T12:30:00+01:00",
-    "durationMin": 55,
-    "venue": "SPH 204 - Seminar Room , School of Public Health, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Infectious diseases",
-      "MRC Centre for Global Infectious Disease Analysis",
-      "Modelling",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/204737/ide-seminar-series-dr-hiral-shah/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ide-seminars-dr-hiral-shah-tv_1769094760359_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209181",
-    "sourceEventId": "209181",
-    "title": "SPC Seminar – Space Prof Anthony Yeates – Durham",
-    "desc": "External Speaker – Prof. Anthony Yeates from Applied Mathematics – Durham University\n\nTitle – Rogue active regions and solar cycle predictability\n\nAbstract\n\nIn the Babcock-Leighton framework, cycle-to-cycle amplitude variations are now believed to arise from fluctuations in the active-region emergence process. I will outline how we can quantify the impact of any individual active region on the solar cycle, using surface flux transport modelling. This has led to the idea of “rogue active regions” and the possibility that they could put fundamental limits on solar cycle predictability.",
-    "source": "IC",
-    "date": "2026-05-12T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "144, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209181/spc-seminar-space-prof-anthony-yeates-durham/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209324",
-    "sourceEventId": "209324",
-    "title": "Dynamical Systems Seminar – Tolga Birdal (Imperial College London)",
-    "desc": "",
-    "source": "IC",
-    "date": "2026-05-12T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "145, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209324/dynamical-systems-seminar-tolga-birdal-imperial-college-london/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208992",
@@ -935,7 +849,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209286/quantum-metrology-with-single-trapped-molecules/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209444",
@@ -956,6 +870,50 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209444/number-theory-seminar-peter-dillery-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:209346",
+    "sourceEventId": "209346",
+    "title": "College Evensong: Ascension Eve",
+    "desc": "We are delighted that this service has two new pieces of music. We have the first performance of a new setting of the Verses and Responses for Evensong by Judith Ward. We also have a new psalm chant by Artie Hair, a member of the choir and student of Life Sciences.\n\nThe Introit is ‘Ascendo ad patrem’ by Sr Sulpitia Lodovica Cesis written in 1619. Our Ascension Eve service concludes with Gerald Finzi’s 1951 anthem ‘God is Gone up.’\n\nEvensong is open to all members of the College, the RCA and RCM, alumni, and the public. The service happens every two weeks in term-time. You can engage with the service in your own way. We know that people of different faith traditions and world views find Choral Evensong a welcoming meditative time.\n\nIf you’d like to be notified of the dates of Evensongs,…",
+    "source": "IC",
+    "date": "2026-05-13T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Holy Trinity Church, Prince Consort Rd, SW7 2BA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209346/college-evensong-ascension/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/pascal-candle-coir-dsc9633-small-version_1623405922312_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:204044",
+    "sourceEventId": "204044",
+    "title": "Imperial Fungal Science Network | Seminar Series | Keynote Speaker – Paul A. Rowley (University of Idaho)",
+    "desc": "The Imperial Fungal Science Network is a hub for the mycology community, providing a leadership, advocacy and communications platform for mycologists and a developmental framework for future leaders in fungal research. We welcome you to the Imperial Fungal Science Network – Seminar Series 2026 .\n\nSeminar | 12:00– 13:00 | Thursday 14th May 📍 G47, Flowers Building, South Kensington Campus, London SW7 2AZ find us at Map/3A\n\nIn-person & online (via Teams, click ‘Livestream’ button on LHS )\n\nNo registration required\n\nThis is a hybrid event to ensure that our non-London members/audience can join for the talks remotely; if you are joining us via the Teams link, please be aware that your email contact may show up to other meeting attendees, please join using an organisation email contact where…",
+    "source": "IC",
+    "date": "2026-05-14T12:00:00+01:00",
+    "durationMin": 60,
+    "venue": "G47 (ground floor), Flowers Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "events",
+      "Infectious diseases",
+      "Postdoctoral researchers",
+      "School of Public Health"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/204044/imperial-fungal-science-network-seminar-series-keynote-speaker-paul-a-rowley-the-university-of-idaho/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/fungal-science-network-banner-excellence-badge-1_1674564595626_eventfeatured2018_x1.jpg"
   }
 ]
