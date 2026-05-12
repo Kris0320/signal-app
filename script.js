@@ -328,8 +328,6 @@
             <span class="dot"></span>
             <span>${fmtTime(d)}</span>
             <span class="dot"></span>
-            <span>${ev.area}</span>
-            <span class="dot"></span>
             <span class="event-card__price${priceClass}">${priceLabel(ev.price)}</span>
           </div>
         </div>
