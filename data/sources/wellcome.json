@@ -1,0 +1,8 @@
+{
+  "_comment": "Wellcome Collection events. The connector follows event links from the /events listing, then reads structured data from each detail page's __NEXT_DATA__ JSON blob (no scraping).",
+  "listingUrls": [
+    "https://wellcomecollection.org/events"
+  ],
+  "maxDetailPages": 24,
+  "userAgent": "Signal-app/0.1 (prototype; https://github.com/krisfolder)"
+}

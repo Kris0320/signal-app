@@ -8,17 +8,20 @@
   // Data: sources, events, tag taxonomy
   // ----------------------------------------------------------
   const SOURCES = {
-    IC:  { name: "Imperial",       cls: "src-IC",  url: "https://www.imperial.ac.uk/events/" },
-    EB:  { name: "Eventbrite",     cls: "src-EB",  url: "https://www.eventbrite.co.uk/d/united-kingdom--london/events/" },
-    MU:  { name: "Meetup",         cls: "src-MU",  url: "https://www.meetup.com/find/?location=gb--london" },
-    UCL: { name: "UCL",            cls: "src-UCL", url: "https://www.ucl.ac.uk/events/" },
-    LSE: { name: "LSE",            cls: "src-LSE", url: "https://www.lse.ac.uk/events/search-events" },
-    RCA: { name: "RCA",            cls: "src-RCA", url: "https://www.rca.ac.uk/news-and-events/events/" },
-    KCL: { name: "King's College", cls: "src-KCL", url: "https://www.kcl.ac.uk/events/events-calendar" },
-    BB:  { name: "Barbican",       cls: "src-BB",  url: "https://www.barbican.org.uk/whats-on" },
-    RSA: { name: "RSA House",      cls: "src-RSA", url: "https://www.thersa.org/events" },
-    WH:  { name: "Wired Health",   cls: "src-WH",  url: "https://wiredhealth.com/" },
-    LH:  { name: "Lutyens Hall",   cls: "src-LH",  url: "https://www.google.com/search?q=Lutyens+Hall+London+events" },
+    IC:  { name: "Imperial",               cls: "src-IC",  url: "https://www.imperial.ac.uk/events/" },
+    EB:  { name: "Eventbrite",             cls: "src-EB",  url: "https://www.eventbrite.co.uk/d/united-kingdom--london/events/" },
+    MU:  { name: "Meetup",                 cls: "src-MU",  url: "https://www.meetup.com/find/?location=gb--london" },
+    UCL: { name: "UCL",                    cls: "src-UCL", url: "https://www.ucl.ac.uk/events/" },
+    LSE: { name: "LSE",                    cls: "src-LSE", url: "https://www.lse.ac.uk/events/search-events" },
+    RCA: { name: "RCA",                    cls: "src-RCA", url: "https://www.rca.ac.uk/news-and-events/events/" },
+    KCL: { name: "King's College",         cls: "src-KCL", url: "https://www.kcl.ac.uk/events/events-calendar" },
+    ATI: { name: "Alan Turing Institute",  cls: "src-ATI", url: "https://www.turing.ac.uk/events" },
+    WC:  { name: "Wellcome Collection",    cls: "src-WC",  url: "https://wellcomecollection.org/events" },
+    RS:  { name: "Royal Society",          cls: "src-RS",  url: "https://royalsociety.org/science-events-and-lectures/" },
+    BB:  { name: "Barbican",               cls: "src-BB",  url: "https://www.barbican.org.uk/whats-on" },
+    RSA: { name: "RSA House",              cls: "src-RSA", url: "https://www.thersa.org/events" },
+    WH:  { name: "Wired Health",           cls: "src-WH",  url: "https://wiredhealth.com/" },
+    LH:  { name: "Lutyens Hall",           cls: "src-LH",  url: "https://www.google.com/search?q=Lutyens+Hall+London+events" },
   };
 
   // ISO date strings so "today / this week" can be computed against a fixed
@@ -142,7 +145,9 @@
       image.includes("cara-event-web-banner")
       || image.includes("imperialinaugural-eventbritebanner")
       || image.includes("ide-seminars-dr-hiral-shah-tv")
-      || image.includes("info-page-banner")
+      // Imperial seminar banner template: title block on the left, speaker
+      // portrait on the right — prefer the portrait in the square thumbnail.
+      || image.includes("seminar-banner-imperial-events-page")
     ) {
       return "right center";
     }

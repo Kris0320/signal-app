@@ -1,0 +1,23 @@
+{
+  "_comment": "Royal Society events. The connector follows event links from the scientific and public listing pages, then parses each detail page's structured blog-header__* spans (date, time, location, ticket).",
+  "listingUrls": [
+    "https://royalsociety.org/science-events-and-lectures/scientific/",
+    "https://royalsociety.org/science-events-and-lectures/public/"
+  ],
+  "keywords": [
+    "ai",
+    "artificial intelligence",
+    "machine learning",
+    "data",
+    "data science",
+    "health",
+    "healthcare",
+    "medicine",
+    "policy",
+    "ethics",
+    "climate",
+    "quantum"
+  ],
+  "maxDetailPages": 40,
+  "userAgent": "Signal-app/0.1 (prototype; https://github.com/krisfolder)"
+}

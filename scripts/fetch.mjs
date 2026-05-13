@@ -21,6 +21,9 @@ import { fetchKclEvents } from "./connectors/kcl.mjs";
 import { fetchImperialEvents } from "./connectors/imperial.mjs";
 import { fetchLseEvents } from "./connectors/lse.mjs";
 import { fetchUclEvents } from "./connectors/ucl.mjs";
+import { fetchTuringEvents } from "./connectors/turing.mjs";
+import { fetchWellcomeEvents } from "./connectors/wellcome.mjs";
+import { fetchRoyalSocietyEvents } from "./connectors/royal-society.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, "..");
@@ -30,6 +33,9 @@ const KCL_CONFIG_PATH = join(ROOT, "data", "sources", "kcl.json");
 const IMPERIAL_CONFIG_PATH = join(ROOT, "data", "sources", "imperial.json");
 const LSE_CONFIG_PATH = join(ROOT, "data", "sources", "lse.json");
 const UCL_CONFIG_PATH = join(ROOT, "data", "sources", "ucl.json");
+const TURING_CONFIG_PATH = join(ROOT, "data", "sources", "turing.json");
+const WELLCOME_CONFIG_PATH = join(ROOT, "data", "sources", "wellcome.json");
+const ROYAL_SOCIETY_CONFIG_PATH = join(ROOT, "data", "sources", "royal-society.json");
 const ENV_PATH = join(ROOT, ".env");
 
 // Minimal .env loader — no dotenv dependency. Skips comments and blank lines.
@@ -94,6 +100,30 @@ const CONNECTORS = [
     async run() {
       const config = await readJson(UCL_CONFIG_PATH, {});
       return fetchUclEvents({ config });
+    },
+  },
+  {
+    name: "turing",
+    idPrefix: "turing:",
+    async run() {
+      const config = await readJson(TURING_CONFIG_PATH, {});
+      return fetchTuringEvents({ config });
+    },
+  },
+  {
+    name: "wellcome",
+    idPrefix: "wc:",
+    async run() {
+      const config = await readJson(WELLCOME_CONFIG_PATH, {});
+      return fetchWellcomeEvents({ config });
+    },
+  },
+  {
+    name: "royal-society",
+    idPrefix: "rs:",
+    async run() {
+      const config = await readJson(ROYAL_SOCIETY_CONFIG_PATH, {});
+      return fetchRoyalSocietyEvents({ config });
     },
   },
   {

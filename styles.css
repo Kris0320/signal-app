@@ -37,6 +37,12 @@
   --tag-amber-on: #4A3300;
   --tag-coral: #FAD6CC;
   --tag-coral-on: #5A1B0C;
+  --tag-teal: #C6E5DE;
+  --tag-teal-on: #04302B;
+  --tag-mustard: #E8DCAA;
+  --tag-mustard-on: #3A2D00;
+  --tag-rose: #F0C0CC;
+  --tag-rose-on: #5A1027;
 
   --font-sans: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   --font-serif: "Newsreader", "Times New Roman", Georgia, serif;
@@ -509,6 +515,9 @@ input { font-family: inherit; }
 .src-LSE { background: var(--tag-green);  color: var(--tag-green-on); }
 .src-RCA { background: var(--tag-pink);   color: var(--tag-pink-on); }
 .src-KCL { background: var(--tag-blue);   color: var(--tag-blue-on); }
+.src-ATI { background: var(--tag-teal);   color: var(--tag-teal-on); }
+.src-WC  { background: var(--tag-mustard);color: var(--tag-mustard-on); }
+.src-RS  { background: var(--tag-rose);   color: var(--tag-rose-on); }
 .src-BB  { background: var(--tag-amber);  color: var(--tag-amber-on); }
 .src-RSA { background: var(--tag-coral);  color: var(--tag-coral-on); }
 .src-WH  { background: var(--tag-green);  color: var(--tag-green-on); }

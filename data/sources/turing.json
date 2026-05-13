@@ -1,0 +1,18 @@
+{
+  "_comment": "Alan Turing Institute public events. Detail pages are behind a Cloudflare bot challenge, so the connector parses upcoming-event teasers on the /events listing directly. The events-around-turing-network sub-listing is also gated and not used.",
+  "listingUrls": [
+    "https://www.turing.ac.uk/events"
+  ],
+  "keywords": [
+    "ai",
+    "artificial intelligence",
+    "machine learning",
+    "foundation model",
+    "data science",
+    "health",
+    "healthcare",
+    "neuroscience",
+    "roche"
+  ],
+  "userAgent": "Signal-app/0.1 (prototype; https://github.com/krisfolder)"
+}
