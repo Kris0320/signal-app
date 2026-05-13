@@ -591,7 +591,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209286/quantum-metrology-with-single-trapped-molecules/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209444",
@@ -612,7 +612,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209444/number-theory-seminar-peter-dillery-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:209346",
@@ -1080,26 +1080,6 @@
     "image": "https://royalsociety.org/-/media/awards/bakerian/bakerian-prize-lecture-2026_image-cropped.jpg"
   },
   {
-    "id": "rs:2026-05-science-in-a-changing-world",
-    "sourceEventId": "2026-05-science-in-a-changing-world",
-    "title": "Science in a changing world: A conversation for the next 200 years",
-    "desc": "To mark UCL’s Bicentenary, UCL200 and the Royal Society present Science in a Changing World, a flagship public event exploring how scientific discovery, innovation and leadership will shape the next 200 years.",
-    "source": "RS",
-    "date": "2026-05-12T18:00:00+01:00",
-    "durationMin": 90,
-    "venue": "Bloomsbury Theatre, London",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/05/science-in-a-changing-world/",
-    "image": "https://royalsociety.org/-/media/events/2026/5/science-in-a-changing-world/ucl-royalsociety-event.jpg"
-  },
-  {
     "id": "rs:2026-05-nobel-foundation",
     "sourceEventId": "2026-05-nobel-foundation",
     "title": "The Future of Science with AI: Nobel Prize Dialogue London 2026",
@@ -1258,5 +1238,43 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/06/lates-trivedi-science-book-prize-2026-shortlist-reveal/",
     "image": "https://royalsociety.org/-/media/blogs/2023/4/modern-perspectives-in-proof-theory/book-hero.jpg"
+  },
+  {
+    "id": "rs:2026-07-wed-the-mystery-of-space-fossils",
+    "sourceEventId": "2026-07-wed-the-mystery-of-space-fossils",
+    "title": "Talk: The mystery of space fossils",
+    "desc": "Learn how interstellar comets help us understand how planets form across the galaxy.",
+    "source": "RS",
+    "date": "2026-07-01T10:30:00+01:00",
+    "durationMin": 30,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-the-mystery-of-space-fossils/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/space-fossils-nasa.jpg"
+  },
+  {
+    "id": "rs:2026-07-wed-the-invisible-majority",
+    "sourceEventId": "2026-07-wed-the-invisible-majority",
+    "title": "Talk: The invisible majority - how microbes rule the Earth",
+    "desc": "This talk will reveal the complex relationships between microbes and the world around us",
+    "source": "RS",
+    "date": "2026-07-01T11:00:00+01:00",
+    "durationMin": 30,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-the-invisible-majority/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/microbe-zoo-sse-2026.jpg"
   }
 ]
