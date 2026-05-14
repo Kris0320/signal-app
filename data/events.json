@@ -333,134 +333,91 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250608-gerf-festival-bf-979-57-2_1777546039310_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:209206",
-    "sourceEventId": "209206",
-    "title": "Stag Beetle Loggery Workshop",
-    "desc": "Join the Gardening team to build a stag beetle loggery in Prince’s Gardens. This session combines nature conservation, practical skills and teamwork.\n\nPlease wear weather appropriate clothing and wear sturdy, closed-toe footwear.\n\nGuidance and equipment will be provided.\n\nView the full Mental Health Awareness Week programme .",
+    "id": "ic:208577",
+    "sourceEventId": "208577",
+    "title": "Thomson Reuters–Imperial Frontier AI Research Lab launch event",
+    "desc": "The School of Convergence Science is excited to announce this special event, which will be hosted by Professor Mary Ryan FREng CBE, Vice-Provost (Research and Enterprise).\n\nMarking the start of our five-year partnership with Thomson Reuters , the launch event will bring together a panel of distinguished figures from government, the justice system, research and technical communities for a cross-sector conversation on the future of AI.\n\nIntroductory remarks will be delivered by Steve Hasker, President and CEO of Thomson Reuters, alongside the Lab’s leadership team.\n\nTo secure a place, simply get in touch with the team at hai@imperial.ac.uk .\n\nIf you are an established leader across academia, industry, government, the wider public sector or regulatory and policy organisations – or if you…",
     "source": "IC",
-    "date": "2026-05-14T12:00:00+01:00",
-    "durationMin": 150,
-    "venue": "Meet in Prince's Gardens, opposite Ethos Sports Centre, South Kensington, Ethos Sports Centre, South Kensington Campus",
+    "date": "2026-05-18T16:45:00+01:00",
+    "durationMin": 165,
+    "venue": "CAGB200, City and Guilds Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Social",
+      "Conference",
+      "Schools of Convergence Science",
+      "Artificial intelligence",
+      "Networking",
+      "enterprise"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208577/thomson-reuters-imperial-frontier-ai-research-lab-launch-event/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-1930212086_1776336761205_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207093",
+    "sourceEventId": "207093",
+    "title": "Heavy metal saves the world!",
+    "desc": "Discover how heavy metals are helping detect diseases, power sustainable chemistry and create innovative materials with Professor James Wilton-Ely, Professor of Inorganic Chemistry.\n\nPlease register to attend in person. A live stream link for online attendance is available on this page.\n\nWe look forward to seeing you on Wednesday 20 May!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research\n\nAbstract\n\nHeavy metals have had a bad press over the years but the heavier metallic elements are vital in so many applications of chemistry, from catalysis to chemotherapy. This lecture will explore the research contributions we have made using heavy metals that address many of the key challenges we all face.…",
+    "source": "IC",
+    "date": "2026-05-20T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Lecture theatre B10, Molecular Sciences Research Hub (MSRH), White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Imperial Inaugurals",
+      "Institutional Event",
+      "Chemistry",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209206/stag-beetle-loggery-workshop/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/stag-beetle-loggery_1777627679597_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/207093/heavy-metal-saves-the-world/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperialinaugural-eventbritebannerjameswilton-ely4_1773077280796_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:204044",
-    "sourceEventId": "204044",
-    "title": "Imperial Fungal Science Network | Seminar Series | Keynote Speaker – Paul A. Rowley (University of Idaho)",
-    "desc": "The Imperial Fungal Science Network is a hub for the mycology community, providing a leadership, advocacy and communications platform for mycologists and a developmental framework for future leaders in fungal research. We welcome you to the Imperial Fungal Science Network – Seminar Series 2026 .\n\nSeminar | 12:00– 13:00 | Thursday 14th May 📍 G47, Flowers Building, South Kensington Campus, London SW7 2AZ find us at Map/3A\n\nIn-person & online (via Teams, click ‘Livestream’ button on LHS )\n\nNo registration required\n\nThis is a hybrid event to ensure that our non-London members/audience can join for the talks remotely; if you are joining us via the Teams link, please be aware that your email contact may show up to other meeting attendees, please join using an organisation email contact where…",
+    "id": "ic:207219",
+    "sourceEventId": "207219",
+    "title": "Imperial Science Cafe: Targeting Metabolism to Treat Cancer",
+    "desc": "Join us for the next Imperial Science Cafe: Targeting Metabolism to Treat Cancer at Maggie’s West London .\n\nCancer cells behave differently from healthy cells, including the way they use and process nutrients. This session will explore how researchers are learning to “starve” cancer by targeting its altered metabolism. We will explain how cancer cells use metabolic fuels in unique ways, and how these differences can be turned into treatment opportunities. Attendees will hear how scientists are developing drugs that block key metabolic pathways, aiming to slow tumour growth while sparing normal tissues. We will also discuss how diet, the immune system, and existing therapies like chemotherapy might interact with cancer metabolism. The session will highlight promising clinical trials,…",
     "source": "IC",
-    "date": "2026-05-14T12:00:00+01:00",
-    "durationMin": 60,
-    "venue": "G47 (ground floor), Flowers Building, South Kensington Campus",
+    "date": "2026-05-21T18:30:00+01:00",
+    "durationMin": 90,
+    "venue": "Maggie’s West London",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Seminar",
-      "events",
-      "Infectious diseases",
-      "Postdoctoral researchers",
-      "School of Public Health"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/204044/imperial-fungal-science-network-seminar-series-keynote-speaker-paul-a-rowley-the-university-of-idaho/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/fungal-science-network-banner-excellence-badge-1_1674564595626_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209554",
-    "sourceEventId": "209554",
-    "title": "From HIV Infrastructure to Integrated Chronic Care in Africa – A New Model for HIV, Hepatitis B, Diabetes and Hypertension Care?",
-    "desc": "Recent reductions in US global health funding and the abrupt suspension of some PEPFAR and United States Agency for International Development supported activities have exposed the vulnerability of highly vertical disease programmes across Africa.\n\nBut this disruption has also accelerated a major rethink: Can the extensive HIV infrastructure built over two decades now become the platform for integrated long-term chronic care?\n\nThis seminar will explore the transition towards integrated patient-centred clinics delivering care for: HIV, Hepatitis B, Diabetes, Hypertension and other chronic conditions.\n\nProfessor Easterbrook will introduce the policy drivers, evidence base, and opportunities to leverage existing HIV systems to improve efficiency, sustainability, and access to high-quality…",
-    "source": "IC",
-    "date": "2026-05-14T12:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Peart Room, 10th Floor, Queen Elizabeth The Queen Mother Wing, St Mary's Campus",
-    "area": "St Mary's",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
+      "Workshop",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209554/from-hiv-infrastructure-to-integrated-chronic-care-in-africa-a-new-model-for-hiv-hepatitis-b-diabetes-and-hypertension-care/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/from-hiv-infrastructure-to-integrated-chronic-care-in-africa_1778575931449_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/207219/imperial-science-cafe-targeting-metabolism-to-treat-cancer/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperiallates2026_1773240071011_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:196229",
-    "sourceEventId": "196229",
-    "title": "Lunchtime Concert – Dan Shao (flute) Annie Yim (piano)",
-    "desc": "Dan Shao (flute) Annie Yim (piano)\n\nProkofiev Flute Sonata in D major Op 9\n\nSofia Gubaidulina Sounds of the Forest\n\nLili Boulanger Nocturne\n\nPoulenc Sonata for flute and piano",
+    "id": "ic:209241",
+    "sourceEventId": "209241",
+    "title": "Climate Solutions Catalyst Summit",
+    "desc": "​Join Undaunted’s Climate Solutions Catalyst for a unique opportunity to explore the future of climate innovation at the Climate Solutions Catalyst (CSC) Summit.\n\n​Explore alma , our AI platform designed to uncover overlooked, high-potential climate solutions. Get an inside look at what we’ve built, how it works, and what it’s surfaced across the research landscape over the past two years.\n\n​Meet CSC Cohort Nº2 , researchers identified through alma and supported by the CSC, advancing breakthrough solutions in climate adaptation and resilience.\n\n​ Hear directly from alma users representing a range of organisations including venture studios, venture builders, and philanthropic foundations, as they share how they are using the platform to inform decisions, unlock opportunities, and…",
     "source": "IC",
-    "date": "2026-05-14T13:00:00+01:00",
-    "durationMin": 45,
-    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Arts",
-      "Creative",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/196229/lunchtime-concert-dan-shao-flute-annie-yim-piano/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sheet-music1_1752858076471_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209201",
-    "sourceEventId": "209201",
-    "title": "Walking Tour – South Kensington",
-    "desc": "Join Move and Iya London Walks for a short well-being walk in South Kensington, exploring the neighbourhood’s history, rooted in the Great Exhibition of 1851, and groundbreaking Victorian architecture.\n\nLimited spaces available so please book early to avoid disappointment!\n\nPlease wear weather appropriate clothing as the walking tour is outdoors.\n\nView the full Mental Health Awareness Week programme.",
-    "source": "IC",
-    "date": "2026-05-14T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Meet at: Imperial Main Reception, Exhibition Road, South Kensington, Main Entrance, South Kensington Campus",
+    "date": "2026-05-27T12:30:00+01:00",
+    "durationMin": 270,
+    "venue": "The Conduit",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Social",
-      "Event",
+      "General",
+      "Climate change",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209201/walking-tour-south-kensington/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/copy-of-copy-of-movember-events-tiles-11_1777626996334_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209118",
-    "sourceEventId": "209118",
-    "title": "Dr Jaime Agudo-Canalejo: Self-organisation through nonequilibrium catalytic activity",
-    "desc": "Self-organisation through nonequilibrium catalytic activity",
-    "source": "IC",
-    "date": "2026-05-14T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "RSM-131, Royal School Of Mines, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Physics of Life",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209118/agudo-canelo-self-organisation/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250915-j-tye-ucl-393-biophysics-ipls-2266_1777461641761_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/209241/climate-solutions-catalyst-summit-may-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csc-summit-may-2026_1778250510594_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:206337",
@@ -527,7 +484,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209297/imperial-alumni-gathering-in-vietnam-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207209",
@@ -593,7 +550,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209440/geometry-and-topology-seminar-qaasim-shafi-heidelberg-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208372",
@@ -614,7 +571,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208372/fluid-dynamics-seminar-zhongyu-zhang/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208610",
@@ -635,7 +592,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208610/statistics-seminar-fabrizio-leisen-kings-college/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209446",
@@ -678,6 +635,113 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209203/walking-tour-white-city/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/copy-of-copy-of-movember-events-tiles-11_1777626996334_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207765",
+    "sourceEventId": "207765",
+    "title": "Christian Meditation: Online and In-person",
+    "desc": "Format: In person and Online (hybrid)\n\nIn Person: Chaplaincy, 15 Prince’s Gardens, South Kensington Campus, SW7 1NA (Drop-in)\n\nOnline via private Zoom Meeting invite . You can subscribe to our weekly mailing list to get the weekly Zoom Link.\n\nAnyone outside the Colleges of South Kensington who would like to attend online please contact Andrew Willson a.willson@imperial.ac.uk\n\nFacilitator: The Christian Meditation sessions are led by Andrew Willson, College Chaplain.\n\nAbout Christian Meditation\n\nChristianity has a long and rich history of meditation and contemplative prayer. These ancient Christian traditions have their roots in the monasteries of the desert hermits of the second century. Jesus himself often prayed in times of stillness and solitude. Many of these long established…",
+    "source": "IC",
+    "date": "2026-05-18T13:10:00+01:00",
+    "durationMin": 30,
+    "venue": "Chaplaincy Multi-Faith Centre, 15 Prince's Gardens, South Kensington, SW7 1NA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "mental health",
+      "Education",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207765/weekly-christian-meditation-4/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/christian-meditation-2-1086-x-307-1642077206866-x4-ezgifcom-webp-to-jpg-converter_1717097303804_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:208972",
+    "sourceEventId": "208972",
+    "title": "Space Seminar – SPC Community",
+    "desc": "Prof Paul SONG from UMASS Lowell is invited to present the following seminar to the Space Plasma Climate Community\n\nTitle- Formations of the Chromosphere, Transition Region and Supersonic Solar Wind: A New Theory\n\nThe chromosphere radiates energy through plasma-neutral collisions, creating an isothermal layer with a sharp ionization transition that drives upward ionized flux. Continuous solar winds arise from coronal heating and transition-region processes, with Parker’s solution defining the boundary between subsonic and supersonic flows rather than explaining all supersonic winds.",
+    "source": "IC",
+    "date": "2026-05-18T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "741, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208972/space-seminar-spc-community/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209473",
+    "sourceEventId": "209473",
+    "title": "Matter Seminar: A Spatial Localizer for Electrons in Insulators",
+    "desc": "A Spatial Localizer for Electrons in Insulators\n\nWladimir Benalcazar, Emory University\n\nThe location of electrons governs phenomena ranging from chemical bonding and electric polarization to the topological classification of band insulators and the emergence of correlated states in quantum matter. While a prescription exists for finding local state representations of electrons in one-dimensional insulators, no comparably general theory exists in higher dimensions. Here, we introduce a general framework for locating electrons in insulators in two and three dimensions, based on the spectral properties of quantum-mechanical operators that we term Spatial Localizers. This framework naturally extends the notion of Wannier centers to insulators with boundaries, defects, and disorder, which we…",
+    "source": "IC",
+    "date": "2026-05-18T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "311, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209473/matter-seminar-a-spatial-localizer-for-electrons-in-insulators/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209336",
+    "sourceEventId": "209336",
+    "title": "Insights: Functional Genomics Screening Lab",
+    "desc": "Please join us for the FGX Network seminar with Nicola McCarthy , Head of Research at the Milner Therapeutics Institute. Nicola will present an introduction to the new Functional Genomics Screening lab and its role within the UK Human Functional Genomics Initiative, offering insights into its capabilities and future impact.\n\nProgramme:\n\n2:30pm-2:45pm – Introduction to the AZ-MRC Functional Genomics Screening Lab (Dr Nicola McCarthy, Head of Research, Milner Therapeutics Institute)\n\n2:50pm-3:10pm – FGSL data presentation (Dr Chun Hao Wong Functional Genomics Screening Laboratory, MTI Lead)\n\n3:15pm-3:30pm – Coffee break\n\n3:30pm-3:40pm – Collaborative funding opportunities available through the FGSL & UK FGx Initiative (Dr Matt Child, Dr Nicola McCarthy)\n\n3:45pm-4:15pm – FGSL project pitch…",
+    "source": "IC",
+    "date": "2026-05-18T14:30:00+01:00",
+    "durationMin": 105,
+    "venue": "G47A, Flowers Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209336/insights-functional-genomics-screening-lab/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-1249385556_1778079458736_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209649",
+    "sourceEventId": "209649",
+    "title": "London Logic Seminar – Frank Wagner (Université Lyon 1)",
+    "desc": "Title : Sylow subgroups in finite-dimensional groups\n\nAbstract : This is joint work with U. Karhumäki. We develop the Sylow theory for finite-dimensional groups with fine dimension.",
+    "source": "IC",
+    "date": "2026-05-18T15:00:00+01:00",
+    "durationMin": 60,
+    "venue": "130, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209649/london-logic-seminar-frank-wagner-universite-lyon-1/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
@@ -842,6 +906,68 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/handle-with-care-event-may2026",
     "image": "https://images.prismic.io/wellcomecollection/ZtmF1bzzk9ZrXB24_EP_002108_037.jpg?auto=format%2Ccompress&rect=446%2C527%2C3540%2C1991&w=3200&h=1800"
+  },
+  {
+    "id": "wc:stories-of-protest-and-intimacy",
+    "sourceEventId": "stories-of-protest-and-intimacy",
+    "title": "Stories of Protest and Intimacy",
+    "desc": "Join us for a panel discussion exploring stories of protest and intimacy in our new display, ‘Tenderness and Rage’.",
+    "source": "WC",
+    "date": "2026-06-11T18:00:00+00:00",
+    "durationMin": 90,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Discussion",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/stories-of-protest-and-intimacy",
+    "image": "https://images.prismic.io/wellcomecollection/d4e6a3ca-d882-4d0d-bdae-a0b92f2cad7d_EP_001280_070+16x9.jpg?auto=format%2Ccompress&w=3200&h=1800"
+  },
+  {
+    "id": "wc:bsl-tours-of-the-coming-of-age-with-rubbena-aurangzeb-tariq",
+    "sourceEventId": "bsl-tours-of-the-coming-of-age-with-rubbena-aurangzeb-tariq",
+    "title": "BSL Tours of ‘The Coming of Age’ with Rubbena Aurangzeb-Tariq",
+    "desc": "Join artist and facilitator Rubbena Aurangzeb-Tariq for a Deaf-led tour of ‘The Coming of Age’ exhibition.",
+    "source": "WC",
+    "date": "2026-06-13T13:00:00+00:00",
+    "durationMin": 600,
+    "venue": "Information Point on level 0",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Gallery tour",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/bsl-tours-of-the-coming-of-age-with-rubbena-aurangzeb-tariq",
+    "image": "https://images.prismic.io/wellcomecollection/agNhc6YofJOwHJFU_EP_003391_0010.jpg?auto=format%2Ccompress&rect=0%2C0%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:shaping-age",
+    "sourceEventId": "shaping-age",
+    "title": "Shaping Age",
+    "desc": "Join us for an evening inspired by ‘The Coming of Age’ exhibition, with performances, talks, workshops, music and tours which challenge expectations of ageing.",
+    "source": "WC",
+    "date": "2026-06-25T18:00:00+00:00",
+    "durationMin": 180,
+    "venue": "Throughout our building",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Late",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/shaping-age",
+    "image": "https://images.prismic.io/wellcomecollection/agWML6YofJOwHPeE_EP_003366_273.jpg?auto=format%2Ccompress&rect=0%2C268%2C4000%2C2250&w=3200&h=1800"
   },
   {
     "id": "rs:2026-05-spin-physics",
