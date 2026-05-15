@@ -420,73 +420,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csc-summit-may-2026_1778250510594_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:206337",
-    "sourceEventId": "206337",
-    "title": "Present with impact sessions",
-    "desc": "Reach your audience by translating complex technical content into clear, impactful messaging within a coherent narrative framework. Use your voice to engage.\n\nJoin us for one, two or all of the following sessions. Add the event(s) you wish to attend to your calendar!\n\n14 May\n\nPresent with impact 1: Narrative\n\nBy the end of this session, you will:\n\nhave analysed a presentation to reveal its narrative\n\nhave understood how narrative structures a presentation\n\nhave planned and given a short presentation, focussing on its narrative\n\nhave considered strategies for guiding our audience through the narrative\n\nbe shown how to access CfAE’s wider provision\n\n21 May\n\nPresent with impact 2: Audience\n\nBy the end of this session, you will know more about and have practised:\n\nways to engage different…",
-    "source": "IC",
-    "date": "2026-05-14T17:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Practice session",
-      "CfAE speaking and listening practice sessions",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/206337/present-with-impact-sessions-3/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/310825-dg-icl-cfae-134-3000-x-850_1751901648543_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:207834",
-    "sourceEventId": "207834",
-    "title": "Gig a bites – Taylor/Gedrych/Wood",
-    "desc": "Taylor/Gedrych/Wood is a fusion trio made up of some of the stalwart members of the London improvisation scene. Performing a selection of original tunes and compositions by the fusion greats,\n\nTaylor/Gedrych/Wood bring a fiery and dynamic performance to the stage, twisting modern interpretations of jazz fusion and progressive rock epics in their own unique style.",
-    "source": "IC",
-    "date": "2026-05-14T17:00:00+01:00",
-    "durationMin": 90,
-    "venue": "The Works Restaurant, Sir Michael Uren Hub, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Creative",
-      "Arts",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207834/gig-a-bites-taylor-gedrych-wood/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/taylor-gedrych-wood_1774455171927_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209297",
-    "sourceEventId": "209297",
-    "title": "Imperial Alumni Gathering in Vietnam",
-    "desc": "An event by Imperial College London for alumni.\n\nAn opportunity for alumni in Vietnam to reconnect with Imperial and each other.\n\nConnect with Imperial at this alumni gathering\n\nAll alumni of Imperial are warmly invited to an evening with Imperial academics Prof. Michael Templeton and Dr. Minh-Son Pham.\n\nCome and connect with fellow alumni and discover the fantastic work they’re doing. Everyone is welcome, no matter your field or background.\n\nThis free event will take place in the Silverland Ben Thanh.\n\nFor any questions, email Francesca Skillicorn at f.skillicorn@imperial.ac.uk.",
-    "source": "IC",
-    "date": "2026-05-14T18:30:00+07:00",
-    "durationMin": 90,
-    "venue": "Silverland Ben Thanh",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Alumni",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209297/imperial-alumni-gathering-in-vietnam-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:207209",
     "sourceEventId": "207209",
     "title": "Complexity Science Symposium",
@@ -571,7 +504,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208372/fluid-dynamics-seminar-zhongyu-zhang/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208610",
@@ -637,6 +570,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/copy-of-copy-of-movember-events-tiles-11_1777626996334_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:209713",
+    "sourceEventId": "209713",
+    "title": "MAGIC Seminar – Austin Hubbard (Imperial)",
+    "desc": "Austin Hubbard (Imperial): The classification of hypertoric varieties\n\nMore details can be found on https://www.imperial.ac.uk/geometry/seminars/magic-seminar/",
+    "source": "IC",
+    "date": "2026-05-18T13:00:00+01:00",
+    "durationMin": 90,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209713/magic-seminar-austin-hubbard-imperial/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+  },
+  {
     "id": "ic:207765",
     "sourceEventId": "207765",
     "title": "Christian Meditation: Online and In-person",
@@ -678,7 +632,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208972/space-seminar-spc-community/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209473",
@@ -741,7 +695,52 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209649/london-logic-seminar-frank-wagner-universite-lyon-1/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209188",
+    "sourceEventId": "209188",
+    "title": "Power & Energy Storage Community Dinner",
+    "desc": "Sponsored by Undaunted and Withers & Rogers , and organised by Climate Connection , this dinner is designed to spotlight the innovation happening across the power and energy storage sector and create meaningful connections between startups building new solutions, investors backing their tech and corporates that could deploy them.\n\nWe only have a few spots left -> we’re looking for investors and corporates to engage with this community. Apply to attend here !",
+    "source": "IC",
+    "date": "2026-05-18T18:00:00+01:00",
+    "durationMin": 240,
+    "venue": "TBC",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Climate change",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209188/power-energy-storage-community-dinner/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/dinner_1777622845078_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:204741",
+    "sourceEventId": "204741",
+    "title": "IDE Seminar Series – Prof Steven Riley",
+    "desc": "Professor Steven Riley.\n\nMore information to come.\n\nLocation: White City, School of Public Health Building Room: SPH 204 – Seminar Room I n-person event. If you wish to join online, please register here.",
+    "source": "IC",
+    "date": "2026-05-19T12:30:00+01:00",
+    "durationMin": 55,
+    "venue": "SPH 204 - Seminar Room , School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Infectious diseases",
+      "MRC Centre for Global Infectious Disease Analysis",
+      "Modelling",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/204741/ide-seminar-series-prof-steven-riley/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ide-seminars-prof-steven-riley-tv_1769095474153_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
