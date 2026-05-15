@@ -443,91 +443,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/hj-symposium_1773242733765_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:209212",
-    "sourceEventId": "209212",
-    "title": "HEP seminar: Matthew Monk (University of Cambridge) – Investigating the polarisation puzzle with B0(s) -> K*K* decays at LHCb",
-    "desc": "Charmless decays of a B meson to two vector particles offer many different avenues to explore the Standard Model. There has been a longstanding discrepancy between experimental measurements of the longitudinal polarisation fractions in charmless B->VV decays, both between the experimental measurements of different decays and with SM predictions, which has been dubbed the “polarisation puzzle”. In this talk, I will present results from a recent LHCb analysis (https://arxiv.org/abs/2512.05102), updating branching fraction and polarisation fraction measurements in both Bd and Bs decays to a Kstar Kstarbar final state, resulting in a 4.4 sigma tension between theory and experiment.",
-    "source": "IC",
-    "date": "2026-05-15T13:30:00+01:00",
-    "durationMin": 60,
-    "venue": "539, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Physics of Particles",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209212/hep-seminar-matthew-monk-university-of-cambridge-investigating-the-polarisation-puzzle-with-b0s-kk-decays-at-lhcb/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bebc_1697635355708_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209440",
-    "sourceEventId": "209440",
-    "title": "Geometry and Topology Seminar – Qaasim Shafi (Heidelberg University)",
-    "desc": "Qaasim Shafi (Heidelberg University). Hilbert schemes of points, quantum cohomology and tropical curves.\n\nMore information on the GT seminar website",
-    "source": "IC",
-    "date": "2026-05-15T13:30:00+01:00",
-    "durationMin": 60,
-    "venue": "130, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209440/geometry-and-topology-seminar-qaasim-shafi-heidelberg-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:208372",
-    "sourceEventId": "208372",
-    "title": "Fluid Dynamics Seminar: Zhongyu Zhang (Tianjin University)",
-    "desc": "Generation of sound waves by nonlinearly evolving ring-mode coherent structures on a turbulent round jet: an asympotic approach to aeroacoustics",
-    "source": "IC",
-    "date": "2026-05-15T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208372/fluid-dynamics-seminar-zhongyu-zhang/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:208610",
-    "sourceEventId": "208610",
-    "title": "Statistics Seminar: Fabrizio Leisen (King’s College)",
-    "desc": "14:00 – 15:00 – Fabrizio Leisen (King’s College)\n\nTitle: TBA\n\nAbstract: TBA\n\nRefreshments available between 15:00 – 15:30, Huxley Common Room (HXLY 549)",
-    "source": "IC",
-    "date": "2026-05-15T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "HXLY139, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208610/statistics-seminar-fabrizio-leisen-kings-college/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:209446",
     "sourceEventId": "209446",
     "title": "Junior Geometry Seminar – Carmine Imbriani (Pavia)",
@@ -588,7 +503,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209713/magic-seminar-austin-hubbard-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207765",
@@ -632,7 +547,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208972/space-seminar-spc-community/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209473",
@@ -695,7 +610,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209649/london-logic-seminar-frank-wagner-universite-lyon-1/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209188",
@@ -741,6 +656,93 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/204741/ide-seminar-series-prof-steven-riley/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ide-seminars-prof-steven-riley-tv_1769095474153_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207608",
+    "sourceEventId": "207608",
+    "title": "Professor Natasja de Groot – Intraoperative Mapping: From Mechanistic Insight to Clinical Impact",
+    "desc": "Dear Colleagues and Students,\n\nNHLI will be holding a talk on Tuesday, 19 May from Professor Natasja de Groot , Erasmus University.\n\nTalk Title: Intraoperative Mapping: From Mechanistic Insight to Clinical Impact\n\nTime: 13:00 – 14:00 UK time\n\nLocation: Meeting room 427/428 4th Floor ICTEM, Hammersmith Campus, Du Cane Road W12 0NN\n\nHer research projects are aimed at unravelling the pathophysiology of complex cardiac tachyarrhythmias, developing and testing developing novel diagnostic tools (in close collaboration with TU Delft) and therapies for cardiac arrhythmias. Main research topics are high resolution mapping studies of cardiac arrhythmias in particular atrial fibrillation, mechanisms of (post-operative) atrial fibrillation, dysrhythmias in patients with congenital heart disease and…",
+    "source": "IC",
+    "date": "2026-05-19T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Room 427/428, 4th Floor ICTEM building, Hammersmith Campus, W12 0NN room 427/428, Imperial Centre for Translational and Experimental Medicine (ICTEM), Hammersmith Campus",
+    "area": "Hammersmith",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "events",
+      "Medicine",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207608/professor-natasja-de-groot-intraoperative-mapping-from-mechanistic-insight-to-clinical-impact/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/180110-nhli-athena-swan-lecture-011_1766059012045_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207511",
+    "sourceEventId": "207511",
+    "title": "Mohn Mingle: How Young People’s Voices are Shaping Research.",
+    "desc": "This session will discuss how the views of young people have helped shape research questions relating to school absence and sexual harm. Both projects have involved creating animations to document the engagement outputs which will be presented during the session.\n\nThis will be an insightful session on how to involve the views of young people on sensitive research topics.\n\nSpeakers:\n\nHanna Creese\n\nUnderstanding Persistent School Absence Through Young People’s Voices Engagement Work in South London Informing ADR UK Fellowship analysis using ECHILD\n\nFrancesca Neale\n\nDeveloping a Core Outcome Set for multisectoral evaluation of adolescent interventions for persistent school absence: a modified-Delphi study\n\nEsta Orchard\n\nHow can services support young people who have experienced sexual harm?…",
+    "source": "IC",
+    "date": "2026-05-19T15:00:00+01:00",
+    "durationMin": 60,
+    "venue": "2nd Floor, Room 204, School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Mohn Centre for Childrens Health and Wellbeing",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207511/mohn-mingle-how-young-peoples-voices-are-shaping-research/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/240830-white-city-new-brand-044_1773764727685_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207315",
+    "sourceEventId": "207315",
+    "title": "ESE Evening Lecture Series: Geohazards",
+    "desc": "Imperial’s Department of Earth Science and Engineering (ESE) Evening Lecture Series celebrates 175 years of the Royal School of Mines!\n\nThis event in the ESE Evening Lecture Series is on the theme of Geohazards, featuring a line-up of speakers including ESE’s Dr Rebecca Bell.\n\nThe event will include a panel discussion with questions from the audience, followed by a networking reception where you’ll have the chance to connect with speakers and attendees alike.",
+    "source": "IC",
+    "date": "2026-05-19T18:00:00+01:00",
+    "durationMin": 90,
+    "venue": "G.41, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Departmental event",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207315/ese-evening-lecture-series-geohazards/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ese-lectures-geohazards_1773332663238_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209469",
+    "sourceEventId": "209469",
+    "title": "Faculty of Medicine Staff Rounds | 12.30 Dr Tom Parker, Clinical Lecturer in Neurology [Brain Sciences] | 13.00 Dr Liz Whittaker, Professor of Practice (Paediatric Infectious Diseases & Imm) / Dr Francesca Neale, Honorary Clinical Research Assistant [Infectious Disease]",
+    "desc": "The Faculty of Medicine Staff Round series brings together academics and clinicians across the University and our NHS partners to explore and showcase how engagement with patients and treating clinical cases leads to scientific research which can benefit patients and populations.\n\nChair:\n\nProfessor Shiranee Sriskandan\n\nSpeaker details:\n\n12.30 to 13.00\n\n13.00 to 13.30\n\nThis is an internal only event . On-campus venues and online streaming details for this session can be found on the FoM Staff Round webpage (requires log-in): https://www.imperial.ac.uk/medicine/fom-staff/staff-rounds/",
+    "source": "IC",
+    "date": "2026-05-20T12:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209469/20-may-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/staffround25-26event_1760974072139_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
