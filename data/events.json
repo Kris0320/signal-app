@@ -420,50 +420,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csc-summit-may-2026_1778250510594_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:207209",
-    "sourceEventId": "207209",
-    "title": "Complexity Science Symposium",
-    "desc": "The symposium will present an overview of some current active topics in complexity science. Both fundamental and applied aspects will be covered. Researchers from across the UK and Europe will meet to present research of importance to our understanding of emergent aspects of the structure and dynamics of many component systems across scientific disciplines.\n\nEveryone is welcome but registration is necessary for catering and logistic purposes.\n\nPlease find programme and registration link here https://complexity-symposium.info/\n\nRegistration closes on Thursday 30 April",
-    "source": "IC",
-    "date": "2026-05-15T09:30:00+01:00",
-    "durationMin": 480,
-    "venue": "144, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Symposium",
-      "Complexity",
-      "Network science",
-      "big data",
-      "maths"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207209/complexity-science-symposium/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/hj-symposium_1773242733765_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209446",
-    "sourceEventId": "209446",
-    "title": "Junior Geometry Seminar – Carmine Imbriani (Pavia)",
-    "desc": "Title: The Holonomy Representation of Projective Structures on Compact Riemann Surfaces\n\nSpeaker: Carmine Imbriani (Pavia)\n\nAbstract: Complex projective structures provide a compelling example of (G,X) -structures on surfaces, serving as a bridge between classical uniformization theory and modern representation theory. This seminar explores the geometric and algebraic properties of these structures, with a primary focus on the holonomy map hol from the space of projective structures P (S) to the PSL(2, C) -character variety of the fundamental group \\pi_1(S) .\n\nWhile the holonomy map is a general construction that is always open, its behavior in the context of projective structures is particularly rich: it is known to be a local homeomorphism but, notably, it fails to be globally…",
-    "source": "IC",
-    "date": "2026-05-15T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Room 140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209446/junior-geometry-seminar-carmine-imbriani/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
-  },
-  {
     "id": "ic:209203",
     "sourceEventId": "209203",
     "title": "Walking Tour – White City",
@@ -503,7 +459,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209713/magic-seminar-austin-hubbard-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207765",
@@ -610,7 +566,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209649/london-logic-seminar-frank-wagner-universite-lyon-1/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209188",
@@ -743,6 +699,50 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209469/20-may-2026/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/staffround25-26event_1760974072139_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:194756",
+    "sourceEventId": "194756",
+    "title": "Open Themed Art Class 10",
+    "desc": "This art class is open to everyone working and studying at Imperial College.\n\nIt is free and open to all levels and abilities, so whether you are an absolute beginner or an experienced artist you will find the tutor has something special to offer you. Come and explore.\n\nPlease feel free to join and leave at any point during the session.\n\nThese sessions are responsive to you , providing an invaluable opportunity for you to create whatever you like with free materials and mentoring support with professional artist Mindy Lee.\n\nSpaces are limited to 10 per session\n\nTickets will be released 8 days in advance of the class. Please book a ticket from your COLLEGE EMAIL ADDRESS only. Tickets booked from external emails will be deleted. Please cancel your ticket if you can no longer attend.\n\nHow…",
+    "source": "IC",
+    "date": "2026-05-20T13:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Blyth Art Studio, Room RODH 319, LEVEL 3, Roderic Hill, Roderic Hill Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Arts",
+      "Education",
+      "Student experience",
+      "Staff experience"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/194756/open-themed-art-class-10-6/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/studio-table_1658237865363_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207864",
+    "sourceEventId": "207864",
+    "title": "Community Garden Action Days",
+    "desc": "Drop-in sessions from 13:00–16:00 on Wednesdays. After the Easter break, sessions will resume on 22nd April. You’re also welcome to drop in and volunteer to water the plants during the break.\n\nJoin the student organisers and volunteers in the Community Garden at the Chaplaincy Centre. A chance to get outside, and be involved in growing plants, sowing seeds, clearing new ground, or pruning bushes. If this is your first session of gardening or if you have plenty of experience, all are welcome.\n\nOpen to students and staff. Drop-in during the afternoon and stay for as long as you like. Gloves, protective gear and tools provided, with wet weather options in needed.\n\nThe Community Garden at the Chaplaincy, accessed through the Multi-Faith Centre at15 Princes Gardens, or via the side gate of…",
+    "source": "IC",
+    "date": "2026-05-20T13:00:00+01:00",
+    "durationMin": 180,
+    "venue": "Chaplaincy Multi-Faith Centre",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207864/community-garden-action-days-5/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gardening-banner_1714416170181_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
