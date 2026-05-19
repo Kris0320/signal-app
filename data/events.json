@@ -330,29 +330,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250608-gerf-festival-bf-979-57-2_1777546039310_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:208577",
-    "sourceEventId": "208577",
-    "title": "Thomson Reuters–Imperial Frontier AI Research Lab launch event",
-    "desc": "The School of Convergence Science is excited to announce this special event, which will be hosted by Professor Mary Ryan FREng CBE, Vice-Provost (Research and Enterprise).\n\nMarking the start of our five-year partnership with Thomson Reuters , the launch event will bring together a panel of distinguished figures from government, the justice system, research and technical communities for a cross-sector conversation on the future of AI.\n\nIntroductory remarks will be delivered by Steve Hasker, President and CEO of Thomson Reuters, alongside the Lab’s leadership team.\n\nTo secure a place, simply get in touch with the team at hai@imperial.ac.uk .\n\nIf you are an established leader across academia, industry, government, the wider public sector or regulatory and policy organisations – or if you…",
-    "source": "IC",
-    "date": "2026-05-18T16:45:00+01:00",
-    "durationMin": 165,
-    "venue": "CAGB200, City and Guilds Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Schools of Convergence Science",
-      "Artificial intelligence",
-      "Networking",
-      "enterprise"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208577/thomson-reuters-imperial-frontier-ai-research-lab-launch-event/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-1930212086_1776336761205_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:207093",
     "sourceEventId": "207093",
     "title": "Heavy metal saves the world!",
@@ -415,28 +392,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209241/climate-solutions-catalyst-summit-may-2026/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csc-summit-may-2026_1778250510594_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209188",
-    "sourceEventId": "209188",
-    "title": "Power & Energy Storage Community Dinner",
-    "desc": "Sponsored by Undaunted and Withers & Rogers , and organised by Climate Connection , this dinner is designed to spotlight the innovation happening across the power and energy storage sector and create meaningful connections between startups building new solutions, investors backing their tech and corporates that could deploy them.\n\nWe only have a few spots left -> we’re looking for investors and corporates to engage with this community. Apply to attend here !",
-    "source": "IC",
-    "date": "2026-05-18T18:00:00+01:00",
-    "durationMin": 240,
-    "venue": "TBC",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Climate change",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209188/power-energy-storage-community-dinner/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/dinner_1777622845078_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:204741",
@@ -632,7 +587,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209436/number-theory-seminar-peter-dillery/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:209562",
@@ -720,6 +675,48 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/205765/introductory-medical-statistics-held-online-6/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/picture1_1682085721907_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209709",
+    "sourceEventId": "209709",
+    "title": "Analysis and Probability Seminar – Haoren Xiong (Birmingham)",
+    "desc": "Haoren Xiong (Birmingham) Pseudodifferential operators with analytic or Gevrey regularity products\n\nMore details on the website",
+    "source": "IC",
+    "date": "2026-05-21T15:00:00+01:00",
+    "durationMin": 60,
+    "venue": " King's College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209709/analysis-and-probability-seminar-haoren-xiong-birmingham/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:209707",
+    "sourceEventId": "209707",
+    "title": "Analysis and Probability Seminar – Alexandre Girouard (Université Laval)",
+    "desc": "Alexandre Girouard (Université Laval) Isoperimetric-type upper bounds for Steklov eigenvalues of warped products\n\nMore details on the website",
+    "source": "IC",
+    "date": "2026-05-21T16:30:00+01:00",
+    "durationMin": 60,
+    "venue": " King's College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209707/analysis-and-probability-seminar-alexandre-girouard-universite-laval/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
