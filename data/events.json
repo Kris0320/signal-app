@@ -394,27 +394,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csc-summit-may-2026_1778250510594_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:207315",
-    "sourceEventId": "207315",
-    "title": "ESE Evening Lecture Series: Geohazards",
-    "desc": "Imperial’s Department of Earth Science and Engineering (ESE) Evening Lecture Series celebrates 175 years of the Royal School of Mines!\n\nThis event in the ESE Evening Lecture Series is on the theme of Geohazards, featuring a line-up of speakers including ESE’s Dr Rebecca Bell.\n\nThe event will include a panel discussion with questions from the audience, followed by a networking reception where you’ll have the chance to connect with speakers and attendees alike.",
-    "source": "IC",
-    "date": "2026-05-19T18:00:00+01:00",
-    "durationMin": 90,
-    "venue": "G.41, Royal School Of Mines, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Departmental event",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207315/ese-evening-lecture-series-geohazards/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ese-lectures-geohazards_1773332663238_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:209469",
     "sourceEventId": "209469",
     "title": "Faculty of Medicine Staff Rounds | 12.30 Dr Tom Parker, Clinical Lecturer in Neurology [Brain Sciences] | 13.00 Dr Liz Whittaker, Professor of Practice (Paediatric Infectious Diseases & Imm) / Dr Francesca Neale, Honorary Clinical Research Assistant [Infectious Disease]",
@@ -627,7 +606,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209709/analysis-and-probability-seminar-haoren-xiong-birmingham/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:209707",
@@ -691,7 +670,29 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209711/algebra-colloquium-kyu-hwan-lee-university-of-connecticut/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:209519",
+    "sourceEventId": "209519",
+    "title": "HEP seminar: Alice Campani (University of Genova) – Search for Majorana neutrinos with millikelvin technology in CUORE: current status and road ahead",
+    "desc": "Are neutrinos their own antiparticles? What is their mass scale? What is the origin of the matter-antimatter asymmetry in the Universe? Neutrinoless double beta decay (0𝜈𝛽𝛽), a lepton number violating process, could help answer these questions. Current limits on the decay half-life far exceed the age of the Universe: its rarity poses major experimental challenges. After a brief overview of the current landscape of 0𝜈𝛽𝛽 searches and the leading techniques in the field, this seminar will discuss the challenges faced and milestones achieved by the CUORE collaboration with cryogenic calorimeters. CUORE (Cryogenic Underground Observatory for Rare Events) is a tonne-scale experiment steadily taking data underground at the Laboratori Nazionali del Gran Sasso in Italy since 2017. With…",
+    "source": "IC",
+    "date": "2026-05-22T13:30:00+01:00",
+    "durationMin": 60,
+    "venue": "539, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Physics of Particles",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209519/hep-seminar-alice-campani-university-of-genova-cuore/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bebc_1697635355708_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
