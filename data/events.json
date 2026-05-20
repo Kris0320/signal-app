@@ -61,6 +61,26 @@
     "image": "https://www.kcl.ac.uk/newimages/study/postgraduate/medtech.x660dd01e.jpg?w=995&h=440&crop=780,440,60,0"
   },
   {
+    "id": "kcl:pre-university-arrival-session-1-june-2026",
+    "sourceEventId": "46ffcfe5-060d-4cd9-997d-7026197dfbe3",
+    "title": "Pre-University Arrival Session - 1 June 2026",
+    "desc": "Join us for a pre-arrival session dedicated to our incoming Pre-University Summer School students!",
+    "source": "KCL",
+    "date": "2026-06-01T14:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Summer school",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/pre-university-arrival-session-1-june-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/Study/SummerSchool/Summer-School-2013/Melissa-and-Jess-Summer-Schol-support-.x4ee02333.jpg?w=780&h=519&crop=780,440,0,40"
+  },
+  {
     "id": "kcl:the-accommodation-of-democracy-a-new-political-economy-of-poverty-alleviation-in-rural-india",
     "sourceEventId": "92ff320e-503b-4e34-af0f-4984b7432d47",
     "title": "The Accommodation of Democracy: A New Political Economy of Poverty Alleviation in Rural India",
@@ -286,27 +306,6 @@
     "image": "https://www.kcl.ac.uk/departmentalimages/deans-office/chaplaincy/sheet-music-red-rose.x6817f38f.jpg?w=780&h=509&crop=780,440,0,35"
   },
   {
-    "id": "kcl:festival-of-storytelling-opening-event-and-book-swap",
-    "sourceEventId": "9735b12d-849d-4030-b22c-d1b8d552deec",
-    "title": "Festival of Storytelling: Opening Event and Book Swap",
-    "desc": "Join our launch to learn about the upcoming highlights and hear from King's academics and invited guests on the power of a good story. Bring a book to swap and talk over drinks about why you're sharing it, and go away with a book new to you.",
-    "source": "KCL",
-    "date": "2026-06-02T18:00:00",
-    "durationMin": 210,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Festival",
-      "Arts & Culture",
-      "Faculty of Arts & Humanities"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/festival-of-storytelling-opening-event-and-book-swap",
-    "image": "https://www.kcl.ac.uk/newimages/ah/dfi/260602-Opening-Storytelling.x27d6f5bb.png?w=780&h=440"
-  },
-  {
     "id": "ic:209153",
     "sourceEventId": "209153",
     "title": "Great Exhibition Road Festival",
@@ -394,134 +393,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csc-summit-may-2026_1778250510594_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:209469",
-    "sourceEventId": "209469",
-    "title": "Faculty of Medicine Staff Rounds | 12.30 Dr Tom Parker, Clinical Lecturer in Neurology [Brain Sciences] | 13.00 Dr Liz Whittaker, Professor of Practice (Paediatric Infectious Diseases & Imm) / Dr Francesca Neale, Honorary Clinical Research Assistant [Infectious Disease]",
-    "desc": "The Faculty of Medicine Staff Round series brings together academics and clinicians across the University and our NHS partners to explore and showcase how engagement with patients and treating clinical cases leads to scientific research which can benefit patients and populations.\n\nChair:\n\nProfessor Shiranee Sriskandan\n\nSpeaker details:\n\n12.30 to 13.00\n\n13.00 to 13.30\n\nThis is an internal only event . On-campus venues and online streaming details for this session can be found on the FoM Staff Round webpage (requires log-in): https://www.imperial.ac.uk/medicine/fom-staff/staff-rounds/",
-    "source": "IC",
-    "date": "2026-05-20T12:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "Online",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209469/20-may-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/staffround25-26event_1760974072139_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:194756",
-    "sourceEventId": "194756",
-    "title": "Open Themed Art Class 10",
-    "desc": "This art class is open to everyone working and studying at Imperial College.\n\nIt is free and open to all levels and abilities, so whether you are an absolute beginner or an experienced artist you will find the tutor has something special to offer you. Come and explore.\n\nPlease feel free to join and leave at any point during the session.\n\nThese sessions are responsive to you , providing an invaluable opportunity for you to create whatever you like with free materials and mentoring support with professional artist Mindy Lee.\n\nSpaces are limited to 10 per session\n\nTickets will be released 8 days in advance of the class. Please book a ticket from your COLLEGE EMAIL ADDRESS only. Tickets booked from external emails will be deleted. Please cancel your ticket if you can no longer attend.\n\nHow…",
-    "source": "IC",
-    "date": "2026-05-20T13:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Blyth Art Studio, Room RODH 319, LEVEL 3, Roderic Hill, Roderic Hill Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Arts",
-      "Education",
-      "Student experience",
-      "Staff experience"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/194756/open-themed-art-class-10-6/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/studio-table_1658237865363_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:207864",
-    "sourceEventId": "207864",
-    "title": "Community Garden Action Days",
-    "desc": "Drop-in sessions from 13:00–16:00 on Wednesdays. After the Easter break, sessions will resume on 22nd April. You’re also welcome to drop in and volunteer to water the plants during the break.\n\nJoin the student organisers and volunteers in the Community Garden at the Chaplaincy Centre. A chance to get outside, and be involved in growing plants, sowing seeds, clearing new ground, or pruning bushes. If this is your first session of gardening or if you have plenty of experience, all are welcome.\n\nOpen to students and staff. Drop-in during the afternoon and stay for as long as you like. Gloves, protective gear and tools provided, with wet weather options in needed.\n\nThe Community Garden at the Chaplaincy, accessed through the Multi-Faith Centre at15 Princes Gardens, or via the side gate of…",
-    "source": "IC",
-    "date": "2026-05-20T13:00:00+01:00",
-    "durationMin": 180,
-    "venue": "Chaplaincy Multi-Faith Centre",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207864/community-garden-action-days-5/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gardening-banner_1714416170181_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:206465",
-    "sourceEventId": "206465",
-    "title": "Junior Analysis Seminar – Averkios Averkiou (Bath)",
-    "desc": "Title\n\nHelical vortex filaments with compactly supported cross-sectional vorticity in the incompressible 3D Euler equations\n\nAbstract\n\nPlease note that the seminar will take place in person in room 144 of Huxley Building .\n\nClick here to get to the Junior Analysis Seminar webpage .",
-    "source": "IC",
-    "date": "2026-05-20T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "144, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/206465/junior-analysis-seminar-averkios-averkiou-bath/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/seminar-picture_1599821877881_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209436",
-    "sourceEventId": "209436",
-    "title": "Number Theory Seminar – Zeev Rudnick",
-    "desc": "Zeev Rudnick: The distribution of zeroes of modular forms\n\nMore information available on the Number Theory seminar website",
-    "source": "IC",
-    "date": "2026-05-20T16:00:00+01:00",
-    "durationMin": 60,
-    "venue": "King's College",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209436/number-theory-seminar-peter-dillery/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:209562",
-    "sourceEventId": "209562",
-    "title": "Introduction to the Self-Initiated Humour Protocol (online)",
-    "desc": "A new ground-breaking study in algorithmic human development is now open to all Imperial College students.",
-    "source": "IC",
-    "date": "2026-05-20T16:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209562/introduction-to-the-self-initiated-humour-protocol-online-17/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/info-page-banner65d34eff_1754060142063_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:209613",
     "sourceEventId": "209613",
     "title": "From Audit to Action: Accessibility that sticks",
@@ -606,7 +477,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209709/analysis-and-probability-seminar-haoren-xiong-birmingham/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:209707",
@@ -627,7 +498,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209707/analysis-and-probability-seminar-alexandre-girouard-universite-laval/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207985",
@@ -670,7 +541,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209711/algebra-colloquium-kyu-hwan-lee-university-of-connecticut/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:209519",
@@ -693,6 +564,134 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209519/hep-seminar-alice-campani-university-of-genova-cuore/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bebc_1697635355708_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209717",
+    "sourceEventId": "209717",
+    "title": "Geometry and Topology Seminar – Yanki Lekili (Imperial)",
+    "desc": "Yanki Lekili (Imperial): tbc\n\nMore information on the GT seminar website",
+    "source": "IC",
+    "date": "2026-05-22T13:30:00+01:00",
+    "durationMin": 60,
+    "venue": "130, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209717/geometry-and-topology-seminar-yanki-lekili-imperial/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:208374",
+    "sourceEventId": "208374",
+    "title": "Fluid Dynamics Seminar: Albane Thery (Warwick)",
+    "desc": "Twisting and buckling in bacteria: from individual to collective effects",
+    "source": "IC",
+    "date": "2026-05-22T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208374/fluid-dynamics-seminar-albane-thery-warwick/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209478",
+    "sourceEventId": "209478",
+    "title": "Matter Seminar: Quantum Shape of Matter",
+    "desc": "Quantum Shape of Matter\n\nPok Man Tam, Princeton University\n\nGeometry has shaped our understanding of the physical world since antiquity. In today’s quantum era, advances in experimental probes are revealing a new notion of “shape” encoded in the wavefunctions of quantum matter.\n\nIn this talk, I will show how topology and geometry provide powerful frameworks for characterizing quantum materials and give rise to experimentally accessible signatures. First, I will discuss the topology of metallic systems, where global properties of the Fermi sea define distinct phases, and present recent developments demonstrating how quantized correlation and transport effects can probe this topology in both solid-state and ultracold-atom platforms.\n\nI will then discuss the notion of quantum geometry,…",
+    "source": "IC",
+    "date": "2026-05-22T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "311, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209478/matter-seminar-quantum-shape-of-matter/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209643",
+    "sourceEventId": "209643",
+    "title": "Junior Geometry Seminar – Chunkai Xu (Warwick)",
+    "desc": "Title: Bridgeland Stability Conditions: Constructions and Relations to Gieseker Stability\n\nSpeaker: Chunkai Xu (Warwick)\n\nAbstract: Since Bridgeland’s foundational work, stability conditions on triangulated categories have become a central tool in algebraic geometry, with important applications to moduli spaces, wall-crossing, and derived categories. However, constructing Bridgeland stability conditions on the derived category of a smooth projective variety has remained a difficult problem for more than two decades. Until recently, the main general constructions were largely confined to varieties of dimension at most three. In a recent preprint, Chunyi Li proves the existence of Bridgeland stability conditions on the bounded derived category of any smooth projective variety over C.\n\nIn…",
+    "source": "IC",
+    "date": "2026-05-22T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Room 140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209643/junior-geometry-seminar-chunkai-xu/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:155890",
+    "sourceEventId": "155890",
+    "title": "Mindfulness Meditation Teacher Training (Non-residential) – Starting May 2026",
+    "desc": "Mindfulness Meditation Teacher Training (Non-residential) at the Imperial College London, Chaplaincy Multi-Faith Centre, in collaboration with Zenways – Starting May 2026\n\nDates\n\n23/24 May\n\n27/28 June\n\n1/2 August\n\n5/6 September\n\nMeeting 09:00-18:00 each day.\n\nAbout\n\nDo you have a regular daily mindfulness meditation practice and know firsthand the benefits it brings to your daily life? Would you like to share this with others, helping them find ways to live healthier, more stress-free lives? Why not train to become a Mindfulness Meditation Teacher?\n\nThis training is an equivalent to the generic Mindfulness Meditation Teacher Training. The course is recognised and accredited by the International Mindfulness Teachers Association (IMTA). The IMTA is a US-based organisation that oversees…",
+    "source": "IC",
+    "date": "2026-05-23T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Chaplaincy Multi-Faith Centre ",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/155890/meditation-and-mindfulness-teacher-training/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/zen-509-x-236-1_1728557914390_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207766",
+    "sourceEventId": "207766",
+    "title": "Christian Meditation: Online and In-person",
+    "desc": "Format: In person and Online (hybrid)\n\nIn Person: Chaplaincy, 15 Prince’s Gardens, South Kensington Campus, SW7 1NA (Drop-in)\n\nOnline via private Zoom Meeting invite . You can subscribe to our weekly mailing list to get the weekly Zoom Link.\n\nAnyone outside the Colleges of South Kensington who would like to attend online please contact Andrew Willson a.willson@imperial.ac.uk\n\nFacilitator: The Christian Meditation sessions are led by Andrew Willson, College Chaplain.\n\nAbout Christian Meditation\n\nChristianity has a long and rich history of meditation and contemplative prayer. These ancient Christian traditions have their roots in the monasteries of the desert hermits of the second century. Jesus himself often prayed in times of stillness and solitude. Many of these long established…",
+    "source": "IC",
+    "date": "2026-05-25T13:10:00+01:00",
+    "durationMin": 30,
+    "venue": "Chaplaincy Multi-Faith Centre, 15 Prince's Gardens, South Kensington, SW7 1NA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "mental health",
+      "Education",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207766/weekly-christian-meditation-5/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/christian-meditation-2-1086-x-307-1642077206866-x4-ezgifcom-webp-to-jpg-converter_1717097303804_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
@@ -1096,6 +1095,26 @@
     "image": "https://royalsociety.org/-/media/events/2026/11/neuromorphic-computing/neuromorphic-lead-image.jpg"
   },
   {
+    "id": "rs:2026-05-wbm-prize-lecture",
+    "sourceEventId": "2026-05-wbm-prize-lecture",
+    "title": "Wilkins-Bernal-Medawar Prize Lecture: Hope in the shadow of unnatural extinctions",
+    "desc": "Join us for the Royal Society Wilkins-Bernal-Medawar Medal and Lecture delivered by 2025 winner Professor Sadiah Qureshi.",
+    "source": "RS",
+    "date": "2026-05-28T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Policy",
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/05/wbm-prize-lecture/",
+    "image": "https://royalsociety.org/-/media/events/2026/5/wbm-prize-lecture/des9498_1_wbm-2025-prize-lecture_newsletter-image.jpg"
+  },
+  {
     "id": "rs:2026-05-nobel-foundation",
     "sourceEventId": "2026-05-nobel-foundation",
     "title": "The Future of Science with AI: Nobel Prize Dialogue London 2026",
@@ -1115,26 +1134,6 @@
     "match": 76,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/05/nobel-foundation/",
     "image": "https://royalsociety.org/-/media/events/2026/5/nobel-discussion/nobel-prize-lecture-hero.jpg"
-  },
-  {
-    "id": "rs:2026-05-wbm-prize-lecture",
-    "sourceEventId": "2026-05-wbm-prize-lecture",
-    "title": "Wilkins-Bernal-Medawar Prize Lecture: Hope in the shadow of unnatural extinctions",
-    "desc": "Join us for the Royal Society Wilkins-Bernal-Medawar Medal and Lecture delivered by 2025 winner Professor Sadiah Qureshi.",
-    "source": "RS",
-    "date": "2026-05-28T18:30:00+01:00",
-    "durationMin": 60,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/05/wbm-prize-lecture/",
-    "image": "https://royalsociety.org/-/media/events/2026/5/wbm-prize-lecture/des9498_1_wbm-2025-prize-lecture_newsletter-image.jpg"
   },
   {
     "id": "rs:2026-06-environment-prize-lecture",
