@@ -144,6 +144,27 @@
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
+    "id": "kcl:crossroads-people-places-and-ideas",
+    "sourceEventId": "292b5c31-0d7d-4c57-9cf1-4e868556efbb",
+    "title": "Crossroads: People, Places, and Ideas",
+    "desc": "The English and Creative Writing programmes are delighted to invite you to the annual PGR Conference on the theme of “Crossroads: People, Places, and Ideas”.",
+    "source": "KCL",
+    "date": "2026-06-02T09:30:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Arts & Culture",
+      "Department of English"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/crossroads-people-places-and-ideas",
+    "image": "https://www.kcl.ac.uk/newimages/ah/english/news-events/crossroads-780x440-shutterstock.x0a8e89b0.png"
+  },
+  {
     "id": "kcl:stars-seminar-with-professor-sara-brown",
     "sourceEventId": "286a65d1-1227-4c98-86db-d06894e767cc",
     "title": "From genetic risk to prevention and/or treatment of atopic eczema – a challenging but rewarding pathway",
@@ -285,27 +306,6 @@
     "image": "https://www.kcl.ac.uk/ImportedImages/Schools/IoP/News-and-Events/london.x8976e108.png?crop=780,440,0,5"
   },
   {
-    "id": "kcl:kings-leavers-choral-evensong-at-the-strand",
-    "sourceEventId": "f45c3a9a-708e-4b50-8021-3fca7cb19797",
-    "title": "King’s Leavers Choral Evensong at the Strand",
-    "desc": "The final Choral Evensong service of the academic year.",
-    "source": "KCL",
-    "date": "2026-06-02T17:30:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Arts & Culture",
-      "International",
-      "Society"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/kings-leavers-choral-evensong-at-the-strand",
-    "image": "https://www.kcl.ac.uk/departmentalimages/deans-office/chaplaincy/sheet-music-red-rose.x6817f38f.jpg?w=780&h=509&crop=780,440,0,35"
-  },
-  {
     "id": "ic:209153",
     "sourceEventId": "209153",
     "title": "Great Exhibition Road Festival",
@@ -329,90 +329,90 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250608-gerf-festival-bf-979-57-2_1777546039310_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:207219",
-    "sourceEventId": "207219",
-    "title": "Imperial Science Cafe: Targeting Metabolism to Treat Cancer",
-    "desc": "Join us for the next Imperial Science Cafe: Targeting Metabolism to Treat Cancer at Maggie’s West London .\n\nCancer cells behave differently from healthy cells, including the way they use and process nutrients. This session will explore how researchers are learning to “starve” cancer by targeting its altered metabolism. We will explain how cancer cells use metabolic fuels in unique ways, and how these differences can be turned into treatment opportunities. Attendees will hear how scientists are developing drugs that block key metabolic pathways, aiming to slow tumour growth while sparing normal tissues. We will also discuss how diet, the immune system, and existing therapies like chemotherapy might interact with cancer metabolism. The session will highlight promising clinical trials,…",
+    "id": "ic:207311",
+    "sourceEventId": "207311",
+    "title": "Human immune system variation, development, and the microbial roots of health",
+    "desc": "Professor Petter Brodin, Garfield Weston Chair of Neonatology, and Professor of Paediatric Immunology, explores how microbes in early life shape the developing immune system.\n\nPlease register to attend in person. A live stream link for online attendance is available on this page.\n\nWe look forward to seeing you on Wednesday 27 May!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nWhy does the same vaccine produce lifelong protection in some children and barely a trace in others? And why, despite millions of years of evolution honing our immune defences , are allergies, asthma, and autoimmune diseases rising steeply in modern societies? These questions animate the work of my…",
     "source": "IC",
-    "date": "2026-05-21T18:30:00+01:00",
-    "durationMin": 90,
-    "venue": "Maggie’s West London",
+    "date": "2026-05-27T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Workshop",
+      "Lecture",
+      "Imperial Inaugurals",
+      "Institutional Event",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207219/imperial-science-cafe-targeting-metabolism-to-treat-cancer/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperiallates2026_1773240071011_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/207311/human-immune-system-variation-development-and-the-microbial-roots-of-health/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperialinaugural-whats-on-petterbrodin2_1773331765719_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:209241",
-    "sourceEventId": "209241",
-    "title": "Climate Solutions Catalyst Summit",
-    "desc": "​Join Undaunted’s Climate Solutions Catalyst for a unique opportunity to explore the future of climate innovation at the Climate Solutions Catalyst (CSC) Summit.\n\n​Explore alma , our AI platform designed to uncover overlooked, high-potential climate solutions. Get an inside look at what we’ve built, how it works, and what it’s surfaced across the research landscape over the past two years.\n\n​Meet CSC Cohort Nº2 , researchers identified through alma and supported by the CSC, advancing breakthrough solutions in climate adaptation and resilience.\n\n​ Hear directly from alma users representing a range of organisations including venture studios, venture builders, and philanthropic foundations, as they share how they are using the platform to inform decisions, unlock opportunities, and…",
+    "id": "ic:208718",
+    "sourceEventId": "208718",
+    "title": "Green Science Festival",
+    "desc": "Imperial College will be the London satellite location for the Green Science Festival 2026, taking place in Amsterdam.\n\nWe will be streaming the festival throughout the day on Thursday, 28 May 2026, creating an opportunity for colleagues in London to drop in, connect, and engage with the programme locally. This would be a full-day event focused on advancing environmental sustainability in research, featuring inspiring presentations, interactive break-out sessions, and opportunities to network.\n\nWe warmly invite you to save the date and share with your colleagues!\n\nYou can find the festival programme here: Green Science Festival 2026 – Green Labs NL\n\n📍 Location: South Kensington campus – details will be sent via email upon registration.\n\n🔗 Registration: Please sign up via Eventbrite.\n\n☕…",
     "source": "IC",
-    "date": "2026-05-27T12:30:00+01:00",
-    "durationMin": 270,
-    "venue": "The Conduit",
+    "date": "2026-05-28T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Venue tbc, The Queen's Tower, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
       "General",
-      "Climate change",
+      "Sustainability",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209241/climate-solutions-catalyst-summit-may-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csc-summit-may-2026_1778250510594_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/208718/green-science-festival/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/231025-j-tye-imperial-38-white-city-labs-4263_1776448995701_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:209613",
-    "sourceEventId": "209613",
-    "title": "From Audit to Action: Accessibility that sticks",
-    "desc": "To mark Global Accessibility Awareness Day, join us for a dedicated webinar with the accessibility testing specialists from Zoonou , with whom we partner for their extensive experience delivering high-quality testing and digital assurance services to Imperial and other HE institutions.\n\nZoonou’s accessibility team will explore what digital accessibility compliance really means in practice, and how you can create inclusive digital experiences that work for everyone.\n\nDrawing on their work supporting public and private sector clients, they will walk you through the process of conducting an accessibility audit, from identifying issues through to clear, actionable reporting.\n\nYou’ll gain insight into:\n\nThe fundamentals of accessibility compliance and why it truly matters\n\nWhat to expect from…",
+    "id": "ic:208569",
+    "sourceEventId": "208569",
+    "title": "Imperial Collider: Health – Innovations for partners, people & populations",
+    "desc": "What is the event about?\n\nImperial Collider returns, providing you the opportunity to meet world-leading researchers across Imperial’s health and innovation ecosystem. Come along to hear from startup and spinout founders from our community, representatives from funding and investment organisations, and leading industry figures in health, pharma and biosciences.\n\nThis year, our keynote speaker is Dr Fiona Marshall, President of Biomedical Research at Novartis , who will bring her extensive experience and cross-cutting expertise to inspire impact-making innovation throughout the community.\n\nWhat is the agenda?\n\nFull agenda available on Eventbrite\n\nWhat can you expect to take away from our event?\n\nDirect access to top voices in biomedical innovation from Imperial, pharma, investment, and…",
     "source": "IC",
-    "date": "2026-05-21T12:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
+    "date": "2026-06-04T09:30:00+01:00",
+    "durationMin": 450,
+    "venue": "The Royal Geography Society",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Seminar",
-      "Accessibility",
-      "Event",
+      "Conference",
+      "enterprise",
+      "Institutional Event",
+      "Public"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208569/imperial-collider-health-innovations-for-partners-people-populations/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/website-banner-health_1776849602824_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209857",
+    "sourceEventId": "209857",
+    "title": "How universities can lead the way towards a sustainable future",
+    "desc": "Join the launch of our Sustainable Imperial Strategy (2026–2031) .\n\nAs a community of thinkers, teachers, professionals and innovators – how do we best translat e our sustainability ideas into real work i mpact? How do we bring our ingenuity to guide our institution and the world beyond to a more sustainable future?\n\nWhether you are deeply involved in sustainability or just starting out, you are a vital part of our collective journey towards a more sustainable Imperial and planet.\n\nAcross a short presentation, an exhibition showcase, and networking afternoon tea, you’ll meet the staff, students, alumni and community members bringing our sustainability ambitions to reality – and learn how you can get involved.\n\nJoin us as we unveil our vision for the next five years and beyond.",
+    "source": "IC",
+    "date": "2026-06-30T14:15:00+01:00",
+    "durationMin": 105,
+    "venue": "G16/Foyer, Sir Alexander Fleming Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Sustainability",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209613/from-audit-to-action-accessibility-that-sticks/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/190920-what-the-tech-invention-rooms-058_1778678321909_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:196231",
-    "sourceEventId": "196231",
-    "title": "Lunchtime Concert – Alvin Moisey (piano)",
-    "desc": "Alvin Moisey (piano)\n\nDiaghilev Presents…\n\nA programme of ballet music produced by or connected with Sergei Diaghilev in the early 20th century including music by Tchaikovsky, Debussy, Constant Lambert and Stravinsky Petrushka",
-    "source": "IC",
-    "date": "2026-05-21T13:00:00+01:00",
-    "durationMin": 45,
-    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Arts",
-      "Creative",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/196231/lunchtime-concert-alvin-moisey-piano-7/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/alvin-moisey-2025_1752858263947_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/209857/how-universities-can-lead-the-way-towards-a-sustainable-future/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:205765",
@@ -436,27 +436,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/picture1_1682085721907_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:209709",
-    "sourceEventId": "209709",
-    "title": "Analysis and Probability Seminar – Haoren Xiong (Birmingham)",
-    "desc": "Haoren Xiong (Birmingham) Pseudodifferential operators with analytic or Gevrey regularity products\n\nMore details on the website",
-    "source": "IC",
-    "date": "2026-05-21T15:00:00+01:00",
-    "durationMin": 60,
-    "venue": " King's College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209709/analysis-and-probability-seminar-haoren-xiong-birmingham/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
-  },
-  {
     "id": "ic:209707",
     "sourceEventId": "209707",
     "title": "Analysis and Probability Seminar – Alexandre Girouard (Université Laval)",
@@ -475,7 +454,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209707/analysis-and-probability-seminar-alexandre-girouard-universite-laval/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207985",
@@ -518,7 +497,28 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209711/algebra-colloquium-kyu-hwan-lee-university-of-connecticut/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:207219",
+    "sourceEventId": "207219",
+    "title": "Imperial Science Cafe: Targeting Metabolism to Treat Cancer",
+    "desc": "Join us for the next Imperial Science Cafe: Targeting Metabolism to Treat Cancer at Maggie’s West London .\n\nCancer cells behave differently from healthy cells, including the way they use and process nutrients. This session will explore how researchers are learning to “starve” cancer by targeting its altered metabolism. We will explain how cancer cells use metabolic fuels in unique ways, and how these differences can be turned into treatment opportunities. Attendees will hear how scientists are developing drugs that block key metabolic pathways, aiming to slow tumour growth while sparing normal tissues. We will also discuss how diet, the immune system, and existing therapies like chemotherapy might interact with cancer metabolism. The session will highlight promising clinical trials,…",
+    "source": "IC",
+    "date": "2026-05-21T18:30:00+01:00",
+    "durationMin": 90,
+    "venue": "Maggie’s West London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207219/imperial-science-cafe-targeting-metabolism-to-treat-cancer/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperiallates2026_1773240071011_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209519",
@@ -561,7 +561,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209717/geometry-and-topology-seminar-yanki-lekili-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208374",
@@ -582,7 +582,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208374/fluid-dynamics-seminar-albane-thery-warwick/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209478",
@@ -603,7 +603,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209478/matter-seminar-quantum-shape-of-matter/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209643",
@@ -690,6 +690,95 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207576/conference-in-honour-of-dr-martin-clark/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/clark_1773920081892_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:204745",
+    "sourceEventId": "204745",
+    "title": "IDE Seminar Series – Fiona Fox",
+    "desc": "Fiona Fox\n\nMore information to come.\n\nLocation: White City, School of Public Health Building Room: SPH 204 – Seminar Room I n-person event. If you wish to join online, please register here.",
+    "source": "IC",
+    "date": "2026-05-26T12:30:00+01:00",
+    "durationMin": 60,
+    "venue": "SPH 204 - Seminar Room , School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Infectious diseases",
+      "MRC Centre for Global Infectious Disease Analysis",
+      "Modelling",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/204745/ide-seminar-series-fiona-fox/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ide-seminars-fiona-fox-tv_1779106171183_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207949",
+    "sourceEventId": "207949",
+    "title": "Machine Intelligence for Health Conference (MI4H)",
+    "desc": "The MI4H Conference is organised by the AI for Healthcare Centres at Imperial , bringing together a national community of researchers and innovators working at the forefront of medical imaging, artificial intelligence, and digital health. The conference features contributions from leading Centres for Doctoral Training (CDTs) and partner institutions, including – UCL’s CDT in AI-enabled Healthcare Systems, The University of Leeds’ CDT in AI for Medical Diagnosis and Care, The University of Edinburgh’s CDT in Biomedical AI and CDT in Biomedical Innovation.\n\nThis collaborative event is partly funded by UK Research and Innovation (UKRI) and provides a platform to showcase cutting-edge research, foster interdisciplinary exchange, and strengthen connections across the AI for healthcare…",
+    "source": "IC",
+    "date": "2026-05-27T08:30:00+01:00",
+    "durationMin": 480,
+    "venue": "The Slate Warwick Conferences",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Artificial intelligence",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207949/machine-intelligence-for-health-conference-mi4h/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250924-ai-for-healthcare-centres-industry-day-eb-088-1_1777467078005_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:205103",
+    "sourceEventId": "205103",
+    "title": "LC2 Seminar – Juan Peypouquet (University of Groningen)",
+    "desc": "Title: Acceleration of first order methods in convex optimization\n\nAbstract : The dynamic nature of first order methods can be interpreted by means of continuous time models. In this survey talk, we explain how physical concepts like acceleration , inertia or momentum have been used to improve the performance of convex optimization algorithms. We give special attention to the historical evolution of complexity results, especially in the form of convergence rates, under the light of this connection. We also discuss different ways in which acceleration schemes can be applied when the smoothness or strong convexity parameters are unknown, and how these ideas extend to saddle point and constrained problems.",
+    "source": "IC",
+    "date": "2026-05-27T12:00:00+01:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "maths",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/205103/lc2-seminar-juan-peypouquet-university-of-groningen/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/logofinal_1632247741919_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209241",
+    "sourceEventId": "209241",
+    "title": "Climate Solutions Catalyst Summit",
+    "desc": "​Join Undaunted’s Climate Solutions Catalyst for a unique opportunity to explore the future of climate innovation at the Climate Solutions Catalyst (CSC) Summit.\n\n​Explore alma , our AI platform designed to uncover overlooked, high-potential climate solutions. Get an inside look at what we’ve built, how it works, and what it’s surfaced across the research landscape over the past two years.\n\n​Meet CSC Cohort Nº2 , researchers identified through alma and supported by the CSC, advancing breakthrough solutions in climate adaptation and resilience.\n\n​ Hear directly from alma users representing a range of organisations including venture studios, venture builders, and philanthropic foundations, as they share how they are using the platform to inform decisions, unlock opportunities, and…",
+    "source": "IC",
+    "date": "2026-05-27T12:30:00+01:00",
+    "durationMin": 270,
+    "venue": "The Conduit",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Climate change",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209241/climate-solutions-catalyst-summit-may-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csc-summit-may-2026_1778250510594_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
