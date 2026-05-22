@@ -415,112 +415,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:205765",
-    "sourceEventId": "205765",
-    "title": "Introductory Medical Statistics (held online)",
-    "desc": "Introductory Medical Statistics\n\nThe Introductory Medical Statistics Course introduces you to basic statistical concepts. The course is run by statisticians and epidemiologists based at the National Heart and Lung Institute (NHLI).\n\nIt is suitable for: Doctors (including trainee grades), nurses, allied health professionals, clinical research fellows and postgraduate students.\n\nFor more information, please visit the website: https://www.medstatscourse.co.uk\n\nRegistration fees:\n\n£125 – MSc/PhD students\n\n£195 – academic/NHS/charities\n\nThe course will be held on Microsoft Teams, and recordings of the two half days are circulated the following week. Delegates also receive an individual attendance certificate.\n\nWe send the slides out about a week before the event.\n\nNB:\n\nImperial College staff…",
-    "source": "IC",
-    "date": "2026-05-21T13:30:00+01:00",
-    "durationMin": 480,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Training Course",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/205765/introductory-medical-statistics-held-online-6/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/picture1_1682085721907_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209519",
-    "sourceEventId": "209519",
-    "title": "HEP seminar: Alice Campani (University of Genova) – Search for Majorana neutrinos with millikelvin technology in CUORE: current status and road ahead",
-    "desc": "Are neutrinos their own antiparticles? What is their mass scale? What is the origin of the matter-antimatter asymmetry in the Universe? Neutrinoless double beta decay (0𝜈𝛽𝛽), a lepton number violating process, could help answer these questions. Current limits on the decay half-life far exceed the age of the Universe: its rarity poses major experimental challenges. After a brief overview of the current landscape of 0𝜈𝛽𝛽 searches and the leading techniques in the field, this seminar will discuss the challenges faced and milestones achieved by the CUORE collaboration with cryogenic calorimeters. CUORE (Cryogenic Underground Observatory for Rare Events) is a tonne-scale experiment steadily taking data underground at the Laboratori Nazionali del Gran Sasso in Italy since 2017. With…",
-    "source": "IC",
-    "date": "2026-05-22T13:30:00+01:00",
-    "durationMin": 60,
-    "venue": "539, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Physics of Particles",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209519/hep-seminar-alice-campani-university-of-genova-cuore/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bebc_1697635355708_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209717",
-    "sourceEventId": "209717",
-    "title": "Geometry and Topology Seminar – Yanki Lekili (Imperial)",
-    "desc": "Yanki Lekili (Imperial): tbc\n\nMore information on the GT seminar website",
-    "source": "IC",
-    "date": "2026-05-22T13:30:00+01:00",
-    "durationMin": 60,
-    "venue": "130, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209717/geometry-and-topology-seminar-yanki-lekili-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:208374",
-    "sourceEventId": "208374",
-    "title": "Fluid Dynamics Seminar: Albane Thery (Warwick)",
-    "desc": "Twisting and buckling in bacteria: from individual to collective effects",
-    "source": "IC",
-    "date": "2026-05-22T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208374/fluid-dynamics-seminar-albane-thery-warwick/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209478",
-    "sourceEventId": "209478",
-    "title": "Matter Seminar: Quantum Shape of Matter",
-    "desc": "Quantum Shape of Matter\n\nPok Man Tam, Princeton University\n\nGeometry has shaped our understanding of the physical world since antiquity. In today’s quantum era, advances in experimental probes are revealing a new notion of “shape” encoded in the wavefunctions of quantum matter.\n\nIn this talk, I will show how topology and geometry provide powerful frameworks for characterizing quantum materials and give rise to experimentally accessible signatures. First, I will discuss the topology of metallic systems, where global properties of the Fermi sea define distinct phases, and present recent developments demonstrating how quantized correlation and transport effects can probe this topology in both solid-state and ultracold-atom platforms.\n\nI will then discuss the notion of quantum geometry,…",
-    "source": "IC",
-    "date": "2026-05-22T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "311, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209478/matter-seminar-quantum-shape-of-matter/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:209643",
     "sourceEventId": "209643",
     "title": "Junior Geometry Seminar – Chunkai Xu (Warwick)",
@@ -650,6 +544,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207949/machine-intelligence-for-health-conference-mi4h/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250924-ai-for-healthcare-centres-industry-day-eb-088-1_1777467078005_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210002",
+    "sourceEventId": "210002",
+    "title": "Meet our cleaning robots!",
+    "desc": "Come along to a drop-in showcase event hosted by MITIE , Imperial’s cleaning contractor, and meet the latest cleaning robots and innovations in action. You might already have met Parker working hard to keep the campus clean.\n\nMITIE, working with ICE , will be bringing a fleet of robotic cleaners and other new technologies to South Kensington Campus to demonstrate solutions that are already in use across the university, as well as innovations planned for the future.\n\nThe showcase will be set up under a large gazebo on Dangoor Plaza, with a range of robotics on display throughout the day.\n\nThis event is open to all with Minibot robot cleaners available as prizes during the day!\n\nNo booking is required. Just drop in, say hello and meet the robots.",
+    "source": "IC",
+    "date": "2026-05-27T10:00:00+01:00",
+    "durationMin": 300,
+    "venue": "Dangoor Plaza, Faculty Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210002/meet-our-cleaning-robots/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/1773651472671_1779375971206_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:205103",
@@ -800,6 +715,91 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209348/college-evensong-for-trinity/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/pascal-candle-coir-dsc9633-small-version_1623405922312_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209728",
+    "sourceEventId": "209728",
+    "title": "This might get uncomfortable – navigating personal conversations about air quality, health and personal values",
+    "desc": "Led by Dr Kayla Schulte, this hands-on session will be highly discussion-based and practical. It will include:\n\nReal-world scenarios (e.g. wood burning, Low Emission Zones, clinical conversations)\n\nInsights from colleagues across social & behavioural science, anthropology, psychology, healthcare, and environmental data\n\nOpportunities to reflect on and practise how these conversations unfold\n\nPractical ways to navigate (not “win”) difficult conversations and simple approaches you can apply in one-to-one interactions (with colleagues, stakeholders, communities, etc.)\n\nWorkshop participants will leave with:\n\nA set of practical principles/tools for navigating conversations about air quality and health\n\nHaving contributed to collective insight that will be shared more widely (e.g. through the…",
+    "source": "IC",
+    "date": "2026-05-28T10:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Tower Hamlets Town Hall",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Debate",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209728/this-might-get-uncomfortable-navigating-personal-conversations-about-air-quality-health-and-personal-values/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/for-kayla-conference_1778846120733_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209698",
+    "sourceEventId": "209698",
+    "title": "CumbriaMed Research Webinar – “How Bioengineering Can Improve Care”",
+    "desc": "The PCSM Research Hub invites you to join us for the next edition of the CumbriaMed Research Webinar Series, which showcases leading health researchers working in and with Cumbria. Each session features two expert speakers and a live Q&A. The series is open to staff, patients, relatives, and the public; all are welcome.\n\nTopic : “How Bioengineering Can Improve Care” Date: Thursday 28 May 2026 Time: 12:30–13:30 Location: Zoom (registration required)\n\nRegister: http://tinyurl.com/pcsm-webi10\n\nSpeakers :\n\nMr Harry Tustin Consultant Ear, Nose and Throat Surgeon, North Cumbria Integrated Care NHS Foundation Trust “3D Printing of Ear Bones and New Hearing Devices” Harry is an ENT surgeon at NCIC whose work includes 3D-printed temporal bones to support the planning of complex ear surgery. He…",
+    "source": "IC",
+    "date": "2026-05-28T12:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209698/cumbriamed-research-webinar-how-bioengineering-can-improve-care/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/untitled-design-23_1762943463930_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:206218",
+    "sourceEventId": "206218",
+    "title": "Lunchtime Concert – Rautio Piano Trio",
+    "desc": "Judith Weir Piano Trio Two ‘Open your own treasure house’\n\nGermaine Tailleferre Piano Trio\n\nAmy Beach Piano Trio in A minor Op 150",
+    "source": "IC",
+    "date": "2026-05-28T13:00:00+01:00",
+    "durationMin": 45,
+    "venue": "Holy Trinity Church Prince Consort Road London, SW7 2BA, Holy Trinity Church, Holy Trinity Church, Off campus",
+    "area": "Off",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Concerts",
+      "Creative",
+      "Arts",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/206218/lunchtime-concert-rautio-piano-trio-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/rpt4-copy_1771849531424_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "lse:how-to-talk-to-ai",
+    "sourceEventId": "how-to-talk-to-ai",
+    "title": "How to talk to AI",
+    "desc": "How to talk to AI",
+    "source": "LSE",
+    "date": "2026-06-02T18:00:00+01:00",
+    "durationMin": 120,
+    "venue": "In-person public event (Space House, 12 Keeley Street, London, WC2B 4BA)",
+    "area": "Holborn",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/dsi/events/2025-26/public-events/how-to-talk-to-ai",
+    "image": null
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
