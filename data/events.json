@@ -249,23 +249,6 @@
     "image": "https://www.kcl.ac.uk/newimages/ioppn/blogs/research-culture-blogs/research-culture-books.xfddcebed.jpg?w=780&h=520&crop=780,440,0,80"
   },
   {
-    "id": "kcl:contemporary-art-and-the-moving-image-ma-offer-holder-event",
-    "sourceEventId": "d0893896-90c8-477b-b3c2-2b79d7373fc7",
-    "title": "Contemporary Art and the Moving Image MA Offer Holder Event - 2 June 2026",
-    "desc": "Join us for an online offer holder meeting for the Contemporary Art & the Moving Image MA, jointly run by King’s College London and the Courtauld Institute of Art. This course-specific session is a great opportunity to hear directly from the academic team about the programme, including teaching and research themes, student experience, and the unique opportunities available across both institutions. You’ll also have the chance to ask questions and meet fellow offer holders virtually ahead of starting the course.",
-    "source": "KCL",
-    "date": "2026-06-02T14:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/contemporary-art-and-the-moving-image-ma-offer-holder-event",
-    "image": "https://www.kcl.ac.uk/newimages/sustainabilty/ai-sustainability-mobile.x08389ae0.png?w=780&h=521&crop=780,440,0,41"
-  },
-  {
     "id": "kcl:graduate-jobs-virtual-fair-2026",
     "sourceEventId": "b74fba7e-3f78-4544-b034-36eec9233c3f",
     "title": "Graduate Jobs Virtual Fair 2026",
@@ -285,6 +268,23 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/graduate-jobs-virtual-fair-2026",
     "image": "https://www.kcl.ac.uk/newimages/careers/ee/festivals/2022-fairs-images/graduate-jobs.x90b0f7bd.jpg?w=782&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:contemporary-art-and-the-moving-image-ma-offer-holder-event",
+    "sourceEventId": "d0893896-90c8-477b-b3c2-2b79d7373fc7",
+    "title": "Contemporary Art and the Moving Image MA Offer Holder Event - 2 June 2026",
+    "desc": "Join us for an online offer holder meeting for the Contemporary Art & the Moving Image MA, jointly run by King’s College London and the Courtauld Institute of Art. This course-specific session is a great opportunity to hear directly from the academic team about the programme, including teaching and research themes, student experience, and the unique opportunities available across both institutions. You’ll also have the chance to ask questions and meet fellow offer holders virtually ahead of starting the course.",
+    "source": "KCL",
+    "date": "2026-06-02T14:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/contemporary-art-and-the-moving-image-ma-offer-holder-event",
+    "image": "https://www.kcl.ac.uk/newimages/sustainabilty/ai-sustainability-mobile.x08389ae0.png?w=780&h=521&crop=780,440,0,41"
   },
   {
     "id": "kcl:premier-emba-london-2-june-2026",
@@ -649,7 +649,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209715/number-theory-seminar-miriam-norris/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:209348",
