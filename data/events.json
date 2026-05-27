@@ -331,28 +331,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250608-gerf-festival-bf-979-57-2_1777546039310_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:207311",
-    "sourceEventId": "207311",
-    "title": "Human immune system variation, development, and the microbial roots of health",
-    "desc": "Professor Petter Brodin, Garfield Weston Chair of Neonatology, and Professor of Paediatric Immunology, explores how microbes in early life shape the developing immune system.\n\nPlease register to attend in person. A live stream link for online attendance is available on this page.\n\nWe look forward to seeing you on Wednesday 27 May!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nWhy does the same vaccine produce lifelong protection in some children and barely a trace in others? And why, despite millions of years of evolution honing our immune defences , are allergies, asthma, and autoimmune diseases rising steeply in modern societies? These questions animate the work of my…",
-    "source": "IC",
-    "date": "2026-05-27T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Imperial Inaugurals",
-      "Institutional Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207311/human-immune-system-variation-development-and-the-microbial-roots-of-health/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperialinaugural-whats-on-petterbrodin2_1773331765719_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:208718",
     "sourceEventId": "208718",
     "title": "Green Science Festival",
@@ -417,27 +395,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:207576",
-    "sourceEventId": "207576",
-    "title": "Conference in honour of Dr Martin Clark",
-    "desc": "This event is held in honour of Dr Martin Clark who passed away in 2025. Colleagues, friends and former students paid their own tributes to him via A tribute to Martin Clark 1938 – 2025\n\nParticipants are asked to register for the catering purposes. There is NO registration fee.\n\nRegistration deadline: 12 May 2026 – registration is closed now.\n\nPreliminary Programme\n\nDay 1 [26 May 2026]\n\n· 09:00–9:15 Registration, coffee\n\n· 09:15–9:30 Welcoming remark\n\n· 9:30–10:15 Richard Vinter\n\n· 10:15–11:00 Terry Lyons\n\n· 11:00–11:30 Coffee\n\n· 11:30- 12:15 Nigel Newton\n\n· 12:15-13:00 Eugene Wong\n\n· 13:00–14:00 Lunch\n\n· 14:00–14:45 Malcolm Smith\n\n· 14:45–15:30 Peter Caines\n\n· 15:30–16:00 Coffee\n\n· 16:00–16:45 Andrew Heunis\n\n· 16:45–17:30 Tom Cass\n\n· 17:30-18:00 Remembering Martin\n\n· 18:00 Workshop…",
-    "source": "IC",
-    "date": "2026-05-26T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "tbc, 170 Queens Gate, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207576/conference-in-honour-of-dr-martin-clark/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/clark_1773920081892_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:207949",
     "sourceEventId": "207949",
     "title": "Machine Intelligence for Health Conference (MI4H)",
@@ -460,197 +417,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250924-ai-for-healthcare-centres-industry-day-eb-088-1_1777467078005_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:210002",
-    "sourceEventId": "210002",
-    "title": "Meet our cleaning robots!",
-    "desc": "Come along to a drop-in showcase event hosted by MITIE , Imperial’s cleaning contractor, and meet the latest cleaning robots and innovations in action. You might already have met Parker working hard to keep the campus clean.\n\nMITIE, working with ICE , will be bringing a fleet of robotic cleaners and other new technologies to South Kensington Campus to demonstrate solutions that are already in use across the university, as well as innovations planned for the future.\n\nThe showcase will be set up under a large gazebo on Dangoor Plaza, with a range of robotics on display throughout the day.\n\nThis event is open to all with Minibot robot cleaners available as prizes during the day!\n\nNo booking is required. Just drop in, say hello and meet the robots.",
+    "id": "ic:207311",
+    "sourceEventId": "207311",
+    "title": "Human immune system variation, development, and the microbial roots of health",
+    "desc": "Professor Petter Brodin, Garfield Weston Chair of Neonatology, and Professor of Paediatric Immunology, explores how microbes in early life shape the developing immune system.\n\nPlease register to attend in person. A live stream link for online attendance is available on this page.\n\nWe look forward to seeing you on Wednesday 27 May!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nWhy does the same vaccine produce lifelong protection in some children and barely a trace in others? And why, despite millions of years of evolution honing our immune defences , are allergies, asthma, and autoimmune diseases rising steeply in modern societies? These questions animate the work of my…",
     "source": "IC",
-    "date": "2026-05-27T10:00:00+01:00",
-    "durationMin": 300,
-    "venue": "Dangoor Plaza, Faculty Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "events",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210002/meet-our-cleaning-robots/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/1773651472671_1779375971206_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:205103",
-    "sourceEventId": "205103",
-    "title": "LC2 Seminar – Juan Peypouquet (University of Groningen)",
-    "desc": "Title: Acceleration of first order methods in convex optimization\n\nAbstract : The dynamic nature of first order methods can be interpreted by means of continuous time models. In this survey talk, we explain how physical concepts like acceleration , inertia or momentum have been used to improve the performance of convex optimization algorithms. We give special attention to the historical evolution of complexity results, especially in the form of convergence rates, under the light of this connection. We also discuss different ways in which acceleration schemes can be applied when the smoothness or strong convexity parameters are unknown, and how these ideas extend to saddle point and constrained problems.",
-    "source": "IC",
-    "date": "2026-05-27T12:00:00+01:00",
+    "date": "2026-05-27T17:30:00+01:00",
     "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
+    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Seminar",
-      "maths",
+      "Lecture",
+      "Imperial Inaugurals",
+      "Institutional Event",
       "Event",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/205103/lc2-seminar-juan-peypouquet-university-of-groningen/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/logofinal_1632247741919_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209241",
-    "sourceEventId": "209241",
-    "title": "Climate Solutions Catalyst Summit",
-    "desc": "​Join Undaunted’s Climate Solutions Catalyst for a unique opportunity to explore the future of climate innovation at the Climate Solutions Catalyst (CSC) Summit.\n\n​Explore alma , our AI platform designed to uncover overlooked, high-potential climate solutions. Get an inside look at what we’ve built, how it works, and what it’s surfaced across the research landscape over the past two years.\n\n​Meet CSC Cohort Nº2 , researchers identified through alma and supported by the CSC, advancing breakthrough solutions in climate adaptation and resilience.\n\n​ Hear directly from alma users representing a range of organisations including venture studios, venture builders, and philanthropic foundations, as they share how they are using the platform to inform decisions, unlock opportunities, and…",
-    "source": "IC",
-    "date": "2026-05-27T12:30:00+01:00",
-    "durationMin": 270,
-    "venue": "The Conduit",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Climate change",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209241/climate-solutions-catalyst-summit-may-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csc-summit-may-2026_1778250510594_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:207865",
-    "sourceEventId": "207865",
-    "title": "Community Garden Action Days",
-    "desc": "Drop-in sessions from 13:00–16:00 on Wednesdays. After the Easter break, sessions will resume on 22nd April. You’re also welcome to drop in and volunteer to water the plants during the break.\n\nJoin the student organisers and volunteers in the Community Garden at the Chaplaincy Centre. A chance to get outside, and be involved in growing plants, sowing seeds, clearing new ground, or pruning bushes. If this is your first session of gardening or if you have plenty of experience, all are welcome.\n\nOpen to students and staff. Drop-in during the afternoon and stay for as long as you like. Gloves, protective gear and tools provided, with wet weather options in needed.\n\nThe Community Garden at the Chaplaincy, accessed through the Multi-Faith Centre at15 Princes Gardens, or via the side gate of…",
-    "source": "IC",
-    "date": "2026-05-27T13:00:00+01:00",
-    "durationMin": 180,
-    "venue": "Chaplaincy Multi-Faith Centre",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207865/community-garden-action-days-6/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gardening-banner_1714416170181_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209771",
-    "sourceEventId": "209771",
-    "title": "LC2 Seminar – Matías Delgadino (University of Texas at Austin)",
-    "desc": "Title: Diffusion-based Posterior Sampling: A Feynman-Kac Analysis of Bias and Stability\n\nAbstract : Diffusion-based posterior samplers use pretrained diffusion priors to sample from measurement- or reward-conditioned posteriors, and are widely used for inverse problems. Yet their theoretical behavior remains poorly understood: even with exact prior scores, their outputs are biased, and in low-temperature regimes their discretizations can become unstable. We characterize this bias by introducing a tractable surrogate path connecting the true posterior to a standard Gaussian and comparing it to the sampler’s path. Their density ratio satisfies a parabolic PDE whose reaction term measures the accumulated bias. A Feynman-Kac representation then expresses the Radon-Nikodym correction as an…",
-    "source": "IC",
-    "date": "2026-05-27T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "maths",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209771/lc2-seminar-matias-delgadino-university-of-texas-at-austin/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/logofinal_1632247741919_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:207854",
-    "sourceEventId": "207854",
-    "title": "Junior Analysis Seminar – Filippo Giovagnini (Imperial)",
-    "desc": "Title\n\nNon-Selection of Lagrangian Trajectories in the Zero-Noise Limit for a Class of Stochastic Regularizations\n\nAbstract\n\nPlease note that the seminar will take place in person in room 140 of Huxley Building .\n\nClick here to get to the Junior Analysis Seminar webpage .",
-    "source": "IC",
-    "date": "2026-05-27T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207854/junior-analysis-seminar-filippo-giovagnini-imperial/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/seminar-picture_1599821877881_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210053",
-    "sourceEventId": "210053",
-    "title": "Help us build raised beds in the community garden – an interfaith event at the Imperial Chaplaincy",
-    "desc": "Help us build raised beds in the community garden – an interfaith event at the Imperial Chaplaincy\n\nExam season got you stressed out? 📚😩 Take a well-deserved break and join us for an hour of good vibes, connection, and fresh air!\n\nCome along for an interactive mingle, a fun community garden activity (help us build raised beds 🌱), and of course, free lunch.\n\nMeet students from Hindu Soc, CathSoc, SikhSoc, ISoc, JewishSoc, BuddhistSoc, Mindfulness Soc, and more!\n\n📍 Wednesday 27 May 2026 🕑 2–3 pm 📍 Chaplaincy, 15 Prince’s Gardens, London SW7 1NA\n\n✨ Free lunch provided 📸 Before-and-after photos of the garden project will be displayed in the Garden Room (with permission from participants)\n\nAll welcome – just drop in!",
-    "source": "IC",
-    "date": "2026-05-27T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Chaplaincy Multi-Faith Centre, 15 Prince's Gardens, South Kensington, SW7 1NA",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210053/build-raised-beds-an-interfaith-event-at-imperial-chaplaincy/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/website-graphics-hand-circle_1779548537444_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209715",
-    "sourceEventId": "209715",
-    "title": "Number Theory Seminar – Miriam Norris",
-    "desc": "Miriam Norris: tbc\n\nMore information available on the Number Theory seminar website",
-    "source": "IC",
-    "date": "2026-05-27T16:00:00+01:00",
-    "durationMin": 60,
-    "venue": "King's College",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209715/number-theory-seminar-miriam-norris/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:210099",
-    "sourceEventId": "210099",
-    "title": "Introduction to the Self-Initiated Humour Protocol (online)",
-    "desc": "A new ground-breaking study in algorithmic human development is now open to all Imperial College students.",
-    "source": "IC",
-    "date": "2026-05-27T16:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210099/introduction-to-the-self-initiated-humour-protocol-online-18/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/info-page-banner65d34eff_1754060142063_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/207311/human-immune-system-variation-development-and-the-microbial-roots-of-health/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperialinaugural-whats-on-petterbrodin2_1773331765719_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209348",
@@ -780,6 +567,224 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209369/emerging-tech-forum/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/the-emerging-tech-forum-portrait_1778147307994_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209159",
+    "sourceEventId": "209159",
+    "title": "The Future Grid: Undaunted & 2150",
+    "desc": "The UK’s energy landscape is evolving, and so too must the grid.\n\n​​With electricity demand rising and geopolitical pressures reshaping global energy markets, strengthening energy security and accelerating the shift to renewables has never been more urgent. Meeting this challenge will require a fundamental transformation to the UK’s national grid.\n\n​​Cleantech has a pivotal role in this transition, unlocking smarter, more efficient systems to generate, store and manage energy.\n\n​​This talk will explore cutting edge research and companies deploying innovative solutions to modernise the grid and make it fit for the future.\n\n​​This event is co-hosted by Undaunted , 2150 and the Grantham Institute .\n\nRegister your interest\n\nAgenda\n\n​John McKenna, CEO of sees.ai\n\n​Aruna Sivakumar, Professor…",
+    "source": "IC",
+    "date": "2026-05-28T18:00:00+01:00",
+    "durationMin": 180,
+    "venue": "LT 408, Electrical & Electronic Engineering, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Climate change",
+      "Enterprise Lab",
+      "Energy",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209159/the-future-grid-undaunted-2150/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/2150-panel-ii-assets2_1777556151241_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209744",
+    "sourceEventId": "209744",
+    "title": "41st STUOD Sandbox Workshop – Peter Korn (Max Planck Institute for Meteorology)",
+    "desc": "The 41st meeting of the Sandbox Series will be held via Webex:\n\nhttps://stuod.my.webex.com/stuod.my/j.php?MTID=m67caea8c4cf9d709a92eaf2dd2ca89b7\n\nHasselmann’s paradigm in 3D via (LA)-SALT\n\nAbstract:\n\nThe Crisan–Holm–Korn (2023) paper realises Hasselmann’s paradigm — fast stochastic atmosphere driving a slow deterministic ocean — in a 2D coupled (LA)-SALT model. I present a 3D extension at the discrete level, on Delaunay–Voronoi meshes. The reformulation is more than a translation. In finite dimensions, the two Kelvin circulation theorems — one per component — hold pathwise on discrete cycles rather than in expectation, and CHK’s infinite-dimensional machinery collapses to elementary SDE theory. Energy estimates yield global existence. The discrete LA-SALT system recovers Hasselmann’s…",
+    "source": "IC",
+    "date": "2026-05-29T12:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "CNRS-Imperial Abraham de Moivre",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209744/41st-stuod-sandbox-workshop-peter-korn-max-planck-institute-for-meteorology/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209215",
+    "sourceEventId": "209215",
+    "title": "HEP seminar: Victor Coco (CERN) – The Silicon Electron Multiplier, concept and first results",
+    "desc": "The Silicon Electron Multiplier, concept and first results",
+    "source": "IC",
+    "date": "2026-05-29T13:30:00+01:00",
+    "durationMin": 60,
+    "venue": "539, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Physics of Particles",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209215/hep-seminar-victor-coco-cern-silicon-electron-multipliers/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bebc_1697635355708_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209719",
+    "sourceEventId": "209719",
+    "title": "Geometry and Topology Seminar – Bogdan Simeonov (Imperial).",
+    "desc": "Bogdan Simeonov (Imperial): tbc\n\nMore information on the GT seminar website",
+    "source": "IC",
+    "date": "2026-05-29T13:30:00+01:00",
+    "durationMin": 60,
+    "venue": "130, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209719/geometry-and-topology-seminar-bogdan-simeonov-imperial/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:208621",
+    "sourceEventId": "208621",
+    "title": "Statistics Seminar: Giuseppe Cavaliere (Bologna and Exeter, Co-Editor in Chief of Journal of Econometrics)",
+    "desc": "14:00 – 15:00 – Giuseppe Cavaliere\n\nTitle: TBA\n\nAbstract: TBA\n\nRefreshments available between 15:00 – 15:30, Huxley Common Room (HXLY 549)",
+    "source": "IC",
+    "date": "2026-05-29T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "HXLY139, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208621/statistics-seminar-giuseppe-cavaliere-bologna-and-exeter-co-editor-in-chief-of-journal-of-econometrics/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:208130",
+    "sourceEventId": "208130",
+    "title": "Union Awards 2026",
+    "desc": "The Union Awards are ICU’s annual awards night, where we recognise and thank all the amazing staff and student volunteers who have made a difference to the Imperial community.\n\nWell be spotlighting the changemakers and leaders who make Imperial a better place – from student volunteers to staff who go the extra mile! 🏆✨\n\nYou can nominate those who’ve made a difference to your time at Imperial to make sure they are formally recognised and rewarded at the Union Awards.\n\nThis year, the Union Awards will take place on Friday, 29 May , save the date! Tickets are free and we encourage all Imperial community members to come along and celebrate with us.\n\nNominations are open from 13 April until 5 May.",
+    "source": "IC",
+    "date": "2026-05-29T17:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Metric, Beit Quadrangle, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Imperial College Union",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208130/union-awards-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/union-awards-2025-118_1774955089512_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:209948",
+    "sourceEventId": "209948",
+    "title": "Junior Geometry Seminar – Sae Koyama (Cambridge)",
+    "desc": "Title: Tropical geometry from a toric perspective\n\nSpeaker: Sae Koyama (Cambridge)\n\nAbstract: TBA\n\nSome snacks will be provided before and after the talk.\n\nGo to the seminar main page.\n\nSubscribe to the mailing list.",
+    "source": "IC",
+    "date": "2026-05-29T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Room 140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209948/junior-geometry-seminar-sae-koyama/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:205171",
+    "sourceEventId": "205171",
+    "title": "College Compline by Candlelight",
+    "desc": "College Compline by Candlelight\n\nFriday May 29th 18:30 – 19:00 Holy Trinity Church, Prince Consort Road, SW7 2BA, (next to Beit Quad)\n\nMusic from the 16th Century to the present day sung by a Quintet of undergraduate and research students who are current or recent members of Imperial Chamber Choir.\n\nThis traditional service features twenty five minutes of music focusing on the closing of the day.\n\nWe hope that people of all worldviews will find this a meditative and relaxing way to conclude the week.\n\nFollowed by drinks in the Union.",
+    "source": "IC",
+    "date": "2026-05-29T18:30:00+01:00",
+    "durationMin": 30,
+    "venue": "Holy Trinity Church, next to Beit Quad",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/205171/college-compline-by-candle-light/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/pascal-candle-coir-dsc9633-small-version_1623405922312_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207767",
+    "sourceEventId": "207767",
+    "title": "Christian Meditation: Online and In-person",
+    "desc": "Format: In person and Online (hybrid)\n\nIn Person: Chaplaincy, 15 Prince’s Gardens, South Kensington Campus, SW7 1NA (Drop-in)\n\nOnline via private Zoom Meeting invite . You can subscribe to our weekly mailing list to get the weekly Zoom Link.\n\nAnyone outside the Colleges of South Kensington who would like to attend online please contact Andrew Willson a.willson@imperial.ac.uk\n\nFacilitator: The Christian Meditation sessions are led by Andrew Willson, College Chaplain.\n\nAbout Christian Meditation\n\nChristianity has a long and rich history of meditation and contemplative prayer. These ancient Christian traditions have their roots in the monasteries of the desert hermits of the second century. Jesus himself often prayed in times of stillness and solitude. Many of these long established…",
+    "source": "IC",
+    "date": "2026-06-01T13:10:00+01:00",
+    "durationMin": 30,
+    "venue": "Chaplaincy Multi-Faith Centre, 15 Prince's Gardens, South Kensington, SW7 1NA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "mental health",
+      "Education",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207767/weekly-christian-meditation-6/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/christian-meditation-2-1086-x-307-1642077206866-x4-ezgifcom-webp-to-jpg-converter_1717097303804_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:206347",
+    "sourceEventId": "206347",
+    "title": "Present with impact sessions",
+    "desc": "Reach your audience by translating complex technical content into clear, impactful messaging within a coherent narrative framework. Use your voice to engage.\n\nJoin us for one, two or all of the following sessions. Add the event(s) you wish to attend to your calendar!\n\n1 June\n\nPresent with impact 1: Narrative\n\nBy the end of this session, you will:\n\nhave analysed a presentation to reveal its narrative\n\nhave understood how narrative structures a presentation\n\nhave planned and given a short presentation, focussing on its narrative\n\nhave considered strategies for guiding our audience through the narrative\n\nbe shown how to access CfAE’s wider provision\n\n8 June\n\nPresent with impact 2: Audience\n\nBy the end of this session, you will know more about and have practised:\n\nways to engage different…",
+    "source": "IC",
+    "date": "2026-06-01T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "ASL-315 - Access through the SHERFIELD building, Sherfield Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Practice session",
+      "CfAE speaking and listening practice sessions",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/206347/present-with-impact-sessions-4/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/310825-dg-icl-cfae-134-3000-x-850_1751901648543_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:how-to-talk-to-ai",
@@ -1182,27 +1187,6 @@
     "image": "https://royalsociety.org/-/media/events/2026/5/wbm-prize-lecture/des9498_1_wbm-2025-prize-lecture_newsletter-image.jpg"
   },
   {
-    "id": "rs:2026-05-nobel-foundation",
-    "sourceEventId": "2026-05-nobel-foundation",
-    "title": "The Future of Science with AI: Nobel Prize Dialogue London 2026",
-    "desc": "A Nobel Prize Dialogue event in partnership with the Royal Society. Join us for a panel discussion with Paul Nurse FRS, Demis Hassabis FRS and Alison Noble FRS, chaired by Adam Smith.",
-    "source": "RS",
-    "date": "2026-05-26T18:00:00+01:00",
-    "durationMin": 90,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "AI",
-      "Policy",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 76,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/05/nobel-foundation/",
-    "image": "https://royalsociety.org/-/media/events/2026/5/nobel-discussion/nobel-prize-lecture-hero.jpg"
-  },
-  {
     "id": "rs:2026-06-environment-prize-lecture",
     "sourceEventId": "2026-06-environment-prize-lecture",
     "title": "Royal Society Environment Prize Lecture: Feeding the world without costing the earth",
@@ -1358,5 +1342,24 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-the-invisible-majority/",
     "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/microbe-zoo-sse-2026.jpg"
+  },
+  {
+    "id": "rs:2026-07-wed-can-you-get-music-on-the-moon",
+    "sourceEventId": "2026-07-wed-can-you-get-music-on-the-moon",
+    "title": "Talk: Can you get music on the Moon?",
+    "desc": "Join planetary scientist Dr Sheila Kanani on a fascinating exploration of the world of sound and space science.",
+    "source": "RS",
+    "date": "2026-07-01T11:30:00+01:00",
+    "durationMin": 30,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-can-you-get-music-on-the-moon/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2023/talks-and-activities/moon-seen-from-space-station.jpg"
   }
 ]
