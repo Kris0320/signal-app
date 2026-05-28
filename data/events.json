@@ -331,27 +331,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250608-gerf-festival-bf-979-57-2_1777546039310_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:208718",
-    "sourceEventId": "208718",
-    "title": "Green Science Festival",
-    "desc": "Imperial College will be the London satellite location for the Green Science Festival 2026, taking place in Amsterdam.\n\nWe will be streaming the festival throughout the day on Thursday, 28 May 2026, creating an opportunity for colleagues in London to drop in, connect, and engage with the programme locally. This would be a full-day event focused on advancing environmental sustainability in research, featuring inspiring presentations, interactive break-out sessions, and opportunities to network.\n\nWe warmly invite you to save the date and share with your colleagues!\n\nYou can find the festival programme here: Green Science Festival 2026 – Green Labs NL\n\n📍 Location: South Kensington campus – details will be sent via email upon registration.\n\n🔗 Registration: Please sign up via Eventbrite.\n\n☕…",
-    "source": "IC",
-    "date": "2026-05-28T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Venue tbc, The Queen's Tower, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Sustainability",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208718/green-science-festival/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/231025-j-tye-imperial-38-white-city-labs-4263_1776448995701_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:208569",
     "sourceEventId": "208569",
     "title": "Imperial Collider: Health – Innovations for partners, people & populations",
@@ -393,93 +372,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209857/how-universities-can-lead-the-way-towards-a-sustainable-future/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:207949",
-    "sourceEventId": "207949",
-    "title": "Machine Intelligence for Health Conference (MI4H)",
-    "desc": "The MI4H Conference is organised by the AI for Healthcare Centres at Imperial , bringing together a national community of researchers and innovators working at the forefront of medical imaging, artificial intelligence, and digital health. The conference features contributions from leading Centres for Doctoral Training (CDTs) and partner institutions, including – UCL’s CDT in AI-enabled Healthcare Systems, The University of Leeds’ CDT in AI for Medical Diagnosis and Care, The University of Edinburgh’s CDT in Biomedical AI and CDT in Biomedical Innovation.\n\nThis collaborative event is partly funded by UK Research and Innovation (UKRI) and provides a platform to showcase cutting-edge research, foster interdisciplinary exchange, and strengthen connections across the AI for healthcare…",
-    "source": "IC",
-    "date": "2026-05-27T08:30:00+01:00",
-    "durationMin": 480,
-    "venue": "The Slate Warwick Conferences",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Artificial intelligence",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207949/machine-intelligence-for-health-conference-mi4h/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250924-ai-for-healthcare-centres-industry-day-eb-088-1_1777467078005_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209728",
-    "sourceEventId": "209728",
-    "title": "This might get uncomfortable – navigating personal conversations about air quality, health and personal values",
-    "desc": "Led by Dr Kayla Schulte, this hands-on session will be highly discussion-based and practical. It will include:\n\nReal-world scenarios (e.g. wood burning, Low Emission Zones, clinical conversations)\n\nInsights from colleagues across social & behavioural science, anthropology, psychology, healthcare, and environmental data\n\nOpportunities to reflect on and practise how these conversations unfold\n\nPractical ways to navigate (not “win”) difficult conversations and simple approaches you can apply in one-to-one interactions (with colleagues, stakeholders, communities, etc.)\n\nWorkshop participants will leave with:\n\nA set of practical principles/tools for navigating conversations about air quality and health\n\nHaving contributed to collective insight that will be shared more widely (e.g. through the…",
-    "source": "IC",
-    "date": "2026-05-28T10:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Tower Hamlets Town Hall",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Debate",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209728/this-might-get-uncomfortable-navigating-personal-conversations-about-air-quality-health-and-personal-values/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/for-kayla-conference_1778846120733_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209698",
-    "sourceEventId": "209698",
-    "title": "CumbriaMed Research Webinar – “How Bioengineering Can Improve Care”",
-    "desc": "The PCSM Research Hub invites you to join us for the next edition of the CumbriaMed Research Webinar Series, which showcases leading health researchers working in and with Cumbria. Each session features two expert speakers and a live Q&A. The series is open to staff, patients, relatives, and the public; all are welcome.\n\nTopic : “How Bioengineering Can Improve Care” Date: Thursday 28 May 2026 Time: 12:30–13:30 Location: Zoom (registration required)\n\nRegister: http://tinyurl.com/pcsm-webi10\n\nSpeakers :\n\nMr Harry Tustin Consultant Ear, Nose and Throat Surgeon, North Cumbria Integrated Care NHS Foundation Trust “3D Printing of Ear Bones and New Hearing Devices” Harry is an ENT surgeon at NCIC whose work includes 3D-printed temporal bones to support the planning of complex ear surgery. He…",
-    "source": "IC",
-    "date": "2026-05-28T12:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209698/cumbriamed-research-webinar-how-bioengineering-can-improve-care/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/untitled-design-23_1762943463930_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:206218",
-    "sourceEventId": "206218",
-    "title": "Lunchtime Concert – Rautio Piano Trio",
-    "desc": "Judith Weir Piano Trio Two ‘Open your own treasure house’\n\nGermaine Tailleferre Piano Trio\n\nAmy Beach Piano Trio in A minor Op 150",
-    "source": "IC",
-    "date": "2026-05-28T13:00:00+01:00",
-    "durationMin": 45,
-    "venue": "Holy Trinity Church Prince Consort Road London, SW7 2BA, Holy Trinity Church, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Creative",
-      "Arts",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/206218/lunchtime-concert-rautio-piano-trio-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/rpt4-copy_1771849531424_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207986",
@@ -567,7 +459,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209744/41st-stuod-sandbox-workshop-peter-korn-max-planck-institute-for-meteorology/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209215",
@@ -610,7 +502,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209719/geometry-and-topology-seminar-bogdan-simeonov-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208621",
@@ -631,7 +523,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208621/statistics-seminar-giuseppe-cavaliere-bologna-and-exeter-co-editor-in-chief-of-journal-of-econometrics/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208130",
@@ -659,7 +551,7 @@
     "id": "ic:209948",
     "sourceEventId": "209948",
     "title": "Junior Geometry Seminar – Sae Koyama (Cambridge)",
-    "desc": "Title: Tropical geometry from a toric perspective\n\nSpeaker: Sae Koyama (Cambridge)\n\nAbstract: TBA\n\nSome snacks will be provided before and after the talk.\n\nGo to the seminar main page.\n\nSubscribe to the mailing list.",
+    "desc": "Title: Tropical geometry from a toric perspective\n\nSpeaker: Sae Koyama (Cambridge)\n\nAbstract: Tropical geometry can be regarded as a combinatorial shadow of algebraic geometry, which captures enough information from algebraic objects to derive useful properties, while being simpler to work with. Tropical tools have been extremely powerful in a variety of applications. In this talk we introduce the main idea of tropical geometry via toric geometry. We define toric varieties, then give the correspondence between toric varieties and fans. We discuss how this construction generalizes, and finish with a sketch of a simple case of tropical correspondence.\n\nSome snacks will be provided before and after the talk.\n\nGo to the seminar main page.\n\nSubscribe to the mailing list.",
     "source": "IC",
     "date": "2026-05-29T17:30:00+01:00",
     "durationMin": 60,
@@ -746,7 +638,7 @@
     "id": "ic:208413",
     "sourceEventId": "208413",
     "title": "SPC Seminar – Climate – Tim Reichelt (Oxford)",
-    "desc": "Speaker: Tim Reichelt (Oxford)\n\nTitle: TBC\n\nAbstract: TBC",
+    "desc": "Speaker: Tim Reichelt (Oxford)\n\nTitle: Can generative modelling improve our understanding of mesoscale cloud organisation?\n\nAbstract: Understanding how atmospheric environmental conditions drive mesoscale cloud organisation is crucial for reducing uncertainties in cloud feedback estimates. However, developing simplified models for cloud organisational patterns is exceedingly difficult. With the large amounts of observational data from satellites available, it is increasingly feasible to develop data-driven models of cloud organisational structures. I will present our ongoing work on CloudFlow, a probabilistic machine learning model that generates mesoscale cloud structures at kilometre resolution conditioned on coarse scale environmental conditions. The model is trained to generate MODIS…",
     "source": "IC",
     "date": "2026-06-02T11:30:00+01:00",
     "durationMin": 60,
@@ -787,6 +679,117 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/197830/rush-hour-recital-opus-anglicanum/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sheet-music-1229481-960-720_1756830722800_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:208418",
+    "sourceEventId": "208418",
+    "title": "SPC Seminar – Climate – Itamar Karbi (Weizmann Institute)",
+    "desc": "Speaker: Itamar Karbi (Weizmann Institute)\n\nTitle: Reassessing the future changes in mid-latitude atmospheric waves\n\nAbstract: Transient mid-latitude atmospheric waves shape the extra-tropical weather and climate by setting the storm tracks, and regulating the distribution of heat, moisture, and momentum from daily to multi-decadal timescales. The intensity and position of these waves are projected to change considerably by the end of this century, however, to date, most previous studies have investigated the future changes in atmospheric waves by pooling together waves with different length scales, thus not accounting for potential different responses across wavelengths to anthropogenic emissions. Here, we reexamine the response of mid-latitude atmospheric waves to anthropogenic…",
+    "source": "IC",
+    "date": "2026-06-03T11:00:00+01:00",
+    "durationMin": 60,
+    "venue": "741, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Climate change",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208418/spc-seminar-climate-itamar-karbi-weizmann-institute/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209618",
+    "sourceEventId": "209618",
+    "title": "Professor Frank Harrell: “Modernizing Clinical Trial Design and Analysis to Improve Efficiency & Flexibility”",
+    "desc": "In this talk, Professor Frank Harrell will discuss several ways to make clinical trials more efficient and to reduce the chance of ending with an equivocal result. Some of the approaches covered are Bayesian sequential designs allowing for study extension if results are promising, not being tied by type I assertion probabilities/α spending, using high-information longitudinal ordinal outcomes, and covariate adjustment.\n\nSpeaker Bio Frank Harrell is a Professor of Biostatistics at Vanderbilt University School of Medicine. He is an Associate Director of the VICTR Research Methods Program. He is a Co-Director, Study Design Core, Trial Innovation Center. Professor Harrell gained his PhD in Biostatistics from the University of North Carolina. His Research interests include: development of…",
+    "source": "IC",
+    "date": "2026-06-03T12:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Lecture Theatre III, Wolfson Education Centre, Hammersmith Campus",
+    "area": "Hammersmith",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Cardiovascular",
+      "Clinician/clinicians",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209618/professor-frank-harrell-modernizing-clinical-trial-design-and-analysis-to-improve-efficiency-flexibility/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/frank-harrell_1778679825341_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207866",
+    "sourceEventId": "207866",
+    "title": "Community Garden Action Days",
+    "desc": "Drop-in sessions from 13:00–16:00 on Wednesdays. After the Easter break, sessions will resume on 22nd April. You’re also welcome to drop in and volunteer to water the plants during the break.\n\nJoin the student organisers and volunteers in the Community Garden at the Chaplaincy Centre. A chance to get outside, and be involved in growing plants, sowing seeds, clearing new ground, or pruning bushes. If this is your first session of gardening or if you have plenty of experience, all are welcome.\n\nOpen to students and staff. Drop-in during the afternoon and stay for as long as you like. Gloves, protective gear and tools provided, with wet weather options in needed.\n\nThe Community Garden at the Chaplaincy, accessed through the Multi-Faith Centre at15 Princes Gardens, or via the side gate of…",
+    "source": "IC",
+    "date": "2026-06-03T13:00:00+01:00",
+    "durationMin": 180,
+    "venue": "Chaplaincy Multi-Faith Centre",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207866/community-garden-action-days-7/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gardening-banner_1714416170181_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207857",
+    "sourceEventId": "207857",
+    "title": "Junior Analysis Seminar – Jack Lam (Durham)",
+    "desc": "Title\n\nWellposedness and quantitative convergence for distributed equilibria of displacement monotone N-player games with interaction through controls\n\nAbstract\n\nPlease note that the seminar will take place in person in room 144 of Huxley Building .\n\nClick here to get to the Junior Analysis Seminar webpage .",
+    "source": "IC",
+    "date": "2026-06-03T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "144, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207857/junior-analysis-seminar-jack-lam-durham/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/seminar-picture_1599821877881_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210201",
+    "sourceEventId": "210201",
+    "title": "Paint for Pride@ Silwood Park",
+    "desc": "Get creative with us as we paint pebbles and mini canvases!\n\nLet your imagination run wild — the brighter and more colourful, the better.\n\nAll materials will be provided, just bring your creativity.",
+    "source": "IC",
+    "date": "2026-06-03T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "GMC, Centre For Population Biology, Silwood Park Campus",
+    "area": "Silwood Park",
+    "price": 0,
+    "tags": [
+      "General",
+      "LGBTQ",
+      "Equality",
+      "Diversity",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210201/paint-for-pride-silwood-park/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/lgbtq-history-month-events-image_1779965836979_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:how-to-talk-to-ai",
@@ -934,7 +937,7 @@
   {
     "id": "wc:shaping-age",
     "sourceEventId": "shaping-age",
-    "title": "Shaping Age",
+    "title": "Wellcome Collection Lates: Shaping Age",
     "desc": "Join us for an evening inspired by ‘The Coming of Age’ exhibition, with performances, talks, workshops, music and tours which challenge expectations of ageing.",
     "source": "WC",
     "date": "2026-06-25T18:00:00+00:00",
@@ -943,7 +946,7 @@
     "area": "Euston",
     "price": 0,
     "tags": [
-      "Late",
+      "Lates",
       "Exhibition",
       "Open to all"
     ],
@@ -951,6 +954,27 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/shaping-age",
     "image": "https://images.prismic.io/wellcomecollection/agWML6YofJOwHPeE_EP_003366_273.jpg?auto=format%2Ccompress&rect=0%2C268%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:the-coming-of-age-symposium",
+    "sourceEventId": "the-coming-of-age-symposium",
+    "title": "The Coming of Age Symposium",
+    "desc": "Join us for a day of panel discussions, tours and workshops exploring the questions raised by our exhibition ‘The Coming of Age’.",
+    "source": "WC",
+    "date": "2026-07-11T09:00:00+00:00",
+    "durationMin": 600,
+    "venue": "Throughout our building",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Symposium",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/the-coming-of-age-symposium",
+    "image": "https://images.prismic.io/wellcomecollection/ahgIVbK9tuLqENnX_UncertainFutures100womenbyAndrewBrooks_3_V2.jpg?auto=format%2Ccompress&rect=0%2C305%2C4000%2C2250&w=3200&h=1800"
   },
   {
     "id": "rs:2026-06-light-driven-chemistry",
@@ -1189,6 +1213,26 @@
     "image": "https://royalsociety.org/-/media/events/2026/5/wbm-prize-lecture/des9498_1_wbm-2025-prize-lecture_newsletter-image.jpg"
   },
   {
+    "id": "rs:2026-06-sse-on-tour-eden-festival",
+    "sourceEventId": "2026-06-sse-on-tour-eden-festival",
+    "title": "Summer Science Exhibits on Tour at Eden Festival",
+    "desc": "Discover ground-breaking science with the Royal Society's Summer Science Exhibits on Tour at Eden festival",
+    "source": "RS",
+    "date": "2026-06-13T18:00:00+01:00",
+    "durationMin": 90,
+    "venue": "Raehill’s Estate, Moffat, Scotland, DG11 1ET",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Policy",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/sse-on-tour-eden-festival/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/sse-on-tour-26/uv-sse-2024.jpg"
+  },
+  {
     "id": "rs:2026-06-environment-prize-lecture",
     "sourceEventId": "2026-06-environment-prize-lecture",
     "title": "Royal Society Environment Prize Lecture: Feeding the world without costing the earth",
@@ -1344,24 +1388,5 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-the-invisible-majority/",
     "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/microbe-zoo-sse-2026.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-can-you-get-music-on-the-moon",
-    "sourceEventId": "2026-07-wed-can-you-get-music-on-the-moon",
-    "title": "Talk: Can you get music on the Moon?",
-    "desc": "Join planetary scientist Dr Sheila Kanani on a fascinating exploration of the world of sound and space science.",
-    "source": "RS",
-    "date": "2026-07-01T11:30:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-can-you-get-music-on-the-moon/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2023/talks-and-activities/moon-seen-from-space-station.jpg"
   }
 ]
