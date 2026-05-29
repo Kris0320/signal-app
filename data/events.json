@@ -374,72 +374,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:207986",
-    "sourceEventId": "207986",
-    "title": "Present with impact sessions",
-    "desc": "Reach your audience by translating complex technical content into clear, impactful messaging within a coherent narrative framework. Use your voice to engage.\n\nJoin us for one, two or all of the following sessions. Add the event(s) you wish to attend to your calendar!\n\n14 May\n\nPresent with impact 1: Narrative\n\nBy the end of this session, you will:\n\nhave analysed a presentation to reveal its narrative\n\nhave understood how narrative structures a presentation\n\nhave planned and given a short presentation, focussing on its narrative\n\nhave considered strategies for guiding our audience through the narrative\n\nbe shown how to access CfAE’s wider provision\n\n21 May\n\nPresent with impact 2: Audience\n\nBy the end of this session, you will know more about and have practised:\n\nways to engage different…",
-    "source": "IC",
-    "date": "2026-05-28T17:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Practice session",
-      "CfAE speaking and listening practice sessions",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207986/present-with-impact-sessions-3-3/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/310825-dg-icl-cfae-134-3000-x-850_1751901648543_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209369",
-    "sourceEventId": "209369",
-    "title": "Emerging Tech Forum",
-    "desc": "I’m pleased to invite you to the Emerging Tech Forum, an evening bringing together academics, startups, and VCs working across biotechnology, defence, and AI. This forum is designed to foster collaboration, highlight emerging innovation, and support the broader research and innovation ecosystem\n\nThe event will feature academic keynotes, startup lightning talks, and a VC investment panel, followed by networking. I would be delighted if you could join us and share this invitation with colleagues or teams who may benefit.",
-    "source": "IC",
-    "date": "2026-05-28T17:30:00+01:00",
-    "durationMin": 180,
-    "venue": "G34, Sir Alexander Fleming Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209369/emerging-tech-forum/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/the-emerging-tech-forum-portrait_1778147307994_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209159",
-    "sourceEventId": "209159",
-    "title": "The Future Grid: Undaunted & 2150",
-    "desc": "The UK’s energy landscape is evolving, and so too must the grid.\n\n​​With electricity demand rising and geopolitical pressures reshaping global energy markets, strengthening energy security and accelerating the shift to renewables has never been more urgent. Meeting this challenge will require a fundamental transformation to the UK’s national grid.\n\n​​Cleantech has a pivotal role in this transition, unlocking smarter, more efficient systems to generate, store and manage energy.\n\n​​This talk will explore cutting edge research and companies deploying innovative solutions to modernise the grid and make it fit for the future.\n\n​​This event is co-hosted by Undaunted , 2150 and the Grantham Institute .\n\nRegister your interest\n\nAgenda\n\n​John McKenna, CEO of sees.ai\n\n​Aruna Sivakumar, Professor…",
-    "source": "IC",
-    "date": "2026-05-28T18:00:00+01:00",
-    "durationMin": 180,
-    "venue": "LT 408, Electrical & Electronic Engineering, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Climate change",
-      "Enterprise Lab",
-      "Energy",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209159/the-future-grid-undaunted-2150/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/2150-panel-ii-assets2_1777556151241_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:209744",
     "sourceEventId": "209744",
     "title": "41st STUOD Sandbox Workshop – Peter Korn (Max Planck Institute for Meteorology)",
@@ -459,7 +393,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209744/41st-stuod-sandbox-workshop-peter-korn-max-planck-institute-for-meteorology/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209215",
@@ -523,7 +457,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208621/statistics-seminar-giuseppe-cavaliere-bologna-and-exeter-co-editor-in-chief-of-journal-of-econometrics/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208130",
@@ -655,7 +589,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208413/spc-seminar-climate-tim-reichelt-oxford/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:197830",
@@ -701,7 +635,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208418/spc-seminar-climate-itamar-karbi-weizmann-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209618",
@@ -790,6 +724,48 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210201/paint-for-pride-silwood-park/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/lgbtq-history-month-events-image_1779965836979_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210101",
+    "sourceEventId": "210101",
+    "title": "Introduction to the Self-Initiated Humour Protocol (online)",
+    "desc": "A new ground-breaking study in algorithmic human development is now open to all Imperial College students.",
+    "source": "IC",
+    "date": "2026-06-03T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210101/introduction-to-the-self-initiated-humour-protocol-online-19/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/info-page-banner65d34eff_1754060142063_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210103",
+    "sourceEventId": "210103",
+    "title": "London Logic Seminar – Anand Pillay (University of Notre Dame)",
+    "desc": "Title : Relative categoricity revisited\n\nAbstract : I will give a brief history of the subject (which I worked on in the first part of my thesis) including the so-called Gaifman conjecture. I then describe some modest new contributions, around almost internal covers and ω -stability over a predicate.",
+    "source": "IC",
+    "date": "2026-06-03T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "642, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210103/london-logic-seminar-anand-pillay-university-of-notre-dame/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:how-to-talk-to-ai",
@@ -1388,5 +1364,24 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-the-invisible-majority/",
     "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/microbe-zoo-sse-2026.jpg"
+  },
+  {
+    "id": "rs:2026-07-wed-can-you-get-music-on-the-moon",
+    "sourceEventId": "2026-07-wed-can-you-get-music-on-the-moon",
+    "title": "Talk: Can you get music on the Moon?",
+    "desc": "Join planetary scientist Dr Sheila Kanani on a fascinating exploration of the world of sound and space science.",
+    "source": "RS",
+    "date": "2026-07-01T11:30:00+01:00",
+    "durationMin": 30,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-can-you-get-music-on-the-moon/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2023/talks-and-activities/moon-seen-from-space-station.jpg"
   }
 ]
