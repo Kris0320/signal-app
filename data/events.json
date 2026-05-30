@@ -353,6 +353,50 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/website-banner-health_1776849602824_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:209686",
+    "sourceEventId": "209686",
+    "title": "Invisible Warrior @ The Great Exhibition Road Festival 2026",
+    "desc": "Visit the Invisible Warrior stand to learn about blood science, Sickle Cell, and invisible disabilities. Our stand is for all ages: meet and talk to scientists, get hands-on with experiments and creative activities, use our microscope to study blood cells up close, and test your knowledge in our quiz!\n\nMeet people living with Sickle Cell Disease and learn about their story. Talk to our collaborators who raise awareness for blood and bone marrow donation, and find out why more donors are needed especially from different ethnic backgrounds.\n\nThere will be a drop-in zine workshop Making the Invisible Visible , where you’ll work with zine artists to create your own small, illustrated story; to add your reflections to a mural, or to spread positive wishes with the festival visitors.\n\nYou can…",
+    "source": "IC",
+    "date": "2026-06-06T12:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Happiness and Health Zone, Queen's Tower Rooms, Sherfield Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Festival",
+      "Invisible Warrior",
+      "vaccines",
+      "Immune system",
+      "Public health"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209686/invisible-warrior-the-great-exhibition-road-festival-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/the-great-exhibition-road-festival-17th-june-2023-brendan-foster-photography-565-copy_1715596591839_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210029",
+    "sourceEventId": "210029",
+    "title": "The future of flight: Brahmal Institute at the Great Exhibition Road Festival!",
+    "desc": "Join the Brahmal Institute for Sustainable Aviation at the Great Exhibition Road Festival’s “Future of Flight” exhibit in the Family Fun Zone at Kensington Gardens. Through hands-on paper plane challenges, families and young explorers can discover the science behind lift, drag, thrust and aircraft control while experimenting with different plane designs and testing how small changes affect performance.\n\nMeet researchers working on the future of greener aviation and explore how aircraft technology is evolving to reduce environmental impact. From the history of flight innovation to cutting-edge ideas for sustainable air travel, this interactive activity invites visitors to imagine how we might fly more efficiently in the future.\n\nThe exhibit takes place on Saturday 6 and Sunday 7 June from…",
+    "source": "IC",
+    "date": "2026-06-06T12:00:00+01:00",
+    "durationMin": 360,
+    "venue": "Family Fun Zone",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Festival",
+      "Public and Community Involvement, Engagement and Participation",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210029/the-future-of-flight-brahmal-institute-at-the-great-exhibition-road-festival/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/untitled-design_1779451692087_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:209857",
     "sourceEventId": "209857",
     "title": "How universities can lead the way towards a sustainable future",
@@ -372,70 +416,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209857/how-universities-can-lead-the-way-towards-a-sustainable-future/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:208130",
-    "sourceEventId": "208130",
-    "title": "Union Awards 2026",
-    "desc": "The Union Awards are ICU’s annual awards night, where we recognise and thank all the amazing staff and student volunteers who have made a difference to the Imperial community.\n\nWell be spotlighting the changemakers and leaders who make Imperial a better place – from student volunteers to staff who go the extra mile! 🏆✨\n\nYou can nominate those who’ve made a difference to your time at Imperial to make sure they are formally recognised and rewarded at the Union Awards.\n\nThis year, the Union Awards will take place on Friday, 29 May , save the date! Tickets are free and we encourage all Imperial community members to come along and celebrate with us.\n\nNominations are open from 13 April until 5 May.",
-    "source": "IC",
-    "date": "2026-05-29T17:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Metric, Beit Quadrangle, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Imperial College Union",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208130/union-awards-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/union-awards-2025-118_1774955089512_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:209948",
-    "sourceEventId": "209948",
-    "title": "Junior Geometry Seminar – Sae Koyama (Cambridge)",
-    "desc": "Title: Tropical geometry from a toric perspective\n\nSpeaker: Sae Koyama (Cambridge)\n\nAbstract: Tropical geometry can be regarded as a combinatorial shadow of algebraic geometry, which captures enough information from algebraic objects to derive useful properties, while being simpler to work with. Tropical tools have been extremely powerful in a variety of applications. In this talk we introduce the main idea of tropical geometry via toric geometry. We define toric varieties, then give the correspondence between toric varieties and fans. We discuss how this construction generalizes, and finish with a sketch of a simple case of tropical correspondence.\n\nSome snacks will be provided before and after the talk.\n\nGo to the seminar main page.\n\nSubscribe to the mailing list.",
-    "source": "IC",
-    "date": "2026-05-29T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Room 140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209948/junior-geometry-seminar-sae-koyama/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:205171",
-    "sourceEventId": "205171",
-    "title": "College Compline by Candlelight",
-    "desc": "College Compline by Candlelight\n\nFriday May 29th 18:30 – 19:00 Holy Trinity Church, Prince Consort Road, SW7 2BA, (next to Beit Quad)\n\nMusic from the 16th Century to the present day sung by a Quintet of undergraduate and research students who are current or recent members of Imperial Chamber Choir.\n\nThis traditional service features twenty five minutes of music focusing on the closing of the day.\n\nWe hope that people of all worldviews will find this a meditative and relaxing way to conclude the week.\n\nFollowed by drinks in the Union.",
-    "source": "IC",
-    "date": "2026-05-29T18:30:00+01:00",
-    "durationMin": 30,
-    "venue": "Holy Trinity Church, next to Beit Quad",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/205171/college-compline-by-candle-light/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/pascal-candle-coir-dsc9633-small-version_1623405922312_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210264",
@@ -524,7 +504,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208413/spc-seminar-climate-tim-reichelt-oxford/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:197830",
@@ -570,7 +550,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208418/spc-seminar-climate-itamar-karbi-weizmann-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209618",
@@ -700,7 +680,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210103/london-logic-seminar-anand-pillay-university-of-notre-dame/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210266",
@@ -721,7 +701,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210266/number-theory-seminar-daniel-kriz/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:208326",
@@ -767,6 +747,71 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208975/the-greenhouse-demo-day-cohort-8/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/greenhouse-demo-day-cohort-8-banner_1777021960087_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:205362",
+    "sourceEventId": "205362",
+    "title": "New Starters in Synthesis and Catalysis (NSSC) 2026",
+    "desc": "Registration\n\nRegistration must be made via the Imperial online store .\n\nRegistration to attend the symposium is free, but there is a £15 fee if you want lunch included with your ticket.\n\nAbout NSSC\n\nNew Starters in Synthesis and Catalysis (NSSC) is an annual event showcasing the work of recently appointed academics in the areas of synthesis and catalysis alongside a plenary speaker.\n\nThe conference will host a line-up of speakers in synthesis and catalysis in its broadest sense, from fundamental organic and inorganic synthesis and catalysis to applied work in chemical biology and materials.\n\nThe event will be open to all but is ideally suited to academic staff, PhD students and postdoctoral researchers with a background in synthesis and catalysis as well as those in the pharma, biotech…",
+    "source": "IC",
+    "date": "2026-06-05T09:30:00+01:00",
+    "durationMin": 480,
+    "venue": "Room B10, Molecular Sciences Research Hub (MSRH), White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Symposium",
+      "Chemistry",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/205362/new-starters-in-synthesis-and-catalysis-nssc-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/01-ictem-confocal-vasc-03-107690-001_1707829480000_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209132",
+    "sourceEventId": "209132",
+    "title": "Maritime Innovation Outlook: Resilience and Future Readiness Seminar",
+    "desc": "Session Description\n\nThe maritime sector is entering an increasingly complex decision environment shaped by decarbonisation pressures, alternative fuels, digital systems, traceability requirements, and growing expectations around compliance, evidence, and verification. Decision-making is no longer only about selecting technologies, but about demonstrating that choices are safe, credible, and operationally viable in practice.\n\nThis seminar explores how maritime decision-making is evolving in this context, focusing on how regulation, data, digital tools, and organisational capability can support more robust, transparent, and timely decisions. It aims to move beyond high-level ambition and examine what can realistically be deployed, scaled, and trusted across the sector. This session…",
+    "source": "IC",
+    "date": "2026-06-05T12:45:00+03:00",
+    "durationMin": 105,
+    "venue": "Posidonia Seminar Room 1B, Athens Metropolitan Expo",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Civil engineering",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209132/maritime-innovation-outlook-resilience-and-future-readiness-seminar/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/testy_1779188060189_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209442",
+    "sourceEventId": "209442",
+    "title": "Geometry and Topology Seminar – Aline Zanardini (EPFL)",
+    "desc": "Aline Zanardini (EPFL): tbc\n\nMore information on the GT seminar website",
+    "source": "IC",
+    "date": "2026-06-05T13:30:00+01:00",
+    "durationMin": 60,
+    "venue": "130, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209442/geometry-and-topology-seminar-aline-zanardini-epfl/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:how-to-talk-to-ai",
