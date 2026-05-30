@@ -436,7 +436,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210264/magic-seminar-calum-crossley-ucl-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207767",
@@ -504,7 +504,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208413/spc-seminar-climate-tim-reichelt-oxford/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:197830",
@@ -550,7 +550,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208418/spc-seminar-climate-itamar-karbi-weizmann-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209618",
@@ -680,7 +680,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210103/london-logic-seminar-anand-pillay-university-of-notre-dame/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210266",
@@ -701,7 +701,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210266/number-theory-seminar-daniel-kriz/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:208326",
@@ -811,7 +811,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209442/geometry-and-topology-seminar-aline-zanardini-epfl/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:how-to-talk-to-ai",
@@ -894,26 +894,6 @@
     "match": 86,
     "url": "https://www.ucl.ac.uk/engineering/events/2026/jun/ai-and-its-impact-global-health-system",
     "image": "https://www.ucl.ac.uk/engineering/sites/engineering/files/2026-04/ai%20in%20healthcare%20background.png"
-  },
-  {
-    "id": "wc:handle-with-care-event-may2026",
-    "sourceEventId": "handle-with-care-event-may2026",
-    "title": "Handle with Care: Conversations Through Objects",
-    "desc": "Join our Visitor Experience and Engagement team for a drop-in object-handling session, where you can get up close to some of the items in our collection.",
-    "source": "WC",
-    "date": "2026-05-30T12:00:00+00:00",
-    "durationMin": 120,
-    "venue": "The Forum",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Session",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/handle-with-care-event-may2026",
-    "image": "https://images.prismic.io/wellcomecollection/ZtmF1bzzk9ZrXB24_EP_002108_037.jpg?auto=format%2Ccompress&rect=446%2C527%2C3540%2C1991&w=3200&h=1800"
   },
   {
     "id": "wc:stories-of-protest-and-intimacy",
