@@ -308,6 +308,318 @@
     "image": "https://www.kcl.ac.uk/newimages/careers/ee/festivals/2022-fairs-images/graduate-jobs.x90b0f7bd.jpg?w=782&h=440&crop=780,440,1,0"
   },
   {
+    "id": "kcl:holouk-5-meeting",
+    "sourceEventId": "93cd3668-b29a-40a4-be9e-a5eb42e4b87d",
+    "title": "HoloUK 5 Meeting",
+    "desc": "The fifth iteration of the HoloUK meeting",
+    "source": "KCL",
+    "date": "2026-07-01T09:45:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "Faculty of Natural, Mathematical & Engineering Sciences",
+      "Department of Mathematics"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/holouk-5-meeting",
+    "image": "https://www.kcl.ac.uk/newimages/nmes/main-article-780X450/strand-campus-heilbronn-colloquium-2025-glenn-stevens.xe82724a7.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:kings-foundations-offer-holder-visa-session-1-july-2026",
+    "sourceEventId": "2e15eba6-b5f8-44e3-8b48-0f4d6da7e684",
+    "title": "King’s International Foundation Offer Holder event – applying for your Student visa –  1 July 2026",
+    "desc": "Learn more about applying for your Student visa for King's International Foundation Programme at King's College London.",
+    "source": "KCL",
+    "date": "2026-07-01T10:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "King's Foundations"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/kings-foundations-offer-holder-visa-session-1-july-2026",
+    "image": "https://www.kcl.ac.uk/newimages/ciel/king's-international-foundation-offer-holder-visa-event-1-july-2026.x5250078f.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:mindfulness-with-jenny-online-8",
+    "sourceEventId": "84484689-8e17-4720-922d-7cd21f06131c",
+    "title": "Mindfulness with Jenny - Online",
+    "desc": "A session of guided mindfulness.",
+    "source": "KCL",
+    "date": "2026-07-01T10:00:00",
+    "durationMin": 50,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Student",
+      "International"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-8",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/summer-flower.xed31565f.jpg?w=780&h=518&crop=780,440,0,39"
+  },
+  {
+    "id": "kcl:margaret-butterworth-care-home-forum-july-2026",
+    "sourceEventId": "7a1d2393-53af-4a97-8e90-8006f321cf31",
+    "title": "Margaret Butterworth Care Home Forum July 2026",
+    "desc": "Optimising foot care interventions. OPTIMISED DEMCARE training.",
+    "source": "KCL",
+    "date": "2026-07-01T14:00:00",
+    "durationMin": 120,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Health",
+      "Faculty of Social Science & Public Policy"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/margaret-butterworth-care-home-forum-july-2026",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/ahscwru/event-series/mbchf/hero-and-thumbnail/mbchf-logo-2025-780.x7243a09a.jpg"
+  },
+  {
+    "id": "kcl:physics-teacher-conference-2026",
+    "sourceEventId": "05e0843c-e070-46b1-ab74-b127e0ef2fd9",
+    "title": "Physics Teacher Conference 2026",
+    "desc": "A day of engaging talks and discussions about cutting-edge physics",
+    "source": "KCL",
+    "date": "2026-07-02T09:30:00",
+    "durationMin": 345,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "Faculty of Natural, Mathematical & Engineering Sciences",
+      "Department of Physics"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/physics-teacher-conference-2026",
+    "image": "https://www.kcl.ac.uk/newimages/nmes/outreach/physics/physics-teacher-conference-780-x-440.x66e00308.png"
+  },
+  {
+    "id": "kcl:kcato-summer-short-finding-time-for-research",
+    "sourceEventId": "4c0a95e1-2881-46fd-8d55-356243a3fc45",
+    "title": "KCATO Summer Shorts #2: Finding time for research",
+    "desc": "Join our snappy, introductory session about finding time for research.",
+    "source": "KCL",
+    "date": "2026-07-02T13:00:00",
+    "durationMin": 30,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "Health"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/kcato-summer-short-finding-time-for-research",
+    "image": "https://www.kcl.ac.uk/ImportedImages/Schools/Business/research-groups-centres-images/csb/data-vs-action-blog-1.x57103bfd.png"
+  },
+  {
+    "id": "kcl:professor-rosa-hoekstra-inaugural-lecture",
+    "sourceEventId": "e9c4e5d8-a1bf-4e89-929c-62228ca6d65e",
+    "title": "Professor Rosa Hoekstra - Inaugural Lecture",
+    "desc": "Join us in celebrating Professor Hoekstra's inaugural lecture on 'Every Child Counts: Working collaboratively to improve support for children with developmental disabilities worldwide'",
+    "source": "KCL",
+    "date": "2026-07-02T17:30:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Public lecture",
+      "Health",
+      "Institute of Psychiatry, Psychology & Neuroscience"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/professor-rosa-hoekstra-inaugural-lecture",
+    "image": "https://www.kcl.ac.uk/newimages/main/rosa-inaugural.x6067ad38.png"
+  },
+  {
+    "id": "kcl:a-new-institutional-model-for-the-ai-age-community-data-utilities",
+    "sourceEventId": "9df89d67-23bc-43af-bfc0-4f129cde9e61",
+    "title": "A new institutional model for the AI age: Community Data Utilities",
+    "desc": "Join us for a multistakeholder workshop to learn, contribute, and shape a ‘Community Data Utility’.",
+    "source": "KCL",
+    "date": "2026-07-03T09:00:00",
+    "durationMin": 285,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Law",
+      "The Dickson Poon School of Law"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/a-new-institutional-model-for-the-ai-age-community-data-utilities",
+    "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/a-new-institutional-model-for-the-ai-age-community-data-utilities-hero-image.xb9c42ede.png?w=880&h=440&crop=780,440,50,0"
+  },
+  {
+    "id": "kcl:chemistry-summer-school-2026",
+    "sourceEventId": "7062076b-3d80-4a23-82f3-01840a7e2974",
+    "title": "Discover Chemistry Summer School 2026",
+    "desc": "A week of university-level chemistry for Year 12 students",
+    "source": "KCL",
+    "date": "2026-07-06T09:00:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Summer school",
+      "Technology & Science",
+      "Faculty of Natural, Mathematical & Engineering Sciences"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/chemistry-summer-school-2026",
+    "image": "https://www.kcl.ac.uk/newimages/nmes/outreach/chemistysummerschool-eventpage-780x440-2.x181b29d9.png"
+  },
+  {
+    "id": "kcl:mission-discovery-2026",
+    "sourceEventId": "dd21dec5-34d1-41a9-a2c8-e33d69c5bfa8",
+    "title": "Mission Discovery",
+    "desc": "Learn with NASA astronauts. Design a space experiment. Present your proposal to an expert panel, and see one team’s idea prepared for launch to space!",
+    "source": "KCL",
+    "date": "2026-07-06T09:00:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Faculty of Life Sciences & Medicine",
+      "Aerospace Medicine and Extreme Physiology (AMEP)"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/mission-discovery-2026",
+    "image": "https://www.kcl.ac.uk/newimages/folsm/main-article/bmb/mission-discovery.x344ea6aa.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:stem-work-experience-week-2026",
+    "sourceEventId": "c6879717-3e9d-4f07-87ae-838233fbc739",
+    "title": "STEM work experience week 2026",
+    "desc": "An inspiring week of hands-on STEM for Year 10 students.",
+    "source": "KCL",
+    "date": "2026-07-06T09:45:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "Faculty of Natural, Mathematical & Engineering Sciences",
+      "Department of Chemistry"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/stem-work-experience-week-2026",
+    "image": "https://www.kcl.ac.uk/newimages/nmes/outreach/faculty/stem-work-experience-week-2026-thumbnail-main-image-780-x-440.xf335ac7c.png"
+  },
+  {
+    "id": "kcl:postgraduate-information-event-july-2026",
+    "sourceEventId": "f0e427d7-2331-4d65-a1bc-6b0141e2c963",
+    "title": "Postgraduate Research at King’s Information Event - July 2026",
+    "desc": "Professor Glenn Robert, Vice Dean Research and Impact, presents an information session on Postgraduate Research at King's.",
+    "source": "KCL",
+    "date": "2026-07-06T10:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Prospective students",
+      "Seminar",
+      "Health"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/postgraduate-information-event-july-2026",
+    "image": "https://www.kcl.ac.uk/newimages/new-images/a-female-teacher-with-a-male-student-looking-at-his-work.xb41f265b.png"
+  },
+  {
+    "id": "kcl:brics-after-the-expansion-from-economic-platform-to-emerging-political-bloc-the-western-response-in-a-changing-world-order",
+    "sourceEventId": "b5dbe062-c016-4909-9338-731049939cfb",
+    "title": "BRICS+ After the Expansion - From economic platform to emerging political bloc? The Western response in a changing world order",
+    "desc": "BRICS+ AFTER THE EXPANSION - From economic platform to emerging political bloc? The Western response in a changing world order",
+    "source": "KCL",
+    "date": "2026-07-06T17:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "International",
+      "Faculty of Social Science & Public Policy",
+      "School of Security Studies"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/brics-after-the-expansion-from-economic-platform-to-emerging-political-bloc-the-western-response-in-a-changing-world-order",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/260512-brics.x8784988a.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:ecs-annual-lecture-2026",
+    "sourceEventId": "4ec611af-a733-4ac6-b692-34e3383d9e66",
+    "title": "ECS Annual Lecture 2026 - GenAI in Education: The Case of Personalisation with Dr Niall Curry",
+    "desc": "ECS Annual Lecture 2026",
+    "source": "KCL",
+    "date": "2026-07-07T17:30:00",
+    "durationMin": 150,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Society",
+      "Faculty of Social Science & Public Policy",
+      "School of Education, Communication & Society"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/ecs-annual-lecture-2026",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/ecs/annual-lecture-web-graphic-2.x5657a616.png"
+  },
+  {
+    "id": "kcl:mcdonald-agape-lecture-in-theology-and-the-visual-arts-2026",
+    "sourceEventId": "79af7a5e-f85c-4726-9562-afc7fe7d1560",
+    "title": "McDonald Agape Lecture in Theology and the Visual Arts 2026",
+    "desc": "Edmund de Waal Spirit and Substance",
+    "source": "KCL",
+    "date": "2026-07-07T18:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Theology and the Visual Arts",
+      "Department of Theology & Religious Studies",
+      "Faculty of Arts & Humanities"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/mcdonald-agape-lecture-in-theology-and-the-visual-arts-2026",
+    "image": "https://www.kcl.ac.uk/newimages/ah/theology/Events/260401mcdonald-agape-lecture-in-theology-and-the-visual-arts-2026.xf2ab05c2.png"
+  },
+  {
     "id": "ic:209153",
     "sourceEventId": "209153",
     "title": "Great Exhibition Road Festival",
@@ -436,7 +748,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210264/magic-seminar-calum-crossley-ucl-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207767",
@@ -504,7 +816,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208413/spc-seminar-climate-tim-reichelt-oxford/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:197830",
@@ -550,7 +862,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208418/spc-seminar-climate-itamar-karbi-weizmann-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209618",
@@ -701,7 +1013,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210266/number-theory-seminar-daniel-kriz/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:208326",
@@ -811,7 +1123,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209442/geometry-and-topology-seminar-aline-zanardini-epfl/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:how-to-talk-to-ai",
