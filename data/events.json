@@ -1,149 +1,5 @@
 [
   {
-    "id": "kcl:innovation-journeys-across-kings",
-    "sourceEventId": "ba0e7591-2210-4729-97a2-fede444109a7",
-    "title": "Innovation Journeys Across King’s: From Small Ideas to Impact",
-    "desc": "Innovation Journeys Across King’s: From Small Ideas to Impact invites staff to explore the innovation already happening across our community.",
-    "source": "KCL",
-    "date": "2026-06-01T11:30:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "King's Innovation Catalyst",
-      "Faculty of Arts & Humanities",
-      "King’s Business School"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/innovation-journeys-across-kings",
-    "image": "https://www.kcl.ac.uk/newimages/innovation-catalyst/kic-events-images/staff-experience-festival-thumbnail.xd0d066dd.png"
-  },
-  {
-    "id": "kcl:postgraduate-offer-holder-medtech-innovation-entrepreneurship-webinar-1-jun-2026",
-    "sourceEventId": "ce373cc1-ad74-4190-a557-0994a90a1cf9",
-    "title": "MedTech Innovation & Entrepreneurship MSc - Offer Holder Webinar - 1 Jun 2026",
-    "desc": "Join your exclusive offer holder events to hear from current students.",
-    "source": "KCL",
-    "date": "2026-06-01T12:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "King’s Business School"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/postgraduate-offer-holder-medtech-innovation-entrepreneurship-webinar-1-jun-2026",
-    "image": "https://www.kcl.ac.uk/newimages/study/postgraduate/medtech.x660dd01e.jpg?w=995&h=440&crop=780,440,60,0"
-  },
-  {
-    "id": "kcl:queeratkings-reading-group-disepistemologies-of-abolition-cruising-utopia",
-    "sourceEventId": "a0d4e346-06ed-43f3-a7f5-22490061fae3",
-    "title": "Queer@King's Reading Group: Dis‑epistemologies of Abolition & Cruising Utopia",
-    "desc": "Explore non-carceral futures through discussion of Liat Ben‑Moshe's Dis‑epistemologies of Abolition (2018).",
-    "source": "KCL",
-    "date": "2026-06-01T12:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Arts & Culture",
-      "Queer@King's",
-      "Global Cultures Institute"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/queeratkings-reading-group-disepistemologies-of-abolition-cruising-utopia",
-    "image": "https://www.kcl.ac.uk/newimages/study/offer-holder-hub/comp-lit-her-rainbow-books.xfe43f24c.jpg?w=1501&h=440&crop=780,440,361,0"
-  },
-  {
-    "id": "kcl:pre-university-arrival-session-1-june-2026",
-    "sourceEventId": "46ffcfe5-060d-4cd9-997d-7026197dfbe3",
-    "title": "Pre-University Arrival Session - 1 June 2026",
-    "desc": "Join us for a pre-arrival session dedicated to our incoming Pre-University Summer School students!",
-    "source": "KCL",
-    "date": "2026-06-01T14:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Summer school",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/pre-university-arrival-session-1-june-2026",
-    "image": "https://www.kcl.ac.uk/ImportedImages/Study/SummerSchool/Summer-School-2013/Melissa-and-Jess-Summer-Schol-support-.x4ee02333.jpg?w=780&h=519&crop=780,440,0,40"
-  },
-  {
-    "id": "kcl:the-accommodation-of-democracy-a-new-political-economy-of-poverty-alleviation-in-rural-india",
-    "sourceEventId": "92ff320e-503b-4e34-af0f-4984b7432d47",
-    "title": "The Accommodation of Democracy: A New Political Economy of Poverty Alleviation in Rural India",
-    "desc": "A compelling account of welfare, inequality, and democratic practice, this book examines how India’s employment guarantee programme reshaped rural citizenship in Uttar Pradesh while revealing the limits of local democratisation.",
-    "source": "KCL",
-    "date": "2026-06-01T16:00:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Public lecture",
-      "Arts & Culture",
-      "Society"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/the-accommodation-of-democracy-a-new-political-economy-of-poverty-alleviation-in-rural-india",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/india/the-accommodation-of-democracy-bc-larger.xfdb78037.jpg?w=827&h=1249&crop=780,440,23,774"
-  },
-  {
-    "id": "kcl:navigating-new-waters-the-rise-of-private-maritime-security-companies",
-    "sourceEventId": "9e794f7b-f182-4d67-9207-141b99a08e92",
-    "title": "Navigating New Waters: The Rise of Private Maritime Security Companies",
-    "desc": "Explore the structural factors that have led to the resurgence of PMSCs in the late 20th and early 21st centuries",
-    "source": "KCL",
-    "date": "2026-06-01T17:30:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "International",
-      "Faculty of Social Science & Public Policy",
-      "School of Security Studies"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/navigating-new-waters-the-rise-of-private-maritime-security-companies",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/260601-maritime770.xf646bb3c.png"
-  },
-  {
-    "id": "kcl:morning-prayer-at-denmark-hill-5",
-    "sourceEventId": "b33e63b3-3092-420e-a109-585f29e5a877",
-    "title": "Morning Prayer at Denmark Hill",
-    "desc": "Morning Prayer service every Tuesday morning in term time.",
-    "source": "KCL",
-    "date": "2026-06-02T09:30:00",
-    "durationMin": 20,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-denmark-hill-5",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
     "id": "kcl:crossroads-people-places-and-ideas",
     "sourceEventId": "292b5c31-0d7d-4c57-9cf1-4e868556efbb",
     "title": "Crossroads: People, Places, and Ideas",
@@ -184,27 +40,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/stars-seminar-with-professor-sara-brown",
     "image": "https://www.kcl.ac.uk/newimages/folsm/prof-sara-brown-stars-seminar.xf501a65d.png"
-  },
-  {
-    "id": "kcl:international-lunch-at-waterloo-6",
-    "sourceEventId": "08438db4-5bb1-40db-8323-1ef0e46816c5",
-    "title": "International Lunch at Waterloo",
-    "desc": "Meet other members of the King's community and enjoy a (free!) lunch.",
-    "source": "KCL",
-    "date": "2026-06-02T12:00:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/international-lunch-at-waterloo-6",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/lunch-2.x5ac34aef.jpg?w=860&h=573&crop=780,440,0,50"
   },
   {
     "id": "kcl:creative-writing-poetry-workshop-at-denmark-hill",
@@ -249,27 +84,6 @@
     "image": "https://www.kcl.ac.uk/newimages/innovation-catalyst/kic-events-images/staff-experience-festival-thumbnail.xd0d066dd.png"
   },
   {
-    "id": "kcl:deans-office-book-club-at-waterloo-6",
-    "sourceEventId": "90ec74a7-abd5-405d-aa42-b5caf416705a",
-    "title": "Dean's Office Book Club at Waterloo",
-    "desc": "Read & discuss 'The Memory Police' by Yoko Ogawa.",
-    "source": "KCL",
-    "date": "2026-06-02T13:10:00",
-    "durationMin": 50,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/deans-office-book-club-at-waterloo-6",
-    "image": "https://www.kcl.ac.uk/newimages/ioppn/blogs/research-culture-blogs/research-culture-books.xfddcebed.jpg?w=780&h=520&crop=780,440,0,80"
-  },
-  {
     "id": "kcl:contemporary-art-and-the-moving-image-ma-offer-holder-event",
     "sourceEventId": "d0893896-90c8-477b-b3c2-2b79d7373fc7",
     "title": "Contemporary Art and the Moving Image MA Offer Holder Event - 2 June 2026",
@@ -306,6 +120,66 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/graduate-jobs-virtual-fair-2026",
     "image": "https://www.kcl.ac.uk/newimages/careers/ee/festivals/2022-fairs-images/graduate-jobs.x90b0f7bd.jpg?w=782&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:premier-emba-london-2-june-2026",
+    "sourceEventId": "e755526c-2961-4df9-8d9f-fa4442326517",
+    "title": "Premier EMBA - London | 2 June 2026",
+    "desc": "Join us at the upcoming Premier EMBA event in London.",
+    "source": "KCL",
+    "date": "2026-06-02T17:00:00",
+    "durationMin": 270,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Business & Finance"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/premier-emba-london-2-june-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/Schools/IoP/News-and-Events/london.x8976e108.png?crop=780,440,0,5"
+  },
+  {
+    "id": "kcl:festival-of-storytelling-opening-event-and-book-swap",
+    "sourceEventId": "9735b12d-849d-4030-b22c-d1b8d552deec",
+    "title": "Festival of Storytelling: Opening Event and Book Swap",
+    "desc": "Join our launch to learn about the upcoming highlights and hear from King's academics and invited guests on the power of a good story. Bring a book to swap and talk over drinks about why you're sharing it, and go away with a book new to you.",
+    "source": "KCL",
+    "date": "2026-06-02T18:00:00",
+    "durationMin": 210,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Festival",
+      "Arts & Culture",
+      "Faculty of Arts & Humanities"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/festival-of-storytelling-opening-event-and-book-swap",
+    "image": "https://www.kcl.ac.uk/newimages/ah/dfi/260602-Opening-Storytelling.x27d6f5bb.png?w=780&h=440"
+  },
+  {
+    "id": "kcl:nihr-insight-writing-for-scientific-publication",
+    "sourceEventId": "85733ea8-c477-4a1d-88a2-5e4ec8ff1666",
+    "title": "NIHR INSIGHT Writing for Scientific Publication",
+    "desc": "This in-person workshop will provide insights and practical advice on writing a research paper.",
+    "source": "KCL",
+    "date": "2026-06-03T09:30:00",
+    "durationMin": 420,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "Health"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/nihr-insight-writing-for-scientific-publication",
+    "image": "https://www.kcl.ac.uk/newimages/students-studying-together.x52f6c055.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
     "id": "kcl:holouk-5-meeting",
@@ -368,6 +242,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-8",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/summer-flower.xed31565f.jpg?w=780&h=518&crop=780,440,0,39"
+  },
+  {
+    "id": "kcl:joint-rd-office-wednesday-walk-in-july",
+    "sourceEventId": "f8c9ecaa-9130-4d4e-85ce-071b007d6595",
+    "title": "Joint R&D Office Wednesday Walk-In",
+    "desc": "Drop in and discuss your questions with the Joint R&D Office on the first Wednesday of every month.",
+    "source": "KCL",
+    "date": "2026-07-01T10:00:00",
+    "durationMin": 300,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Health",
+      "NIHR Maudsley Biomedical Research Centre",
+      "Institute of Psychiatry, Psychology & Neuroscience"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/joint-rd-office-wednesday-walk-in-july",
+    "image": "https://www.kcl.ac.uk/newimages/ioppn/research-and-development/joint-rd-office-drop-in-session.xf23d189a.png"
   },
   {
     "id": "kcl:margaret-butterworth-care-home-forum-july-2026",
@@ -578,46 +473,25 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/260512-brics.x8784988a.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
-    "id": "kcl:ecs-annual-lecture-2026",
-    "sourceEventId": "4ec611af-a733-4ac6-b692-34e3383d9e66",
-    "title": "ECS Annual Lecture 2026 - GenAI in Education: The Case of Personalisation with Dr Niall Curry",
-    "desc": "ECS Annual Lecture 2026",
+    "id": "kcl:deans-office-summer-reading-club-at-waterloo",
+    "sourceEventId": "f31b42c8-6c81-4508-9ae0-3b6872312de7",
+    "title": "Dean’s Office Summer Reading Club at Waterloo",
+    "desc": "Stay connected over the summer and share good book recommendations!",
     "source": "KCL",
-    "date": "2026-07-07T17:30:00",
-    "durationMin": 150,
+    "date": "2026-07-07T13:00:00",
+    "durationMin": 60,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
     "tags": [
-      "Society",
-      "Faculty of Social Science & Public Policy",
-      "School of Education, Communication & Society"
+      "Student",
+      "International",
+      "University"
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/ecs-annual-lecture-2026",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/ecs/annual-lecture-web-graphic-2.x5657a616.png"
-  },
-  {
-    "id": "kcl:mcdonald-agape-lecture-in-theology-and-the-visual-arts-2026",
-    "sourceEventId": "79af7a5e-f85c-4726-9562-afc7fe7d1560",
-    "title": "McDonald Agape Lecture in Theology and the Visual Arts 2026",
-    "desc": "Edmund de Waal Spirit and Substance",
-    "source": "KCL",
-    "date": "2026-07-07T18:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Theology and the Visual Arts",
-      "Department of Theology & Religious Studies",
-      "Faculty of Arts & Humanities"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/mcdonald-agape-lecture-in-theology-and-the-visual-arts-2026",
-    "image": "https://www.kcl.ac.uk/newimages/ah/theology/Events/260401mcdonald-agape-lecture-in-theology-and-the-visual-arts-2026.xf2ab05c2.png"
+    "url": "https://www.kcl.ac.uk/events/deans-office-summer-reading-club-at-waterloo",
+    "image": "https://www.kcl.ac.uk/newimages/ioppn/blogs/research-culture-blogs/research-culture-books.xfddcebed.jpg?w=780&h=520&crop=780,440,0,80"
   },
   {
     "id": "ic:209153",
@@ -627,7 +501,7 @@
     "source": "IC",
     "date": "2026-06-06T12:00:00+01:00",
     "durationMin": 480,
-    "venue": "Exhibition Road, Great Exhibition Road Festival/Marquee - Prince’s Gardens, South Kensington Campus",
+    "venue": "Exhibition Road, Main Entrance, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
@@ -730,29 +604,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:208413",
-    "sourceEventId": "208413",
-    "title": "SPC Seminar – Climate – Tim Reichelt (Oxford)",
-    "desc": "Speaker: Tim Reichelt (Oxford)\n\nTitle: Can generative modelling improve our understanding of mesoscale cloud organisation?\n\nAbstract: Understanding how atmospheric environmental conditions drive mesoscale cloud organisation is crucial for reducing uncertainties in cloud feedback estimates. However, developing simplified models for cloud organisational patterns is exceedingly difficult. With the large amounts of observational data from satellites available, it is increasingly feasible to develop data-driven models of cloud organisational structures. I will present our ongoing work on CloudFlow, a probabilistic machine learning model that generates mesoscale cloud structures at kilometre resolution conditioned on coarse scale environmental conditions. The model is trained to generate MODIS…",
-    "source": "IC",
-    "date": "2026-06-02T11:30:00+01:00",
-    "durationMin": 60,
-    "venue": "711c, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Climate change",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208413/spc-seminar-climate-tim-reichelt-oxford/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:197830",
     "sourceEventId": "197830",
     "title": "RUSH HOUR RECITAL Opus Anglicanum",
@@ -796,7 +647,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208418/spc-seminar-climate-itamar-karbi-weizmann-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209618",
@@ -926,7 +777,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210103/london-logic-seminar-anand-pillay-university-of-notre-dame/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210266",
@@ -1057,7 +908,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209442/geometry-and-topology-seminar-aline-zanardini-epfl/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210280",
@@ -1100,7 +951,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208379/fluid-dynamics-seminar-quentin-kriaa-cambridge/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210213",
@@ -1121,7 +972,28 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210213/mfc-cdt-summer-school-talk-serge-guillas-ucl-adam-sykulski-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210262",
+    "sourceEventId": "210262",
+    "title": "Junior Geometry Seminar – Carlo Mazzanti (Bielefeld)",
+    "desc": "Title: The Beauville–Voisin conjecture for double EPW quartics\n\nSpeaker: Carlo Mazzanti (Bielefeld)\n\nAbstract: Chow rings of hyperkähler varieties are best understood in settings where one has strong control over their geometry, such as for Fano varieties of lines on cubic fourfolds, while the picture is less complete for moduli spaces of sheaves on K3 surfaces. Double EPW quartics are moduli spaces of twisted sheaves, but also admit two other constructions: via conics in Verra fourfolds and as lagrangian degeneracy loci. In this talk, I will explain how these constructions interact and can be exploited to prove the Beauville–Voisin and Franchetta conjectures for them.\n\nSome snacks will be provided before and after the talk.\n\nGo to the seminar main page.\n\nSubscribe to the mailing list.",
+    "source": "IC",
+    "date": "2026-06-05T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Room 140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210262/junior-geometry-seminar-carlo-mazzanti/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
   },
   {
     "id": "lse:how-to-talk-to-ai",
@@ -1286,26 +1158,6 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/the-coming-of-age-symposium",
     "image": "https://images.prismic.io/wellcomecollection/ahgIVbK9tuLqENnX_UncertainFutures100womenbyAndrewBrooks_3_V2.jpg?auto=format%2Ccompress&rect=0%2C305%2C4000%2C2250&w=3200&h=1800"
-  },
-  {
-    "id": "rs:2026-06-light-driven-chemistry",
-    "sourceEventId": "2026-06-light-driven-chemistry",
-    "title": "Light-driven chemistry for a sustainable future",
-    "desc": "Discussion meeting organised by Professor Anatoly Zayats, Professor Stefan Maier, Sir Richard Catlow FRS, Professor Graham Hutchings CBE FRS.",
-    "source": "RS",
-    "date": "2026-06-01T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Climate",
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/light-driven-chemistry/",
-    "image": "https://royalsociety.org/-/media/events/2026/6/light-driven-chemistry/render-sustainablechem.jpg"
   },
   {
     "id": "rs:2026-06-pangenomics",
