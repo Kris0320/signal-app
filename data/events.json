@@ -604,29 +604,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:197830",
-    "sourceEventId": "197830",
-    "title": "RUSH HOUR RECITAL Opus Anglicanum",
-    "desc": "RUSH HOUR RECITAL\n\nOpus Anglicanum presents Folksongs of the British Isles , a much-loved programme exploring the wonder and excitement of the early 20th century collectors of English folk music as they toured the land with bicycle, notebook and phonograph. This evocative and quintessentially British sequence celebrates the traditional songs of our native land.\n\nMemorable words and wonderful music of Ralph Vaughan Williams , George Butterworth , Cecil Sharp and Percy Grainger tell poignant and hilarious tales of Morris tunes and sea shanties, of ploughmen and washerwomen, and of the race to preserve their inspirational music before war and progress swept it away.",
-    "source": "IC",
-    "date": "2026-06-02T17:45:00+01:00",
-    "durationMin": 45,
-    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Arts",
-      "Creative",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/197830/rush-hour-recital-opus-anglicanum/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sheet-music-1229481-960-720_1756830722800_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:208418",
     "sourceEventId": "208418",
     "title": "SPC Seminar – Climate – Itamar Karbi (Weizmann Institute)",
@@ -647,7 +624,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208418/spc-seminar-climate-itamar-karbi-weizmann-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209618",
@@ -777,7 +754,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210103/london-logic-seminar-anand-pillay-university-of-notre-dame/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210266",
@@ -798,7 +775,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210266/number-theory-seminar-daniel-kriz/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:208326",
@@ -908,7 +885,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209442/geometry-and-topology-seminar-aline-zanardini-epfl/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210280",
@@ -972,7 +949,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210213/mfc-cdt-summer-school-talk-serge-guillas-ucl-adam-sykulski-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210262",
@@ -996,24 +973,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
   },
   {
-    "id": "lse:how-to-talk-to-ai",
-    "sourceEventId": "how-to-talk-to-ai",
-    "title": "How to talk to AI",
-    "desc": "How to talk to AI",
-    "source": "LSE",
-    "date": "2026-06-02T18:00:00+01:00",
-    "durationMin": 120,
-    "venue": "In-person public event (Space House, 12 Keeley Street, London, WC2B 4BA)",
-    "area": "Holborn",
+    "id": "ic:207107",
+    "sourceEventId": "207107",
+    "title": "Imperial Fungal Science Network | at THE GREAT EXHIBITION ROAD FESTIVAL | find us in the ‘Underground Adventure Zone’ in Prince’s Gardens",
+    "desc": "** The Network is excited to be participating in THE GREAT EXHIBITION ROAD FESTIVAL 2026**\n\nHello from the Imperial Fungal Science Network! Our Network is a hub for the mycology community (led by scientists at Imperial College London). A mycologist is a scientist who studies fungi and the crucial role which fungi play in our life on earth.\n\nWHAT / the Network is hosting a public engagement activity at the Festival; visit us at our ‘UNDERGROUND FUNGAL NETWORKS’ stand\n\nWHEN / 12:00 – 18:00 on Sat 6 & Sun 7 June\n\nWHERE / find our stand in the Underground Adventure Zone in Prince’s Gardens\n\nFIND US / 📍 Marquee, Prince’s Gardens, South Kensington Campus, London SW7 find us at Map/2C\n\nHOW / a FREE drop-in event (no registration required)\n\nDRAWING WALL – join us at our walk-in art activity for…",
+    "source": "IC",
+    "date": "2026-06-06T12:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Marquee at Prince's Gardens, Great Exhibition Road Festival/Marquee - Prince’s Gardens, South Kensington Campus",
+    "area": "South Kensington",
     "price": 0,
     "tags": [
-      "AI",
-      "Open to all"
+      "Festival",
+      "events",
+      "Infectious diseases",
+      "Postdoctoral researchers",
+      "School of Public Health"
     ],
     "format": "In person",
-    "match": 74,
-    "url": "https://www.lse.ac.uk/dsi/events/2025-26/public-events/how-to-talk-to-ai",
-    "image": null
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207107/imperial-fungal-science-network-at-the-great-exhibition-road-festival-find-us-in-the-underground-adventure-zone-in-princes-gardens/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/fungal-science-network-banner-excellence-badge-1_1674564595626_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
@@ -1053,6 +1033,27 @@
     "format": "Online",
     "match": 74,
     "url": "https://www.lse.ac.uk/events/ai-1",
+    "image": null
+  },
+  {
+    "id": "lse:parallel-reforms-to-the-nhs-and-local-government-is-anyone-building-the-bridges-1",
+    "sourceEventId": "parallel-reforms-to-the-nhs-and-local-government-is-anyone-building-the-bridges-1",
+    "title": "Parallel Reforms to the NHS and Local Government: Is Anyone Building the Bridges?",
+    "desc": "Parallel Reforms to the NHS and Local Government: Is Anyone Building the Bridges?",
+    "source": "LSE",
+    "date": "2026-06-09T18:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Parallel Reforms to the NHS and Local Government: Is Anyone Building the Bridges?",
+    "area": "Holborn",
+    "price": 0,
+    "tags": [
+      "Healthcare",
+      "health",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/health-policy/events/2025-26/parallel-reforms-to-the-nhs-and-local-government-is-anyone-building-the-bridges-1",
     "image": null
   },
   {
