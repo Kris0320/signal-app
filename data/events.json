@@ -1,25 +1,5 @@
 [
   {
-    "id": "kcl:nihr-insight-writing-for-scientific-publication",
-    "sourceEventId": "85733ea8-c477-4a1d-88a2-5e4ec8ff1666",
-    "title": "NIHR INSIGHT Writing for Scientific Publication",
-    "desc": "This in-person workshop will provide insights and practical advice on writing a research paper.",
-    "source": "KCL",
-    "date": "2026-06-03T09:30:00",
-    "durationMin": 420,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Technology & Science",
-      "Health"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/nihr-insight-writing-for-scientific-publication",
-    "image": "https://www.kcl.ac.uk/newimages/students-studying-together.x52f6c055.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
     "id": "kcl:holouk-5-meeting",
     "sourceEventId": "93cd3668-b29a-40a4-be9e-a5eb42e4b87d",
     "title": "HoloUK 5 Meeting",
@@ -332,28 +312,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250608-gerf-festival-bf-979-57-2_1777546039310_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:208569",
-    "sourceEventId": "208569",
-    "title": "Imperial Collider: Health – Innovations for partners, people & populations",
-    "desc": "What is the event about?\n\nImperial Collider returns, providing you the opportunity to meet world-leading researchers across Imperial’s health and innovation ecosystem. Come along to hear from startup and spinout founders from our community, representatives from funding and investment organisations, and leading industry figures in health, pharma and biosciences.\n\nThis year, our keynote speaker is Dr Fiona Marshall, President of Biomedical Research at Novartis , who will bring her extensive experience and cross-cutting expertise to inspire impact-making innovation throughout the community.\n\nWhat is the agenda?\n\nFull agenda available on Eventbrite\n\nWhat can you expect to take away from our event?\n\nDirect access to top voices in biomedical innovation from Imperial, pharma, investment, and…",
-    "source": "IC",
-    "date": "2026-06-04T09:30:00+01:00",
-    "durationMin": 450,
-    "venue": "The Royal Geography Society",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "enterprise",
-      "Institutional Event",
-      "Public"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208569/imperial-collider-health-innovations-for-partners-people-populations/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/website-banner-health_1776849602824_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:209686",
     "sourceEventId": "209686",
     "title": "Invisible Warrior @ The Great Exhibition Road Festival 2026",
@@ -417,29 +375,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209857/how-universities-can-lead-the-way-towards-a-sustainable-future/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:208326",
-    "sourceEventId": "208326",
-    "title": "Lunchtime Concert – Primrose Piano Quartet",
-    "desc": "Primrose Piano Quartet Saint-Saëns Barcarolle for Piano Quartet Fauré Piano Quartet No 1 in C minor Op 15",
-    "source": "IC",
-    "date": "2026-06-04T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Arts",
-      "Creative",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208326/lunchtime-concert-primrose-piano-quartet-4/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ppq-playing_1775833116562_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208975",
@@ -526,7 +461,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209442/geometry-and-topology-seminar-aline-zanardini-epfl/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210280",
@@ -569,7 +504,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208379/fluid-dynamics-seminar-quentin-kriaa-cambridge/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210213",
@@ -590,7 +525,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210213/mfc-cdt-summer-school-talk-serge-guillas-ucl-adam-sykulski-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210262",
@@ -644,7 +579,7 @@
     "source": "IC",
     "date": "2026-06-06T12:00:00+01:00",
     "durationMin": 480,
-    "venue": "Open plan space Ground floor, Sherfield Building, South Kensington Campus",
+    "venue": "Queens Tower Rooms: Open plan space Ground floor of Sherfield Building, Sherfield Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
@@ -748,6 +683,51 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210127/imperial-at-london-tech-week-day-1/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/main-keyvisual-background_1779875987519_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:206519",
+    "sourceEventId": "206519",
+    "title": "Imperial Schools Year 1 Project Open Days",
+    "desc": "Imperial Schools Year 1 Project Open Days\n\nDuring their first year at Imperial College, Physics students work with a researcher to develop and undertake a research project of their own design. On Monday 8 June and Tuesday 9 June 2026, they will present their results at stands in the Department of Physics to fellow students, staff, and visitors. Over 60 exciting projects will be on display, offering visitors a great opportunity to learn about the Physics research being conducted in the department and to engage with students about their experiences.\n\nAdditionally, there will be talks by researchers throughout the event, giving visitors a chance to learn more about the Physics department and the cutting-edge research being conducted in the field. The Open Days are suitable for students…",
+    "source": "IC",
+    "date": "2026-06-08T12:00:00+01:00",
+    "durationMin": 480,
+    "venue": "LT1, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Open days",
+      "Physics",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/206519/imperial-schools-year-1-project-open-days-2/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209605",
+    "sourceEventId": "209605",
+    "title": "Vascular Network: Women’s Cardiovascular Health and Disease",
+    "desc": "An Imperial-centered event bringing together clinical and discovery researchers across cardiovascular science to explore sex differences, from unmet clinical problems to mechanistic research. The program includes short talks and structured discussion, with contributions from international spe akers, senior experts in the field, and emerging ECRs.\n\n13:00–13:30 Lunch & Networking\n\n13:30–14:00 Opening Session, Barbara Casadei and Ramzi Khamis (Imperial)\n\nSession 1 — Clinical Questions and Patient Phenotypes Chair: Ramzi Khamis\n\n14:00–14:20 Keynote: Aloke Finn (University of Maryland, USA), Pathology of Rare Genetic Variants in Cases of Spontaneous Coronary Artery Dissection\n\n14:25–14:35 Rasha Al-Lamee (Imperial), Angina in women\n\n14:40–14:50 Kathryn McGurk (Imperial), Sex differences in the…",
+    "source": "IC",
+    "date": "2026-06-08T13:00:00+01:00",
+    "durationMin": 270,
+    "venue": "12th Floor Lecture Theatre, Sir Michael Uren Hub, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Meeting",
+      "Vascular Science Network",
+      "Cardiovascular",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209605/vascular-network-womens-cardiovascular-health-and-disease/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/womens-cardiovascular-health_1778671627430_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
@@ -1037,7 +1017,7 @@
     "id": "rs:2026-10-safeguarding-anthropocene-tropical-forests",
     "sourceEventId": "2026-10-safeguarding-anthropocene-tropical-forests",
     "title": "Safeguarding Anthropocene tropical forests",
-    "desc": "Discussion meeting organised by Professor Judith Allen FMedSci FRS and Dame Fiona Powrie DBE FMedSci FRS",
+    "desc": "Science+ meeting organised by Professor Jane Hill OBE FRS, Datuk Dr Glen Reynolds MBE, Dr Lindsay Banin, Dr Ophelia Wang, Professor John Pyle FRS",
     "source": "RS",
     "date": "2026-10-05T09:00:00+01:00",
     "durationMin": 480,
