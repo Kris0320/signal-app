@@ -377,28 +377,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:208975",
-    "sourceEventId": "208975",
-    "title": "The Greenhouse Demo Day Cohort 8",
-    "desc": "Join Undaunted to celebrate Demo Day – our flagship event!\n\n​Imperial’s climate innovation community will come together to celebrate the eighth cohort of cleantech startups coming to the end of their time on our unique accelerator programme, The Greenhouse . 14 early-stage deep-tech ventures tackling climate change across energy, infrastructure, materials, biotech, and nature will pour what they’ve learnt over the past 12 months into impressive pitches to investors on the historic stage at The Royal Institution. ​\n\n​If you’re an investor or supporter of climate innovation, it’s a fantastic opportunity to hear from passionate early-stage founders who are on a mission to make the future more sustainable and equitable, and to learn about exciting ideas and technologies at the forefront of…",
-    "source": "IC",
-    "date": "2026-06-04T13:00:00+01:00",
-    "durationMin": 300,
-    "venue": "The Royal Institution ",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Climate change",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208975/the-greenhouse-demo-day-cohort-8/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/greenhouse-demo-day-cohort-8-banner_1777021960087_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:205362",
     "sourceEventId": "205362",
     "title": "New Starters in Synthesis and Catalysis (NSSC) 2026",
@@ -461,7 +439,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209442/geometry-and-topology-seminar-aline-zanardini-epfl/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210280",
@@ -504,7 +482,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208379/fluid-dynamics-seminar-quentin-kriaa-cambridge/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210213",
@@ -525,7 +503,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210213/mfc-cdt-summer-school-talk-serge-guillas-ucl-adam-sykulski-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210262",
@@ -704,7 +682,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/206519/imperial-schools-year-1-project-open-days-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209605",
@@ -728,6 +706,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209605/vascular-network-womens-cardiovascular-health-and-disease/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/womens-cardiovascular-health_1778671627430_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210400",
+    "sourceEventId": "210400",
+    "title": "Bioscience Vaccine Seminar",
+    "desc": "Join us for the New Horizons in Vaccine Research joint seminar between Imperial College London and the University of Ghana on 8th June 2026, 13:00–15:00 BST, organised by the Vaccine Student Research Network.",
+    "source": "IC",
+    "date": "2026-06-08T13:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210400/bioscience-vaccine-seminar-2/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
@@ -893,397 +892,5 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/the-coming-of-age-symposium",
     "image": "https://images.prismic.io/wellcomecollection/ahgIVbK9tuLqENnX_UncertainFutures100womenbyAndrewBrooks_3_V2.jpg?auto=format%2Ccompress&rect=0%2C305%2C4000%2C2250&w=3200&h=1800"
-  },
-  {
-    "id": "rs:2026-06-pangenomics",
-    "sourceEventId": "2026-06-pangenomics",
-    "title": "Pangenomics transforms evolutionary biology",
-    "desc": "This Theo Murphy meeting organised by Dr Joana Meier, Dr Henry North and Dr Charlotte Wright, will showcase cutting-edge pangenome tools, applied uses of pangenomes which are transforming health and agriculture, and opportunities to revolutionise biodiversity genomics.",
-    "source": "RS",
-    "date": "2026-06-08T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Apex Grassmarket Hotel, Edinburgh",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Healthcare",
-      "Climate",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 76,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/pangenomics/",
-    "image": "https://royalsociety.org/-/media/events/2026/6/pangenomics/pangenomics-header.jpg"
-  },
-  {
-    "id": "rs:2026-06-mophh",
-    "sourceEventId": "2026-06-mophh",
-    "title": "Metals and oxygen: planetary and human homeostasis",
-    "desc": "Discussion meeting organised by Professor Karen Johnson, Professor Caroline Peacock, Dr Stephen Chivasa, Dr Karrera Djoko and Dr Verena Tretter",
-    "source": "RS",
-    "date": "2026-06-15T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/mophh/",
-    "image": "https://royalsociety.org/-/media/events/2026/6/mophh/untitled-design-(3).jpg"
-  },
-  {
-    "id": "rs:2026-06-creating-connections-west-midlands",
-    "sourceEventId": "2026-06-creating-connections-west-midlands",
-    "title": "Creating connections West Midlands 2026",
-    "desc": "The Royal Society will be holding a Creating Connections meeting in Birmingham to discuss the role of the West Midlands in driving UK innovation and prosperity.",
-    "source": "RS",
-    "date": "2026-06-17T10:00:00+01:00",
-    "durationMin": 420,
-    "venue": "The Studio, 7 Cannon St, Birmingham B2 5EP",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/creating-connections-west-midlands/",
-    "image": "https://royalsociety.org/-/media/policy/publications/2018/creating-connections.jpg"
-  },
-  {
-    "id": "rs:2026-09-path-to-quantum-gravity",
-    "sourceEventId": "2026-09-path-to-quantum-gravity",
-    "title": "The path to quantum gravity with causal sets",
-    "desc": "Theo Murphy meeting organised by Dr Yasaman Yazdi and Dr Stav Zalel",
-    "source": "RS",
-    "date": "2026-09-07T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Holiday Inn, Manchester City Centre",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Physics",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 76,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/path-to-quantum-gravity/",
-    "image": "https://royalsociety.org/-/media/events/2026/9/path-to-quantum-gravity/lead-image.jpg"
-  },
-  {
-    "id": "rs:2026-09-unravelling-magnetic-histories",
-    "sourceEventId": "2026-09-unravelling-magnetic-histories",
-    "title": "Unravelling the magnetic histories of Earth and other terrestrial objects",
-    "desc": "Discussion meeting organised by Professor Andy Biggin, Dr James Bryson, Professor Cathy Constable and Professor Wyn Williams.",
-    "source": "RS",
-    "date": "2026-09-14T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/unravelling-magnetic-histories/",
-    "image": "https://royalsociety.org/-/media/events/2026/9/magnetic-histories/magnetic-histories-header.jpg"
-  },
-  {
-    "id": "rs:2026-09-animal-and-ai",
-    "sourceEventId": "2026-09-animal-and-ai",
-    "title": "Nature of intelligence: Bridging animal and artificial intelligence",
-    "desc": "Theo Murphy meeting organised by Dr HaDi MaBouDi",
-    "source": "RS",
-    "date": "2026-09-21T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "DoubleTree by Hilton, Bristol",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "AI",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 82,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/animal-and-ai/",
-    "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
-  },
-  {
-    "id": "rs:2026-10-safeguarding-anthropocene-tropical-forests",
-    "sourceEventId": "2026-10-safeguarding-anthropocene-tropical-forests",
-    "title": "Safeguarding Anthropocene tropical forests",
-    "desc": "Science+ meeting organised by Professor Jane Hill OBE FRS, Datuk Dr Glen Reynolds MBE, Dr Lindsay Banin, Dr Ophelia Wang, Professor John Pyle FRS",
-    "source": "RS",
-    "date": "2026-10-05T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/safeguarding-anthropocene-tropical-forests/",
-    "image": "https://royalsociety.org/-/media/blogs/2022/08/royal-society-square.jpg"
-  },
-  {
-    "id": "rs:2026-10-immunology-of-the-exposome",
-    "sourceEventId": "2026-10-immunology-of-the-exposome",
-    "title": "Immunology of the exposome: addressing the crisis in chronic inflammatory disease",
-    "desc": "Discussion meeting organised by Professor Judith Allen FMedSci FRS and Dame Fiona Powrie DBE FMedSci FRS",
-    "source": "RS",
-    "date": "2026-10-12T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Healthcare",
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/immunology-of-the-exposome/",
-    "image": "https://royalsociety.org/-/media/events/2026/10/immunology-of-the-exposome/lead-image.jpg"
-  },
-  {
-    "id": "rs:2026-11-ecological-dynamics",
-    "sourceEventId": "2026-11-ecological-dynamics",
-    "title": "Forecasting ecological dynamics in a changing world, a critical discussion",
-    "desc": "Discussion meeting organised by Dr Emily G Simmonds",
-    "source": "RS",
-    "date": "2026-11-02T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/ecological-dynamics/",
-    "image": "https://royalsociety.org/-/media/events/2026/11/ecological-dynamics/lead-image.jpg"
-  },
-  {
-    "id": "rs:2026-11-neuromorphic-computing",
-    "sourceEventId": "2026-11-neuromorphic-computing",
-    "title": "Innovating technologies for neuromorphic computing",
-    "desc": "Discussion meeting and Transforming our Future event organised by Professor Stephen Furber CBE FREng FRS, Professor Judith Driscoll FREng FRS, Professor Stuart Parkin FREng FRS, Dr Sebastian C Dixon and Professor Tony Kenyon",
-    "source": "RS",
-    "date": "2026-11-23T09:00:00+01:00",
-    "durationMin": 420,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/neuromorphic-computing/",
-    "image": "https://royalsociety.org/-/media/events/2026/11/neuromorphic-computing/neuromorphic-lead-image.jpg"
-  },
-  {
-    "id": "rs:2026-06-environment-prize-lecture",
-    "sourceEventId": "2026-06-environment-prize-lecture",
-    "title": "Royal Society Environment Prize Lecture: Feeding the world without costing the earth",
-    "desc": "Join us for the Royal Society Environment Prize Lecture delivered by Professor Andrew Balmford FRS",
-    "source": "RS",
-    "date": "2026-06-16T18:30:00+01:00",
-    "durationMin": 60,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Climate",
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/environment-prize-lecture/",
-    "image": "https://royalsociety.org/-/media/events/2026/6/environment/istockvalio84sl-938782932.jpg"
-  },
-  {
-    "id": "rs:2026-06-sse-on-tour-eden-festival",
-    "sourceEventId": "2026-06-sse-on-tour-eden-festival",
-    "title": "Summer Science Exhibits on Tour at Eden Festival",
-    "desc": "Discover ground-breaking science with the Royal Society's Summer Science Exhibits on Tour at Eden festival",
-    "source": "RS",
-    "date": "2026-06-13T18:00:00+01:00",
-    "durationMin": 90,
-    "venue": "Raehill’s Estate, Moffat, Scotland, DG11 1ET",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/sse-on-tour-eden-festival/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/sse-on-tour-26/uv-sse-2024.jpg"
-  },
-  {
-    "id": "rs:2026-06-tues-lates",
-    "sourceEventId": "2026-06-tues-lates",
-    "title": "Summer Science Exhibition Lates",
-    "desc": "A late opening of the Summer Science Exhibition event",
-    "source": "RS",
-    "date": "2026-06-30T18:00:00+01:00",
-    "durationMin": 240,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/tues-lates/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sse-lates-2025.jpg"
-  },
-  {
-    "id": "rs:2026-06-lates-what-does-a-black-hole-really-look-like",
-    "sourceEventId": "2026-06-lates-what-does-a-black-hole-really-look-like",
-    "title": "Talk: What does a black hole really look like?",
-    "desc": "Dr Rahul Kumar Walia explores how gravity bends light in extreme ways and how these observations allow us to test fundamental ideas in physics",
-    "source": "RS",
-    "date": "2026-06-30T18:20:00+01:00",
-    "durationMin": 20,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Physics",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/lates-what-does-a-black-hole-really-look-like/",
-    "image": "https://royalsociety.org/-/media/blogs/2019/06/black-holes/black-holes-2.jpg"
-  },
-  {
-    "id": "rs:2026-06-lates-can-science-win-the-world-cup",
-    "sourceEventId": "2026-06-lates-can-science-win-the-world-cup",
-    "title": "Panel: The World, the Universe and Us live: can science win the World Cup?",
-    "desc": "A live, football-themed special edition of New Scientist’s award-winning podcast",
-    "source": "RS",
-    "date": "2026-06-30T18:45:00+01:00",
-    "durationMin": 75,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/lates-can-science-win-the-world-cup/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/the-world-the-universe-and-us-can-science-win-the-world-cup.jpg"
-  },
-  {
-    "id": "rs:2026-06-lates-the-future-we-want",
-    "sourceEventId": "2026-06-lates-the-future-we-want",
-    "title": "In conversation: The future we want",
-    "desc": "A discussion on the potential impacts of an AI designed to work for the many, not the few",
-    "source": "RS",
-    "date": "2026-06-30T19:10:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "AI",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 76,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/lates-the-future-we-want/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/future-we-want.jpg"
-  },
-  {
-    "id": "rs:2026-06-lates-trivedi-science-book-prize-2026-shortlist-reveal",
-    "sourceEventId": "2026-06-lates-trivedi-science-book-prize-2026-shortlist-reveal",
-    "title": "Panel: The Trivedi Science Book Prize 2026 shortlist celebration",
-    "desc": "New Scientist’s Alison Flood speaks with the judging panel for this year’s Royal Society Trivedi Science Book Prize who will be revealing the 2026 shortlist. ​",
-    "source": "RS",
-    "date": "2026-06-30T20:20:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/lates-trivedi-science-book-prize-2026-shortlist-reveal/",
-    "image": "https://royalsociety.org/-/media/blogs/2023/4/modern-perspectives-in-proof-theory/book-hero.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-the-mystery-of-space-fossils",
-    "sourceEventId": "2026-07-wed-the-mystery-of-space-fossils",
-    "title": "Talk: The mystery of space fossils",
-    "desc": "Learn how interstellar comets help us understand how planets form across the galaxy.",
-    "source": "RS",
-    "date": "2026-07-01T10:30:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-the-mystery-of-space-fossils/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/space-fossils-nasa.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-the-invisible-majority",
-    "sourceEventId": "2026-07-wed-the-invisible-majority",
-    "title": "Talk: The invisible majority - how microbes rule the Earth",
-    "desc": "This talk will reveal the complex relationships between microbes and the world around us",
-    "source": "RS",
-    "date": "2026-07-01T11:00:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-the-invisible-majority/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/microbe-zoo-sse-2026.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-can-you-get-music-on-the-moon",
-    "sourceEventId": "2026-07-wed-can-you-get-music-on-the-moon",
-    "title": "Talk: Can you get music on the Moon?",
-    "desc": "Join planetary scientist Dr Sheila Kanani on a fascinating exploration of the world of sound and space science.",
-    "source": "RS",
-    "date": "2026-07-01T11:30:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-can-you-get-music-on-the-moon/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2023/talks-and-activities/moon-seen-from-space-station.jpg"
   }
 ]
