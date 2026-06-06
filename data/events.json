@@ -377,49 +377,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:205362",
-    "sourceEventId": "205362",
-    "title": "New Starters in Synthesis and Catalysis (NSSC) 2026",
-    "desc": "Registration\n\nRegistration must be made via the Imperial online store .\n\nRegistration to attend the symposium is free, but there is a £15 fee if you want lunch included with your ticket.\n\nAbout NSSC\n\nNew Starters in Synthesis and Catalysis (NSSC) is an annual event showcasing the work of recently appointed academics in the areas of synthesis and catalysis alongside a plenary speaker.\n\nThe conference will host a line-up of speakers in synthesis and catalysis in its broadest sense, from fundamental organic and inorganic synthesis and catalysis to applied work in chemical biology and materials.\n\nThe event will be open to all but is ideally suited to academic staff, PhD students and postdoctoral researchers with a background in synthesis and catalysis as well as those in the pharma, biotech…",
-    "source": "IC",
-    "date": "2026-06-05T09:30:00+01:00",
-    "durationMin": 480,
-    "venue": "Room B10, Molecular Sciences Research Hub (MSRH), White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Symposium",
-      "Chemistry",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/205362/new-starters-in-synthesis-and-catalysis-nssc-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/01-ictem-confocal-vasc-03-107690-001_1707829480000_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210262",
-    "sourceEventId": "210262",
-    "title": "Junior Geometry Seminar – Carlo Mazzanti (Bielefeld)",
-    "desc": "Title: The Beauville–Voisin conjecture for double EPW quartics\n\nSpeaker: Carlo Mazzanti (Bielefeld)\n\nAbstract: Chow rings of hyperkähler varieties are best understood in settings where one has strong control over their geometry, such as for Fano varieties of lines on cubic fourfolds, while the picture is less complete for moduli spaces of sheaves on K3 surfaces. Double EPW quartics are moduli spaces of twisted sheaves, but also admit two other constructions: via conics in Verra fourfolds and as lagrangian degeneracy loci. In this talk, I will explain how these constructions interact and can be exploited to prove the Beauville–Voisin and Franchetta conjectures for them.\n\nSome snacks will be provided before and after the talk.\n\nGo to the seminar main page.\n\nSubscribe to the mailing list.",
-    "source": "IC",
-    "date": "2026-06-05T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Room 140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210262/junior-geometry-seminar-carlo-mazzanti/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
-  },
-  {
     "id": "ic:207107",
     "sourceEventId": "207107",
     "title": "Imperial Fungal Science Network | at THE GREAT EXHIBITION ROAD FESTIVAL | find us in the ‘Underground Adventure Zone’ in Prince’s Gardens",
@@ -575,7 +532,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/206519/imperial-schools-year-1-project-open-days-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209605",
@@ -619,7 +576,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210400/bioscience-vaccine-seminar-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210565",
@@ -640,7 +597,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210565/magic-seminar-tomasz-wawak-krakow/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:210584",
@@ -661,7 +618,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210584/biomathematics-seminar-shaon-chakrabarti-ncbs-bangalore/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207768",
@@ -727,6 +684,50 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209930/deep-learning-models-with-hard-physical-and-logical-constraints/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210129",
+    "sourceEventId": "210129",
+    "title": "Imperial at London Tech Week: Day 2",
+    "desc": "Visit Imperial at London Tech Week! Stop by our stand to see what we’ve been working on, to chat with the team or join one of our presentations.\n\n09.30 – 09.45: Imperial Global\n\n11.30 – 11.45: Introduction to WestTech London\n\n13.30 – 13.45: Expanding Technology through Convergence\n\n14.30 – 14.45: Lifelong Learning\n\n15.30 – 15.45: Enterprise",
+    "source": "IC",
+    "date": "2026-06-09T08:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Olympia",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Exhibition",
+      "Schools of Convergence Science",
+      "Enterprise Lab",
+      "Institutional Event",
+      "London Tech Week"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210129/imperial-at-london-tech-week-day-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/main-keyvisual-background_1779876424693_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210591",
+    "sourceEventId": "210591",
+    "title": "GATP Seminar — Eric Yen-Yo Chen (EPFL): Langlands functoriality of Hitchin systems",
+    "desc": "Traditionally, Langlands functoriality refers to the identification of automorphic forms whose parameters take a special shape. In this talk, we explain how to ask analogous questions on the Hitchin moduli space using perspectives from the relative Langlands program. We gain, in this setting, the advantage of working with a version of Langlands duality which is readily computable, and if time permits we will discuss the ramifications of these calculations for automorphic periods and L-functions.\n\nThis will be a Zoom talk we will watch together in Huxley 411, or you can use the zoom link (available upon request).",
+    "source": "IC",
+    "date": "2026-06-09T11:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Huxley 411, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210591/gatp-seminar-eric-yen-yo-chen-epfl-langlands-functoriality-of-hitchin-systems/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
