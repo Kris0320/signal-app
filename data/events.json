@@ -310,51 +310,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:209688",
-    "sourceEventId": "209688",
-    "title": "Invisible Warrior @ The Great Exhibition Road Festival 2026",
-    "desc": "Visit the Invisible Warrior stand to learn about blood science, Sickle Cell, and invisible disabilities. Our stand is for all ages: meet and talk to scientists, get hands-on with experiments and creative activities, use our microscope to study blood cells up close, and test your knowledge in our quiz!\n\nMeet people living with Sickle Cell Disease and learn about their story. Talk to our collaborators who raise awareness for blood and bone marrow donation, and find out why more donors are needed especially from different ethnic backgrounds.\n\nThere will be a drop-in zine workshop Making the Invisible Visible , where you’ll work with zine artists to create your own small, illustrated story; to add your reflections to a mural, or to spread positive wishes with the festival visitors.\n\nYou can…",
-    "source": "IC",
-    "date": "2026-06-07T12:00:00+01:00",
-    "durationMin": 360,
-    "venue": "Health and Happiness Zone, Queen Tower Rooms, Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Festival",
-      "Invisible Warrior",
-      "vaccines",
-      "Public health",
-      "Immune system"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209688/invisible-warrior-the-great-exhibition-road-festival-2026-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/the-great-exhibition-road-festival-17th-june-2023-brendan-foster-photography-570_1715597798870_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210030",
-    "sourceEventId": "210030",
-    "title": "The future of flight: Brahmal Institute at the Great Exhibition Road Festival!",
-    "desc": "Join the Brahmal Institute for Sustainable Aviation at the Great Exhibition Road Festival’s “Future of Flight” exhibit in the Family Fun Zone at Kensington Gardens. Through hands-on paper plane challenges, families and young explorers can discover the science behind lift, drag, thrust and aircraft control while experimenting with different plane designs and testing how small changes affect performance.\n\nMeet researchers working on the future of greener aviation and explore how aircraft technology is evolving to reduce environmental impact. From the history of flight innovation to cutting-edge ideas for sustainable air travel, this interactive activity invites visitors to imagine how we might fly more efficiently in the future.\n\nThe exhibit takes place on Saturday 6 and Sunday 7 June from…",
-    "source": "IC",
-    "date": "2026-06-07T12:00:00+01:00",
-    "durationMin": 360,
-    "venue": "Family Fun Zone",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Festival",
-      "Public and Community Involvement, Engagement and Participation",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210030/the-future-of-flight-brahmal-institute-at-the-great-exhibition-road-festival-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/untitled-design_1779451692087_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:210127",
     "sourceEventId": "210127",
     "title": "Imperial at London Tech Week: Day 1",
@@ -397,7 +352,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/206519/imperial-schools-year-1-project-open-days-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209605",
@@ -441,7 +396,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210400/bioscience-vaccine-seminar-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210565",
@@ -483,7 +438,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210584/biomathematics-seminar-shaon-chakrabarti-ncbs-bangalore/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207768",
@@ -593,7 +548,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210591/gatp-seminar-eric-yen-yo-chen-epfl-langlands-functoriality-of-hitchin-systems/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209881",
@@ -616,7 +571,158 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209881/spc-seminar-climate-alexey-fedorov-yale/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209923",
+    "sourceEventId": "209923",
+    "title": "Men’s Health Month – Climbing",
+    "desc": "Move will be putting on a number of events through June to celebrate Men’s health month and to help people get active. These events are all beginner friendly and designed to be social, fun and encourage exercise and movement in different ways. Although these sessions are to celebrate men’s health month, everyone and anyone is welcome to join these events and get involved – we would love to see you there regardless of gender!",
+    "source": "IC",
+    "date": "2026-06-09T12:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Ethos Climbing Wall, 8-15 Princes Gardens, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209923/mens-health-month-climbing/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/men-climbing_1779362171388_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210093",
+    "sourceEventId": "210093",
+    "title": "Get to know your second brain – the gut!",
+    "desc": "In this session we’ll deep dive into the gut. Discussing how it works and why we need to look after the delicate environment that allows our microbiome to thrive. We’ll explore the growing evidence behind the gut and its connection to multiple systems including the brain, fertility and immunity.\n\nYou will also receive tips on how to best look after your microbiome and the gut they call home through practical advice you can implement at home and what at-home stool tests can tell you and if they are worth it. There will also be an opportunity to ask questions and debunk some myths.\n\nThe session will be recorded so if you cannot make it for the live session please register on the form and we will send you the recording.\n\nThis session will be delivered by Clementine Vaughan, London-based…",
+    "source": "IC",
+    "date": "2026-06-09T12:30:00+01:00",
+    "durationMin": 45,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210093/get-to-know-your-second-brain-the-gut/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gut-image_1779795164758_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210562",
+    "sourceEventId": "210562",
+    "title": "CALF Seminar",
+    "desc": "More details on CALF seminar website",
+    "source": "IC",
+    "date": "2026-06-09T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "University of Nottingham",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210562/calf-seminar-5/",
+    "image": "http://www.imperial.ac.uk/newseventsimages?p_image_type=orig&p_image_id=16818"
+  },
+  {
+    "id": "ic:210587",
+    "sourceEventId": "210587",
+    "title": "SPC Seminar – Climate – Harri Kokkola (FMI)",
+    "desc": "Speaker : Harri Kokkola (FMI)\n\nTitle : Combining numerical modelling and observations in determining aerosol-cloud interactions\n\nAbstract : This presentation examines how aerosol–cloud interactions can be distinguished from natural cloud variability, combining observational, modelling, and satellite approaches developed at the Atmospheric Research Centre of Eastern Finland. A key focus is on large-eddy simulations to study aerosol effects and their influence on precipitation, emphasizing the challenges in quantifying how changes in aerosol load affects the amount of precipitation. The presentation also addresses biases in satellite-derived aerosol–cloud interaction metrics, showing how retrieval errors and cloud variability can distort observed relationships. This underlines the need for…",
+    "source": "IC",
+    "date": "2026-06-09T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "741, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Climate change",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210587/spc-seminar-climate-harri-kokkola-fmi/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210313",
+    "sourceEventId": "210313",
+    "title": "Mechanical Engineering 3rd Year ‘Design Make and Test’ Exhibition",
+    "desc": "The Design Make and Test project is a major part of the Mechanical Engineering curriculum, and is a year-long engineering design project carried out by groups of third year students in the Department of Mechanical Engineering.\n\nThe groups run their project as a small engineering consultancy. Students are given a brief for a sub-assembly of a larger project and must develop ideas, develop concepts, then build and test a final prototype product. Further to this, each sub-assembly must be compatible with the other sub-assemblies in that project.\n\nThe final task during the year is to present this project at the DMT exhibition, which this year will be taking place between 16.00 and 18.00 on Tuesday 10th June, in the College Main Entrance and the CAGB Foyer. All are welcome to come and see…",
+    "source": "IC",
+    "date": "2026-06-09T16:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Main Entrance & CAGB Foyer, Main Entrance, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Exhibition",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210313/mechanical-engineering-3rd-year-design-make-and-test-exhibition/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/picture-1_1780306624955_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210560",
+    "sourceEventId": "210560",
+    "title": "London Heilbronn Colloquium: Federico Ardila (QMUL)",
+    "desc": "Federico Ardila (QMUL): Geometry, Robots and Society\n\nAbstract: How do we move a robot quickly from one position to another? To answer this question, we need to understand its configuration space, a “map” where we can find every possible position of the robot. Unfortunately, these spaces are very large, they live in very high-dimensions, and they are very difficult to visualize. Fortunately, geometric group theorists and combinatorialists have encountered and studied similar spaces before. Thanks to the tools they’ve developed, we can build “remote controls” to navigate these complicated spaces; this allows us to move (some) robots optimally. As the imaginary border between “pure” and “applied” mathematics disappears before our eyes, we face an important ethical question that we cannot…",
+    "source": "IC",
+    "date": "2026-06-09T16:30:00+01:00",
+    "durationMin": 60,
+    "venue": "King's College",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Colloquium",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210560/london-heilbronn-colloquium-federico-ardila-qmul/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/lectures1-1086_1780572235978_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210231",
+    "sourceEventId": "210231",
+    "title": "Pride Network Pride Month social",
+    "desc": "HAPPY PRIDE! Join the Pride Network for some drinks to kick off Pride Month!\n\nWHEN: Tuesday 9th June from 17:00\n\nWHERE: Eastside, South Kensington Campus\n\nWHO: Pride Network members, friends, and allies",
+    "source": "IC",
+    "date": "2026-06-09T17:00:00+01:00",
+    "durationMin": 180,
+    "venue": "Eastside Bar, Eastside, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "LGBTQ",
+      "Equality",
+      "Diversity",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210231/pride-network-pride-month-social/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/lgbtq-history-month-events-image_1779972643056_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
