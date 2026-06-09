@@ -310,33 +310,10 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:210129",
-    "sourceEventId": "210129",
-    "title": "Imperial at London Tech Week: Day 2",
-    "desc": "Visit Imperial at London Tech Week! Stop by our stand to see what we’ve been working on, to chat with the team or join one of our presentations.\n\n09.30 – 09.45: Imperial Global\n\n11.30 – 11.45: Introduction to WestTech London\n\n13.30 – 13.45: Expanding Technology through Convergence\n\n14.30 – 14.45: Lifelong Learning\n\n15.30 – 15.45: Enterprise",
-    "source": "IC",
-    "date": "2026-06-09T08:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Olympia",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Exhibition",
-      "Schools of Convergence Science",
-      "Enterprise Lab",
-      "Institutional Event",
-      "London Tech Week"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210129/imperial-at-london-tech-week-day-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/main-keyvisual-background_1779876424693_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:210131",
     "sourceEventId": "210131",
     "title": "Imperial at London Tech Week: Day 3",
-    "desc": "Visit Imperial at London Tech Week! Stop by our stand to see what we’ve been working on, to chat with the team or join one of our presentations.\n\n09.30 – 09.45: Imperial Global\n\n12.15 – 12.30: Expanding Technology through Convergence\n\n13. 15 – 13.45: Innovation Ecosystem\n\n14. 15 – 14. 30: From Study to Startup",
+    "desc": "Visit Imperial at London Tech Week! Stop by our stand to see what we’ve been working on, to chat with the team or join one of our presentations.\n\n09.30 – 09.45: Imperial Global\n\n10.30-10.35: Imperial Business School presents: Enso\n\n10.35-10.40: Imperial Business School presents: imlea\n\n11.35-11.40: Imperial Business School presents: Prizely\n\n12.15 – 12.30: Expanding Technology through Convergence\n\n13.15 – 13.45: WestTech London and Imperial’s Innovation Ecosystem\n\n14.15 – 14.30: From Study to Startup",
     "source": "IC",
     "date": "2026-06-10T08:00:00+01:00",
     "durationMin": 480,
@@ -400,179 +377,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/eventbrite-banner-6_1778758922199_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:206519",
-    "sourceEventId": "206519",
-    "title": "Imperial Schools Year 1 Project Open Days",
-    "desc": "Imperial Schools Year 1 Project Open Days\n\nDuring their first year at Imperial College, Physics students work with a researcher to develop and undertake a research project of their own design. On Monday 8 June and Tuesday 9 June 2026, they will present their results at stands in the Department of Physics to fellow students, staff, and visitors. Over 60 exciting projects will be on display, offering visitors a great opportunity to learn about the Physics research being conducted in the department and to engage with students about their experiences.\n\nAdditionally, there will be talks by researchers throughout the event, giving visitors a chance to learn more about the Physics department and the cutting-edge research being conducted in the field. The Open Days are suitable for students…",
+    "id": "ic:210129",
+    "sourceEventId": "210129",
+    "title": "Imperial at London Tech Week: Day 2",
+    "desc": "Visit Imperial at London Tech Week! Stop by our stand to see what we’ve been working on, to chat with the team or join one of our presentations.\n\n09.30 – 09.45: Imperial Global\n\n10.30-10.35: Imperial Business School presents: Rose\n\n10.35-10.40: Imperial Business School presents: Kairos\n\n12.30-12.35: Imperial Business School presents: InVoice\n\n12.35-12.40: Imperial Business School presents: DEAL\n\n13.30 – 13.45: Expanding Technology through Convergence\n\n14.30 – 14.45: Lifelong Learning\n\n15.30 – 15.45: Enterprise",
     "source": "IC",
-    "date": "2026-06-08T12:00:00+01:00",
+    "date": "2026-06-09T08:00:00+01:00",
     "durationMin": 480,
-    "venue": "LT1, Blackett Building, South Kensington Campus",
+    "venue": "Olympia",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Open days",
-      "Physics",
-      "Event",
-      "Open to all"
+      "Exhibition",
+      "Schools of Convergence Science",
+      "Enterprise Lab",
+      "Institutional Event",
+      "London Tech Week"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/206519/imperial-schools-year-1-project-open-days-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210591",
-    "sourceEventId": "210591",
-    "title": "GATP Seminar — Eric Yen-Yo Chen (EPFL): Langlands functoriality of Hitchin systems",
-    "desc": "Traditionally, Langlands functoriality refers to the identification of automorphic forms whose parameters take a special shape. In this talk, we explain how to ask analogous questions on the Hitchin moduli space using perspectives from the relative Langlands program. We gain, in this setting, the advantage of working with a version of Langlands duality which is readily computable, and if time permits we will discuss the ramifications of these calculations for automorphic periods and L-functions.\n\nThis will be a Zoom talk we will watch together in Huxley 411, or you can use the zoom link (available upon request).",
-    "source": "IC",
-    "date": "2026-06-09T11:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Huxley 411, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210591/gatp-seminar-eric-yen-yo-chen-epfl-langlands-functoriality-of-hitchin-systems/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209881",
-    "sourceEventId": "209881",
-    "title": "SPC Seminar – Climate – Alexey Fedorov (Yale)",
-    "desc": "Speaker: Alexey Federov (Yale)\n\nTitle: El Nino and global warming: from multi-year prediction to climate change projections\n\nAbstract: The response of the tropical Pacific mean state and the El Niño–Southern Oscillation (ENSO) to rising atmospheric CO₂ concentrations remains highly uncertain. For example, the projected development of enhanced warming in the eastern equatorial Pacific, along with the associated weakening of the Walker circulation, contrasts with the strengthening of the Walker circulation observed over the past 30–40 years. Here, I discuss the key mechanisms shaping ongoing and future changes in the tropical Pacific across different timescales, as well as the projected strengthening of ENSO across a wide range of realistic and idealized global warming experiments and…",
-    "source": "IC",
-    "date": "2026-06-09T11:30:00+01:00",
-    "durationMin": 60,
-    "venue": "711c, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Climate change",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209881/spc-seminar-climate-alexey-fedorov-yale/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209923",
-    "sourceEventId": "209923",
-    "title": "Men’s Health Month – Climbing",
-    "desc": "Move will be putting on a number of events through June to celebrate Men’s health month and to help people get active. These events are all beginner friendly and designed to be social, fun and encourage exercise and movement in different ways. Although these sessions are to celebrate men’s health month, everyone and anyone is welcome to join these events and get involved – we would love to see you there regardless of gender!",
-    "source": "IC",
-    "date": "2026-06-09T12:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Ethos Climbing Wall, 8-15 Princes Gardens, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209923/mens-health-month-climbing/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/men-climbing_1779362171388_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210093",
-    "sourceEventId": "210093",
-    "title": "Get to know your second brain – the gut!",
-    "desc": "In this session we’ll deep dive into the gut. Discussing how it works and why we need to look after the delicate environment that allows our microbiome to thrive. We’ll explore the growing evidence behind the gut and its connection to multiple systems including the brain, fertility and immunity.\n\nYou will also receive tips on how to best look after your microbiome and the gut they call home through practical advice you can implement at home and what at-home stool tests can tell you and if they are worth it. There will also be an opportunity to ask questions and debunk some myths.\n\nThe session will be recorded so if you cannot make it for the live session please register on the form and we will send you the recording.\n\nThis session will be delivered by Clementine Vaughan, London-based…",
-    "source": "IC",
-    "date": "2026-06-09T12:30:00+01:00",
-    "durationMin": 45,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210093/get-to-know-your-second-brain-the-gut/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gut-image_1779795164758_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210643",
-    "sourceEventId": "210643",
-    "title": "IDE Seminar Series – Prof Catherine Pitt",
-    "desc": "Economic evaluation & priority-setting for malaria interventions\n\nLocation: White City, School of Public Health Building Room: SPH 106 – Seminar Room I n-person event. If you wish to join online, please register here .",
-    "source": "IC",
-    "date": "2026-06-09T12:30:00+01:00",
-    "durationMin": 60,
-    "venue": "SPH 106 - Seminar Room , School of Public Health, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Infectious diseases",
-      "MRC Centre for Global Infectious Disease Analysis",
-      "Modelling",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210643/ide-seminar-series-prof-catherine-pitt/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ide-seminars-prof-catherine-pitt-tv_1780915992226_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210562",
-    "sourceEventId": "210562",
-    "title": "CALF Seminar",
-    "desc": "More details on CALF seminar website",
-    "source": "IC",
-    "date": "2026-06-09T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "University of Nottingham",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210562/calf-seminar-5/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/cow-1086_1780957574571_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210587",
-    "sourceEventId": "210587",
-    "title": "SPC Seminar – Climate – Harri Kokkola (FMI)",
-    "desc": "Speaker : Harri Kokkola (FMI)\n\nTitle : Combining numerical modelling and observations in determining aerosol-cloud interactions\n\nAbstract : This presentation examines how aerosol–cloud interactions can be distinguished from natural cloud variability, combining observational, modelling, and satellite approaches developed at the Atmospheric Research Centre of Eastern Finland. A key focus is on large-eddy simulations to study aerosol effects and their influence on precipitation, emphasizing the challenges in quantifying how changes in aerosol load affects the amount of precipitation. The presentation also addresses biases in satellite-derived aerosol–cloud interaction metrics, showing how retrieval errors and cloud variability can distort observed relationships. This underlines the need for…",
-    "source": "IC",
-    "date": "2026-06-09T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "741, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Climate change",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210587/spc-seminar-climate-harri-kokkola-fmi/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/210129/imperial-at-london-tech-week-day-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/main-keyvisual-background_1779876424693_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210313",
@@ -772,6 +597,159 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gardening-banner_1714416170181_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:209039",
+    "sourceEventId": "209039",
+    "title": "Junior Analysis Seminar – Alex Tullini (Münster)",
+    "desc": "Title\n\nBoundedness and decay for the conformal wave equation in Schwarzschild-AdS under dissipative boundary conditions.\n\nAbstract\n\nPlease note that the seminar will take place in person in room 140 of Huxley Building .\n\nClick here to get to the Junior Analysis Seminar webpage .",
+    "source": "IC",
+    "date": "2026-06-10T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209039/junior-analysis-seminar-alex-tullini-munster/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/seminar-picture_1599821877881_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210268",
+    "sourceEventId": "210268",
+    "title": "Number Theory Seminar – Nadav Yesha",
+    "desc": "Nadav Yesha: The number variance of dilated integer sequences\n\nMore information available on the Number Theory seminar website",
+    "source": "IC",
+    "date": "2026-06-10T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "King's College",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210268/number-theory-seminar-nadav-yesha/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:209352",
+    "sourceEventId": "209352",
+    "title": "College Evensong: Prayers for Peace",
+    "desc": "Evensong is open to all members of the College, the RCA and RCM, alumni, and the public. The service happens every two weeks in term-time. You can engage with the service in your own way. We know that people of different faith traditions and world views find Choral Evensong a welcoming meditative time.\n\nIf you’d like to be notified of the dates of Evensongs, please subscribe to our newsletter .\n\nYou can visit our Events pages for details of the next Evensongs services.",
+    "source": "IC",
+    "date": "2026-06-10T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Holy Trinity Church, Prince Consort Rd, SW7 2BA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209352/college-evensong-prayers-for-peace/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/pascal-candle-coir-dsc9633-small-version_1623405922312_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210673",
+    "sourceEventId": "210673",
+    "title": "Imperial College Chamber Choir Evensong",
+    "desc": "At this week’s Choral Evensong, IC Chamber Choir sings the first UK performance of an anthem by the American composer Gabriel Simerson, with music by Henry Purcell, Charles Wood, and Joanna Forbes-L’estrange. The psalm chant is by Tomas Bezkorowajnyj (3rd year Physics).",
+    "source": "IC",
+    "date": "2026-06-10T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Holy Trinity Church Prince Consort Road, SW7 2BA, Holy Trinity Church, Off campus",
+    "area": "Off",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Concerts",
+      "Arts",
+      "Creative",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210673/imperial-college-chamber-choir-evensong-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/choir-23-1_1772551039430_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210078",
+    "sourceEventId": "210078",
+    "title": "Stress Less Yoga Retreat",
+    "desc": "Join us for a rejuvenating yoga workshop designed to support both your physical and mental wellbeing. Led by Frankie Arpino a therapeutic yoga teacher specialising in deep rest, this session will focus on deep physical stress release, soothing the nervous system, and calming the mind. No prior yoga experience is needed, just come ready to unwind with gentle breathwork, somatic movement and restorative yoga.",
+    "source": "IC",
+    "date": "2026-06-10T20:00:00+01:00",
+    "durationMin": 90,
+    "venue": "studio, floor 2, Ethos Sports Centre, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210078/stress-less-yoga-retreat-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/das-yoga_1779784831919_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:206357",
+    "sourceEventId": "206357",
+    "title": "Nature Positive Futures: Connecting Research, Policy and Business",
+    "desc": "This event has been rescheduled to a new date of Thursday 11 June 2026.\n\nThe recent IPBES Business and Biodiversity Assessment underscores the dependence of all business on nature, and the “critical and pervasive systemic risk” that unsustainable business practices pose to the economy and human wellbeing. The assessment also emphasised the need for a whole-of-society-approach to collaboration to create an enabling environment where businesses are incentivised to protect and restore biodiversity.\n\n​Building on these insights, this event will bring together experts from across business, finance, policy and research to discuss the key findings from the IPBES Assessment and unpack opportunities for cross-sectoral collaborations to help both business and nature thrive.\n\nRegister your interest…",
+    "source": "IC",
+    "date": "2026-06-11T13:00:00+01:00",
+    "durationMin": 300,
+    "venue": "Floor 4, Electrical & Electronic Engineering, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Sustainability Month",
+      "Sustainability",
+      "Environment",
+      "Nature"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/206357/nature-positive-pathways-connecting-research-policy-and-business/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/nature-positive-pathways-1-events-webpage_1776248609436_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207724",
+    "sourceEventId": "207724",
+    "title": "Lunchtime Concert – Charles Owen (piano)",
+    "desc": "Charles Owen (piano)\n\nMozart Fantasia in C minor K475 Chopin Ballade no 1 in G minor, Op 23 Schubert Wanderer Fantasy in C major D760",
+    "source": "IC",
+    "date": "2026-06-11T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
+    "area": "Off",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Concerts",
+      "Arts",
+      "Creative",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207724/lunchtime-concert-charles-owen-piano-8/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/img-5737-1_1752852443736_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "lse:will-ai-secure-humanitys-future",
     "sourceEventId": "will-ai-secure-humanitys-future",
     "title": "Will AI secure humanity’s future?",
@@ -958,27 +936,6 @@
     "image": "https://images.prismic.io/wellcomecollection/ahgIVbK9tuLqENnX_UncertainFutures100womenbyAndrewBrooks_3_V2.jpg?auto=format%2Ccompress&rect=0%2C305%2C4000%2C2250&w=3200&h=1800"
   },
   {
-    "id": "rs:2026-06-pangenomics",
-    "sourceEventId": "2026-06-pangenomics",
-    "title": "Pangenomics transforms evolutionary biology",
-    "desc": "This Theo Murphy meeting organised by Dr Joana Meier, Dr Henry North and Dr Charlotte Wright, will showcase cutting-edge pangenome tools, applied uses of pangenomes which are transforming health and agriculture, and opportunities to revolutionise biodiversity genomics.",
-    "source": "RS",
-    "date": "2026-06-08T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Apex Grassmarket Hotel, Edinburgh",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Healthcare",
-      "Climate",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 76,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/pangenomics/",
-    "image": "https://royalsociety.org/-/media/events/2026/6/pangenomics/pangenomics-header.jpg"
-  },
-  {
     "id": "rs:2026-06-mophh",
     "sourceEventId": "2026-06-mophh",
     "title": "Metals and oxygen: planetary and human homeostasis",
@@ -1133,6 +1090,26 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/11/ecological-dynamics/",
     "image": "https://royalsociety.org/-/media/events/2026/11/ecological-dynamics/lead-image.jpg"
+  },
+  {
+    "id": "rs:2026-11-low-cost-optical-sensing",
+    "sourceEventId": "2026-11-low-cost-optical-sensing",
+    "title": "Low-cost optical sensing for healthcare",
+    "desc": "Discussion meeting organised by Professor Jeremy J Baumberg FRS, FRSC and Professor Duncan Graham FRSC",
+    "source": "RS",
+    "date": "2026-11-09T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Healthcare",
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 82,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/low-cost-optical-sensing/",
+    "image": "https://royalsociety.org/-/media/about-us/royal-society-new.jpg"
   },
   {
     "id": "rs:2026-11-neuromorphic-computing",
