@@ -289,27 +289,70 @@
     "image": "https://www.kcl.ac.uk/newimages/ioppn/mhaps/campus-stock-imagery/ioppn-students.x307002ee.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
-    "id": "ic:210131",
-    "sourceEventId": "210131",
-    "title": "Imperial at London Tech Week: Day 3",
-    "desc": "Visit Imperial at London Tech Week! Stop by our stand to see what we’ve been working on, to chat with the team or join one of our presentations.\n\n09.30 – 09.45: Imperial Global\n\n10.30-10.35: Imperial Business School presents: Enso\n\n10.35-10.40: Imperial Business School presents: imlea\n\n11.35-11.40: Imperial Business School presents: Prizely\n\n12.15 – 12.30: Expanding Technology through Convergence\n\n13.15 – 13.45: WestTech London and Imperial’s Innovation Ecosystem\n\n14.15 – 14.30: From Study to Startup",
+    "id": "ic:209857",
+    "sourceEventId": "209857",
+    "title": "How universities can lead the way towards a sustainable future",
+    "desc": "Join the launch of our Sustainable Imperial Strategy (2026–2031) .\n\nAs a community of thinkers, teachers, professionals and innovators – how do we best translat e our sustainability ideas into real work i mpact? How do we bring our ingenuity to guide our institution and the world beyond to a more sustainable future?\n\nWhether you are deeply involved in sustainability or just starting out, you are a vital part of our collective journey towards a more sustainable Imperial and planet.\n\nAcross a short presentation, an exhibition showcase, and networking afternoon tea, you’ll meet the staff, students, alumni and community members bringing our sustainability ambitions to reality – and learn how you can get involved.\n\nJoin us as we unveil our vision for the next five years and beyond.",
     "source": "IC",
-    "date": "2026-06-10T08:00:00+01:00",
+    "date": "2026-06-30T14:15:00+01:00",
+    "durationMin": 105,
+    "venue": "G16/Foyer, Sir Alexander Fleming Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Sustainability",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209857/how-universities-can-lead-the-way-towards-a-sustainable-future/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:208011",
+    "sourceEventId": "208011",
+    "title": "The ins and outs of carbon in the air",
+    "desc": "Join Professor Heather Graven, Professor of Climate Physics, to discover how carbon moves through our atmosphere and uncover the impact of the gases shaping our climate.\n\nPlease register to attend in person. A live stream link for online attendance is available on this page.\n\nWe look forward to seeing you on Wednesday 17 June!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research\n\nAbstract\n\nThe buildup of carbon dioxide and methane in Earth’s atmosphere is driving global climate change, but what exactly are the sources of carbon dioxide and methane going into the air? How are natural processes removing carbon dioxide and methane out of the air? Do estimates of emissions based on economic data for…",
+    "source": "IC",
+    "date": "2026-06-17T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Lecture Theatre 1, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Institutional Event",
+      "Women at Imperial",
+      "Imperial Inaugurals",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208011/the-ins-and-outs-of-carbon-in-the-air/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperialinaugural-eventbritebannerheathergraven3_1774627848437_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209677",
+    "sourceEventId": "209677",
+    "title": "IDE Summer Show 2026",
+    "desc": "The IDE programme is a double master’s degree delivered jointly by the Dyson School of Design Engineering (Imperial College London) and the Royal College of Art . With 45 years of history, IDE has a proud legacy of producing groundbreaking innovations.\n\nThe work in the show focuses on individual student projects work carried out over the last six months and highlights their passion for creating positive change, their abilities in identifying challenges and opportunities, their creativity in developing new ideas, and their skills in designing, developing and validating new solutions.\n\nThis year, there is an impressive diversity of projects, organised across six themes:\n\nLIVING SYSTEMS: From flora to fauna, looking beyond human design\n\nBODY INTELLIGENCE: Understanding the self through…",
+    "source": "IC",
+    "date": "2026-07-07T10:00:00+01:00",
     "durationMin": 480,
-    "venue": "Olympia",
+    "venue": "Imperial Main Entrance, Main Entrance, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
       "Exhibition",
-      "Schools of Convergence Science",
-      "Enterprise Lab",
-      "Institutional Event",
-      "London Tech Week"
+      "Art exhibition",
+      "Students",
+      "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210131/imperial-at-london-tech-week-day-3/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/main-keyvisual-background_1779875987519_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/209677/ide-summer-show-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/eventbrite-banner-6_1778758922199_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:195659",
@@ -333,135 +376,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/195659/blyth-art-fellowship-exhibition-2/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/blyth-fellowship-2526_1753183053182_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209596",
-    "sourceEventId": "209596",
-    "title": "IX-WAI Women in Science Career Day 2026",
-    "desc": "Join us for our second annual Women in Science Career Day! Whether you are interested in academia, industry, or launching your own startup, our Career Day offers something for everyone. With t hree streams of workshops and panel discussions, you will have the opportunity to connect with leading researchers, partner companies, and emerging start-ups.\n\nWhy Attend?\n\nTailored Workshops: Participate in three streams of workshops focused on career development, including topics like funding your research, exploring careers in industry, and building a personal website.\n\nNetworking Opportunities : E ngage with top researchers, professionals from leading companies, and start-up founders.\n\nHands-on Learning & Expert Insights : Gain valuable skills and knowledge, and learn from successful women in…",
-    "source": "IC",
-    "date": "2026-06-10T09:30:00+01:00",
-    "durationMin": 450,
-    "venue": "I-X Level 6, Translation and Innovation Hub (I-HUB), White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Careers",
-      "Artificial intelligence",
-      "Women at Imperial",
-      "Women in STEM",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209596/ix-wai-women-in-science-career-day-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ixwai-science-career-day-eventbrite-banner-3000-x-2000-px-1_1741355654669_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210445",
-    "sourceEventId": "210445",
-    "title": "Meet our cleaning robots!",
-    "desc": "Come along to a drop-in showcase event hosted by MITIE , Imperial’s cleaning contractor, and meet the latest cleaning robots and innovations in action. You might already have met Parker working hard to keep the campus clean.\n\nMITIE, working with ICE , will be bringing a fleet of robotic cleaners and other new technologies to South Kensington Campus to demonstrate solutions that are already in use across the university, as well as innovations planned for the future.\n\nThe showcase will be set up under a large gazebo on Dangoor Plaza, with a range of robotics on display throughout the day.\n\nThis event is open to all with Minibot robot cleaners available as prizes during the day!\n\nNo booking is required. Just drop in, say hello and meet the robots.",
-    "source": "IC",
-    "date": "2026-06-10T10:00:00+01:00",
-    "durationMin": 300,
-    "venue": "Dangoor Plaza, Faculty Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "events",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210445/meet-our-cleaning-robots-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/1773651472671_1779375971206_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209737",
-    "sourceEventId": "209737",
-    "title": "Faculty of Medicine Staff Rounds | 12.30 Dr Candice Roufosse, Clinical Reader in Renal Pathology [Immunology and Inflammation] | 13.00 Cancelled",
-    "desc": "The Faculty of Medicine Staff Round series brings together academics and clinicians across the University and our NHS partners to explore and showcase how engagement with patients and treating clinical cases leads to scientific research which can benefit patients and populations.\n\nChair:\n\nProfessor Karim Meeran\n\nSpeaker details:\n\n12.30 to 13.00\n\n13.00 to 13.30\n\nThis is an internal only event . On-campus venues and online streaming details for this session can be found on the FoM Staff Round webpage (requires log-in): https://www.imperial.ac.uk/medicine/fom-staff/staff-rounds/",
-    "source": "IC",
-    "date": "2026-06-10T12:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "Online",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209737/10-june-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/staffround25-26event_1760974072139_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:207867",
-    "sourceEventId": "207867",
-    "title": "Community Garden Action Days",
-    "desc": "Drop-in sessions from 13:00–16:00 on Wednesdays. After the Easter break, sessions will resume on 22nd April. You’re also welcome to drop in and volunteer to water the plants during the break.\n\nJoin the student organisers and volunteers in the Community Garden at the Chaplaincy Centre. A chance to get outside, and be involved in growing plants, sowing seeds, clearing new ground, or pruning bushes. If this is your first session of gardening or if you have plenty of experience, all are welcome.\n\nOpen to students and staff. Drop-in during the afternoon and stay for as long as you like. Gloves, protective gear and tools provided, with wet weather options in needed.\n\nThe Community Garden at the Chaplaincy, accessed through the Multi-Faith Centre at15 Princes Gardens, or via the side gate of…",
-    "source": "IC",
-    "date": "2026-06-10T13:00:00+01:00",
-    "durationMin": 180,
-    "venue": "Chaplaincy Multi-Faith Centre",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207867/community-garden-action-days-8/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gardening-banner_1714416170181_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209039",
-    "sourceEventId": "209039",
-    "title": "Junior Analysis Seminar – Alex Tullini (Münster)",
-    "desc": "Title\n\nBoundedness and decay for the conformal wave equation in Schwarzschild-AdS under dissipative boundary conditions.\n\nAbstract\n\nPlease note that the seminar will take place in person in room 140 of Huxley Building .\n\nClick here to get to the Junior Analysis Seminar webpage .",
-    "source": "IC",
-    "date": "2026-06-10T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209039/junior-analysis-seminar-alex-tullini-munster/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/seminar-picture_1599821877881_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210268",
-    "sourceEventId": "210268",
-    "title": "Number Theory Seminar – Nadav Yesha",
-    "desc": "Nadav Yesha: The number variance of dilated integer sequences\n\nMore information available on the Number Theory seminar website",
-    "source": "IC",
-    "date": "2026-06-10T16:00:00+01:00",
-    "durationMin": 60,
-    "venue": "King's College",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210268/number-theory-seminar-nadav-yesha/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207243",
@@ -618,13 +532,13 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208696/lcn-symposium-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209752",
     "sourceEventId": "209752",
     "title": "42nd STUOD Sandbox Workshop – Alexey Fedorov (Yale University)",
-    "desc": "The 42nd meeting of the Sandbox Series will be held in-person and online:\n\nTo join in-person:\n\nPlease ensure you register in advance as spaces are limited in Rm 747 and only for those that have registered.\n\nTo join remotely via Webex:\n\nhttps://stuod.my.webex.com/stuod.my/j.php?MTID=m21cd5717a2974d86f46df732d3390767\n\nOceanic and atmospheric mechanisms of the North Atlantic Warming Hole (NAWH)\n\nAbstract:\n\nOver the past century, a large region of the subpolar North Atlantic has experienced slight cooling, dubbed the North Atlantic Warming Hole (NAWH), in contrast to the warming observed across most of the Atlantic Ocean. A similar region of suppressed warming also appears in future climate model projections for the North Atlantic. The causes of the NAWH remain debated, as both oceanic…",
+    "desc": "The 42nd meeting of the Sandbox Series will be held in-person and online:\n\nTo join in-person:\n\nPlease ensure you register in advance as spaces are limited in Rm 747 and only for those that have registered.\n\nTo join remotely via Webex:\n\nhttps://stuod.my.webex.com/stuod.my/j.php?MTID=m21cd5717a2974d86f46df732d3390767\n\nMillennial variability, regime shifts, and equilibrium states of global ocean meridional overturning circulation in long climate simulations\n\nAbstract:\n\nThe long-term response of the meridional overturning circulation (MOC) to radiative forcing is critical for regulating Earth’s climate. To investigate this response, we perform long climate simulations (up to 20,000 years) under atmospheric CO₂ concentrations ranging from 0.35× to 16× the preindustrial level. In the warming…",
     "source": "IC",
     "date": "2026-06-12T11:00:00+01:00",
     "durationMin": 240,
@@ -640,7 +554,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209752/42nd-stuod-sandbox-workshop-alexey-fedorov-yale-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210431",
@@ -682,7 +596,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208382/fluid-dynamics-seminar-thomas-salez-bordeaux/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209218",
@@ -705,6 +619,156 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209218/hep-seminar-gioacchino-ranucci-infn-milan-the-juno-experiment/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bebc_1697635355708_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210569",
+    "sourceEventId": "210569",
+    "title": "Geometry and Topology Seminar – Federico Ardila (Queen Mary)",
+    "desc": "Federico Ardila (Queen Mary). Polytopes from amplitudes.\n\nAbstract: Scattering amplitudes and other quantities in physics are given by enormous, intricate sums that are very challenging to compute in practice, and often involve mysterious, extensive cancellations. A powerful technique to explain this phenomenon is to encode the combinatorial complexity of these sums in a geometric object. I will introduce some of the beautiful polytopes that arise and discuss their rich combinatorial structure. Our two central examples will be the associahedron (first discovered in homotopy theory and rediscovered in scattering amplitudes) and the cosmohedron (first discovered in cosmology and seeking a homotopy theoretic interpretation). My talk will discuss joint work with Marcelo Aguiar and {Nima…",
+    "source": "IC",
+    "date": "2026-06-12T13:30:00+01:00",
+    "durationMin": 60,
+    "venue": "130, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210569/geometry-and-topology-seminar-federico-ardila-queen-mary/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210540",
+    "sourceEventId": "210540",
+    "title": "Junior Geometry Seminar – Yuting Liu",
+    "desc": "Title: Linear Series on K3 Surfaces\n\nSpeaker: Yuting Liu\n\nAbstract: In this talk, we study the base loci of nef and big line bundles on K3 surfaces and discuss their higher-dimensional analogues on hyperkähler manifolds.\n\nWe begin with classical results of Saint-Donat and Mayer on linear systems on K3 surfaces. In particular, we describe the movable and fixed components of nef and big line bundles that are not base point free. We also discuss the role of Reider’s theorem and its consequences for the base-point freeness of multiples of such line bundles.\n\nWe then turn to higher-dimensional hyperkähler manifolds. After reviewing the Beauville–Bogomolov–Fujiki quadratic form and the associated Riemann–Roch formula, we explain how positivity properties of line bundles can be expressed in…",
+    "source": "IC",
+    "date": "2026-06-12T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Room 308, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210540/junior-geometry-seminar-yuting-liu/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:209925",
+    "sourceEventId": "209925",
+    "title": "Men’s Health Month – Circuits",
+    "desc": "Move will be putting on a number of events through June to celebrate Men’s health month and to help people get active. These events are all beginner friendly and designed to be social, fun and encourage exercise and movement in different ways. Although these sessions are to celebrate men’s health month, everyone and anyone is welcome to join these events and get involved – we would love to see you there regardless of gender!",
+    "source": "IC",
+    "date": "2026-06-15T13:00:00+01:00",
+    "durationMin": 45,
+    "venue": "Media Works, Multi Activity Room, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209925/mens-health-month-circuits/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/circuits_1779362666791_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207769",
+    "sourceEventId": "207769",
+    "title": "Christian Meditation: Online and In-person",
+    "desc": "Format: In person and Online (hybrid)\n\nIn Person: Chaplaincy, 15 Prince’s Gardens, South Kensington Campus, SW7 1NA (Drop-in)\n\nOnline via private Zoom Meeting invite . You can subscribe to our weekly mailing list to get the weekly Zoom Link.\n\nAnyone outside the Colleges of South Kensington who would like to attend online please contact Andrew Willson a.willson@imperial.ac.uk\n\nFacilitator: The Christian Meditation sessions are led by Andrew Willson, College Chaplain.\n\nAbout Christian Meditation\n\nChristianity has a long and rich history of meditation and contemplative prayer. These ancient Christian traditions have their roots in the monasteries of the desert hermits of the second century. Jesus himself often prayed in times of stillness and solitude. Many of these long established…",
+    "source": "IC",
+    "date": "2026-06-15T13:10:00+01:00",
+    "durationMin": 30,
+    "venue": "Chaplaincy Multi-Faith Centre, 15 Prince's Gardens, South Kensington, SW7 1NA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "mental health",
+      "Education",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207769/weekly-christian-meditation-8/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/christian-meditation-2-1086-x-307-1642077206866-x4-ezgifcom-webp-to-jpg-converter_1717097303804_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207995",
+    "sourceEventId": "207995",
+    "title": "Present with impact sessions",
+    "desc": "Reach your audience by translating complex technical content into clear, impactful messaging within a coherent narrative framework. Use your voice to engage.\n\nJoin us for one, two or all of the following sessions. Add the event(s) you wish to attend to your calendar!\n\n1 June\n\nPresent with impact 1: Narrative\n\nBy the end of this session, you will:\n\nhave analysed a presentation to reveal its narrative\n\nhave understood how narrative structures a presentation\n\nhave planned and given a short presentation, focussing on its narrative\n\nhave considered strategies for guiding our audience through the narrative\n\nbe shown how to access CfAE’s wider provision\n\n8 June\n\nPresent with impact 2: Audience\n\nBy the end of this session, you will know more about and have practised:\n\nways to engage different…",
+    "source": "IC",
+    "date": "2026-06-15T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "ASL-315 - Access through the SHERFIELD building, Sherfield Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Practice session",
+      "CfAE speaking and listening practice sessions",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207995/present-with-impact-sessions-4-3/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/310825-dg-icl-cfae-134-3000-x-850_1751901648543_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210782",
+    "sourceEventId": "210782",
+    "title": "MAGIC Seminar – Andrea Fanelli and Luca Tasin",
+    "desc": "Andrea Fanelli: Explicit birational geometry over imperfect fields and the Cremona group\n\nLuca Tasin: Positivity of Direct Images for Families of Foliations\n\nMore details can be found on https://www.imperial.ac.uk/geometry/seminars/magic-seminar/",
+    "source": "IC",
+    "date": "2026-06-15T15:00:00+01:00",
+    "durationMin": 120,
+    "venue": "642, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210782/magic-seminar-andrea-fanelli-and-luca-tasin/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:209913",
+    "sourceEventId": "209913",
+    "title": "Quantum Optimization Benchmarking Library – The Intractable Decathlon",
+    "desc": "Title : Quantum Optimization Benchmarking Library – The Intractable Decathlon\n\nAbstract : Optimization is the methodological backbone behind the operations of major industrial areas, including Logistics, Manufacturing, Power Systems, and Process Systems Engineering (PSE) [1], among others. In the face of numerous challenging Combinatorial Optimization problems, the development of novel, specialized hardware has been an active research area over the past decade, leading to fundamental advancements in Quantum Computing and other Physics-inspired devices and algorithms [2]. Optimization is a well-established domain in quantum applications research, particularly for existing and near-term quantum hardware [3]. The field is driven by heuristic quantum algorithms compatible with the hardware,…",
+    "source": "IC",
+    "date": "2026-06-15T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "LT3, ACE Extension, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209913/quantum-optimization-benchmarking-library-the-intractable-decathlon/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
@@ -744,27 +808,6 @@
     "format": "Online",
     "match": 74,
     "url": "https://www.lse.ac.uk/events/ai-1",
-    "image": null
-  },
-  {
-    "id": "lse:parallel-reforms-to-the-nhs-and-local-government-is-anyone-building-the-bridges-1",
-    "sourceEventId": "parallel-reforms-to-the-nhs-and-local-government-is-anyone-building-the-bridges-1",
-    "title": "Parallel Reforms to the NHS and Local Government: Is Anyone Building the Bridges?",
-    "desc": "Parallel Reforms to the NHS and Local Government: Is Anyone Building the Bridges?",
-    "source": "LSE",
-    "date": "2026-06-09T18:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Parallel Reforms to the NHS and Local Government: Is Anyone Building the Bridges?",
-    "area": "Holborn",
-    "price": 0,
-    "tags": [
-      "Healthcare",
-      "health",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 74,
-    "url": "https://www.lse.ac.uk/health-policy/events/2025-26/parallel-reforms-to-the-nhs-and-local-government-is-anyone-building-the-bridges-1",
     "image": null
   },
   {
@@ -891,396 +934,5 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/the-coming-of-age-symposium",
     "image": "https://images.prismic.io/wellcomecollection/ahgIVbK9tuLqENnX_UncertainFutures100womenbyAndrewBrooks_3_V2.jpg?auto=format%2Ccompress&rect=0%2C305%2C4000%2C2250&w=3200&h=1800"
-  },
-  {
-    "id": "rs:2026-06-mophh",
-    "sourceEventId": "2026-06-mophh",
-    "title": "Metals and oxygen: planetary and human homeostasis",
-    "desc": "Discussion meeting organised by Professor Karen Johnson, Professor Caroline Peacock, Dr Stephen Chivasa, Dr Karrera Djoko and Dr Verena Tretter",
-    "source": "RS",
-    "date": "2026-06-15T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/mophh/",
-    "image": "https://royalsociety.org/-/media/events/2026/6/mophh/untitled-design-(3).jpg"
-  },
-  {
-    "id": "rs:2026-06-creating-connections-west-midlands",
-    "sourceEventId": "2026-06-creating-connections-west-midlands",
-    "title": "Creating connections West Midlands 2026",
-    "desc": "The Royal Society will be holding a Creating Connections meeting in Birmingham to discuss the role of the West Midlands in driving UK innovation and prosperity.",
-    "source": "RS",
-    "date": "2026-06-17T10:00:00+01:00",
-    "durationMin": 420,
-    "venue": "The Studio, 7 Cannon St, Birmingham B2 5EP",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/creating-connections-west-midlands/",
-    "image": "https://royalsociety.org/-/media/policy/publications/2018/creating-connections.jpg"
-  },
-  {
-    "id": "rs:2026-09-path-to-quantum-gravity",
-    "sourceEventId": "2026-09-path-to-quantum-gravity",
-    "title": "The path to quantum gravity with causal sets",
-    "desc": "Theo Murphy meeting organised by Dr Yasaman Yazdi and Dr Stav Zalel",
-    "source": "RS",
-    "date": "2026-09-07T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Holiday Inn, Manchester City Centre",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Physics",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 76,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/path-to-quantum-gravity/",
-    "image": "https://royalsociety.org/-/media/events/2026/9/path-to-quantum-gravity/lead-image.jpg"
-  },
-  {
-    "id": "rs:2026-09-unravelling-magnetic-histories",
-    "sourceEventId": "2026-09-unravelling-magnetic-histories",
-    "title": "Unravelling the magnetic histories of Earth and other terrestrial objects",
-    "desc": "Discussion meeting organised by Professor Andy Biggin, Dr James Bryson, Professor Cathy Constable and Professor Wyn Williams.",
-    "source": "RS",
-    "date": "2026-09-14T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/unravelling-magnetic-histories/",
-    "image": "https://royalsociety.org/-/media/events/2026/9/magnetic-histories/magnetic-histories-header.jpg"
-  },
-  {
-    "id": "rs:2026-09-animal-and-ai",
-    "sourceEventId": "2026-09-animal-and-ai",
-    "title": "Nature of intelligence: Bridging animal and artificial intelligence",
-    "desc": "Theo Murphy meeting organised by Dr HaDi MaBouDi",
-    "source": "RS",
-    "date": "2026-09-21T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "DoubleTree by Hilton, Bristol",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "AI",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 82,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/animal-and-ai/",
-    "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
-  },
-  {
-    "id": "rs:2026-10-safeguarding-anthropocene-tropical-forests",
-    "sourceEventId": "2026-10-safeguarding-anthropocene-tropical-forests",
-    "title": "Safeguarding Anthropocene tropical forests",
-    "desc": "Science+ meeting organised by Professor Jane Hill OBE FRS, Datuk Dr Glen Reynolds MBE, Dr Lindsay Banin, Dr Ophelia Wang, Professor John Pyle FRS",
-    "source": "RS",
-    "date": "2026-10-05T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/safeguarding-anthropocene-tropical-forests/",
-    "image": "https://royalsociety.org/-/media/blogs/2022/08/royal-society-square.jpg"
-  },
-  {
-    "id": "rs:2026-10-immunology-of-the-exposome",
-    "sourceEventId": "2026-10-immunology-of-the-exposome",
-    "title": "Immunology of the exposome: addressing the crisis in chronic inflammatory disease",
-    "desc": "Discussion meeting organised by Professor Judith Allen FMedSci FRS and Dame Fiona Powrie DBE FMedSci FRS",
-    "source": "RS",
-    "date": "2026-10-12T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Healthcare",
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/immunology-of-the-exposome/",
-    "image": "https://royalsociety.org/-/media/events/2026/10/immunology-of-the-exposome/lead-image.jpg"
-  },
-  {
-    "id": "rs:2026-11-ecological-dynamics",
-    "sourceEventId": "2026-11-ecological-dynamics",
-    "title": "Forecasting ecological dynamics in a changing world, a critical discussion",
-    "desc": "Discussion meeting organised by Dr Emily G Simmonds",
-    "source": "RS",
-    "date": "2026-11-02T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/ecological-dynamics/",
-    "image": "https://royalsociety.org/-/media/events/2026/11/ecological-dynamics/lead-image.jpg"
-  },
-  {
-    "id": "rs:2026-11-low-cost-optical-sensing",
-    "sourceEventId": "2026-11-low-cost-optical-sensing",
-    "title": "Low-cost optical sensing for healthcare",
-    "desc": "Discussion meeting organised by Professor Jeremy J Baumberg FRS, FRSC and Professor Duncan Graham FRSC",
-    "source": "RS",
-    "date": "2026-11-09T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Healthcare",
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 82,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/low-cost-optical-sensing/",
-    "image": "https://royalsociety.org/-/media/about-us/royal-society-new.jpg"
-  },
-  {
-    "id": "rs:2026-11-neuromorphic-computing",
-    "sourceEventId": "2026-11-neuromorphic-computing",
-    "title": "Innovating technologies for neuromorphic computing",
-    "desc": "Discussion meeting and Transforming our Future event organised by Professor Stephen Furber CBE FREng FRS, Professor Judith Driscoll FREng FRS, Professor Stuart Parkin FREng FRS, Dr Sebastian C Dixon and Professor Tony Kenyon",
-    "source": "RS",
-    "date": "2026-11-23T09:00:00+01:00",
-    "durationMin": 420,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/neuromorphic-computing/",
-    "image": "https://royalsociety.org/-/media/events/2026/11/neuromorphic-computing/neuromorphic-lead-image.jpg"
-  },
-  {
-    "id": "rs:2026-06-environment-prize-lecture",
-    "sourceEventId": "2026-06-environment-prize-lecture",
-    "title": "Royal Society Environment Prize Lecture: Feeding the world without costing the earth",
-    "desc": "Join us for the Royal Society Environment Prize Lecture delivered by Professor Andrew Balmford FRS",
-    "source": "RS",
-    "date": "2026-06-16T18:30:00+01:00",
-    "durationMin": 60,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Climate",
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/environment-prize-lecture/",
-    "image": "https://royalsociety.org/-/media/events/2026/6/environment/istockvalio84sl-938782932.jpg"
-  },
-  {
-    "id": "rs:2026-06-sse-on-tour-eden-festival",
-    "sourceEventId": "2026-06-sse-on-tour-eden-festival",
-    "title": "Summer Science Exhibits on Tour at Eden Festival",
-    "desc": "Discover ground-breaking science with the Royal Society's Summer Science Exhibits on Tour at Eden festival",
-    "source": "RS",
-    "date": "2026-06-13T18:00:00+01:00",
-    "durationMin": 90,
-    "venue": "Raehill’s Estate, Moffat, Scotland, DG11 1ET",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/sse-on-tour-eden-festival/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/sse-on-tour-26/uv-sse-2024.jpg"
-  },
-  {
-    "id": "rs:2026-06-tues-lates",
-    "sourceEventId": "2026-06-tues-lates",
-    "title": "Summer Science Exhibition Lates",
-    "desc": "A late opening of the Summer Science Exhibition event",
-    "source": "RS",
-    "date": "2026-06-30T18:00:00+01:00",
-    "durationMin": 240,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/tues-lates/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sse-lates-2025.jpg"
-  },
-  {
-    "id": "rs:2026-06-lates-what-does-a-black-hole-really-look-like",
-    "sourceEventId": "2026-06-lates-what-does-a-black-hole-really-look-like",
-    "title": "Talk: What does a black hole really look like?",
-    "desc": "Dr Rahul Kumar Walia explores how gravity bends light in extreme ways and how these observations allow us to test fundamental ideas in physics",
-    "source": "RS",
-    "date": "2026-06-30T18:20:00+01:00",
-    "durationMin": 20,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Physics",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/lates-what-does-a-black-hole-really-look-like/",
-    "image": "https://royalsociety.org/-/media/blogs/2019/06/black-holes/black-holes-2.jpg"
-  },
-  {
-    "id": "rs:2026-06-lates-can-science-win-the-world-cup",
-    "sourceEventId": "2026-06-lates-can-science-win-the-world-cup",
-    "title": "Panel: The World, the Universe and Us live: can science win the World Cup?",
-    "desc": "A live, football-themed special edition of New Scientist’s award-winning podcast",
-    "source": "RS",
-    "date": "2026-06-30T18:45:00+01:00",
-    "durationMin": 75,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/lates-can-science-win-the-world-cup/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/the-world-the-universe-and-us-can-science-win-the-world-cup.jpg"
-  },
-  {
-    "id": "rs:2026-06-lates-the-future-we-want",
-    "sourceEventId": "2026-06-lates-the-future-we-want",
-    "title": "In conversation: The future we want",
-    "desc": "A discussion on the potential impacts of an AI designed to work for the many, not the few",
-    "source": "RS",
-    "date": "2026-06-30T19:10:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "AI",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 76,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/lates-the-future-we-want/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/future-we-want.jpg"
-  },
-  {
-    "id": "rs:2026-06-lates-trivedi-science-book-prize-2026-shortlist-reveal",
-    "sourceEventId": "2026-06-lates-trivedi-science-book-prize-2026-shortlist-reveal",
-    "title": "Panel: The Trivedi Science Book Prize 2026 shortlist celebration",
-    "desc": "New Scientist’s Alison Flood speaks with the judging panel for this year’s Royal Society Trivedi Science Book Prize who will be revealing the 2026 shortlist. ​",
-    "source": "RS",
-    "date": "2026-06-30T20:20:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/lates-trivedi-science-book-prize-2026-shortlist-reveal/",
-    "image": "https://royalsociety.org/-/media/blogs/2023/4/modern-perspectives-in-proof-theory/book-hero.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-the-mystery-of-space-fossils",
-    "sourceEventId": "2026-07-wed-the-mystery-of-space-fossils",
-    "title": "Talk: The mystery of space fossils",
-    "desc": "Learn how interstellar comets help us understand how planets form across the galaxy.",
-    "source": "RS",
-    "date": "2026-07-01T10:30:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-the-mystery-of-space-fossils/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/space-fossils-nasa.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-the-invisible-majority",
-    "sourceEventId": "2026-07-wed-the-invisible-majority",
-    "title": "Talk: The invisible majority - how microbes rule the Earth",
-    "desc": "This talk will reveal the complex relationships between microbes and the world around us",
-    "source": "RS",
-    "date": "2026-07-01T11:00:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-the-invisible-majority/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/microbe-zoo-sse-2026.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-can-you-get-music-on-the-moon",
-    "sourceEventId": "2026-07-wed-can-you-get-music-on-the-moon",
-    "title": "Talk: Can you get music on the Moon?",
-    "desc": "Join planetary scientist Dr Sheila Kanani on a fascinating exploration of the world of sound and space science.",
-    "source": "RS",
-    "date": "2026-07-01T11:30:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-can-you-get-music-on-the-moon/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2023/talks-and-activities/moon-seen-from-space-station.jpg"
   }
 ]
