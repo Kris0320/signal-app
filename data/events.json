@@ -310,6 +310,28 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:209996",
+    "sourceEventId": "209996",
+    "title": "Systems design and optimization in electrified aviation: models, methods, and emerging insights with Dr. Gökçin Çınar",
+    "desc": "As part of the Brahmal Institute Seminar Series, we are delighted to host an upcoming talk on electrified aircraft and future aviation systems. A reception of tea and coffee will follow the seminar, offering an opportunity to continue the discussion.\n\nAbstract\n\nThe electrification of aircraft requires more than incremental changes to propulsion: it calls for a fundamentally new way of thinking about how aircraft, propulsion architectures, power management systems, and operations interact as a unified whole. At the Integrated Design of Efficient Aerospace Systems (IDEAS) Laboratory at the University of Michigan, we develop computational frameworks that couple physics-based modeling, multidisciplinary design optimization, and systems engineering, all accelerated by machine learning, to…",
+    "source": "IC",
+    "date": "2026-06-17T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "201, Skempton Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Sustainability",
+      "Institutional Event",
+      "Alumni"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209996/systems-design-and-optimization-in-electrified-aviation-models-methods-and-emerging-insights-with-dr-gokcin-cinar/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gokcin-cinar_1779374242631_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:208011",
     "sourceEventId": "208011",
     "title": "The ins and outs of carbon in the air",
@@ -333,6 +355,29 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperialinaugural-eventbritebannerheathergraven3_1774627848437_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:210005",
+    "sourceEventId": "210005",
+    "title": "Weird Weather: The Response by David Shukman",
+    "desc": "Join David Shukman, former BBC Science Editor, and Theodore Keeping, wildfire & climate scientist at World Weather Attribution, Imperial College London, for a conversation around how climate change is reshaping our world through increasingly erratic and extreme weather, and how we can respond.\n\n​David’s latest book, The Response: A Story of Fire and Flood in Britain’s New World of Extremes , is a gripping account of the new extremes that our bodies, buildings and landscapes now face in Britain and around the world, compiled through extensive interviews with experts, including researchers from Imperial. The discussion will explore themes from the book, notably wildfires, and the role of communication in driving climate action.\n\nDavid will also be signing books after the talks. Please note…",
+    "source": "IC",
+    "date": "2026-06-18T17:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Boardroom, Grantham Institute - Climate Change and the Environment, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Environment",
+      "Climate change",
+      "Science communication",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210005/weird-weather-the-response-by-david-shukman/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/david-shukman-1-events-webpage_1779376450424_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:209677",
     "sourceEventId": "209677",
     "title": "IDE Summer Show 2026",
@@ -353,29 +398,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209677/ide-summer-show-2026/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/eventbrite-banner-6_1778758922199_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:195659",
-    "sourceEventId": "195659",
-    "title": "Blyth Art Fellowship Exhibition",
-    "desc": "A mixed media exhibition this years Blyth Art Fellows. Imperial College Students Melina Lee and Ronak Sabu",
-    "source": "IC",
-    "date": "2026-06-10T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Main entrance, Main Entrance, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Exhibition",
-      "Art exhibition",
-      "Student clubs and societies",
-      "Student experience",
-      "Students"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/195659/blyth-art-fellowship-exhibition-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/blyth-fellowship-2526_1753183053182_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:206357",
@@ -401,29 +423,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/nature-positive-pathways-1-events-webpage_1776248609436_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:207724",
-    "sourceEventId": "207724",
-    "title": "Lunchtime Concert – Charles Owen (piano)",
-    "desc": "Charles Owen (piano)\n\nMozart Fantasia in C minor K475 Chopin Ballade no 1 in G minor, Op 23 Schubert Wanderer Fantasy in C major D760",
-    "source": "IC",
-    "date": "2026-06-11T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Arts",
-      "Creative",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207724/lunchtime-concert-charles-owen-piano-8/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/img-5737-1_1752852443736_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:208696",
     "sourceEventId": "208696",
     "title": "2026 LCN Symposium: The Importance of Life Cycle Teaching, Skills and Knowledge in Achieving Sustainable Futures",
@@ -444,7 +443,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208696/lcn-symposium-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209752",
@@ -466,7 +465,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209752/42nd-stuod-sandbox-workshop-alexey-fedorov-yale-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210431",
@@ -487,7 +486,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210431/quantum-seminar-jessica-eastman/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208382",
@@ -551,7 +550,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210569/geometry-and-topology-seminar-federico-ardila-queen-mary/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210540",
@@ -641,6 +640,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/310825-dg-icl-cfae-134-3000-x-850_1751901648543_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:210829",
+    "sourceEventId": "210829",
+    "title": "Junior Analysis Seminar – Augusto Del Zotto (Zurich)",
+    "desc": "Title\n\nTBA\n\nAbstract\n\nPlease note that the seminar will take place in person in room 411 of Huxley Building .\n\nClick here to get to the Junior Analysis Seminar webpage .",
+    "source": "IC",
+    "date": "2026-06-15T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "411, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210829/junior-analysis-seminar-augusto-del-zotto-zurich/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/seminar-picture_1599821877881_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:210782",
     "sourceEventId": "210782",
     "title": "MAGIC Seminar – Andrea Fanelli and Luca Tasin",
@@ -659,7 +679,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210782/magic-seminar-andrea-fanelli-and-luca-tasin/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:209913",
@@ -680,7 +700,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209913/quantum-optimization-benchmarking-library-the-intractable-decathlon/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:205922",
@@ -724,7 +744,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208556/spc-seminar-climate-mark-rodwell-ecmwf/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210646",
@@ -768,7 +788,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207792/turbulent-days-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
@@ -912,7 +932,7 @@
     "format": "In person",
     "match": 78,
     "url": "https://wellcomecollection.org/events/bsl-interpreted-tours-of-tenderness-and-rage",
-    "image": "https://images.prismic.io/wellcomecollection%2F5db8dd8a-5707-4b80-bf6b-69b83e55e1af_ep_000188_045.jpg?auto=format,compress&rect=0,0,4000,2250&w=3200&h=1800"
+    "image": "https://images.prismic.io/wellcomecollection/airGyKlQnVZVEN55_BTG260520145210.jpg?auto=format%2Ccompress&w=3200&h=1800"
   },
   {
     "id": "wc:the-coming-of-age-symposium",
@@ -934,6 +954,27 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/the-coming-of-age-symposium",
     "image": "https://images.prismic.io/wellcomecollection/ahgIVbK9tuLqENnX_UncertainFutures100womenbyAndrewBrooks_3_V2.jpg?auto=format%2Ccompress&rect=0%2C305%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:audio-described-tours-tenderness-and-rage",
+    "sourceEventId": "audio-described-tours-tenderness-and-rage",
+    "title": "Audio Described Tours of 'Tenderness and Rage'",
+    "desc": "Take an audio described tour of 'Tenderness and Rage', a display that explores HIV and AIDS through stories of protest and care.",
+    "source": "WC",
+    "date": "2026-07-15T10:30:00+00:00",
+    "durationMin": 600,
+    "venue": "Gallery 3",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Session",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/audio-described-tours-tenderness-and-rage",
+    "image": "https://images.prismic.io/wellcomecollection/airHxKlQnVZVEN6z_BTG260520152042-Edit.jpg?auto=format%2Ccompress&w=3200&h=1800"
   },
   {
     "id": "rs:2026-06-mophh",
