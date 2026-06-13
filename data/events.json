@@ -21,6 +21,26 @@
     "image": "https://www.kcl.ac.uk/newimages/nmes/main-article-780X450/strand-campus-heilbronn-colloquium-2025-glenn-stevens.xe82724a7.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
+    "id": "kcl:kings-foundations-offer-holder-visa-session-1-july-2026",
+    "sourceEventId": "2e15eba6-b5f8-44e3-8b48-0f4d6da7e684",
+    "title": "King’s International Foundation Offer Holder event – applying for your Student visa –  1 July 2026",
+    "desc": "Learn more about applying for your Student visa for King's International Foundation Programme at King's College London.",
+    "source": "KCL",
+    "date": "2026-07-01T10:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "King's Foundations"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/kings-foundations-offer-holder-visa-session-1-july-2026",
+    "image": "https://www.kcl.ac.uk/newimages/ciel/king's-international-foundation-offer-holder-visa-event-1-july-2026.x5250078f.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
     "id": "kcl:mindfulness-with-jenny-online-8",
     "sourceEventId": "84484689-8e17-4720-922d-7cd21f06131c",
     "title": "Mindfulness with Jenny - Online",
@@ -40,26 +60,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-8",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/summer-flower.xed31565f.jpg?w=780&h=518&crop=780,440,0,39"
-  },
-  {
-    "id": "kcl:kings-foundations-offer-holder-visa-session-1-july-2026",
-    "sourceEventId": "2e15eba6-b5f8-44e3-8b48-0f4d6da7e684",
-    "title": "King’s International Foundation Offer Holder event – applying for your Student visa –  1 July 2026",
-    "desc": "Learn more about applying for your Student visa for King's International Foundation Programme at King's College London.",
-    "source": "KCL",
-    "date": "2026-07-01T10:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Technology & Science",
-      "King's Foundations"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/kings-foundations-offer-holder-visa-session-1-july-2026",
-    "image": "https://www.kcl.ac.uk/newimages/ciel/king's-international-foundation-offer-holder-visa-event-1-july-2026.x5250078f.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
     "id": "kcl:joint-rd-office-wednesday-walk-in-july",
@@ -276,10 +276,10 @@
     "image": "https://www.kcl.ac.uk/newimages/ioppn/mhaps/campus-stock-imagery/ioppn-students.x307002ee.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
-    "id": "kcl:psychology-and-neuroscience-of-mind-body-interface-msc-online-offer-holder-session-3-july-2026",
-    "sourceEventId": "15261577-0943-4e9c-bbeb-3624aa544cee",
-    "title": "Psychology and Neuroscience of Mind-Body Interface MSc Online Offer Holder Session - 3 July 2026",
-    "desc": "You’re invited to our exclusive online event for Psychology and Neuroscience of Mind-Body Interface MSc offer holders",
+    "id": "kcl:psychiatric-research-msc-online-offer-holder-session-3-july-2026",
+    "sourceEventId": "1aa6b377-f2f9-44eb-8e01-74d8664cbc46",
+    "title": "Psychiatric Research MSc Online Offer Holder Session - 3 July 2026",
+    "desc": "You’re invited to our exclusive online event for Psychiatric Research MSc offer holders",
     "source": "KCL",
     "date": "2026-07-03T13:00:00",
     "durationMin": 45,
@@ -289,7 +289,7 @@
     "tags": [],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/psychology-and-neuroscience-of-mind-body-interface-msc-online-offer-holder-session-3-july-2026",
+    "url": "https://www.kcl.ac.uk/events/psychiatric-research-msc-online-offer-holder-session-3-july-2026",
     "image": "https://www.kcl.ac.uk/newimages/ioppn/mhaps/campus-stock-imagery/ioppn-students.x307002ee.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
@@ -530,7 +530,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209913/quantum-optimization-benchmarking-library-the-intractable-decathlon/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:205922",
@@ -618,7 +618,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207792/turbulent-days-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209061",
@@ -661,7 +661,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207405/ese-evening-lecture-series-raw-materials/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209843",
@@ -707,7 +707,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210234/department-of-chemistry-world-food-day-event/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209740",
@@ -813,27 +813,6 @@
     "image": null
   },
   {
-    "id": "wc:bsl-tours-of-the-coming-of-age-with-rubbena-aurangzeb-tariq",
-    "sourceEventId": "bsl-tours-of-the-coming-of-age-with-rubbena-aurangzeb-tariq",
-    "title": "BSL Tours of ‘The Coming of Age’ with Rubbena Aurangzeb-Tariq",
-    "desc": "Join artist and facilitator Rubbena Aurangzeb-Tariq for a Deaf-led tour of ‘The Coming of Age’ exhibition.",
-    "source": "WC",
-    "date": "2026-06-13T13:00:00+00:00",
-    "durationMin": 600,
-    "venue": "Information Point on level 0",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Gallery tour",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/bsl-tours-of-the-coming-of-age-with-rubbena-aurangzeb-tariq",
-    "image": "https://images.prismic.io/wellcomecollection/agNhc6YofJOwHJFU_EP_003391_0010.jpg?auto=format%2Ccompress&rect=0%2C0%2C4000%2C2250&w=3200&h=1800"
-  },
-  {
     "id": "wc:shaping-age",
     "sourceEventId": "shaping-age",
     "title": "Wellcome Collection Lates: Shaping Age",
@@ -916,6 +895,27 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/audio-described-tours-tenderness-and-rage",
     "image": "https://images.prismic.io/wellcomecollection/airHxKlQnVZVEN6z_BTG260520152042-Edit.jpg?auto=format%2Ccompress&w=3200&h=1800"
+  },
+  {
+    "id": "wc:bsl-tours-of-the-coming-of-age-with-rubbena-aurangzeb-tariq",
+    "sourceEventId": "bsl-tours-of-the-coming-of-age-with-rubbena-aurangzeb-tariq",
+    "title": "BSL Tours of ‘The Coming of Age’ with Rubbena Aurangzeb-Tariq",
+    "desc": "Join artist and facilitator Rubbena Aurangzeb-Tariq for a Deaf-led tour of ‘The Coming of Age’ exhibition.",
+    "source": "WC",
+    "date": "2026-06-13T13:00:00+00:00",
+    "durationMin": 600,
+    "venue": "Information Point on level 0",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Gallery tour",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/bsl-tours-of-the-coming-of-age-with-rubbena-aurangzeb-tariq",
+    "image": "https://images.prismic.io/wellcomecollection/agNhc6YofJOwHJFU_EP_003391_0010.jpg?auto=format%2Ccompress&rect=0%2C0%2C4000%2C2250&w=3200&h=1800"
   },
   {
     "id": "rs:2026-06-mophh",
