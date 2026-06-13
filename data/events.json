@@ -404,50 +404,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/eventbrite-banner-6_1778758922199_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:208696",
-    "sourceEventId": "208696",
-    "title": "2026 LCN Symposium: The Importance of Life Cycle Teaching, Skills and Knowledge in Achieving Sustainable Futures",
-    "desc": "2026 LCN Symposium: The Importance of Life Cycle Teaching, Skills and Knowledge in Achieving Sustainable Futures\n\nT he Imperial Network of Excellence in Sustainability through Life Cycle Approaches aims to connect life cycle-related research and researchers . Our 2026 Symposium will bring together scholars, practitioners and policymakers to discuss and explore the importance and need of life cycle (environmental, economic or social) teaching, skills and knowledge, and how these are crucial for achieving sustainable futures. The symposium aims to facilitate knowledge exchange, collaborative research, and strategic partnerships that can lead to impactful solutions for global sustainability challenges.\n\nKey Themes\n\nThe application of life cycle thinking to tackle sustainability issues\n\nThe…",
-    "source": "IC",
-    "date": "2026-06-12T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "G16, Sir Alexander Fleming Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Symposium",
-      "Environment",
-      "Sustainability",
-      "Network of Excellence",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208696/lcn-symposium-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210540",
-    "sourceEventId": "210540",
-    "title": "Junior Geometry Seminar – Yuting Liu",
-    "desc": "Title: Linear Series on K3 Surfaces\n\nSpeaker: Yuting Liu\n\nAbstract: In this talk, we study the base loci of nef and big line bundles on K3 surfaces and discuss their higher-dimensional analogues on hyperkähler manifolds.\n\nWe begin with classical results of Saint-Donat and Mayer on linear systems on K3 surfaces. In particular, we describe the movable and fixed components of nef and big line bundles that are not base point free. We also discuss the role of Reider’s theorem and its consequences for the base-point freeness of multiples of such line bundles.\n\nWe then turn to higher-dimensional hyperkähler manifolds. After reviewing the Beauville–Bogomolov–Fujiki quadratic form and the associated Riemann–Roch formula, we explain how positivity properties of line bundles can be expressed in…",
-    "source": "IC",
-    "date": "2026-06-12T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Room 308, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210540/junior-geometry-seminar-yuting-liu/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
-  },
-  {
     "id": "ic:209925",
     "sourceEventId": "209925",
     "title": "Men’s Health Month – Circuits",
@@ -553,7 +509,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210782/magic-seminar-andrea-fanelli-and-luca-tasin/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:209913",
@@ -574,7 +530,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209913/quantum-optimization-benchmarking-library-the-intractable-decathlon/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:205922",
@@ -662,7 +618,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207792/turbulent-days-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209061",
@@ -705,7 +661,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207405/ese-evening-lecture-series-raw-materials/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209843",
@@ -751,7 +707,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210234/department-of-chemistry-world-food-day-event/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209740",
@@ -794,6 +750,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209929/mens-health-month-open-water-swimming/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/open-water-swimming_1779362967945_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207868",
+    "sourceEventId": "207868",
+    "title": "Community Garden Action Days",
+    "desc": "Drop-in sessions from 13:00–16:00 on Wednesdays. After the Easter break, sessions will resume on 22nd April. You’re also welcome to drop in and volunteer to water the plants during the break.\n\nJoin the student organisers and volunteers in the Community Garden at the Chaplaincy Centre. A chance to get outside, and be involved in growing plants, sowing seeds, clearing new ground, or pruning bushes. If this is your first session of gardening or if you have plenty of experience, all are welcome.\n\nOpen to students and staff. Drop-in during the afternoon and stay for as long as you like. Gloves, protective gear and tools provided, with wet weather options in needed.\n\nThe Community Garden at the Chaplaincy, accessed through the Multi-Faith Centre at15 Princes Gardens, or via the side gate of…",
+    "source": "IC",
+    "date": "2026-06-17T13:00:00+01:00",
+    "durationMin": 180,
+    "venue": "Chaplaincy Multi-Faith Centre",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207868/community-garden-action-days-9/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gardening-banner_1714416170181_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
