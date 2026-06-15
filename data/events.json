@@ -509,7 +509,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210782/magic-seminar-andrea-fanelli-and-luca-tasin/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:209913",
@@ -574,7 +574,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208556/spc-seminar-climate-mark-rodwell-ecmwf/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210646",
@@ -618,7 +618,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207792/turbulent-days-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209061",
@@ -661,7 +661,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207405/ese-evening-lecture-series-raw-materials/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209843",
@@ -707,7 +707,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210234/department-of-chemistry-world-food-day-event/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209740",
@@ -1132,26 +1132,6 @@
     "image": "https://royalsociety.org/-/media/events/2026/6/environment/istockvalio84sl-938782932.jpg"
   },
   {
-    "id": "rs:2026-06-sse-on-tour-eden-festival",
-    "sourceEventId": "2026-06-sse-on-tour-eden-festival",
-    "title": "Summer Science Exhibits on Tour at Eden Festival",
-    "desc": "Discover ground-breaking science with the Royal Society's Summer Science Exhibits on Tour at Eden festival",
-    "source": "RS",
-    "date": "2026-06-13T18:00:00+01:00",
-    "durationMin": 90,
-    "venue": "Raehill’s Estate, Moffat, Scotland, DG11 1ET",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/sse-on-tour-eden-festival/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/sse-on-tour-26/uv-sse-2024.jpg"
-  },
-  {
     "id": "rs:2026-06-tues-lates",
     "sourceEventId": "2026-06-tues-lates",
     "title": "Summer Science Exhibition Lates",
@@ -1305,5 +1285,26 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-can-you-get-music-on-the-moon/",
     "image": "https://royalsociety.org/-/media/summer-science-exhibition/2023/talks-and-activities/moon-seen-from-space-station.jpg"
+  },
+  {
+    "id": "rs:2026-07-wed-can-climate-change-drive-infectious-diseases",
+    "sourceEventId": "2026-07-wed-can-climate-change-drive-infectious-diseases",
+    "title": "Talk: Can climate change drive infectious diseases?",
+    "desc": "This talk will explain the connection between epidemics, climate change and biodiversity.",
+    "source": "RS",
+    "date": "2026-07-01T12:00:00+01:00",
+    "durationMin": 30,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Healthcare",
+      "Climate",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 76,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-can-climate-change-drive-infectious-diseases/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/climate-infectious.jpg"
   }
 ]
