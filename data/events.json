@@ -443,7 +443,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210885/gatp-seminar-guhesh-kumaran-imperial-quotient-quiver-subtraction-classical-groups/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208556",
@@ -466,7 +466,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208556/spc-seminar-climate-mark-rodwell-ecmwf/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210646",
@@ -510,7 +510,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207792/turbulent-days-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209061",
@@ -553,7 +553,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207405/ese-evening-lecture-series-raw-materials/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209843",
@@ -683,7 +683,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210707/dynamical-systems-seminar-michael-e-henderson-retired/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210226",
@@ -727,7 +727,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210567/number-theory-seminar-christopher-hughes-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:210872",
@@ -770,6 +770,27 @@
     "format": "Online",
     "match": 74,
     "url": "https://www.lse.ac.uk/events/lse-festival/2026/will-ai-secure-humanitys-future",
+    "image": null
+  },
+  {
+    "id": "lse:the-data-centre-question-how-does-ai-impact-climate-goals",
+    "sourceEventId": "the-data-centre-question-how-does-ai-impact-climate-goals",
+    "title": "The data centre question: how does AI impact climate goals? I LSE Festival Skills",
+    "desc": "The data centre question: how does AI impact climate goals? I LSE Festival Skills",
+    "source": "LSE",
+    "date": "2026-06-17T12:00:00+01:00",
+    "durationMin": 60,
+    "venue": "The data centre question: how does AI impact climate goals? I LSE Festival Skills",
+    "area": "Holborn",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Data science",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/events/lse-festival/2026/the-data-centre-question-how-does-ai-impact-climate-goals",
     "image": null
   },
   {
@@ -875,25 +896,6 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/audio-described-tours-tenderness-and-rage",
     "image": "https://images.prismic.io/wellcomecollection/airHxKlQnVZVEN6z_BTG260520152042-Edit.jpg?auto=format%2Ccompress&w=3200&h=1800"
-  },
-  {
-    "id": "rs:2026-06-mophh",
-    "sourceEventId": "2026-06-mophh",
-    "title": "Metals and oxygen: planetary and human homeostasis",
-    "desc": "Discussion meeting organised by Professor Karen Johnson, Professor Caroline Peacock, Dr Stephen Chivasa, Dr Karrera Djoko and Dr Verena Tretter",
-    "source": "RS",
-    "date": "2026-06-15T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/mophh/",
-    "image": "https://royalsociety.org/-/media/events/2026/6/mophh/untitled-design-(3).jpg"
   },
   {
     "id": "rs:2026-06-creating-connections-west-midlands",
