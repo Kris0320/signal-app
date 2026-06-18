@@ -355,29 +355,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/eventbrite-banner-cleantech_1780585566356_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:208011",
-    "sourceEventId": "208011",
-    "title": "The ins and outs of carbon in the air",
-    "desc": "Join Professor Heather Graven, Professor of Climate Physics, to discover how carbon moves through our atmosphere and uncover the impact of the gases shaping our climate.\n\nPlease register to attend in person. A live stream link for online attendance is available on this page.\n\nWe look forward to seeing you on Wednesday 17 June!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research\n\nAbstract\n\nThe buildup of carbon dioxide and methane in Earth’s atmosphere is driving global climate change, but what exactly are the sources of carbon dioxide and methane going into the air? How are natural processes removing carbon dioxide and methane out of the air? Do estimates of emissions based on economic data for…",
-    "source": "IC",
-    "date": "2026-06-17T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Lecture Theatre 1, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Institutional Event",
-      "Women at Imperial",
-      "Imperial Inaugurals",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208011/the-ins-and-outs-of-carbon-in-the-air/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperialinaugural-eventbritebannerheathergraven3_1774627848437_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:208812",
     "sourceEventId": "208812",
     "title": "Blind men and the elephant: from epidemiology to policy on ultra-processed diets and metabolic health.",
@@ -442,7 +419,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210784/magic-seminar-ivan-karpov-mit/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:210775",
@@ -463,7 +440,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210775/analysis-and-probability-seminar-amir-mohammadi-berkeley/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:210539",
@@ -612,7 +589,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210571/geometry-and-topology-seminar-sebastian-opper-charles-university-prague/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208384",
@@ -633,7 +610,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208384/fluid-dynamics-seminar-olivia-du-roure-pmmh-espci/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210852",
@@ -680,6 +657,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/260522-queens-tower-dusk-night-aerial-08_1780480455571_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:210846",
+    "sourceEventId": "210846",
+    "title": "Biomathematics seminar – Hollie Hindley (University of Edinburgh)",
+    "desc": "Biomathematics seminar - Hollie Hindley (University of Edinburgh)",
+    "source": "IC",
+    "date": "2026-06-22T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "658, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210846/biomathematics-seminar-hollie-hindley-university-of-edinburgh/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "lse:will-ai-secure-humanitys-future",
     "sourceEventId": "will-ai-secure-humanitys-future",
     "title": "Will AI secure humanity’s future?",
@@ -697,6 +695,26 @@
     "format": "Online",
     "match": 74,
     "url": "https://www.lse.ac.uk/events/lse-festival/2026/will-ai-secure-humanitys-future",
+    "image": null
+  },
+  {
+    "id": "lse:securing-climate-treaties-as-a-game",
+    "sourceEventId": "securing-climate-treaties-as-a-game",
+    "title": "Securing climate treaties as a game",
+    "desc": "Drop in at this workshop to play a new online game which has been developed for the LSE Festival. Join a team of either “nature defenders” or “exploiters” and discover hidden roles and the art of deception in a game to save climate accords. The climate accords are being torpedoed by bad actors, so the others have to stand together to save the accord and ensure its success. Part of these players are modelled as AI agents for more realistic simulations.",
+    "source": "LSE",
+    "date": "2026-06-19T12:00:00+01:00",
+    "durationMin": 120,
+    "venue": "In-person public event (MAR.2.10, Marshall Building)",
+    "area": "Holborn",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/events/lse-festival/2026/securing-climate-treaties-as-a-game",
     "image": null
   },
   {
