@@ -310,29 +310,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:210005",
-    "sourceEventId": "210005",
-    "title": "Weird Weather: The Response by David Shukman",
-    "desc": "Join David Shukman, former BBC Science Editor, and Theodore Keeping, wildfire & climate scientist at World Weather Attribution, Imperial College London, for a conversation around how climate change is reshaping our world through increasingly erratic and extreme weather, and how we can respond.\n\n​David’s latest book, The Response: A Story of Fire and Flood in Britain’s New World of Extremes , is a gripping account of the new extremes that our bodies, buildings and landscapes now face in Britain and around the world, compiled through extensive interviews with experts, including researchers from Imperial. The discussion will explore themes from the book, notably wildfires, and the role of communication in driving climate action.\n\nDavid will also be signing books after the talks. Please note…",
-    "source": "IC",
-    "date": "2026-06-18T17:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Boardroom, Grantham Institute - Climate Change and the Environment, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Environment",
-      "Climate change",
-      "Science communication",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210005/weird-weather-the-response-by-david-shukman/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/david-shukman-1-events-webpage_1779376450424_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:209683",
     "sourceEventId": "209683",
     "title": "Cleantech Innovation MSc 2026 Show",
@@ -353,94 +330,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209683/cleantech-innovation-msc-2026-show/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/eventbrite-banner-cleantech_1780585566356_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:208812",
-    "sourceEventId": "208812",
-    "title": "Blind men and the elephant: from epidemiology to policy on ultra-processed diets and metabolic health.",
-    "desc": "“Blind men and the elephant: from epidemiology to policy on ultra-processed diets and metabolic health”.\n\nA fascinating talk by Ezster Vamos, a Clinical Reader in Public Health Medicine at Imperial College London and an Honorary Clinical Consultant at Imperial College Healthcare NHS Trust. Ezster’s research focusses on understanding the key drivers of non-communicable diseases and related health inequalities, using health impact modelling, natural experiments, and epidemiological methods.\n\nShe centres on the prevention and management of long-term conditions, particularly type 2 diabetes and cardiovascular disease, and evaluates policies targeting dietary patterns, ultra-processed foods, commercial determinants of health, and broader factors influencing health inequalities.\n\nThis will be…",
-    "source": "IC",
-    "date": "2026-06-18T11:00:00+01:00",
-    "durationMin": 60,
-    "venue": "First Floor, Room 104, School of Public Health, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Mohn Centre for Childrens Health and Wellbeing",
-      "PaeCH",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208812/blind-men-and-the-elephant-from-epidemiology-to-policy-on-ultra-processed-diets-and-metabolic-health/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/chips_1776782581456_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:208325",
-    "sourceEventId": "208325",
-    "title": "Imperial Fungal Science Network | Seminar Series | ECR Talks",
-    "desc": "The Imperial Fungal Science Network is a hub for the mycology community, providing a leadership, advocacy and communications platform for mycologists and a developmental framework for future leaders in fungal research. We welcome you to the Imperial Fungal Science Network – Seminar Series 2026 for a seminar programme highlighting the work of Early Career Researchers.\n\nSeminar | ECR Talks | 12:00– 13:00 | Thursday 19th February 📍 G47, Flowers Building, South Kensington Campus, London SW7 2AZ find us at Map/3A\n\nIn-person & online (via Teams, click ‘Livestream’ button on LHS )\n\nNo registration required\n\nThis is a hybrid event to ensure that our non-London members/audience can join for the talks remotely; if you are joining us via the Teams link, please be aware that your email contact may…",
-    "source": "IC",
-    "date": "2026-06-18T12:00:00+01:00",
-    "durationMin": 60,
-    "venue": "G47 (ground floor), Flowers Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "events",
-      "Infectious diseases",
-      "Postdoctoral researchers",
-      "School of Public Health"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208325/imperial-fungal-science-network-seminar-series-ecr-talks-3/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/fungal-science-network-banner-excellence-badge-1_1674564595626_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210784",
-    "sourceEventId": "210784",
-    "title": "MAGIC Seminar – Ivan Karpov (MIT)",
-    "desc": "Ivan Karpov (MIT): Wall-crossing Package via Non-Abelian localization\n\nMore details can be found on https://www.imperial.ac.uk/geometry/seminars/magic-seminar/",
-    "source": "IC",
-    "date": "2026-06-18T14:00:00+01:00",
-    "durationMin": 90,
-    "venue": "139, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210784/magic-seminar-ivan-karpov-mit/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:210775",
-    "sourceEventId": "210775",
-    "title": "Analysis and Probability Seminar – Amir Mohammadi (Berkeley)",
-    "desc": "Amir Mohammadi (Berkeley): tba\n\nMore details on the website",
-    "source": "IC",
-    "date": "2026-06-18T15:00:00+01:00",
-    "durationMin": 60,
-    "venue": " King's College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210775/analysis-and-probability-seminar-amir-mohammadi-berkeley/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:210539",
@@ -482,7 +371,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210777/analysis-and-probability-seminar-peter-varju-cambridge/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:209642",
@@ -505,6 +394,29 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209642/washington-dc-imperial-alumni-global-celebration/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/washingtondc-london_1778699384591_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210005",
+    "sourceEventId": "210005",
+    "title": "Weird Weather: The Response by David Shukman",
+    "desc": "Join David Shukman, former BBC Science Editor, and Theodore Keeping, wildfire & climate scientist at World Weather Attribution, Imperial College London, for a conversation around how climate change is reshaping our world through increasingly erratic and extreme weather, and how we can respond.\n\n​David’s latest book, The Response: A Story of Fire and Flood in Britain’s New World of Extremes , is a gripping account of the new extremes that our bodies, buildings and landscapes now face in Britain and around the world, compiled through extensive interviews with experts, including researchers from Imperial. The discussion will explore themes from the book, notably wildfires, and the role of communication in driving climate action.\n\nDavid will also be signing books after the talks. Please note…",
+    "source": "IC",
+    "date": "2026-06-18T17:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Boardroom, Grantham Institute - Climate Change and the Environment, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Environment",
+      "Climate change",
+      "Science communication",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210005/weird-weather-the-response-by-david-shukman/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/david-shukman-1-events-webpage_1779376450424_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210695",
@@ -574,7 +486,7 @@
     "id": "ic:210571",
     "sourceEventId": "210571",
     "title": "Geometry and Topology Seminar – Sebastian Opper (Charles University, Prague)",
-    "desc": "Sebastian Opper (Charles University, Prague).: tbc\n\nMore information on the GT seminar website",
+    "desc": "Sebastian Opper (Charles University, Prague).: Lie theory for autoequivalence groups of triangulated categories.\n\nMore information on the GT seminar website",
     "source": "IC",
     "date": "2026-06-19T13:30:00+01:00",
     "durationMin": 60,
@@ -589,7 +501,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210571/geometry-and-topology-seminar-sebastian-opper-charles-university-prague/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208384",
@@ -610,13 +522,13 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208384/fluid-dynamics-seminar-olivia-du-roure-pmmh-espci/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210852",
     "sourceEventId": "210852",
     "title": "Junior Geometry Seminar – Nick Manrique",
-    "desc": "Title: Regularisations of the area functional\n\nSpeaker: Nick Manrique\n\nAbstract: TBA\n\nSome snacks will be provided before and after the talk.\n\nGo to the seminar main page.\n\nSubscribe to the mailing list.",
+    "desc": "Title: Regularisations of the area functional\n\nSpeaker: Nick Manrique\n\nAbstract: The problem of finding minimal surfaces in general manifolds has been of significant interest to differential geometers for at least 100 years. In broad terms, this can be construed as the problem of finding critical points of the area functional defined on some appropriate space of surfaces. Making sense of this is not easy, for one because it is not clear what the appropriate space should be. All available options come with significant technical challenges.\n\nIn the 1970s, the school of de Giorgi proposed a different approach whereby the area functional is ‘regularised’ to a family of functionals depending on some small parameter. This family has the benefit of being defined on a standard function space and…",
     "source": "IC",
     "date": "2026-06-19T17:30:00+01:00",
     "durationMin": 60,
@@ -675,7 +587,95 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210846/biomathematics-seminar-hollie-hindley-university-of-edinburgh/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209589",
+    "sourceEventId": "209589",
+    "title": "London Protein Design Day",
+    "desc": "Join us for the first edition of the London Protein Design Day , a one-day symposium bringing together the protein design scientific community from London and beyond.\n\n​We have folded together a diverse programme spanning multiple computational approaches (AI-driven design, molecular dynamics, bioinformatics) and applications (enzymes, antibodies, materials).\n\n​The event is free to attend, but places are limited. To ensure as many people as possible can join, please only register if you expect to attend – and please let us know if your plans change so we can offer your place to someone on the waiting list.\n\n​ Invited speakers\n\n​Schedule\n\n​ Abstracts\n\n​You can find the book of abstracts (talk and posters) here .\n\n​Poster presentation\n\n​When registering, you are encouraged to submit a…",
+    "source": "IC",
+    "date": "2026-06-23T08:30:00+01:00",
+    "durationMin": 480,
+    "venue": "Lecture theatre 3, ACE Extension, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Symposium",
+      "Research",
+      "Chemical engineering",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209589/london-protein-design-day/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207415",
+    "sourceEventId": "207415",
+    "title": "Challenger Society Ocean Wind Waves Special Interest Group Meeting",
+    "desc": "Challenger Society Ocean Wind Waves 2026\n\n7th Meeting of the Special Interest Group\n\nThe meeting will welcome contributions spanning the full spectrum of wave research, from fundamental physics to applied coastal and offshore engineering.\n\nWe invite presentations addressing observational, theoretical, numerical, and experimental studies of waves across scales, including wind–wave generation, nonlinear wave dynamics, wave–current interaction, wave breaking and turbulence, spectral wave modelling, remote sensing of waves, and the role of waves in coastal and ocean processes. Contributions that link wave dynamics with coastal hazards, offshore infrastructure, climate variability, and air–sea interaction are particularly encouraged. The aim is to foster discussion across disciplines and…",
+    "source": "IC",
+    "date": "2026-06-23T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Room 307, Skempton Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Civil engineering",
+      "Fluid mechanics",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207415/challenger-society-ocean-wind-waves-special-interest-group-meeting/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/corals-steep-wave_1773663620162_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210546",
+    "sourceEventId": "210546",
+    "title": "Life, reimagined: Building a new biology from the ground up through synthetic cells",
+    "desc": "This event is open to staff and students across Imperial College London.\n\nHosted by Dr Yuval Elani, Department of Chemical Engineering, this presentation forms a part of his Lister Research Prize Fellowship, conferred by the Lister Institute.\n\nSynthetic Cells as an Alternative Paradigm for Biological Engineering\n\nSynthetic biology is poised to be one of the defining technologies of our time with the potential to transform how we treat disease, monitor our environments, and manufacture chemicals. Over recent decades, remarkable progress has been made in “re-engineering” living cells to give them new functions. However, engineering living systems differs fundamentally from the design of traditional engineered systems, such as software, electronics, or mechanical devices. Biology is…",
+    "source": "IC",
+    "date": "2026-06-23T11:00:00+01:00",
+    "durationMin": 60,
+    "venue": "LT2, ACE Extension, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210546/synthetic-cells-as-an-alternative-paradigm-for-biological-engineering/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210097",
+    "sourceEventId": "210097",
+    "title": "In-person session – Bloating workshop",
+    "desc": "Join us for an intimate, evidence-based workshop exploring one of the most common digestive symptoms experienced by adults in the UK: bloating. In this small-group session, we’ll take a deep dive into gut health, exploring the many possible causes of bloating and why symptoms can vary so widely from person to person. You’ll learn how to better identify your own symptom patterns, understand potential triggers, and gain practical insight into what your body may be telling you. The session will include a 20-minute evidence-based Gut-Directed Hypnosis session designed specifically to support bloating management. Gut-Directed Hypnosis is a well-established, evidence-based intervention for disorders of gut–brain interaction, including IBS, and can be a powerful tool in supporting digestive…",
+    "source": "IC",
+    "date": "2026-06-23T11:45:00+01:00",
+    "durationMin": 45,
+    "venue": "SALC 9, Level 5, Sherfield Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210097/in-person-session-bloating-workshop-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bloating_1779803246921_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
@@ -802,24 +802,25 @@
     "image": "https://images.prismic.io/wellcomecollection/airHxKlQnVZVEN6z_BTG260520152042-Edit.jpg?auto=format%2Ccompress&w=3200&h=1800"
   },
   {
-    "id": "rs:2026-06-creating-connections-west-midlands",
-    "sourceEventId": "2026-06-creating-connections-west-midlands",
-    "title": "Creating connections West Midlands 2026",
-    "desc": "The Royal Society will be holding a Creating Connections meeting in Birmingham to discuss the role of the West Midlands in driving UK innovation and prosperity.",
-    "source": "RS",
-    "date": "2026-06-17T10:00:00+01:00",
-    "durationMin": 420,
-    "venue": "The Studio, 7 Cannon St, Birmingham B2 5EP",
-    "area": "Mayfair",
+    "id": "wc:an-artist-in-everyday-life",
+    "sourceEventId": "an-artist-in-everyday-life",
+    "title": "An Artist in Everyday Life",
+    "desc": "Join artist Andrea Mindel for a hands-on workshop exploring creativity, mental health and everyday materials.",
+    "source": "WC",
+    "date": "2026-07-18T12:00:00+00:00",
+    "durationMin": 180,
+    "venue": "The Forum",
+    "area": "Euston",
     "price": 0,
     "tags": [
-      "Policy",
+      "Workshop",
+      "Healthcare",
       "Open to all"
     ],
     "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/06/creating-connections-west-midlands/",
-    "image": "https://royalsociety.org/-/media/policy/publications/2018/creating-connections.jpg"
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/an-artist-in-everyday-life",
+    "image": "https://images.prismic.io/wellcomecollection/aO46BJ5xUNkB175r_MAINIMAGEAndreaMindel020722_Credit-RosiePowell.jpg?auto=format%2Ccompress&rect=0%2C562%2C6496%2C3654&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
