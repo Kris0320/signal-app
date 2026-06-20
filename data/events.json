@@ -21,26 +21,6 @@
     "image": "https://www.kcl.ac.uk/newimages/nmes/main-article-780X450/strand-campus-heilbronn-colloquium-2025-glenn-stevens.xe82724a7.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
-    "id": "kcl:kings-foundations-offer-holder-visa-session-1-july-2026",
-    "sourceEventId": "2e15eba6-b5f8-44e3-8b48-0f4d6da7e684",
-    "title": "King’s International Foundation Offer Holder event – applying for your Student visa –  1 July 2026",
-    "desc": "Learn more about applying for your Student visa for King's International Foundation Programme at King's College London.",
-    "source": "KCL",
-    "date": "2026-07-01T10:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Technology & Science",
-      "King's Foundations"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/kings-foundations-offer-holder-visa-session-1-july-2026",
-    "image": "https://www.kcl.ac.uk/newimages/ciel/king's-international-foundation-offer-holder-visa-event-1-july-2026.x5250078f.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
     "id": "kcl:mindfulness-with-jenny-online-8",
     "sourceEventId": "84484689-8e17-4720-922d-7cd21f06131c",
     "title": "Mindfulness with Jenny - Online",
@@ -60,6 +40,26 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-8",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/summer-flower.xed31565f.jpg?w=780&h=518&crop=780,440,0,39"
+  },
+  {
+    "id": "kcl:kings-foundations-offer-holder-visa-session-1-july-2026",
+    "sourceEventId": "2e15eba6-b5f8-44e3-8b48-0f4d6da7e684",
+    "title": "King’s International Foundation Offer Holder event – applying for your Student visa –  1 July 2026",
+    "desc": "Learn more about applying for your Student visa for King's International Foundation Programme at King's College London.",
+    "source": "KCL",
+    "date": "2026-07-01T10:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "King's Foundations"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/kings-foundations-offer-holder-visa-session-1-july-2026",
+    "image": "https://www.kcl.ac.uk/newimages/ciel/king's-international-foundation-offer-holder-visa-event-1-july-2026.x5250078f.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
     "id": "kcl:joint-rd-office-wednesday-walk-in-july",
@@ -373,7 +373,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210846/biomathematics-seminar-hollie-hindley-university-of-edinburgh/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209589",
@@ -396,7 +396,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209589/london-protein-design-day/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207415",
@@ -440,7 +440,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210546/synthetic-cells-as-an-alternative-paradigm-for-biological-engineering/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210097",
