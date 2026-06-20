@@ -332,27 +332,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/eventbrite-banner-cleantech_1780585566356_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:210852",
-    "sourceEventId": "210852",
-    "title": "Junior Geometry Seminar – Nick Manrique",
-    "desc": "Title: Regularisations of the area functional\n\nSpeaker: Nick Manrique\n\nAbstract: The problem of finding minimal surfaces in general manifolds has been of significant interest to differential geometers for at least 100 years. In broad terms, this can be construed as the problem of finding critical points of the area functional defined on some appropriate space of surfaces. Making sense of this is not easy, for one because it is not clear what the appropriate space should be. All available options come with significant technical challenges.\n\nIn the 1970s, the school of de Giorgi proposed a different approach whereby the area functional is ‘regularised’ to a family of functionals depending on some small parameter. This family has the benefit of being defined on a standard function space and…",
-    "source": "IC",
-    "date": "2026-06-19T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Room 140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210852/junior-geometry-seminar-nick-manrique/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
-  },
-  {
     "id": "ic:210450",
     "sourceEventId": "210450",
     "title": "18th BGA Young Geotechnical Engineers Symposium",
@@ -394,7 +373,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210846/biomathematics-seminar-hollie-hindley-university-of-edinburgh/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209589",
@@ -417,7 +396,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209589/london-protein-design-day/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207415",
@@ -727,6 +706,29 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210172/white-city-hammersmith-pride-picnic-2/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/screenshot-2026-05-27-at-160059_1779895005081_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210222",
+    "sourceEventId": "210222",
+    "title": "White City & Hammersmith PRIDE Picnic",
+    "desc": "Join us for a White City and Hammersmith PRIDE Picnic on Wednesday 24 June from 12.30 to 14.30 on Perkins Green (weather permitting, otherwise in the School of Public Health Foyer) at the White City Campus. This relaxed, inclusive gathering is a chance to celebrate Pride Month, connect with colleagues, and show support for the LGBTQ+ community.\n\nLunch and refreshments will be provided, so just bring yourself and enjoy a welcoming space where everyone is encouraged to be themselves. There will be opportunities to meet new people, share stories, and celebrate diversity across our workplace.\n\nWhether you stay for the whole event or drop in, we would love to see you there. Allies are warmly encouraged to attend.",
+    "source": "IC",
+    "date": "2026-06-24T12:30:00+01:00",
+    "durationMin": 120,
+    "venue": "Perkins Green (or SPH Foyer for indoor alternative), School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Social",
+      "LGBTQ",
+      "Equality",
+      "Diversity",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210222/white-city-hammersmith-pride-picnic/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/pridewhitecitypicnic-social-media_1779970386084_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:will-ai-secure-humanitys-future",
