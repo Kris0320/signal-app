@@ -310,10 +310,75 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:209683",
-    "sourceEventId": "209683",
-    "title": "Cleantech Innovation MSc 2026 Show",
-    "desc": "At Imperial, we’re fighting climate change with innovation!\n\nFrom AI‑enabled infrastructure software and radiative cooling technologies to novel systems for water conservation, recycling, and marine decarbonisation, our MSc Cleantech Innovation students are tackling some of today’s most pressing sustainability challenges with creativity and expertise.\n\nThis pioneering MSc programme – a joint initiative between the Grantham Institute and the Dyson School of Design Engineering – gives students the opportunity to learn from experts from across the cleantech sector and provides them with the knowledge and tools needed to build and launch their own cleantech solutions. As this year’s students complete their MSc journey, join us for a special event showcasing their creative and inspiring…",
+    "id": "ic:211002",
+    "sourceEventId": "211002",
+    "title": "Decode Her: an interactive exhibition for International Women in Engineering Day",
+    "desc": "Decode Her’ is an interactive event celebrating International Women in Engineering Day (Tuesday 23rd June) organised by the EEE DICE committee and supporters.\n\nAn exhibition – with a twist.\n\nEvery exhibit represents a real person in the room – they may be staff or student – all are women in our department. One panel shows their engineering research, the other a passion outside of work. No names. No labels.\n\nYour job: talk to people, figure out who is who, and unlock their profile when you get it right.\n\nAll staff and students are welcome.\n\nDate: Tuesday 23 June 2026 Location: Room 909B Time: 13.00 – 15:00 Refreshments will be provided.",
+    "source": "IC",
+    "date": "2026-06-23T13:00:00+01:00",
+    "durationMin": 120,
+    "venue": "909B, Electrical & Electronic Engineering, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Departmental event",
+      "INWED",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211002/decode-her/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/l2-noticedecode3_1781787050124_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210433",
+    "sourceEventId": "210433",
+    "title": "Early Career Researcher Showcase 2026",
+    "desc": "This annual event is a celebration of the research being carried out by the Early Career Researcher community at Imperial College London.\n\nIt is ECRI’s mission to empower ECRs to raise their impact both within research and beyond. We aim to foster cross-disciplinary connections and would like to invite you to join us as our ECR’s showcase their research to the wider community.\n\nIn parallel we will be running a competition for participants to communicate their research via a short presentation pitch , with a chance to win prizes .\n\nCompetitors will be assessed on their ability to explain their research in a way that can be shared with the public. Our judges will also be assessing the visual impact & creativity of each presentation.\n\nPrizes\n\nPrizes will be awarded for 1st, 2nd & 3rd place…",
+    "source": "IC",
+    "date": "2026-07-01T11:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Seminar Rooms 120-122, Sir Alexander Fleming Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "ECRI Events",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210433/early-career-researcher-showcase-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/dsc3154_1780412154730_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210251",
+    "sourceEventId": "210251",
+    "title": "Imperial @ Pride in London Parade",
+    "desc": "Register to march with the Pride Network for the Pride in London Parade!\n\nThe annual Pride in London Parade takes place on 4 July 2026.\n\nThis year, the Pride Network are teaming up with IQ (the student LGBTQ+ group), and we have 50 places available between us. We don’t yet know our exact marching time, but what we can promise is a brilliant day out. T‑shirts and refreshments will be provided.\n\nIf you’d like to take part, please register using the registration link. Places will be allocated on a first‑come basis.",
+    "source": "IC",
+    "date": "2026-07-04T11:00:00+01:00",
+    "durationMin": 420,
+    "venue": "Hyde Park Corner",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Equality",
+      "Diversity",
+      "LGBTQ",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210251/imperial-pride-in-london-parade/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/lgbtq-history-month-events-image_1779978709736_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209681",
+    "sourceEventId": "209681",
+    "title": "Contextual Design Engineering – DE MSc 2026 Show",
+    "desc": "The show celebrates the graduating cohort of the MSc Design Engineering programme, presenting projects at the intersection of engineering and design: creative, transdisciplinary, and built for real-world impact.\n\nThis year’s theme, “Designing for Ageing Futures”, explores how design and technology can respond to the opportunities and challenges of an ageing world. From a compact rowing resistance trainer and a music-led tabletop game to finger trainer designed to support dexterity – discover projects built to support wellbeing at every stage of life.\n\nJoin our students and see how design engineering can help us build better futures — register now!",
     "source": "IC",
     "date": "2026-07-13T10:00:00+01:00",
     "durationMin": 480,
@@ -322,58 +387,14 @@
     "price": 0,
     "tags": [
       "Exhibition",
-      "Climate change",
+      "Art exhibition",
       "Students",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209683/cleantech-innovation-msc-2026-show/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/eventbrite-banner-cleantech_1780585566356_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210450",
-    "sourceEventId": "210450",
-    "title": "18th BGA Young Geotechnical Engineers Symposium",
-    "desc": "Held at Imperial College London, the Young Geotechnical Engineers Symposium 2026 (YGES 2026) brings together early-career researchers and professionals to discuss emerging challenges and innovative solutions in geotechnical engineering.\n\nYGES 2026 provides an opportunity for young geotechnical engineers to present innovative research and engineering practice, promote dialogue between academia and industry, and strengthen professional connections supporting future collaboration and career development within the geotechnical community.",
-    "source": "IC",
-    "date": "2026-06-21T17:00:00+01:00",
-    "durationMin": 480,
-    "venue": "SKEM 201 and SKEM 301, Skempton Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Civil engineering",
-      "Geotechnics",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210450/18th-bga-young-geotechnical-engineers-symposium/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/260522-queens-tower-dusk-night-aerial-08_1780480455571_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210846",
-    "sourceEventId": "210846",
-    "title": "Biomathematics seminar – Hollie Hindley (University of Edinburgh)",
-    "desc": "Biomathematics seminar - Hollie Hindley (University of Edinburgh)",
-    "source": "IC",
-    "date": "2026-06-22T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "658, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210846/biomathematics-seminar-hollie-hindley-university-of-edinburgh/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/209681/contextual-design-engineering-de-msc-2026-show/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/msc-des-eng-show-2026-eventbrite_1780302731811_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209589",
@@ -396,7 +417,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209589/london-protein-design-day/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207415",
@@ -485,28 +506,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/204749/ide-seminar-series-prof-christl-donnelly/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ide-seminars-prof-christl-donnelly-tv-1_1769166602005_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211002",
-    "sourceEventId": "211002",
-    "title": "Decode Her: an interactive exhibition for International Women in Engineering Day",
-    "desc": "Decode Her’ is an interactive event celebrating International Women in Engineering Day (Tuesday 23rd June) organised by the EEE DICE committee and supporters.\n\nAn exhibition – with a twist.\n\nEvery exhibit represents a real person in the room – they may be staff or student – all are women in our department. One panel shows their engineering research, the other a passion outside of work. No names. No labels.\n\nYour job: talk to people, figure out who is who, and unlock their profile when you get it right.\n\nAll staff and students are welcome.\n\nDate: Tuesday 23 June 2026 Location: Room 909B Time: 13.00 – 15:00 Refreshments will be provided.",
-    "source": "IC",
-    "date": "2026-06-23T13:00:00+01:00",
-    "durationMin": 120,
-    "venue": "909B, Electrical & Electronic Engineering, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Departmental event",
-      "INWED",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211002/decode-her/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/l2-noticedecode3_1781787050124_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209542",
@@ -729,6 +728,51 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210222/white-city-hammersmith-pride-picnic/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/pridewhitecitypicnic-social-media_1779970386084_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210210",
+    "sourceEventId": "210210",
+    "title": "Silwood Bake-off for Pride",
+    "desc": "Join us in celebrating Pride Month with a delicious display of colourful, proud bakes! 🏳️‍🌈\n\nWhether you’re a keen baker, a casual mixer, or just want to admire (and taste!) the creations, everyone is welcome.\n\nPlus, there are prizes up for grabs — so bring your bakes, your appetite, or just your enthusiasm!",
+    "source": "IC",
+    "date": "2026-06-24T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "GMC, Centre For Population Biology, Silwood Park Campus",
+    "area": "Silwood Park",
+    "price": 0,
+    "tags": [
+      "General",
+      "LGBTQ",
+      "Equality",
+      "Diversity",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210210/silwood-bake-off-for-pride/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/lgbtq-history-month-events-image_1779967204380_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211031",
+    "sourceEventId": "211031",
+    "title": "Statistics Seminar: Vicky Kouni (LAMSADE lab, Paris Dauphine)",
+    "desc": "Abstract: We study adversarial robustness, i.e., resilience of neural networks to small input perturbations, in the context of unfolding and frame theory. In the first part of the talk, we examine unfolding networks, which emerge from reformulating outputs of iterative algorithms as neural networks outputs, to solve inverse problems. As such, unfolding networks are applied in critical domains, e.g., medical imaging, where robustness is crucial to prevent catastrophic failures. We provide the first adversarial generalization error bounds for unfolding networks, perturbed during training and test times, highlighting how the network architecture ripples out to its generalization ability. Our experimental results conform with our derived theory and showcase the beneficial role of…",
+    "source": "IC",
+    "date": "2026-06-24T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "maths",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211031/statistics-seminar-vicky-kouni-lamsade-lab-paris-dauphine/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:wellcome-collection-lates-shaping-age",
