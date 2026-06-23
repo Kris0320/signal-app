@@ -21,6 +21,26 @@
     "image": "https://www.kcl.ac.uk/newimages/nmes/main-article-780X450/strand-campus-heilbronn-colloquium-2025-glenn-stevens.xe82724a7.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
+    "id": "kcl:kings-foundations-offer-holder-visa-session-1-july-2026",
+    "sourceEventId": "2e15eba6-b5f8-44e3-8b48-0f4d6da7e684",
+    "title": "King’s International Foundation Offer Holder event – applying for your Student visa –  1 July 2026",
+    "desc": "Learn more about applying for your Student visa for King's International Foundation Programme at King's College London.",
+    "source": "KCL",
+    "date": "2026-07-01T10:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "King's Foundations"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/kings-foundations-offer-holder-visa-session-1-july-2026",
+    "image": "https://www.kcl.ac.uk/newimages/ciel/king's-international-foundation-offer-holder-visa-event-1-july-2026.x5250078f.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
     "id": "kcl:mindfulness-with-jenny-online-8",
     "sourceEventId": "84484689-8e17-4720-922d-7cd21f06131c",
     "title": "Mindfulness with Jenny - Online",
@@ -40,26 +60,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-8",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/summer-flower.xed31565f.jpg?w=780&h=518&crop=780,440,0,39"
-  },
-  {
-    "id": "kcl:kings-foundations-offer-holder-visa-session-1-july-2026",
-    "sourceEventId": "2e15eba6-b5f8-44e3-8b48-0f4d6da7e684",
-    "title": "King’s International Foundation Offer Holder event – applying for your Student visa –  1 July 2026",
-    "desc": "Learn more about applying for your Student visa for King's International Foundation Programme at King's College London.",
-    "source": "KCL",
-    "date": "2026-07-01T10:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Technology & Science",
-      "King's Foundations"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/kings-foundations-offer-holder-visa-session-1-july-2026",
-    "image": "https://www.kcl.ac.uk/newimages/ciel/king's-international-foundation-offer-holder-visa-event-1-july-2026.x5250078f.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
     "id": "kcl:joint-rd-office-wednesday-walk-in-july",
@@ -310,27 +310,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211002",
-    "sourceEventId": "211002",
-    "title": "Decode Her: an interactive exhibition for International Women in Engineering Day",
-    "desc": "Decode Her’ is an interactive event celebrating International Women in Engineering Day (Tuesday 23rd June) organised by the EEE DICE committee and supporters.\n\nAn exhibition – with a twist.\n\nEvery exhibit represents a real person in the room – they may be staff or student – all are women in our department. One panel shows their engineering research, the other a passion outside of work. No names. No labels.\n\nYour job: talk to people, figure out who is who, and unlock their profile when you get it right.\n\nAll staff and students are welcome.\n\nDate: Tuesday 23 June 2026 Location: Room 909B Time: 13.00 – 15:00 Refreshments will be provided.",
-    "source": "IC",
-    "date": "2026-06-23T13:00:00+01:00",
-    "durationMin": 120,
-    "venue": "909B, Electrical & Electronic Engineering, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Departmental event",
-      "INWED",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211002/decode-her/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/l2-noticedecode3_1781787050124_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:210433",
     "sourceEventId": "210433",
     "title": "Early Career Researcher Showcase 2026",
@@ -417,13 +396,13 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209589/london-protein-design-day/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207415",
     "sourceEventId": "207415",
     "title": "Challenger Society Ocean Wind Waves Special Interest Group Meeting",
-    "desc": "Challenger Society Ocean Wind Waves 2026\n\n7th Meeting of the Special Interest Group\n\nThe meeting will welcome contributions spanning the full spectrum of wave research, from fundamental physics to applied coastal and offshore engineering.\n\nWe invite presentations addressing observational, theoretical, numerical, and experimental studies of waves across scales, including wind–wave generation, nonlinear wave dynamics, wave–current interaction, wave breaking and turbulence, spectral wave modelling, remote sensing of waves, and the role of waves in coastal and ocean processes. Contributions that link wave dynamics with coastal hazards, offshore infrastructure, climate variability, and air–sea interaction are particularly encouraged. The aim is to foster discussion across disciplines and…",
+    "desc": "Challenger Society Ocean Wind Waves 2026\n\nChallenger Society: Waves SIG | Meeting-Join | Microsoft Teams\n\n7th Meeting of the Special Interest Group\n\nThe meeting will welcome contributions spanning the full spectrum of wave research, from fundamental physics to applied coastal and offshore engineering.\n\nWe invite presentations addressing observational, theoretical, numerical, and experimental studies of waves across scales, including wind–wave generation, nonlinear wave dynamics, wave–current interaction, wave breaking and turbulence, spectral wave modelling, remote sensing of waves, and the role of waves in coastal and ocean processes. Contributions that link wave dynamics with coastal hazards, offshore infrastructure, climate variability, and air–sea interaction are particularly…",
     "source": "IC",
     "date": "2026-06-23T09:00:00+01:00",
     "durationMin": 480,
@@ -441,94 +420,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207415/challenger-society-ocean-wind-waves-special-interest-group-meeting/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/corals-steep-wave_1773663620162_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210546",
-    "sourceEventId": "210546",
-    "title": "Life, reimagined: Building a new biology from the ground up through synthetic cells",
-    "desc": "This event is open to staff and students across Imperial College London.\n\nHosted by Dr Yuval Elani, Department of Chemical Engineering, this presentation forms a part of his Lister Research Prize Fellowship, conferred by the Lister Institute.\n\nSynthetic Cells as an Alternative Paradigm for Biological Engineering\n\nSynthetic biology is poised to be one of the defining technologies of our time with the potential to transform how we treat disease, monitor our environments, and manufacture chemicals. Over recent decades, remarkable progress has been made in “re-engineering” living cells to give them new functions. However, engineering living systems differs fundamentally from the design of traditional engineered systems, such as software, electronics, or mechanical devices. Biology is…",
-    "source": "IC",
-    "date": "2026-06-23T11:00:00+01:00",
-    "durationMin": 60,
-    "venue": "LT2, ACE Extension, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210546/synthetic-cells-as-an-alternative-paradigm-for-biological-engineering/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210097",
-    "sourceEventId": "210097",
-    "title": "In-person session – Bloating workshop",
-    "desc": "Join us for an intimate, evidence-based workshop exploring one of the most common digestive symptoms experienced by adults in the UK: bloating. In this small-group session, we’ll take a deep dive into gut health, exploring the many possible causes of bloating and why symptoms can vary so widely from person to person. You’ll learn how to better identify your own symptom patterns, understand potential triggers, and gain practical insight into what your body may be telling you. The session will include a 20-minute evidence-based Gut-Directed Hypnosis session designed specifically to support bloating management. Gut-Directed Hypnosis is a well-established, evidence-based intervention for disorders of gut–brain interaction, including IBS, and can be a powerful tool in supporting digestive…",
-    "source": "IC",
-    "date": "2026-06-23T11:45:00+01:00",
-    "durationMin": 45,
-    "venue": "SALC 9, Level 5, Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210097/in-person-session-bloating-workshop-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bloating_1779803246921_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:204749",
-    "sourceEventId": "204749",
-    "title": "IDE Seminar Series – Prof Christl Donnelly",
-    "desc": "Looking back at Ebola Virus Disease in West Africa: contributing to situation awareness and outbreak response\n\nPresentations by members of the DIDE Ebola Response Team (including Dr Isobel Blake, Dr Anne Cori, Prof Christl Donnelly, Dr Gemma Nedjati-Gilani and Prof Steven Riley)\n\nLocation: White City, School of Public Health Building Room: SPH 204 – Seminar Room I n-person event. If you wish to join online, please register here.",
-    "source": "IC",
-    "date": "2026-06-23T12:30:00+01:00",
-    "durationMin": 60,
-    "venue": "SPH 204 - Seminar Room , School of Public Health, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Infectious diseases",
-      "MRC Centre for Global Infectious Disease Analysis",
-      "Modelling",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/204749/ide-seminar-series-prof-christl-donnelly/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ide-seminars-prof-christl-donnelly-tv-1_1769166602005_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209542",
-    "sourceEventId": "209542",
-    "title": "I-X Seminar Series: Understanding Data, Noise, and Uncertainty in Neural Networks with Kamil Ciosek",
-    "desc": "Abstract:\n\nThis talk explores how the Neural Tangent Kernel (NTK) can be used as a practical lens for understanding data influence, noise, and uncertainty in modern neural networks. Rather than focusing only on predictive accuracy, we study how individual training examples affect predictions, how models behave under noisy observations, and how to quantify when predictions should be trusted. Building on the well-established NTK connection between neural networks, kernel methods, and Gaussian processes, we present three results: an information theoretic approach to data attribution, a characterization of how regularization corresponds to observation noise in wide networks, and an efficient method for uncertainty estimation that captures more structure than standard last layer approaches…",
-    "source": "IC",
-    "date": "2026-06-23T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "LRT 608 A+B, I-X Level 6, Translation and Innovation Hub (I-HUB), White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Artificial intelligence",
-      "maths",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209542/i-x-seminar-series-understanding-data-noise-and-uncertainty-in-neural-networks-with-kamil-ciosek/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/kamil-ciosek-wo-qr_1778513063374_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210186",
@@ -772,7 +663,157 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211031/statistics-seminar-vicky-kouni-lamsade-lab-paris-dauphine/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210786",
+    "sourceEventId": "210786",
+    "title": "Number Theory Seminar – Anne-Maria Ernvall-Hytonen",
+    "desc": "Anne-Maria Ernvall-Hytonen: Bounding Laguerre polynomials\n\nMore information available on the Number Theory seminar website",
+    "source": "IC",
+    "date": "2026-06-24T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "King's College",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210786/number-theory-seminar-anne-maria-ernvall-hytonen/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:209350",
+    "sourceEventId": "209350",
+    "title": "College Evensong: Celebrating the Academic Year",
+    "desc": "Evensong is open to all members of the College, the RCA and RCM, alumni, and the public. The service happens every two weeks in term-time. You can engage with the service in your own way. We know that people of different faith traditions and world views find Choral Evensong a welcoming meditative time.\n\nIf you’d like to be notified of the dates of Evensongs, please subscribe to our newsletter .\n\nYou can visit our Events pages for details of the next Evensongs services.",
+    "source": "IC",
+    "date": "2026-06-24T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Holy Trinity Church, Prince Consort Rd, SW7 2BA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209350/college-evensong-to-celebrate-the-academic-year/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/pascal-candle-coir-dsc9633-small-version_1623405922312_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210957",
+    "sourceEventId": "210957",
+    "title": "Imperial College Chamber Choir Evensong",
+    "desc": "Choral Evensong celebrates the academic year with music by William Byrd and Herbert Brewer, alongside contemporary composers Joanna Forbes-L’estrange and Paul Mealor.",
+    "source": "IC",
+    "date": "2026-06-24T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Holy Trinity Church Prince Consort Road London SW7 2BA, Holy Trinity Church, Off campus",
+    "area": "Off",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Concerts",
+      "Arts",
+      "Creative",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210957/imperial-college-chamber-choir-evensong-3/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/choir-23-1_1772551039430_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210724",
+    "sourceEventId": "210724",
+    "title": "Clay Sculpting",
+    "desc": "Participants will create their own clay sculptures, exploring the material in its most natural and sustainable form. Unlike traditional ceramics, the sculptures will not be fired in a kiln. Instead, they will be left to air dry, allowing them to harden while remaining unfired and fully biodegradable. Participants are welcome to take their creations home, but they will be encouraged to leave them scattered throughout the Secret Garden as part of a temporary outdoor installation. The sculptures may survive a few summer showers, but over time they will gradually dissolve through the seasons, eventually returning to the earth from which they came. In this way, the work embraces impermanence, celebrating natural cycles of creation, transformation, and decay. The only lasting record of the…",
+    "source": "IC",
+    "date": "2026-06-25T12:00:00+01:00",
+    "durationMin": 150,
+    "venue": "Secret Garden, behind the Chaplaincy, Secret Garden, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210724/clay-scuplting/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sculpting-clay_1781001750250_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209939",
+    "sourceEventId": "209939",
+    "title": "Men’s Health Month – Pilates",
+    "desc": "Move will be putting on a number of events through June to celebrate Men’s health month and to help people get active. These events are all beginner friendly and designed to be social, fun and encourage exercise and movement in different ways. Although these sessions are to celebrate men’s health month, everyone and anyone is welcome to join these events and get involved – we would love to see you there regardless of gender!",
+    "source": "IC",
+    "date": "2026-06-25T12:15:00+01:00",
+    "durationMin": 45,
+    "venue": "Media Works , Multi Activity Room, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Careers",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209939/mens-health-month-pilates/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/mens-pilates_1779364112582_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "lse:whose-ai-is-it-anyway",
+    "sourceEventId": "whose-ai-is-it-anyway",
+    "title": "Whose AI is it anyway? Data, sovereignty, and the geopolitics of intelligence",
+    "desc": "Whose AI is it anyway? Data, sovereignty, and the geopolitics of intelligence",
+    "source": "LSE",
+    "date": "2026-07-08T18:30:00+01:00",
+    "durationMin": 120,
+    "venue": "LSE campus",
+    "area": "Holborn",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Data science",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/dsi/events/2025-26/public-events/whose-ai-is-it-anyway",
+    "image": null
+  },
+  {
+    "id": "lse:london-data-week",
+    "sourceEventId": "london-data-week",
+    "title": "London Data Week at LSE",
+    "desc": "London Data Week (LDW) is a citywide, week-long public festival of data. Different organisations across London design and host public events over the week of the festival. This year the DSI is a partner of LDW, co-hosting a day of activities on Wednesday 8th July in collaboration with the King&#x27;s Institute for Artificial Intelligence. The day is comprised of four sessions. Three events during the day, organised by EAST2046, Bionic Awards and the Tesseract Academy will take place on the LSE campus.",
+    "source": "LSE",
+    "date": "2026-07-08T11:00:00+01:00",
+    "durationMin": 480,
+    "venue": "London Data Week at LSE",
+    "area": "Holborn",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Data science",
+      "artificial intelligence",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/dsi/events/2025-26/public-events/london-data-week",
+    "image": null
   },
   {
     "id": "wc:wellcome-collection-lates-shaping-age",
