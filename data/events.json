@@ -399,71 +399,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/screenshot-2026-06-17-at-094619_1781688320795_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:210786",
-    "sourceEventId": "210786",
-    "title": "Number Theory Seminar – Anne-Maria Ernvall-Hytonen",
-    "desc": "Anne-Maria Ernvall-Hytonen: Bounding Laguerre polynomials\n\nMore information available on the Number Theory seminar website",
-    "source": "IC",
-    "date": "2026-06-24T16:00:00+01:00",
-    "durationMin": 60,
-    "venue": "King's College",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210786/number-theory-seminar-anne-maria-ernvall-hytonen/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:209350",
-    "sourceEventId": "209350",
-    "title": "College Evensong: Celebrating the Academic Year",
-    "desc": "Evensong is open to all members of the College, the RCA and RCM, alumni, and the public. The service happens every two weeks in term-time. You can engage with the service in your own way. We know that people of different faith traditions and world views find Choral Evensong a welcoming meditative time.\n\nIf you’d like to be notified of the dates of Evensongs, please subscribe to our newsletter .\n\nYou can visit our Events pages for details of the next Evensongs services.",
-    "source": "IC",
-    "date": "2026-06-24T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Holy Trinity Church, Prince Consort Rd, SW7 2BA",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209350/college-evensong-to-celebrate-the-academic-year/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/pascal-candle-coir-dsc9633-small-version_1623405922312_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210957",
-    "sourceEventId": "210957",
-    "title": "Imperial College Chamber Choir Evensong",
-    "desc": "Choral Evensong celebrates the academic year with music by William Byrd and Herbert Brewer, alongside contemporary composers Joanna Forbes-L’estrange and Paul Mealor.",
-    "source": "IC",
-    "date": "2026-06-24T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Holy Trinity Church Prince Consort Road London SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Arts",
-      "Creative",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210957/imperial-college-chamber-choir-evensong-3/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/choir-23-1_1772551039430_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:210724",
     "sourceEventId": "210724",
     "title": "Clay Sculpting",
@@ -545,7 +480,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210779/cow-seminar-7/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:210370",
@@ -656,7 +591,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208553/spc-seminar-climate-claudia-czimczik-uc-irvine/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:203642",
@@ -698,7 +633,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209513/astrophysics-weekly-seminars-boryana-hadzhiyska-large-scale-structure-cosmology/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:210850",
@@ -741,6 +676,72 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210926/structures-seminars-dr-jiajia-shen-exeter-deform-philic-structures-and-materials-exploiting-controlled-large-deformations-for-novel-functionality/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sseminars_1630080320563_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210428",
+    "sourceEventId": "210428",
+    "title": "Early Career Researcher Showcase: Keynote Speech",
+    "desc": "The Early Career Researcher Showcase is a celebration of the research being carried out by the ECR community at Imperial College London.\n\nJoin us for the Keynote Speech with Dr Gbemi Oluleye , Associate Professor in Sustainable Market Mechanisms who will be delivering her talk ‘ ‘The 3 C’s for Impact’\n\nThe keynote speech, will be followed by the prize ceremony for the winners of the ECR Showcase competition. All attendees are then welcome to join us for networking drinks and nibbles in the Sir Alexander Fleming Building Foyer.\n\n* Dr Gbemi Oluleye is an Associate Professor in Sustainable Market Mechanisms at Imperial College London. Her research focuses on the design and assessment of market-based mechanisms that enable the transition to a sustainable future. Beyond academia, she actively…",
+    "source": "IC",
+    "date": "2026-07-01T14:00:00+01:00",
+    "durationMin": 45,
+    "venue": "G34 Lecture Theatre, Sir Alexander Fleming Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "ECRI Events",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210428/early-career-researcher-showcase-keynote-speech-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/image-4_1780410166807_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210453",
+    "sourceEventId": "210453",
+    "title": "Geotechnics Seminar: ​Distributional Inversion for Engineering Applications",
+    "desc": "Seminar abstract:",
+    "source": "IC",
+    "date": "2026-07-01T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "SKEM 201, Skempton Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Civil engineering",
+      "Geotechnics",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210453/geotechnics-seminar-distributional-inversion-for-engineering-applications/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/skempton-building-icl-4th-december-2022-brendan-foster-photography-172_1780481403787_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211091",
+    "sourceEventId": "211091",
+    "title": "Mathematical Physics Seminar (July 1st) – Eugene Demler (ETH Zurich) – Quantum simulators: a pointilist perspective on many-body physics",
+    "desc": "Location : Huxley 139, 14.00-15.00.",
+    "source": "IC",
+    "date": "2026-07-01T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Huxley 139, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211091/mathematical-physics-seminar-july-1st-eugene-demler-eth-zurich-quantum-simulators-a-pointilist-perspective-on-many-body-physics/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:whose-ai-is-it-anyway",
