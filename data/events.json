@@ -376,92 +376,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/msc-des-eng-show-2026-eventbrite_1780302731811_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:195659",
-    "sourceEventId": "195659",
-    "title": "Where Meaning Lives. Blyth Art Fellowship Exhibition",
-    "desc": "A mixed media exhibition this years Blyth Art Fellows. Imperial College Students Melina Lee and Ronak Sabu",
-    "source": "IC",
-    "date": "2026-06-24T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Main entrance, Main Entrance, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Exhibition",
-      "Art exhibition",
-      "Student clubs and societies",
-      "Student experience",
-      "Students"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/195659/blyth-art-fellowship-exhibition-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/screenshot-2026-06-17-at-094619_1781688320795_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210724",
-    "sourceEventId": "210724",
-    "title": "Clay Sculpting",
-    "desc": "Participants will create their own clay sculptures, exploring the material in its most natural and sustainable form. Unlike traditional ceramics, the sculptures will not be fired in a kiln. Instead, they will be left to air dry, allowing them to harden while remaining unfired and fully biodegradable. Participants are welcome to take their creations home, but they will be encouraged to leave them scattered throughout the Secret Garden as part of a temporary outdoor installation. The sculptures may survive a few summer showers, but over time they will gradually dissolve through the seasons, eventually returning to the earth from which they came. In this way, the work embraces impermanence, celebrating natural cycles of creation, transformation, and decay. The only lasting record of the…",
-    "source": "IC",
-    "date": "2026-06-25T12:00:00+01:00",
-    "durationMin": 150,
-    "venue": "Secret Garden, behind the Chaplaincy, Secret Garden, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210724/clay-scuplting/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sculpting-clay_1781001750250_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209939",
-    "sourceEventId": "209939",
-    "title": "Men’s Health Month – Pilates",
-    "desc": "Move will be putting on a number of events through June to celebrate Men’s health month and to help people get active. These events are all beginner friendly and designed to be social, fun and encourage exercise and movement in different ways. Although these sessions are to celebrate men’s health month, everyone and anyone is welcome to join these events and get involved – we would love to see you there regardless of gender!",
-    "source": "IC",
-    "date": "2026-06-25T12:15:00+01:00",
-    "durationMin": 45,
-    "venue": "Media Works , Multi Activity Room, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Careers",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209939/mens-health-month-pilates/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/mens-pilates_1779364112582_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210709",
-    "sourceEventId": "210709",
-    "title": "Walking Tour – White City",
-    "desc": "Join Move and Iya London Walks for a short well-being walk in White City, exploring two local green spaces, mainly via quiet routes, taking you away from traffic and introducing you to the history of White City.\n\nLimited spaces available so please book early to avoid disappointment!\n\nPlease wear weather appropriate clothing as the walking tour is outdoors.",
-    "source": "IC",
-    "date": "2026-06-25T12:55:00+01:00",
-    "durationMin": 65,
-    "venue": "Meet outside: Translation and Innovation Hub (I-Hub), White City, Translation and Innovation Hub (I-HUB), White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210709/walking-tour-white-city-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/copy-of-copy-of-movember-events-tiles-11_1777626996334_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:210779",
     "sourceEventId": "210779",
     "title": "COW Seminar",
@@ -523,6 +437,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210834/junior-analysis-seminar-ignacio-acevedo-paris-saclay/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/seminar-picture_1599821877881_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211154",
+    "sourceEventId": "211154",
+    "title": "Junior Geometry Seminar – Aliaksandra Novik",
+    "desc": "Title: A Glimpse into Brill–Noether Theory of Curves\n\nSpeaker: Aliaksandra Novik\n\nAbstract: Brill–Noether theory is a classical subject in algebraic geometry that studies linear series on algebraic curves. Equivalently, it studies the possible maps of a smooth curve of genus g to projective space P r of degree d and provides the natural stratification of Pic d (C) by the number of sections of line bundles.\n\nThe subject goes back to 1874, when Brill and M. Noether conjectured a precise numerical criterion for the existence of linear series of given degree and dimension on a general curve of genus g. In this expository talk, we will introduce the basic objects of Brill–Noether theory, state the classical Brill–Noether theorem, and sketch Lazarsfeld’s proof of it via curves on K3 surfaces.…",
+    "source": "IC",
+    "date": "2026-06-26T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Room 140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211154/junior-geometry-seminar-aliaksandra-novik/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:203231",
@@ -591,7 +526,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208553/spc-seminar-climate-claudia-czimczik-uc-irvine/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:203642",
@@ -633,7 +568,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209513/astrophysics-weekly-seminars-boryana-hadzhiyska-large-scale-structure-cosmology/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:210850",
@@ -654,7 +589,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210850/meeting-of-the-london-quantitative-immunology-network-tuesday-30th-june-imperial-college-london/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210926",
@@ -741,7 +676,50 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211091/mathematical-physics-seminar-july-1st-eugene-demler-eth-zurich-quantum-simulators-a-pointilist-perspective-on-many-body-physics/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207228",
+    "sourceEventId": "207228",
+    "title": "Imperial Science Cafe – Unearthing the hidden weaknesses of dormant cancer: Turning vulnerability into treatment",
+    "desc": "Join us for the next Imperial Science Cafe – Unearthing the hidden weaknesses of dormant cancer: Turning vulnerability into treatment at Maggie’s West London .\n\nEvie Wren, PhD student , will explore how dormant cancer cells form, how they survive while under constant stress, and what keeps them alive. Using new laboratory models developed in the lab, they are identifying the key proteins these cells rely on to survive.\n\nBy targeting these survival processes, they hope to push dormant cells beyond their limits — causing them to die or preventing them from waking up. Ultimately, this research aims to reduce the number of patients who return to clinic with relapsed breast cancer by stopping the disease be-fore it has a chance to come back. Dr. Erika Dorado works at the intersection of…",
+    "source": "IC",
+    "date": "2026-07-01T18:30:00+01:00",
+    "durationMin": 90,
+    "venue": "Maggie’s West London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207228/imperial-science-cafe-unearthing-the-hidden-weaknesses-of-dormant-cancer-turning-vulnerability-into-treatment/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/260130-science-communication-workshop-3016_1773242743209_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:206685",
+    "sourceEventId": "206685",
+    "title": "Festival of Products",
+    "desc": "THIS EVENT IS NOW FULL AND CLOSED FOR REGISTRATIONS\n\nOur Product Leads and Product Operations team have created the Festival of Products to showcase how the product model delivers value for universities. ​ Bringing together peers working on Digital Products across organisations to share their experiences, show impact, and celebrate success in Higher Education. To shine a light on product best practices and the future of Digital products.\n\n​ Welcome to the Festival of Products – Serving up innovation in HE\n\nAs Wimbledon serves up world‑class tennis this July, we’re bringing our own winning energy to the world of Product Operations, Agile Product Management, and continuous improvement within HE. Think of this event as our chance to rally together, sharpen our skills, and smash through…",
+    "source": "IC",
+    "date": "2026-07-02T09:00:00+01:00",
+    "durationMin": 420,
+    "venue": "LGS lecture theatre, Imperial Business School, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Digital",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/206685/festival-of-products/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/fest-of-prod-tennis-design-smal5_1772463120351_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:whose-ai-is-it-anyway",
@@ -890,6 +868,67 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/an-artist-in-everyday-life",
     "image": "https://images.prismic.io/wellcomecollection/aO46BJ5xUNkB175r_MAINIMAGEAndreaMindel020722_Credit-RosiePowell.jpg?auto=format%2Ccompress&rect=0%2C562%2C6496%2C3654&w=3200&h=1800"
+  },
+  {
+    "id": "wc:tracing-my-history",
+    "sourceEventId": "tracing-my-history",
+    "title": "Tracing My History",
+    "desc": "Join this discussion exploring how lived experience and creative storytelling can reshape how we understand personal histories and research.",
+    "source": "WC",
+    "date": "2026-07-25T13:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Reading Room",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Discussion",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/tracing-my-history",
+    "image": "https://images.prismic.io/wellcomecollection/ajqVmVbRV8_QfxZC_EP_003398_089.jpg?auto=format%2Ccompress&rect=0%2C202%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:theatre-taster-on-love-and-devotion",
+    "sourceEventId": "theatre-taster-on-love-and-devotion",
+    "title": "Theatre Taster on Love and Devotion",
+    "desc": "Join us for a performance-based workshop exploring love and devotion, and how they shape ideas about health and wellbeing.",
+    "source": "WC",
+    "date": "2026-07-26T13:00:00+00:00",
+    "durationMin": 180,
+    "venue": "Wellcome Kitchen",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Healthcare",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/theatre-taster-on-love-and-devotion",
+    "image": "https://images.prismic.io/wellcomecollection/ajqQQ1bRV8_QfxSy_EP_002130_024.jpg?auto=format%2Ccompress&rect=0%2C32%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:discovering-our-collections-through-maps",
+    "sourceEventId": "discovering-our-collections-through-maps",
+    "title": "Discovering our Collections through Maps",
+    "desc": "In this hands-on workshop, you'll learn more about the maps in our collections and how to use them for research.",
+    "source": "WC",
+    "date": "2026-07-28T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Viewing Room",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/discovering-our-collections-through-maps",
+    "image": "https://images.prismic.io/wellcomecollection/Zshsd0aF0TcGJWsV_EP_001983_095.jpg?auto=format%2Ccompress&rect=0%2C454%2C5566%2C3131&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
