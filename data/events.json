@@ -376,48 +376,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/msc-des-eng-show-2026-eventbrite_1780302731811_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:210370",
-    "sourceEventId": "210370",
-    "title": "Black Graduate Careers Conference 2026",
-    "desc": "For information about the Black Graduate Careers Conference 2026, including exhibiting or registering to attend. Please contact Gareth Bell at g.bell1@imperial.ac.uk\n\nNow in its third year, the Black Graduate Careers Conference returns bigger than ever. This free event is designed to empower Black heritage students and graduates from Imperial and beyond. Connect with leading employers, strengthen your career skills, explore postgraduate study options, and discover opportunities across STEM and business. The day will feature inspiring talks, an exhibition of employers actively recruiting Black graduates, and practical, interactive workshops to help you build the skills, confidence and connections to succeed.\n\nWhat to expect on the day:\n\nKeynote speeches from leading figures – Hear from…",
-    "source": "IC",
-    "date": "2026-06-26T10:00:00+01:00",
-    "durationMin": 420,
-    "venue": "Leacture Theatre 200, City and Guilds Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210370/black-graduate-careers-conference-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/2025-07-27-imperial-black-graduate-career-fair-2025-032_1780320602616_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211154",
-    "sourceEventId": "211154",
-    "title": "Junior Geometry Seminar – Aliaksandra Novik",
-    "desc": "Title: A Glimpse into Brill–Noether Theory of Curves\n\nSpeaker: Aliaksandra Novik\n\nAbstract: Brill–Noether theory is a classical subject in algebraic geometry that studies linear series on algebraic curves. Equivalently, it studies the possible maps of a smooth curve of genus g to projective space P r of degree d and provides the natural stratification of Pic d (C) by the number of sections of line bundles.\n\nThe subject goes back to 1874, when Brill and M. Noether conjectured a precise numerical criterion for the existence of linear series of given degree and dimension on a general curve of genus g. In this expository talk, we will introduce the basic objects of Brill–Noether theory, state the classical Brill–Noether theorem, and sketch Lazarsfeld’s proof of it via curves on K3 surfaces.…",
-    "source": "IC",
-    "date": "2026-06-26T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Room 140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211154/junior-geometry-seminar-aliaksandra-novik/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
-  },
-  {
     "id": "ic:203231",
     "sourceEventId": "203231",
     "title": "AIchemy Hub & Leverhulme Research Centre Conference 2026",
@@ -484,7 +442,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208553/spc-seminar-climate-claudia-czimczik-uc-irvine/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:203642",
@@ -526,7 +484,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209513/astrophysics-weekly-seminars-boryana-hadzhiyska-large-scale-structure-cosmology/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:210850",
@@ -547,7 +505,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210850/meeting-of-the-london-quantitative-immunology-network-tuesday-30th-june-imperial-college-london/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210926",
@@ -634,7 +592,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211091/mathematical-physics-seminar-july-1st-eugene-demler-eth-zurich-quantum-simulators-a-pointilist-perspective-on-many-body-physics/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207228",
@@ -720,6 +678,50 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210796/move-wimbledon-red-ball-tennis/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/wimbledon_1781096486184_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210203",
+    "sourceEventId": "210203",
+    "title": "Clouds, Aerosols, Wildfires, and Extreme Heat – From Physical Processes to Climate Impacts with Professor Minghui Diao",
+    "desc": "We are delighted to be joined by Professor Minghui Diao from San Jose State University, who will give a talk on ice and mixed-phase cloud microphysics and aerosol-cloud interactions.\n\nAbstract\n\nClouds and aerosols are large modulators of the Earth’s system. Understanding cloud properties and their interactions with aerosols is a critical step towards improving the fidelity of Earth system models. Our work examined ice and mixed-phase clouds at a near global scale, covering the polar regions, midlatitudes and the tropics in both hemispheres. Multi-scale observations based on 20+ field campaigns were compared against several Earth system models to advance the understanding of cloud microphysical processes and aerosol-cloud interactions. Novel methods were developed to conduct scale-aware,…",
+    "source": "IC",
+    "date": "2026-07-03T10:30:00+01:00",
+    "durationMin": 60,
+    "venue": "640, City and Guilds Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Sustainability",
+      "Climate change",
+      "Environment",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210203/clouds-aerosols-wildfires-and-extreme-heat-from-physical-processes-to-climate-impacts-with-prof-minghui-diao/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/md-image-ver5_1780305822011_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210800",
+    "sourceEventId": "210800",
+    "title": "Move Wimbledon – Red Ball Tennis",
+    "desc": "We will be hosting these events in ethos sports hall at South Kensington and Scalespace Muga at White City.",
+    "source": "IC",
+    "date": "2026-07-03T12:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Sports Hall, Ethos Sports Centre, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210800/move-wimbledon-red-ball-tennis-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/wimbledon_1781097307852_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:whose-ai-is-it-anyway",
