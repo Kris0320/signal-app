@@ -289,27 +289,6 @@
     "image": "https://www.kcl.ac.uk/newimages/main/rosa-inaugural.x6067ad38.png"
   },
   {
-    "id": "ic:209857",
-    "sourceEventId": "209857",
-    "title": "How universities can lead the way towards a sustainable future",
-    "desc": "Join the launch of our Sustainable Imperial Strategy (2026–2031) .\n\nAs a community of thinkers, teachers, professionals and innovators – how do we best translat e our sustainability ideas into real work i mpact? How do we bring our ingenuity to guide our institution and the world beyond to a more sustainable future?\n\nWhether you are deeply involved in sustainability or just starting out, you are a vital part of our collective journey towards a more sustainable Imperial and planet.\n\nAcross a short presentation, an exhibition showcase, and networking afternoon tea, you’ll meet the staff, students, alumni and community members bringing our sustainability ambitions to reality – and learn how you can get involved.\n\nJoin us as we unveil our vision for the next five years and beyond.",
-    "source": "IC",
-    "date": "2026-06-30T14:15:00+01:00",
-    "durationMin": 105,
-    "venue": "G16/Foyer, Sir Alexander Fleming Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Sustainability",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209857/how-universities-can-lead-the-way-towards-a-sustainable-future/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-listing-banner_1779209132376_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:210433",
     "sourceEventId": "210433",
     "title": "Early Career Researcher Showcase 2026",
@@ -374,115 +353,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209681/contextual-design-engineering-de-msc-2026-show/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/msc-des-eng-show-2026-eventbrite_1780302731811_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:203231",
-    "sourceEventId": "203231",
-    "title": "AIchemy Hub & Leverhulme Research Centre Conference 2026",
-    "desc": "Join the AIchemy and Leverhulme Research Centre Conference 2026!\n\nAcross two packed days, you’ll hear from leading speakers, explore cutting-edge research through poster sessions, and take advantage of valuable networking opportunities with peers across disciplines. A conference dinner on Monday evening is included for all attendees.\n\nStay tuned, we’ll be announcing our speakers soon.\n\nEarly Bird places are limited, secure your spot soon and be part of an event shaping the future of AI, science, and innovation.\n\nSpeakers to be announced!",
-    "source": "IC",
-    "date": "2026-06-29T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Spine Building ",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Artificial intelligence",
-      "Chemistry",
-      "materials",
-      "Science"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/203231/aichemy-hub-leverhulme-research-centre-conference-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/aichemy-x-lrc-2026-conference-2_1765295224681_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211274",
-    "sourceEventId": "211274",
-    "title": "Victor Kleptsyn (Institut de Recherche Mathématique de Rennes)",
-    "desc": "Rotation numbers of skew products and their dependence on a parameter\n\nAbstract : Given a skew product over an ergodic transformation with the circle as the fiber, one can define the associated (fiberwise) rotation number. If the skew product depends continuously on a parameter, then so does the rotation number; my talk with be devoted to the regularity of this dependence.\n\nThis question is motivated, in particular, by the study of the discrete Schrödinger operator with dynamically defined potential. For such an operator, the distribution function of the density of states measure (DOS) is exactly the rotation number of the associated S^1-cocycle as a function of energy as a parameter.\n\nI will present two results:\n\n1) The rotation number is (under very mild assumptions) log-Hölder; this…",
-    "source": "IC",
-    "date": "2026-06-30T11:00:00+01:00",
-    "durationMin": 60,
-    "venue": "130, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211274/victor-kleptsyn-institut-de-recherche-mathematique-de-rennes/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:208553",
-    "sourceEventId": "208553",
-    "title": "SPC Seminar – Climate – Claudia Czimczik (UC Irvine)",
-    "desc": "Speaker: Claudia Czimczik (UC Irvine)\n\nTitle: Closing the Winter Gap and Digging Deeper: A Radiocarbon View of Permafrost Carbon Loss\n\nAbstract:\n\nThe Arctic holds roughly twice as much carbon in permafrost soils as the current atmosphere, much of it Pleistocene-age. As this ground thaws, whether the region amplifies warming depends not just on how much CO₂ is released but on its source: recently fixed carbon, or legacy carbon long locked away? Estimates still disagree on whether the permafrost region is a net CO₂ sink or source, limited by sparse cold-season data and an oversimplified picture of the soils involved. Radiocarbon speaks directly to this, separating plant from microbial respiration and dating the carbon being lost.\n\nI will show how a rugged, passive ¹⁴CO₂ sampler enables…",
-    "source": "IC",
-    "date": "2026-06-30T11:30:00+01:00",
-    "durationMin": 60,
-    "venue": "711c, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Climate change",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208553/spc-seminar-climate-claudia-czimczik-uc-irvine/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:203642",
-    "sourceEventId": "203642",
-    "title": "Prof John Briggs – ‘“In situ” structural biology of HIV-1 and Influenza A",
-    "desc": "DoID seminar series (hybrid)\n\njoin us for the next seminar this term\n\nBiography: Prof John Briggs\n\nAbstract of the talk:\n\nImprovements in cryo-electron microscopy, tomography and image processing are making it easier to study small, challenging proteins, as well to determine the structures of proteins directly within complex environments like cells and irregular viruses. We apply these techniques to study how proteins interact with one another and with lipids to assemble enveloped viruses and coated vesicles, and to understand how the proteins remodel at different stages of the virus or vesicle lifecycle. I will illustrate our recent “in virus” structural biology projects, with a particular focus on how the matrix proteins of HIV-1 and Influenza A play their central roles in virus…",
-    "source": "IC",
-    "date": "2026-06-30T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "SAFB, South Kensington, Sir Alexander Fleming Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/203642/prof-john-briggs-director-of-max-planck-institute/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/john-briggs-photo_1779183861887_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:209513",
-    "sourceEventId": "209513",
-    "title": "Astrophysics Weekly Seminars :Boryana Hadzhiyska- Large-scale structure cosmology",
-    "desc": "Astrophysics Weekly Seminars : Boryana Hadzhiyska- Large-scale structure cosmology",
-    "source": "IC",
-    "date": "2026-06-30T14:30:00+01:00",
-    "durationMin": 60,
-    "venue": "539, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209513/astrophysics-weekly-seminars-boryana-hadzhiyska-large-scale-structure-cosmology/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:210850",
@@ -590,7 +460,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211091/mathematical-physics-seminar-july-1st-eugene-demler-eth-zurich-quantum-simulators-a-pointilist-perspective-on-many-body-physics/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207228",
@@ -697,7 +567,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211260/magnons-as-a-non-equilibrium-probe-and-resource-in-quantum-hall-systems/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210203",
@@ -721,6 +591,92 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210203/clouds-aerosols-wildfires-and-extreme-heat-from-physical-processes-to-climate-impacts-with-prof-minghui-diao/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/md-image-ver5_1780305822011_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210800",
+    "sourceEventId": "210800",
+    "title": "Move Wimbledon – Red Ball Tennis",
+    "desc": "We will be hosting these events in ethos sports hall at South Kensington and Scalespace Muga at White City.",
+    "source": "IC",
+    "date": "2026-07-03T12:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Sports Hall, Ethos Sports Centre, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210800/move-wimbledon-red-ball-tennis-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/wimbledon_1781097307852_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:109759",
+    "sourceEventId": "109759",
+    "title": "Laryngectomy: Rehabilitation and Surgical Voice Restoration (Advanced Level)",
+    "desc": "The clinical and evidence based course continues to be updated to include recent cutting edge advances in the field of Head and Neck Cancer. The course focuses on surgery for both standard and extended laryngectomy procedures and the associated rehabilitation challenges. Particular emphasis will be placed on how to perform and interpret videofluoroscopy evaluation including delegate participation workshops.\n\nAdditional topics covered will include:\n\nAlterations to anatomy and physiology post laryngectomy and their impact on breathing, swallow and voice\n\nWhat extensive surgical flap reconstruction involves and how this impacts functional rehabilitation\n\nEffects of radiotherapy, chemotherapy and IMRT on the laryngectomy patient\n\nAssessment, diagnosis and management of vibratory segment…",
+    "source": "IC",
+    "date": "2026-07-06T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Training Course",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/109759/laryngectomy-rehabilitation-and-surgical-voice-restoration-advanced-level/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/3-surgery_1613493229860_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209677",
+    "sourceEventId": "209677",
+    "title": "IDE Summer Show 2026",
+    "desc": "The IDE programme is a double master’s degree delivered jointly by the Dyson School of Design Engineering (Imperial College London) and the Royal College of Art . With 45 years of history, IDE has a proud legacy of producing groundbreaking innovations.\n\nThe work in the show focuses on individual student projects work carried out over the last six months and highlights their passion for creating positive change, their abilities in identifying challenges and opportunities, their creativity in developing new ideas, and their skills in designing, developing and validating new solutions.\n\nThis year, there is an impressive diversity of projects, organised across six themes:\n\nLIVING SYSTEMS: From flora to fauna, looking beyond human design\n\nBODY INTELLIGENCE: Understanding the self through…",
+    "source": "IC",
+    "date": "2026-07-07T10:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Imperial Main Entrance, Main Entrance, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Exhibition",
+      "Art exhibition",
+      "Students",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209677/ide-summer-show-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/eventbrite-banner-6_1778758922199_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210716",
+    "sourceEventId": "210716",
+    "title": "Walking Tour – South Kensington",
+    "desc": "Join Move and Iya London Walks for a short well-being walk in South Kensington, exploring the neighbourhood’s history, rooted in the Great Exhibition of 1851, and groundbreaking Victorian architecture.\n\nLimited spaces available so please book early to avoid disappointment!\n\nPlease wear weather appropriate clothing as the walking tour is outdoors.",
+    "source": "IC",
+    "date": "2026-07-07T12:55:00+01:00",
+    "durationMin": 65,
+    "venue": "Meet at: Imperial Main Reception, Exhibition Road, South Kensington, Main Entrance, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210716/walking-tour-south-kensington-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/copy-of-copy-of-movember-events-tiles-11_1777626996334_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:whose-ai-is-it-anyway",
@@ -970,6 +926,25 @@
     "image": "https://royalsociety.org/-/media/events/2026/9/bridging-animals/nibai-webpage.jpg"
   },
   {
+    "id": "rs:2026-10-tof-entomology",
+    "sourceEventId": "2026-10-tof-entomology",
+    "title": "Innovations in Entomology",
+    "desc": "This conference will showcase the innovative science and technology occurring across entomology, as well as the challenge and opportunity for translation in the UK.",
+    "source": "RS",
+    "date": "2026-10-01T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/tof-entomology/",
+    "image": "https://royalsociety.org/-/media/events/2026/10/tof-innovations-in-entomology/innovations-in-entomology-image.jpg"
+  },
+  {
     "id": "rs:2026-10-safeguarding-anthropocene-tropical-forests",
     "sourceEventId": "2026-10-safeguarding-anthropocene-tropical-forests",
     "title": "Safeguarding Anthropocene tropical forests",
@@ -1158,7 +1133,7 @@
       "AI",
       "Open to all"
     ],
-    "format": "In person",
+    "format": "In person + online",
     "match": 76,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/06/lates-the-future-we-want/",
     "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/future-we-want.jpg"
