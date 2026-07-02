@@ -602,27 +602,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:207228",
-    "sourceEventId": "207228",
-    "title": "Imperial Science Cafe – Unearthing the hidden weaknesses of dormant cancer: Turning vulnerability into treatment",
-    "desc": "Join us for the next Imperial Science Cafe – Unearthing the hidden weaknesses of dormant cancer: Turning vulnerability into treatment at Maggie’s West London .\n\nEvie Wren, PhD student , will explore how dormant cancer cells form, how they survive while under constant stress, and what keeps them alive. Using new laboratory models developed in the lab, they are identifying the key proteins these cells rely on to survive.\n\nBy targeting these survival processes, they hope to push dormant cells beyond their limits — causing them to die or preventing them from waking up. Ultimately, this research aims to reduce the number of patients who return to clinic with relapsed breast cancer by stopping the disease be-fore it has a chance to come back. Dr. Erika Dorado works at the intersection of…",
-    "source": "IC",
-    "date": "2026-07-01T18:30:00+01:00",
-    "durationMin": 90,
-    "venue": "Maggie’s West London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207228/imperial-science-cafe-unearthing-the-hidden-weaknesses-of-dormant-cancer-turning-vulnerability-into-treatment/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/260130-science-communication-workshop-3016_1773242743209_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:206685",
     "sourceEventId": "206685",
     "title": "Festival of Products",
@@ -706,7 +685,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211260/magnons-as-a-non-equilibrium-probe-and-resource-in-quantum-hall-systems/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210203",
@@ -792,7 +771,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211290/end-of-year-biomath-symposium/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209677",
@@ -879,7 +858,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211122/patient-safety-in-virtual-consultations-in-primary-care/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211192",
@@ -921,7 +900,30 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210788/number-theory-seminar-lior-bary-soroker/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:205249",
+    "sourceEventId": "205249",
+    "title": "When mathematics meets medicine",
+    "desc": "Step into the intersection of mathematics and medicine with Professor Reiko Tanaka, revealing how equations can explain disease and treatment.\n\nAbstract:\n\nCan mathematics help us understand why diseases like eczema affect people so differently? How can computers reveal why some treatments work for certain patients but not others? In this lecture, I will share my journey from control theory and engineering into the world of computational biology and medicine: a path that has been both unexpected and deeply rewarding.\n\nI will describe how my research group develops mathematical models and computational approaches to decode the complexity of biological systems and human disease. Our bodies are remarkable control systems: they constantly sense changes, process information, and adjust…",
+    "source": "IC",
+    "date": "2026-07-08T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "G20, Ground floor, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "maths",
+      "Medicine",
+      "Women at Imperial",
+      "Women in STEM"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/205249/when-mathematics-meets-medicine/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-image-imperial-events-page_1770118314815_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:whose-ai-is-it-anyway",
@@ -1306,183 +1308,6 @@
     "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
   },
   {
-    "id": "rs:2026-07-wed-the-mystery-of-space-fossils",
-    "sourceEventId": "2026-07-wed-the-mystery-of-space-fossils",
-    "title": "Talk: The mystery of space fossils",
-    "desc": "Learn how interstellar comets help us understand how planets form across the galaxy.",
-    "source": "RS",
-    "date": "2026-07-01T10:30:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-the-mystery-of-space-fossils/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/space-fossils-nasa.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-the-invisible-majority",
-    "sourceEventId": "2026-07-wed-the-invisible-majority",
-    "title": "Talk: The invisible majority - how microbes rule the Earth",
-    "desc": "This talk will reveal the complex relationships between microbes and the world around us",
-    "source": "RS",
-    "date": "2026-07-01T11:00:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-the-invisible-majority/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/microbe-zoo-sse-2026.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-can-you-get-music-on-the-moon",
-    "sourceEventId": "2026-07-wed-can-you-get-music-on-the-moon",
-    "title": "Talk: Can you get music on the Moon?",
-    "desc": "Join planetary scientist Dr Sheila Kanani on a fascinating exploration of the world of sound and space science.",
-    "source": "RS",
-    "date": "2026-07-01T11:30:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-can-you-get-music-on-the-moon/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2023/talks-and-activities/moon-seen-from-space-station.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-can-climate-change-drive-infectious-diseases",
-    "sourceEventId": "2026-07-wed-can-climate-change-drive-infectious-diseases",
-    "title": "Talk: Can climate change drive infectious diseases?",
-    "desc": "This talk will explain the connection between epidemics, climate change and biodiversity.",
-    "source": "RS",
-    "date": "2026-07-01T12:00:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Healthcare",
-      "Climate",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 76,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-can-climate-change-drive-infectious-diseases/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/climate-infectious.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-can-emerging-science-beat-cancer",
-    "sourceEventId": "2026-07-wed-can-emerging-science-beat-cancer",
-    "title": "Panel: Can emerging science beat cancer?",
-    "desc": "This panel discussion will explore how cutting-edge radiotherapy research and the use of nanomaterials in diagnostics and therapeutics might change the lives of cancer patients.",
-    "source": "RS",
-    "date": "2026-07-01T12:50:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Healthcare",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-can-emerging-science-beat-cancer/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/radiotherapy-sse-2026.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-the-hidden-worlds-beneath-polar-ice",
-    "sourceEventId": "2026-07-wed-the-hidden-worlds-beneath-polar-ice",
-    "title": "In conversation: The hidden worlds beneath polar ice",
-    "desc": "Hear from researchers studying the carbon released from thawing permafrost in Alaska and the hidden geology beneath the Antarctic ice sheet.",
-    "source": "RS",
-    "date": "2026-07-01T14:00:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-the-hidden-worlds-beneath-polar-ice/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/the-hidden-worlds-beneath-polar-ice.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-john-ruskin-head-in-the-clouds",
-    "sourceEventId": "2026-07-wed-john-ruskin-head-in-the-clouds",
-    "title": "Talk: John Ruskin - head in the clouds?",
-    "desc": "Find out whether John Ruskin might have been correct in his observations about clouds and how they might help us better predict future climate change.",
-    "source": "RS",
-    "date": "2026-07-01T14:00:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Climate",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 76,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-john-ruskin-head-in-the-clouds/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/clouds.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-future-proofing-the-internet-in-the-ai-world",
-    "sourceEventId": "2026-07-wed-future-proofing-the-internet-in-the-ai-world",
-    "title": "Talk: Future-proofing the internet in the AI world",
-    "desc": "Learn about global internet infrastructure and the future challenges it may face.",
-    "source": "RS",
-    "date": "2026-07-01T15:00:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "AI",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 76,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-future-proofing-the-internet-in-the-ai-world/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/fibre-optic-cables.jpg"
-  },
-  {
-    "id": "rs:2026-07-wed-the-science-of-stuff",
-    "sourceEventId": "2026-07-wed-the-science-of-stuff",
-    "title": "Talk: The science of stuff",
-    "desc": "Materials scientist, engineer Mark Miodownik will explore how we can reimagine our relationship with the stuff all around us to live more sustainably.",
-    "source": "RS",
-    "date": "2026-07-01T15:10:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Climate",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/wed-the-science-of-stuff/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/science-of-stuff.jpg"
-  },
-  {
     "id": "rs:2026-07-thurs-iss-livestream",
     "sourceEventId": "2026-07-thurs-iss-livestream",
     "title": "Live stream: Sen - watch Earth live from space",
@@ -1500,5 +1325,177 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-iss-livestream/",
     "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sen-web.jpg"
+  },
+  {
+    "id": "rs:2026-07-thurs-the-mysteries-of-lightning",
+    "sourceEventId": "2026-07-thurs-the-mysteries-of-lightning",
+    "title": "Talk: The mysteries of lightning",
+    "desc": "Talk about why lightning behaves the way it does",
+    "source": "RS",
+    "date": "2026-07-02T11:00:00+01:00",
+    "durationMin": 30,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-the-mysteries-of-lightning/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/lightning-sse-2026.jpg"
+  },
+  {
+    "id": "rs:2026-07-thurs-patience",
+    "sourceEventId": "2026-07-thurs-patience",
+    "title": "Talk: Patience - how the best things in life take time",
+    "desc": "Award-winning children's book author discusses concept of time",
+    "source": "RS",
+    "date": "2026-07-02T12:00:00+01:00",
+    "durationMin": 30,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-patience/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/small-tree.jpg"
+  },
+  {
+    "id": "rs:2026-07-thurs-wondrous-chemistry",
+    "sourceEventId": "2026-07-thurs-wondrous-chemistry",
+    "title": "In conversation: The wondrous chemistry of everyday life",
+    "desc": "This discussion reveals the ways chemistry underpins our everyday existence",
+    "source": "RS",
+    "date": "2026-07-02T13:00:00+01:00",
+    "durationMin": 30,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-wondrous-chemistry/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/chain-reaction.jpg"
+  },
+  {
+    "id": "rs:2026-07-thurs-going-deeper-underground",
+    "sourceEventId": "2026-07-thurs-going-deeper-underground",
+    "title": "Talk: 7 minutes down - a tour of the Boulby deep underground science facility",
+    "desc": "A special tour of the Boulby underground lab facility",
+    "source": "RS",
+    "date": "2026-07-02T13:00:00+01:00",
+    "durationMin": 30,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-going-deeper-underground/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/boulby-underground-lab.jpg"
+  },
+  {
+    "id": "rs:2026-07-thurs-why-science-needs-storytellers",
+    "sourceEventId": "2026-07-thurs-why-science-needs-storytellers",
+    "title": "Panel: Why science needs storytellers",
+    "desc": "This panel explores the importance of storytelling in science communication",
+    "source": "RS",
+    "date": "2026-07-02T14:00:00+01:00",
+    "durationMin": 50,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-why-science-needs-storytellers/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/roger-highfield.jpg"
+  },
+  {
+    "id": "rs:2026-07-thurs-robots-assemble",
+    "sourceEventId": "2026-07-thurs-robots-assemble",
+    "title": "In conversation: Robots, assemble!",
+    "desc": "This panel discusses the challenges and future of robotics",
+    "source": "RS",
+    "date": "2026-07-02T14:00:00+01:00",
+    "durationMin": 40,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-robots-assemble/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/oxford-robotics-institute-sse-2026.jpg"
+  },
+  {
+    "id": "rs:2026-07-thurs-science-on-screen",
+    "sourceEventId": "2026-07-thurs-science-on-screen",
+    "title": "Panel: Science on screen",
+    "desc": "This panel explores science in film and on TV",
+    "source": "RS",
+    "date": "2026-07-02T15:20:00+01:00",
+    "durationMin": 40,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-science-on-screen/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/a-trip-to-the-moon-1902.jpg"
+  },
+  {
+    "id": "rs:2026-07-fri-photography-competition",
+    "sourceEventId": "2026-07-fri-photography-competition",
+    "title": "Royal Society Publishing Photography Competition: the greatest pictures",
+    "desc": "A display of scientific photography",
+    "source": "RS",
+    "date": "2026-07-03T10:00:00+01:00",
+    "durationMin": 150,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Policy",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-photography-competition/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/overall-winner.jpg"
+  },
+  {
+    "id": "rs:2026-07-fri-symbiosis",
+    "sourceEventId": "2026-07-fri-symbiosis",
+    "title": "Talk: Symbiosis - Life’s greatest collaborations",
+    "desc": "A talk exploring symbiosis in nature",
+    "source": "RS",
+    "date": "2026-07-03T11:00:00+01:00",
+    "durationMin": 30,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-symbiosis/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/marine-life.jpg"
   }
 ]
