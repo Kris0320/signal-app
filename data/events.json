@@ -532,7 +532,7 @@
     "id": "ic:211290",
     "sourceEventId": "211290",
     "title": "End-of-year Biomath Symposium",
-    "desc": "13:30-14:30 Jeremy Worsfold (UNSW) - Autocorrelation-Based Inference of Transcription Dynamics via Infinite Server Queueing Models 14:30-15:00 Coffee Break 15:00-16:00 Steffen Rulands (LMU Munich) - TBA 16:00-17:00 Fabian Theis (Helmholtz Munich) - Closing the Loop: Generative Inverse Modeling",
+    "desc": "13:30-14:30 Jeremy Worsfold (UNSW) 14:30-15:00 Coffee Break 15:00-16:00 Steffen Rulands (LMU Munich) 16:00-17:00 Fabian Theis (Helmholtz Munich)",
     "source": "IC",
     "date": "2026-07-06T13:30:00+01:00",
     "durationMin": 210,
@@ -547,7 +547,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211290/end-of-year-biomath-symposium/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209677",
@@ -634,7 +634,28 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211122/patient-safety-in-virtual-consultations-in-primary-care/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211375",
+    "sourceEventId": "211375",
+    "title": "GATP Seminar – Niklas Garner (Oxford): On Relative Semi-infinite Complexes of Graded Unitary VOAs",
+    "desc": "The vertex operator algebras (VOAs) appearing in the 4d SCFT/VOA correspondence possess many interesting properties, often of a rather geometric flavor. As shown in work of Ardehali, Beem, Lemos, and Rastelli (arXiv:2507.23781), unitarity of the underlying SCFT has an imprint on this VOA, leading the notion of graded unitarity. After reviewing their construction, I will describe several consequences in the context of gauge theories, where the resulting semi-infinite complexes bear a striking resemblance to the de Rham complex of a compact Kähler manifolds. This talk is based on arXiv:2509.10364 with C. Beem.",
+    "source": "IC",
+    "date": "2026-07-08T11:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Huxley 658, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211375/gatp-seminar-niklas-garner-oxford-on-relative-semi-infinite-complexes-of-graded-unitary-voas/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211192",
@@ -743,7 +764,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210484/science-day-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210802",
@@ -765,28 +786,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210802/move-wimbledon-red-ball-tennis-3/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/wimbledon_1781097307852_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209118",
-    "sourceEventId": "209118",
-    "title": "Dr Jaime Agudo-Canalejo: Self-organisation through nonequilibrium catalytic activity",
-    "desc": "Self-organisation through nonequilibrium catalytic activity",
-    "source": "IC",
-    "date": "2026-07-09T15:00:00+01:00",
-    "durationMin": 60,
-    "venue": "RSM-228, Royal School Of Mines, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Physics of Life",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209118/agudo-canelo-self-organisation/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250915-j-tye-ucl-393-biophysics-ipls-2266_1777461641761_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:whose-ai-is-it-anyway",
@@ -1171,158 +1170,6 @@
     "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
   },
   {
-    "id": "rs:2026-07-thurs-iss-livestream",
-    "sourceEventId": "2026-07-thurs-iss-livestream",
-    "title": "Live stream: Sen - watch Earth live from space",
-    "desc": "4K livestream from space using cameras on the International Space Station",
-    "source": "RS",
-    "date": "2026-07-02T10:00:00+01:00",
-    "durationMin": 150,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-iss-livestream/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sen-web.jpg"
-  },
-  {
-    "id": "rs:2026-07-thurs-the-mysteries-of-lightning",
-    "sourceEventId": "2026-07-thurs-the-mysteries-of-lightning",
-    "title": "Talk: The mysteries of lightning",
-    "desc": "Talk about why lightning behaves the way it does",
-    "source": "RS",
-    "date": "2026-07-02T11:00:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-the-mysteries-of-lightning/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/lightning-sse-2026.jpg"
-  },
-  {
-    "id": "rs:2026-07-thurs-patience",
-    "sourceEventId": "2026-07-thurs-patience",
-    "title": "Talk: Patience - how the best things in life take time",
-    "desc": "Award-winning children's book author discusses concept of time",
-    "source": "RS",
-    "date": "2026-07-02T12:00:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-patience/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/small-tree.jpg"
-  },
-  {
-    "id": "rs:2026-07-thurs-going-deeper-underground",
-    "sourceEventId": "2026-07-thurs-going-deeper-underground",
-    "title": "Talk: 7 minutes down - a tour of the Boulby deep underground science facility",
-    "desc": "A special tour of the Boulby underground lab facility",
-    "source": "RS",
-    "date": "2026-07-02T13:00:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-going-deeper-underground/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/boulby-underground-lab.jpg"
-  },
-  {
-    "id": "rs:2026-07-thurs-wondrous-chemistry",
-    "sourceEventId": "2026-07-thurs-wondrous-chemistry",
-    "title": "In conversation: The wondrous chemistry of everyday life",
-    "desc": "This discussion reveals the ways chemistry underpins our everyday existence",
-    "source": "RS",
-    "date": "2026-07-02T13:00:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-wondrous-chemistry/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/chain-reaction.jpg"
-  },
-  {
-    "id": "rs:2026-07-thurs-why-science-needs-storytellers",
-    "sourceEventId": "2026-07-thurs-why-science-needs-storytellers",
-    "title": "Panel: Why science needs storytellers",
-    "desc": "This panel explores the importance of storytelling in science communication",
-    "source": "RS",
-    "date": "2026-07-02T14:00:00+01:00",
-    "durationMin": 50,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-why-science-needs-storytellers/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/roger-highfield.jpg"
-  },
-  {
-    "id": "rs:2026-07-thurs-robots-assemble",
-    "sourceEventId": "2026-07-thurs-robots-assemble",
-    "title": "In conversation: Robots, assemble!",
-    "desc": "This panel discusses the challenges and future of robotics",
-    "source": "RS",
-    "date": "2026-07-02T14:00:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-robots-assemble/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/oxford-robotics-institute-sse-2026.jpg"
-  },
-  {
-    "id": "rs:2026-07-thurs-science-on-screen",
-    "sourceEventId": "2026-07-thurs-science-on-screen",
-    "title": "Panel: Science on screen",
-    "desc": "This panel explores science in film and on TV",
-    "source": "RS",
-    "date": "2026-07-02T15:20:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/thurs-science-on-screen/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/a-trip-to-the-moon-1902.jpg"
-  },
-  {
     "id": "rs:2026-07-fri-photography-competition",
     "sourceEventId": "2026-07-fri-photography-competition",
     "title": "Royal Society Publishing Photography Competition: the greatest pictures",
@@ -1360,5 +1207,142 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-symbiosis/",
     "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/marine-life.jpg"
+  },
+  {
+    "id": "rs:2026-07-fri-like-clockwork",
+    "sourceEventId": "2026-07-fri-like-clockwork",
+    "title": "Talk: Like clockwork - everything you need to know about timekeeping",
+    "desc": "This talk explores the physics and history of clocks",
+    "source": "RS",
+    "date": "2026-07-03T12:00:00+01:00",
+    "durationMin": 30,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Physics",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-like-clockwork/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/clockwork.jpg"
+  },
+  {
+    "id": "rs:2026-07-fri-brief-history-of-the-universe",
+    "sourceEventId": "2026-07-fri-brief-history-of-the-universe",
+    "title": "Talk: A brief history of the universe",
+    "desc": "This talk explores the discoveries that shaped our perception of the cosmos",
+    "source": "RS",
+    "date": "2026-07-03T13:00:00+01:00",
+    "durationMin": 30,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-brief-history-of-the-universe/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/star-trails.jpg"
+  },
+  {
+    "id": "rs:2026-07-fri-symbiosis-2",
+    "sourceEventId": "2026-07-fri-symbiosis-2",
+    "title": "Talk: Symbiosis - Life’s greatest collaborations",
+    "desc": "A talk exploring symbiosis in nature",
+    "source": "RS",
+    "date": "2026-07-03T13:00:00+01:00",
+    "durationMin": 30,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-symbiosis-2/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/marine-life.jpg"
+  },
+  {
+    "id": "rs:2026-07-fri-future-of-green-chemistry",
+    "sourceEventId": "2026-07-fri-future-of-green-chemistry",
+    "title": "Panel: The future of green chemistry",
+    "desc": "This panel discusses research leading to more sustainable chemistry",
+    "source": "RS",
+    "date": "2026-07-03T14:00:00+01:00",
+    "durationMin": 40,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Climate",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-future-of-green-chemistry/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/green-chemistry.jpg"
+  },
+  {
+    "id": "rs:2026-07-fri-from-wardrobe-to-water",
+    "sourceEventId": "2026-07-fri-from-wardrobe-to-water",
+    "title": "Panel: From wardrobe to water — The impact of fast fashion on ocean health",
+    "desc": "A panel discussing the impact of fast fashion on marine environments",
+    "source": "RS",
+    "date": "2026-07-03T14:00:00+01:00",
+    "durationMin": 40,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Healthcare",
+      "Climate",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 76,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-from-wardrobe-to-water/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/marine-debris.jpg"
+  },
+  {
+    "id": "rs:2026-07-fri-rise-of-the-machines",
+    "sourceEventId": "2026-07-fri-rise-of-the-machines",
+    "title": "In conversation: The rise and rise of the machines",
+    "desc": "This panel discusses the possible achievements and challenges of supercomputing",
+    "source": "RS",
+    "date": "2026-07-03T15:10:00+01:00",
+    "durationMin": 40,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-rise-of-the-machines/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/supercomputer-sse-2026.jpg"
+  },
+  {
+    "id": "rs:2026-07-fri-gateway-to-history",
+    "sourceEventId": "2026-07-fri-gateway-to-history",
+    "title": "Panel: Science - a gateway to history",
+    "desc": "A panel discussing how archaeologists and historians use science",
+    "source": "RS",
+    "date": "2026-07-03T15:10:00+01:00",
+    "durationMin": 40,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-gateway-to-history/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/gateway-to-past-atlantic.jpg"
   }
 ]
