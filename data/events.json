@@ -1,135 +1,5 @@
 [
   {
-    "id": "kcl:physics-teacher-conference-2026",
-    "sourceEventId": "05e0843c-e070-46b1-ab74-b127e0ef2fd9",
-    "title": "Physics Teacher Conference 2026",
-    "desc": "A day of engaging talks and discussions about cutting-edge physics",
-    "source": "KCL",
-    "date": "2026-07-02T09:30:00",
-    "durationMin": 345,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Technology & Science",
-      "Faculty of Natural, Mathematical & Engineering Sciences",
-      "Department of Physics"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/physics-teacher-conference-2026",
-    "image": "https://www.kcl.ac.uk/newimages/nmes/outreach/physics/physics-teacher-conference-780-x-440.x66e00308.png"
-  },
-  {
-    "id": "kcl:war-psychiatry-msc-online-offer-holder-session-2-july-2026",
-    "sourceEventId": "e8eb50fd-4376-4cd4-9f2e-90d94f55aa9d",
-    "title": "War & Psychiatry MSc Online Offer Holder Session - 2 July 2026",
-    "desc": "You’re invited to our exclusive online event for War & Psychiatry MSc offer holders",
-    "source": "KCL",
-    "date": "2026-07-02T11:00:00",
-    "durationMin": 45,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/war-psychiatry-msc-online-offer-holder-session-2-july-2026",
-    "image": "https://www.kcl.ac.uk/newimages/ioppn/mhaps/campus-stock-imagery/ioppn-students.x307002ee.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
-    "id": "kcl:nursing-and-midwifery-confirmation-of-next-steps-dbsoh-practice-learning-information-event-2-july-2026",
-    "sourceEventId": "3820acd8-d708-4ee2-9df4-7942cf06f905",
-    "title": "Nursing and Midwifery - Confirmation of Next steps: DBS/OH & Practice Learning Information Event - 2 July 2026",
-    "desc": "Come along to our live information and Q&A session with teaching and student experience staff.",
-    "source": "KCL",
-    "date": "2026-07-02T12:00:00",
-    "durationMin": 90,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/nursing-and-midwifery-confirmation-of-next-steps-dbsoh-practice-learning-information-event-2-july-2026",
-    "image": "https://www.kcl.ac.uk/newimages/landing-page-images/ug24-paid-media/nursing-hero-3.xc3edba10.png?w=1424&h=440&crop=780,440,322,0"
-  },
-  {
-    "id": "kcl:health-psychology-msc-online-offer-holder-session-2-july-2026",
-    "sourceEventId": "c4a74655-f46a-4207-9e41-fd506b71a13a",
-    "title": "Health Psychology MSc Online Offer Holder Session - 2 July 2026",
-    "desc": "You’re invited to our exclusive online event for Health Psychology MSc offer holders",
-    "source": "KCL",
-    "date": "2026-07-02T12:00:00",
-    "durationMin": 45,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/health-psychology-msc-online-offer-holder-session-2-july-2026",
-    "image": "https://www.kcl.ac.uk/newimages/ioppn/mhaps/campus-stock-imagery/ioppn-students.x307002ee.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
-    "id": "kcl:organisational-psychiatry-psychology-msc-online-offer-holder-session-2-july-2026",
-    "sourceEventId": "0a49c0d8-c342-447a-b503-66bbcba71b7f",
-    "title": "Organisational Psychiatry & Psychology MSc Online Offer Holder Session - 2 July 2026",
-    "desc": "You’re invited to our exclusive online event for Organistional Psychiatry & Psychology MSc offer holders",
-    "source": "KCL",
-    "date": "2026-07-02T13:00:00",
-    "durationMin": 45,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/organisational-psychiatry-psychology-msc-online-offer-holder-session-2-july-2026",
-    "image": "https://www.kcl.ac.uk/newimages/ioppn/mhaps/campus-stock-imagery/ioppn-students.x307002ee.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
-    "id": "kcl:strawberries-cream-mochi-making-at-guys",
-    "sourceEventId": "69698cd8-5a86-43cb-9504-e64562982489",
-    "title": "Strawberries & Cream + Mochi Making at Guy's",
-    "desc": "Join us to celebrate the end of the academic year!",
-    "source": "KCL",
-    "date": "2026-07-02T13:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/strawberries-cream-mochi-making-at-guys",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/mochi.x34bc5bcf.jpg?w=905&h=679&crop=780,440,36,27"
-  },
-  {
-    "id": "kcl:kcato-summer-short-finding-time-for-research",
-    "sourceEventId": "4c0a95e1-2881-46fd-8d55-356243a3fc45",
-    "title": "KCATO Summer Shorts #2: Finding time for research",
-    "desc": "Join our snappy, introductory session about finding time for research.",
-    "source": "KCL",
-    "date": "2026-07-02T13:00:00",
-    "durationMin": 30,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Technology & Science",
-      "Health"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/kcato-summer-short-finding-time-for-research",
-    "image": "https://www.kcl.ac.uk/ImportedImages/Schools/Business/research-groups-centres-images/csb/data-vs-action-blog-1.x57103bfd.png"
-  },
-  {
     "id": "kcl:professor-rosa-hoekstra-inaugural-lecture",
     "sourceEventId": "e9c4e5d8-a1bf-4e89-929c-62228ca6d65e",
     "title": "Professor Rosa Hoekstra - Inaugural Lecture",
@@ -464,50 +334,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:210203",
-    "sourceEventId": "210203",
-    "title": "Clouds, Aerosols, Wildfires, and Extreme Heat – From Physical Processes to Climate Impacts with Professor Minghui Diao",
-    "desc": "We are delighted to be joined by Professor Minghui Diao from San Jose State University, who will give a talk on ice and mixed-phase cloud microphysics and aerosol-cloud interactions.\n\nAbstract\n\nClouds and aerosols are large modulators of the Earth’s system. Understanding cloud properties and their interactions with aerosols is a critical step towards improving the fidelity of Earth system models. Our work examined ice and mixed-phase clouds at a near global scale, covering the polar regions, midlatitudes and the tropics in both hemispheres. Multi-scale observations based on 20+ field campaigns were compared against several Earth system models to advance the understanding of cloud microphysical processes and aerosol-cloud interactions. Novel methods were developed to conduct scale-aware,…",
-    "source": "IC",
-    "date": "2026-07-03T10:30:00+01:00",
-    "durationMin": 60,
-    "venue": "640, City and Guilds Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Sustainability",
-      "Climate change",
-      "Environment",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210203/clouds-aerosols-wildfires-and-extreme-heat-from-physical-processes-to-climate-impacts-with-prof-minghui-diao/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/md-image-ver5_1780305822011_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210800",
-    "sourceEventId": "210800",
-    "title": "Move Wimbledon – Red Ball Tennis",
-    "desc": "We will be hosting these events in ethos sports hall at South Kensington and Scalespace Muga at White City.",
-    "source": "IC",
-    "date": "2026-07-03T12:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Sports Hall, Ethos Sports Centre, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210800/move-wimbledon-red-ball-tennis-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/wimbledon_1781097307852_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:109759",
     "sourceEventId": "109759",
     "title": "Laryngectomy: Rehabilitation and Surgical Voice Restoration (Advanced Level)",
@@ -634,7 +460,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211122/patient-safety-in-virtual-consultations-in-primary-care/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211375",
@@ -655,7 +481,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211375/gatp-seminar-niklas-garner-oxford-on-relative-semi-infinite-complexes-of-graded-unitary-voas/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211192",
@@ -718,7 +544,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210788/number-theory-seminar-lior-bary-soroker/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:205249",
@@ -786,6 +612,51 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210802/move-wimbledon-red-ball-tennis-3/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/wimbledon_1781097307852_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209118",
+    "sourceEventId": "209118",
+    "title": "Dr Jaime Agudo-Canalejo: Self-organisation through nonequilibrium catalytic activity",
+    "desc": "Self-organisation through nonequilibrium catalytic activity",
+    "source": "IC",
+    "date": "2026-07-09T15:00:00+01:00",
+    "durationMin": 60,
+    "venue": "RSM-228, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Physics of Life",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209118/agudo-canelo-self-organisation/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250915-j-tye-ucl-393-biophysics-ipls-2266_1777461641761_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210875",
+    "sourceEventId": "210875",
+    "title": "Gig a bites – Mü Quartet",
+    "desc": "Quartet led by Yusuf Ahmed with focus on improvisations around folk tunes and jazz pioneered by the likes of Alice Coltrane and Yussef Latif. A warm acoustic sound by some of the UKs leading improvisors.",
+    "source": "IC",
+    "date": "2026-07-09T17:00:00+01:00",
+    "durationMin": 90,
+    "venue": "The Works Restaurant, Sir Michael Uren Hub, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Concerts",
+      "Creative",
+      "Arts",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210875/gig-a-bites-mu-quartet/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ml-mu-quartet-2a_1781693022628_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:whose-ai-is-it-anyway",
