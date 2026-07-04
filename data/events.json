@@ -331,7 +331,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211290/end-of-year-biomath-symposium/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209677",
@@ -439,7 +439,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211375/gatp-seminar-niklas-garner-oxford-on-relative-semi-infinite-complexes-of-graded-unitary-voas/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211192",
@@ -660,27 +660,6 @@
     "image": null
   },
   {
-    "id": "wc:bsl-interpreted-tours-of-tenderness-and-rage",
-    "sourceEventId": "bsl-interpreted-tours-of-tenderness-and-rage",
-    "title": "BSL Interpreted Tours of Tenderness and Rage",
-    "desc": "Discover more about our exhibition ‘Tenderness and Rage’ on one of our BSL-interpreted tours.",
-    "source": "WC",
-    "date": "2026-07-04T10:30:00+00:00",
-    "durationMin": 600,
-    "venue": "Gallery 3",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Gallery tour",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/bsl-interpreted-tours-of-tenderness-and-rage",
-    "image": "https://images.prismic.io/wellcomecollection/airGyKlQnVZVEN55_BTG260520145210.jpg?auto=format%2Ccompress&w=3200&h=1800"
-  },
-  {
     "id": "wc:the-coming-of-age-symposium",
     "sourceEventId": "the-coming-of-age-symposium",
     "title": "The Coming of Age Symposium",
@@ -803,6 +782,27 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/discovering-our-collections-through-maps",
     "image": "https://images.prismic.io/wellcomecollection/Zshsd0aF0TcGJWsV_EP_001983_095.jpg?auto=format%2Ccompress&rect=0%2C454%2C5566%2C3131&w=3200&h=1800"
+  },
+  {
+    "id": "wc:bsl-interpreted-tours-of-tenderness-and-rage",
+    "sourceEventId": "bsl-interpreted-tours-of-tenderness-and-rage",
+    "title": "BSL Interpreted Tours of Tenderness and Rage",
+    "desc": "Discover more about our exhibition ‘Tenderness and Rage’ on one of our BSL-interpreted tours.",
+    "source": "WC",
+    "date": "2026-07-04T10:30:00+00:00",
+    "durationMin": 600,
+    "venue": "Gallery 3",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Gallery tour",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/bsl-interpreted-tours-of-tenderness-and-rage",
+    "image": "https://images.prismic.io/wellcomecollection/airGyKlQnVZVEN55_BTG260520145210.jpg?auto=format%2Ccompress&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
@@ -999,32 +999,107 @@
     "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
   },
   {
-    "id": "rs:2026-07-fri-photography-competition",
-    "sourceEventId": "2026-07-fri-photography-competition",
-    "title": "Royal Society Publishing Photography Competition: the greatest pictures",
-    "desc": "A display of scientific photography",
+    "id": "rs:2026-07-attenborough-weekend",
+    "sourceEventId": "2026-07-attenborough-weekend",
+    "title": "Attenborough at 100: a weekend of wildlife",
+    "desc": "A series of film talks, panels and screenings in celebration of Sir David Attenborough's 100th birthday",
     "source": "RS",
-    "date": "2026-07-03T10:00:00+01:00",
+    "date": "2026-07-04T10:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/attenborough-weekend/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/restricted-for-sse2026-use-photo-credit-joe-loncraine-passion-planet-ltd.jpg"
+  },
+  {
+    "id": "rs:2026-07-sat-crime-lab",
+    "sourceEventId": "2026-07-sat-crime-lab",
+    "title": "Activity: Crime lab",
+    "desc": "Get hands-on with forensic activities, including fingerprinting, blood splatter analysis, and chromatography",
+    "source": "RS",
+    "date": "2026-07-04T10:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-crime-lab/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/crime-lab.jpg"
+  },
+  {
+    "id": "rs:2026-07-sat-origin-colour",
+    "sourceEventId": "2026-07-sat-origin-colour",
+    "title": "Activity: The origin of colour",
+    "desc": "Get hands-on with their Lego spectrometer and find out how materials get their colour and how this links to their molecular structures..",
+    "source": "RS",
+    "date": "2026-07-04T10:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-origin-colour/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sat-origin-colour.jpg"
+  },
+  {
+    "id": "rs:2026-07-sat-viral-stories",
+    "sourceEventId": "2026-07-sat-viral-stories",
+    "title": "Activity: The viral stories written in our DNA",
+    "desc": "In this activity, you’ll find out how our shared history with viruses continues to shape life",
+    "source": "RS",
+    "date": "2026-07-04T10:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-viral-stories/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sat-written-dna.jpg"
+  },
+  {
+    "id": "rs:2026-07-attenborough-documentary-screenings",
+    "sourceEventId": "2026-07-attenborough-documentary-screenings",
+    "title": "Film screening: The Summer Science Sir David Attenborough collection",
+    "desc": "Screenings of a compilation of David Attenborough documentaries",
+    "source": "RS",
+    "date": "2026-07-04T10:10:00+01:00",
     "durationMin": 150,
     "venue": "The Royal Society",
     "area": "Mayfair",
     "price": 0,
     "tags": [
-      "Policy",
       "Open to all"
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-photography-competition/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/overall-winner.jpg"
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/attenborough-documentary-screenings/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-attenborough-wildlife.jpg"
   },
   {
-    "id": "rs:2026-07-fri-symbiosis",
-    "sourceEventId": "2026-07-fri-symbiosis",
-    "title": "Talk: Symbiosis - Life’s greatest collaborations",
-    "desc": "A talk exploring symbiosis in nature",
+    "id": "rs:2026-07-sat-black-to-the-future",
+    "sourceEventId": "2026-07-sat-black-to-the-future",
+    "title": "In conversation: Black to the future with Joycelyn Longdon",
+    "desc": "Find out about the future of justice-led conservation technologies.",
     "source": "RS",
-    "date": "2026-07-03T11:00:00+01:00",
+    "date": "2026-07-04T11:00:00+01:00",
     "durationMin": 30,
     "venue": "The Royal Society",
     "area": "Mayfair",
@@ -1034,116 +1109,76 @@
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-symbiosis/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/marine-life.jpg"
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-black-to-the-future/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/black-to-the-future.jpg"
   },
   {
-    "id": "rs:2026-07-fri-like-clockwork",
-    "sourceEventId": "2026-07-fri-like-clockwork",
-    "title": "Talk: Like clockwork - everything you need to know about timekeeping",
-    "desc": "This talk explores the physics and history of clocks",
+    "id": "rs:2026-07-sat-how-the-internet-hijacked-our-health",
+    "sourceEventId": "2026-07-sat-how-the-internet-hijacked-our-health",
+    "title": "In conversation: How the internet hijacked our health",
+    "desc": "Explore the transformation of a healthcare system driven by online trends.",
     "source": "RS",
-    "date": "2026-07-03T12:00:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Physics",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-like-clockwork/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/clockwork.jpg"
-  },
-  {
-    "id": "rs:2026-07-fri-brief-history-of-the-universe",
-    "sourceEventId": "2026-07-fri-brief-history-of-the-universe",
-    "title": "Talk: A brief history of the universe",
-    "desc": "This talk explores the discoveries that shaped our perception of the cosmos",
-    "source": "RS",
-    "date": "2026-07-03T13:00:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-brief-history-of-the-universe/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/star-trails.jpg"
-  },
-  {
-    "id": "rs:2026-07-fri-symbiosis-2",
-    "sourceEventId": "2026-07-fri-symbiosis-2",
-    "title": "Talk: Symbiosis - Life’s greatest collaborations",
-    "desc": "A talk exploring symbiosis in nature",
-    "source": "RS",
-    "date": "2026-07-03T13:00:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-symbiosis-2/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/marine-life.jpg"
-  },
-  {
-    "id": "rs:2026-07-fri-future-of-green-chemistry",
-    "sourceEventId": "2026-07-fri-future-of-green-chemistry",
-    "title": "Panel: The future of green chemistry",
-    "desc": "This panel discusses research leading to more sustainable chemistry",
-    "source": "RS",
-    "date": "2026-07-03T14:00:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Climate",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-future-of-green-chemistry/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/green-chemistry.jpg"
-  },
-  {
-    "id": "rs:2026-07-fri-from-wardrobe-to-water",
-    "sourceEventId": "2026-07-fri-from-wardrobe-to-water",
-    "title": "Panel: From wardrobe to water — The impact of fast fashion on ocean health",
-    "desc": "A panel discussing the impact of fast fashion on marine environments",
-    "source": "RS",
-    "date": "2026-07-03T14:00:00+01:00",
+    "date": "2026-07-04T12:00:00+01:00",
     "durationMin": 40,
     "venue": "The Royal Society",
     "area": "Mayfair",
     "price": 0,
     "tags": [
       "Healthcare",
-      "Climate",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 82,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-how-the-internet-hijacked-our-health/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/how-the-internet-hijacked-our-health.jpg"
+  },
+  {
+    "id": "rs:2026-07-sat-city-life",
+    "sourceEventId": "2026-07-sat-city-life",
+    "title": "Panel: City life",
+    "desc": "This panel will explore the species that thrive in the urban world, how their behaviours have changed and how we might better live alongside them.",
+    "source": "RS",
+    "date": "2026-07-04T13:00:00+01:00",
+    "durationMin": 40,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-city-life/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/restricted-for-sse2026-use-photo-credit-joe-loncraine-passion-planet-ltd.jpg"
+  },
+  {
+    "id": "rs:2026-07-sat-the-art-of-health-and-wellbeing",
+    "sourceEventId": "2026-07-sat-the-art-of-health-and-wellbeing",
+    "title": "Panel: The art of health and wellbeing",
+    "desc": "Panel: The art of health and wellbeing",
+    "source": "RS",
+    "date": "2026-07-04T13:10:00+01:00",
+    "durationMin": 40,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Healthcare",
       "Open to all"
     ],
     "format": "In person",
     "match": 76,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-from-wardrobe-to-water/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/marine-debris.jpg"
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-the-art-of-health-and-wellbeing/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/art-of-health.jpg"
   },
   {
-    "id": "rs:2026-07-fri-rise-of-the-machines",
-    "sourceEventId": "2026-07-fri-rise-of-the-machines",
-    "title": "In conversation: The rise and rise of the machines",
-    "desc": "This panel discusses the possible achievements and challenges of supercomputing",
+    "id": "rs:2026-07-sat-how-life-thrives",
+    "sourceEventId": "2026-07-sat-how-life-thrives",
+    "title": "Talk: How life thrives in impossible places",
+    "desc": "Find out about life’s resilience and ingenuity under the harshest circumstances.",
     "source": "RS",
-    "date": "2026-07-03T15:10:00+01:00",
-    "durationMin": 40,
+    "date": "2026-07-04T14:10:00+01:00",
+    "durationMin": 30,
     "venue": "The Royal Society",
     "area": "Mayfair",
     "price": 0,
@@ -1152,26 +1187,7 @@
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-rise-of-the-machines/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/exhibits/supercomputer-sse-2026.jpg"
-  },
-  {
-    "id": "rs:2026-07-fri-gateway-to-history",
-    "sourceEventId": "2026-07-fri-gateway-to-history",
-    "title": "Panel: Science - a gateway to history",
-    "desc": "A panel discussing how archaeologists and historians use science",
-    "source": "RS",
-    "date": "2026-07-03T15:10:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/fri-gateway-to-history/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/gateway-to-past-atlantic.jpg"
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-how-life-thrives/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/how-life-thrives-in-impossible-places.jpg"
   }
 ]
