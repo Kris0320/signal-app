@@ -1,47 +1,5 @@
 [
   {
-    "id": "kcl:professor-rosa-hoekstra-inaugural-lecture",
-    "sourceEventId": "e9c4e5d8-a1bf-4e89-929c-62228ca6d65e",
-    "title": "Professor Rosa Hoekstra - Inaugural Lecture",
-    "desc": "Join us in celebrating Professor Hoekstra's inaugural lecture on 'Every Child Counts: Working collaboratively to improve support for children with developmental disabilities worldwide'",
-    "source": "KCL",
-    "date": "2026-07-02T17:30:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Public lecture",
-      "Health",
-      "Institute of Psychiatry, Psychology & Neuroscience"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/professor-rosa-hoekstra-inaugural-lecture",
-    "image": "https://www.kcl.ac.uk/newimages/main/rosa-inaugural.x6067ad38.png"
-  },
-  {
-    "id": "kcl:witnesses-experts-and-hearing-efficiency-advanced-best-practices-in-eliciting-and-presenting-evidence",
-    "sourceEventId": "0c97d476-f4fb-4821-8bc5-409c55d28f33",
-    "title": "Witnesses, experts and hearing efficiency: Advanced best practices in eliciting and presenting evidence",
-    "desc": "Join us for the eighth session in the International Construction Arbitration Perspectives on Best Practice series, hosted by the Centre of Construction Law & Dispute Resolution at King’s College London in collaboration with Pinsent Masons LLP.",
-    "source": "KCL",
-    "date": "2026-07-02T18:00:00",
-    "durationMin": 180,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Law",
-      "The Dickson Poon School of Law"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/witnesses-experts-and-hearing-efficiency-advanced-best-practices-in-eliciting-and-presenting-evidence",
-    "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/witnes2.x2642926e.PNG"
-  },
-  {
     "id": "kcl:emerging-perspectives-images-of-doctoral-research",
     "sourceEventId": "b1f63cba-21dd-4bcd-934f-a1bd78dd5f4d",
     "title": "Exhibition: Images of Doctoral Research",
@@ -373,7 +331,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211290/end-of-year-biomath-symposium/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209677",
@@ -460,7 +418,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211122/patient-safety-in-virtual-consultations-in-primary-care/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211375",
@@ -481,7 +439,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211375/gatp-seminar-niklas-garner-oxford-on-relative-semi-infinite-complexes-of-graded-unitary-voas/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211192",
@@ -590,7 +548,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210484/science-day-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210802",
