@@ -206,29 +206,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/squake-headshot-default_1782471961345_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:210251",
-    "sourceEventId": "210251",
-    "title": "Imperial @ Pride in London Parade",
-    "desc": "Register to march with the Pride Network for the Pride in London Parade!\n\nThe annual Pride in London Parade takes place on 4 July 2026.\n\nThis year, the Pride Network are teaming up with IQ (the student LGBTQ+ group), and we have 50 places available between us. We don’t yet know our exact marching time, but what we can promise is a brilliant day out. T‑shirts and refreshments will be provided.\n\nIf you’d like to take part, please register using the registration link. Places will be allocated on a first‑come basis.",
-    "source": "IC",
-    "date": "2026-07-04T11:00:00+01:00",
-    "durationMin": 420,
-    "venue": "Hyde Park Corner",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Equality",
-      "Diversity",
-      "LGBTQ",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210251/imperial-pride-in-london-parade/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/lgbtq-history-month-events-image_1779978709736_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:210601",
     "sourceEventId": "210601",
     "title": "BBSRC: Forward Strategy and Priorities",
@@ -439,7 +416,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211375/gatp-seminar-niklas-garner-oxford-on-relative-semi-infinite-complexes-of-graded-unitary-voas/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211192",
@@ -502,7 +479,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210788/number-theory-seminar-lior-bary-soroker/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:205249",
@@ -548,7 +525,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210484/science-day-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210802",
@@ -615,6 +592,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210875/gig-a-bites-mu-quartet/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ml-mu-quartet-2a_1781693022628_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211359",
+    "sourceEventId": "211359",
+    "title": "Celebrating metallurgy across 175 years of the Royal School of Mines",
+    "desc": "The Department of Materials Engineering Alloys team invites you to join a celebration of the rich metallurgical history of the Royal School of Mines as we mark its 175th anniversary. Bringing together current members, alumni and colleagues across the field, we will celebrate the contributions of the RSM community over the past 175 years and look to the future of metallurgy at Imperial.\n\nWe hope you can join us for a selection of talks and a chance to gather with our community over lunch on 10 July 2026.\n\nVenue: RSM G20 and G06\n\nDate and time: 11:00–14:00, Friday 10 July 2026\n\nFor more information about RSM 175 events, please see: https://www.imperial.ac.uk/rsm-175/",
+    "source": "IC",
+    "date": "2026-07-10T11:00:00+01:00",
+    "durationMin": 180,
+    "venue": "RSM G20 and RSM G06, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211359/celebrating-metallurgy-across-175-years-of-the-royal-school-of-mines/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/still-display-for-ground-floor-screens-5_1783006563320_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:whose-ai-is-it-anyway",
@@ -1018,63 +1016,6 @@
     "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/restricted-for-sse2026-use-photo-credit-joe-loncraine-passion-planet-ltd.jpg"
   },
   {
-    "id": "rs:2026-07-sat-crime-lab",
-    "sourceEventId": "2026-07-sat-crime-lab",
-    "title": "Activity: Crime lab",
-    "desc": "Get hands-on with forensic activities, including fingerprinting, blood splatter analysis, and chromatography",
-    "source": "RS",
-    "date": "2026-07-04T10:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-crime-lab/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/crime-lab.jpg"
-  },
-  {
-    "id": "rs:2026-07-sat-origin-colour",
-    "sourceEventId": "2026-07-sat-origin-colour",
-    "title": "Activity: The origin of colour",
-    "desc": "Get hands-on with their Lego spectrometer and find out how materials get their colour and how this links to their molecular structures..",
-    "source": "RS",
-    "date": "2026-07-04T10:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-origin-colour/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sat-origin-colour.jpg"
-  },
-  {
-    "id": "rs:2026-07-sat-viral-stories",
-    "sourceEventId": "2026-07-sat-viral-stories",
-    "title": "Activity: The viral stories written in our DNA",
-    "desc": "In this activity, you’ll find out how our shared history with viruses continues to shape life",
-    "source": "RS",
-    "date": "2026-07-04T10:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-viral-stories/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sat-written-dna.jpg"
-  },
-  {
     "id": "rs:2026-07-attenborough-documentary-screenings",
     "sourceEventId": "2026-07-attenborough-documentary-screenings",
     "title": "Film screening: The Summer Science Sir David Attenborough collection",
@@ -1094,12 +1035,88 @@
     "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-attenborough-wildlife.jpg"
   },
   {
-    "id": "rs:2026-07-sat-black-to-the-future",
-    "sourceEventId": "2026-07-sat-black-to-the-future",
-    "title": "In conversation: Black to the future with Joycelyn Longdon",
-    "desc": "Find out about the future of justice-led conservation technologies.",
+    "id": "rs:2026-07-sun-minds-miners",
+    "sourceEventId": "2026-07-sun-minds-miners",
+    "title": "Activity: Inspiring minds and miners for our future",
+    "desc": "Discover the history of china clay mining in Cornwall with Wheal Martyn Clay Works, the UK’s only china clay mining museum.",
     "source": "RS",
-    "date": "2026-07-04T11:00:00+01:00",
+    "date": "2026-07-05T09:30:00+01:00",
+    "durationMin": 510,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-minds-miners/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/inspiring-minds-and-miners.jpg"
+  },
+  {
+    "id": "rs:2026-07-sun-art-feathers",
+    "sourceEventId": "2026-07-sun-art-feathers",
+    "title": "Activity: The art and ingenuity of feathers",
+    "desc": "Create a bespoke artwork using traditional relief printing techniques with Pannett Art Gallery's family friendly drop-in workshop.",
+    "source": "RS",
+    "date": "2026-07-05T09:30:00+01:00",
+    "durationMin": 510,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-art-feathers/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-feathers.jpg"
+  },
+  {
+    "id": "rs:2026-07-sun-plants-breathe",
+    "sourceEventId": "2026-07-sun-plants-breathe",
+    "title": "Activity: How plants breathe - stomata under the microscope",
+    "desc": "In this activity, you’ll see stomata – the tiny pores plants use to breathe and eat – under the microscope.",
+    "source": "RS",
+    "date": "2026-07-05T09:30:00+01:00",
+    "durationMin": 510,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-plants-breathe/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-plants.jpg"
+  },
+  {
+    "id": "rs:2026-07-sun-cosmic-detectives",
+    "sourceEventId": "2026-07-sun-cosmic-detectives",
+    "title": "In conversation: Cosmic detectives",
+    "desc": "Join UK researchers from the Euclid mission and Simons Observatory Join the teams behind Euclid, the dark universe detective and Revealing the cosmos with the Simons Observatory as they discuss how they explore the history and composition of the universe.",
+    "source": "RS",
+    "date": "2026-07-05T11:00:00+01:00",
+    "durationMin": 40,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-cosmic-detectives/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-cosmic.jpg"
+  },
+  {
+    "id": "rs:2026-07-sun-perfect-coffee",
+    "sourceEventId": "2026-07-sun-perfect-coffee",
+    "title": "Talk: How to make the perfect cup of coffee",
+    "desc": "Join Professor Fabian Wadsworth to learn more about the espresso-making process",
+    "source": "RS",
+    "date": "2026-07-05T12:10:00+01:00",
     "durationMin": 30,
     "venue": "The Royal Society",
     "area": "Mayfair",
@@ -1109,36 +1126,36 @@
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-black-to-the-future/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/black-to-the-future.jpg"
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-perfect-coffee/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-coffee.jpg"
   },
   {
-    "id": "rs:2026-07-sat-how-the-internet-hijacked-our-health",
-    "sourceEventId": "2026-07-sat-how-the-internet-hijacked-our-health",
-    "title": "In conversation: How the internet hijacked our health",
-    "desc": "Explore the transformation of a healthcare system driven by online trends.",
+    "id": "rs:2026-07-sun-zsl-200",
+    "sourceEventId": "2026-07-sun-zsl-200",
+    "title": "In conversation: Zoological Society of London - 200 years",
+    "desc": "Join the ZSL leadership team to hear how conservation science has changed over two centuries, the role of the modern zoo and the future of nature recovery and conservation.",
     "source": "RS",
-    "date": "2026-07-04T12:00:00+01:00",
+    "date": "2026-07-05T13:00:00+01:00",
     "durationMin": 40,
     "venue": "The Royal Society",
     "area": "Mayfair",
     "price": 0,
     "tags": [
-      "Healthcare",
+      "Policy",
       "Open to all"
     ],
     "format": "In person",
-    "match": 82,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-how-the-internet-hijacked-our-health/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/how-the-internet-hijacked-our-health.jpg"
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-zsl-200/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/zsl.jpg"
   },
   {
-    "id": "rs:2026-07-sat-city-life",
-    "sourceEventId": "2026-07-sat-city-life",
-    "title": "Panel: City life",
-    "desc": "This panel will explore the species that thrive in the urban world, how their behaviours have changed and how we might better live alongside them.",
+    "id": "rs:2026-07-sun-grains-goo",
+    "sourceEventId": "2026-07-sun-grains-goo",
+    "title": "Panel: From grains to goo - how materials flow, stick and spread",
+    "desc": "In this discussion you’ll hear from researchers whose work is advancing our understanding of the materials that surround us.",
     "source": "RS",
-    "date": "2026-07-04T13:00:00+01:00",
+    "date": "2026-07-05T13:10:00+01:00",
     "durationMin": 40,
     "venue": "The Royal Society",
     "area": "Mayfair",
@@ -1148,46 +1165,27 @@
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-city-life/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/restricted-for-sse2026-use-photo-credit-joe-loncraine-passion-planet-ltd.jpg"
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-grains-goo/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-grains-goo.jpg"
   },
   {
-    "id": "rs:2026-07-sat-the-art-of-health-and-wellbeing",
-    "sourceEventId": "2026-07-sat-the-art-of-health-and-wellbeing",
-    "title": "Panel: The art of health and wellbeing",
-    "desc": "Panel: The art of health and wellbeing",
+    "id": "rs:2026-07-sun-anatomy",
+    "sourceEventId": "2026-07-sun-anatomy",
+    "title": "In conversation: Anatomy - old science meets new tech",
+    "desc": "From 3D imaging to artificial intelligence, hear from the scientists revealing new insights into ancient and modern species",
     "source": "RS",
-    "date": "2026-07-04T13:10:00+01:00",
+    "date": "2026-07-05T14:10:00+01:00",
     "durationMin": 40,
     "venue": "The Royal Society",
     "area": "Mayfair",
     "price": 0,
     "tags": [
-      "Healthcare",
+      "AI",
       "Open to all"
     ],
     "format": "In person",
     "match": 76,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-the-art-of-health-and-wellbeing/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/art-of-health.jpg"
-  },
-  {
-    "id": "rs:2026-07-sat-how-life-thrives",
-    "sourceEventId": "2026-07-sat-how-life-thrives",
-    "title": "Talk: How life thrives in impossible places",
-    "desc": "Find out about life’s resilience and ingenuity under the harshest circumstances.",
-    "source": "RS",
-    "date": "2026-07-04T14:10:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sat-how-life-thrives/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/how-life-thrives-in-impossible-places.jpg"
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-anatomy/",
+    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-anatomy.jpg"
   }
 ]
