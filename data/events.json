@@ -308,7 +308,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211290/end-of-year-biomath-symposium/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209677",
@@ -395,7 +395,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211122/patient-safety-in-virtual-consultations-in-primary-care/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211375",
@@ -479,7 +479,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210788/number-theory-seminar-lior-bary-soroker/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:205249",
@@ -525,7 +525,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210484/science-day-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210802",
@@ -782,27 +782,6 @@
     "image": "https://images.prismic.io/wellcomecollection/Zshsd0aF0TcGJWsV_EP_001983_095.jpg?auto=format%2Ccompress&rect=0%2C454%2C5566%2C3131&w=3200&h=1800"
   },
   {
-    "id": "wc:bsl-interpreted-tours-of-tenderness-and-rage",
-    "sourceEventId": "bsl-interpreted-tours-of-tenderness-and-rage",
-    "title": "BSL Interpreted Tours of Tenderness and Rage",
-    "desc": "Discover more about our exhibition ‘Tenderness and Rage’ on one of our BSL-interpreted tours.",
-    "source": "WC",
-    "date": "2026-07-04T10:30:00+00:00",
-    "durationMin": 600,
-    "venue": "Gallery 3",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Gallery tour",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/bsl-interpreted-tours-of-tenderness-and-rage",
-    "image": "https://images.prismic.io/wellcomecollection/airGyKlQnVZVEN55_BTG260520145210.jpg?auto=format%2Ccompress&w=3200&h=1800"
-  },
-  {
     "id": "rs:2026-09-path-to-quantum-gravity",
     "sourceEventId": "2026-09-path-to-quantum-gravity",
     "title": "The path to quantum gravity with causal sets",
@@ -995,44 +974,6 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/12/crossing-barriers/",
     "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
-  },
-  {
-    "id": "rs:2026-07-attenborough-weekend",
-    "sourceEventId": "2026-07-attenborough-weekend",
-    "title": "Attenborough at 100: a weekend of wildlife",
-    "desc": "A series of film talks, panels and screenings in celebration of Sir David Attenborough's 100th birthday",
-    "source": "RS",
-    "date": "2026-07-04T10:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/attenborough-weekend/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/restricted-for-sse2026-use-photo-credit-joe-loncraine-passion-planet-ltd.jpg"
-  },
-  {
-    "id": "rs:2026-07-attenborough-documentary-screenings",
-    "sourceEventId": "2026-07-attenborough-documentary-screenings",
-    "title": "Film screening: The Summer Science Sir David Attenborough collection",
-    "desc": "Screenings of a compilation of David Attenborough documentaries",
-    "source": "RS",
-    "date": "2026-07-04T10:10:00+01:00",
-    "durationMin": 150,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/attenborough-documentary-screenings/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-attenborough-wildlife.jpg"
   },
   {
     "id": "rs:2026-07-sun-minds-miners",
