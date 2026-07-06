@@ -290,27 +290,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/3-surgery_1613493229860_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211290",
-    "sourceEventId": "211290",
-    "title": "End-of-year Biomath Symposium",
-    "desc": "13:30-14:30 Jeremy Worsfold (UNSW) 14:30-15:00 Coffee Break 15:00-16:00 Steffen Rulands (LMU Munich) 16:00-17:00 Fabian Theis (Helmholtz Munich)",
-    "source": "IC",
-    "date": "2026-07-06T13:30:00+01:00",
-    "durationMin": 210,
-    "venue": "145, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Colloquium",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211290/end-of-year-biomath-symposium/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:209677",
     "sourceEventId": "209677",
     "title": "IDE Summer Show 2026",
@@ -357,8 +336,8 @@
   {
     "id": "ic:209801",
     "sourceEventId": "209801",
-    "title": "DoID Seminar Series: Dr Charlotte Uetrecht – Flying viruses: mass spectrometry meets X-rays",
-    "desc": "DoID seminar series (hybrid) join us for the next seminar this term\n\nBiography – Charlotte Uetrecht\n\nSince 2024, Dr. Charlotte Uetrecht is Full Professor for Chemistry at the University of Lübeck, co-director of the ICM and deputy director of CSSB. In 2026, she was promoted to scientific director of CSSB. The main lab is located at CSSB and co-financed by DESY. Furthermore, the group is associated with the Leibniz Institute of Virology (LIV). She specializes in studying large protein complexes, mostly of viral origin, with structural, especially native, mass spectrometry (MS) and free-electron lasers (FEL). For her MS-related developments, she received the Mattauch-Herzog Price of the German Mass Spec Society (DGMS) in 2022. She has (co‑) authored more than 70 peer-reviewed publications…",
+    "title": "DoID Seminar Series: Prof Charlotte Uetrecht – Flying viruses: mass spectrometry meets X-rays",
+    "desc": "DoID seminar series (hybrid)\n\njoin us for the next seminar this term\n\nBiography – Charlotte Uetrecht\n\nSince 2024, Dr. Charlotte Uetrecht is Full Professor for Chemistry at the University of Lübeck, co-director of the ICM and deputy director of CSSB. In 2026, she was promoted to scientific director of CSSB. The main lab is located at CSSB and co-financed by DESY. Furthermore, the group is associated with the Leibniz Institute of Virology (LIV). She specializes in studying large protein complexes, mostly of viral origin, with structural, especially native, mass spectrometry (MS) and free-electron lasers (FEL). For her MS-related developments, she received the Mattauch-Herzog Price of the German Mass Spec Society (DGMS) in 2022. She has (co‑) authored more than 70 peer-reviewed publications…",
     "source": "IC",
     "date": "2026-07-07T13:00:00+01:00",
     "durationMin": 60,
@@ -395,7 +374,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211122/patient-safety-in-virtual-consultations-in-primary-care/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211375",
@@ -416,7 +395,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211375/gatp-seminar-niklas-garner-oxford-on-relative-semi-infinite-complexes-of-graded-unitary-voas/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211192",
@@ -479,7 +458,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210788/number-theory-seminar-lior-bary-soroker/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:205249",
@@ -613,6 +592,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211359/celebrating-metallurgy-across-175-years-of-the-royal-school-of-mines/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/still-display-for-ground-floor-screens-5_1783006563320_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210804",
+    "sourceEventId": "210804",
+    "title": "Move Wimbledon – Red Ball Tennis",
+    "desc": "We will be hosting these events in ethos sports hall at South Kensington and Scalespace Muga at White City.",
+    "source": "IC",
+    "date": "2026-07-10T12:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Sports Hall, Ethos Sports Centre, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210804/move-wimbledon-red-ball-tennis-4/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/wimbledon_1781097307852_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:whose-ai-is-it-anyway",
