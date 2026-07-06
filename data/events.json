@@ -395,7 +395,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211122/patient-safety-in-virtual-consultations-in-primary-care/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211375",
@@ -416,7 +416,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211375/gatp-seminar-niklas-garner-oxford-on-relative-semi-infinite-complexes-of-graded-unitary-voas/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211192",
@@ -479,7 +479,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210788/number-theory-seminar-lior-bary-soroker/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:205249",
@@ -525,7 +525,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210484/science-day-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210802",
@@ -976,108 +976,51 @@
     "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
   },
   {
-    "id": "rs:2026-07-sun-minds-miners",
-    "sourceEventId": "2026-07-sun-minds-miners",
-    "title": "Activity: Inspiring minds and miners for our future",
-    "desc": "Discover the history of china clay mining in Cornwall with Wheal Martyn Clay Works, the UK’s only china clay mining museum.",
+    "id": "rs:2026-10-francis-crick-prize-lecture",
+    "sourceEventId": "2026-10-francis-crick-prize-lecture",
+    "title": "Francis Crick Prize Lecture: Pathogens and the power of evolution",
+    "desc": "Join us for the Francis Crick Prize Lecture delivered by Professor Kayla King",
     "source": "RS",
-    "date": "2026-07-05T09:30:00+01:00",
-    "durationMin": 510,
+    "date": "2026-10-14T18:30:00+01:00",
+    "durationMin": 60,
     "venue": "The Royal Society",
     "area": "Mayfair",
     "price": 0,
     "tags": [
       "Open to all"
     ],
-    "format": "In person",
+    "format": "In person + online",
     "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-minds-miners/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/inspiring-minds-and-miners.jpg"
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/francis-crick-prize-lecture/",
+    "image": "https://royalsociety.org/-/media/awards/francis-crick-medal/stock-image-2025--cropped.jpg"
   },
   {
-    "id": "rs:2026-07-sun-art-feathers",
-    "sourceEventId": "2026-07-sun-art-feathers",
-    "title": "Activity: The art and ingenuity of feathers",
-    "desc": "Create a bespoke artwork using traditional relief printing techniques with Pannett Art Gallery's family friendly drop-in workshop.",
+    "id": "rs:2026-11-croonian-prize-lecture",
+    "sourceEventId": "2026-11-croonian-prize-lecture",
+    "title": "Croonian Prize Lecture delivered by Dr David Baker",
+    "desc": "Join us for the Croonian Prize Lecture delivered by Dr David Baker",
     "source": "RS",
-    "date": "2026-07-05T09:30:00+01:00",
-    "durationMin": 510,
+    "date": "2026-11-03T18:30:00+01:00",
+    "durationMin": 60,
     "venue": "The Royal Society",
     "area": "Mayfair",
     "price": 0,
     "tags": [
       "Open to all"
     ],
-    "format": "In person",
+    "format": "In person + online",
     "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-art-feathers/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-feathers.jpg"
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/croonian-prize-lecture/",
+    "image": "https://royalsociety.org/-/media/about-us/hub-page/carlton-house-terrace-home-page.jpg"
   },
   {
-    "id": "rs:2026-07-sun-plants-breathe",
-    "sourceEventId": "2026-07-sun-plants-breathe",
-    "title": "Activity: How plants breathe - stomata under the microscope",
-    "desc": "In this activity, you’ll see stomata – the tiny pores plants use to breathe and eat – under the microscope.",
+    "id": "rs:2026-11-milner-prize-lecture",
+    "sourceEventId": "2026-11-milner-prize-lecture",
+    "title": "Milner Prize Lecture delivered by Professor Johan Håstad",
+    "desc": "Join us for the Royal Society Milner Prize Lecture delivered by Professor Johan H&#229;stad",
     "source": "RS",
-    "date": "2026-07-05T09:30:00+01:00",
-    "durationMin": 510,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-plants-breathe/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-plants.jpg"
-  },
-  {
-    "id": "rs:2026-07-sun-cosmic-detectives",
-    "sourceEventId": "2026-07-sun-cosmic-detectives",
-    "title": "In conversation: Cosmic detectives",
-    "desc": "Join UK researchers from the Euclid mission and Simons Observatory Join the teams behind Euclid, the dark universe detective and Revealing the cosmos with the Simons Observatory as they discuss how they explore the history and composition of the universe.",
-    "source": "RS",
-    "date": "2026-07-05T11:00:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-cosmic-detectives/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-cosmic.jpg"
-  },
-  {
-    "id": "rs:2026-07-sun-perfect-coffee",
-    "sourceEventId": "2026-07-sun-perfect-coffee",
-    "title": "Talk: How to make the perfect cup of coffee",
-    "desc": "Join Professor Fabian Wadsworth to learn more about the espresso-making process",
-    "source": "RS",
-    "date": "2026-07-05T12:10:00+01:00",
-    "durationMin": 30,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-perfect-coffee/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-coffee.jpg"
-  },
-  {
-    "id": "rs:2026-07-sun-zsl-200",
-    "sourceEventId": "2026-07-sun-zsl-200",
-    "title": "In conversation: Zoological Society of London - 200 years",
-    "desc": "Join the ZSL leadership team to hear how conservation science has changed over two centuries, the role of the modern zoo and the future of nature recovery and conservation.",
-    "source": "RS",
-    "date": "2026-07-05T13:00:00+01:00",
-    "durationMin": 40,
+    "date": "2026-11-12T18:30:00+01:00",
+    "durationMin": 60,
     "venue": "The Royal Society",
     "area": "Mayfair",
     "price": 0,
@@ -1085,48 +1028,9 @@
       "Policy",
       "Open to all"
     ],
-    "format": "In person",
+    "format": "In person + online",
     "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-zsl-200/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/zsl.jpg"
-  },
-  {
-    "id": "rs:2026-07-sun-grains-goo",
-    "sourceEventId": "2026-07-sun-grains-goo",
-    "title": "Panel: From grains to goo - how materials flow, stick and spread",
-    "desc": "In this discussion you’ll hear from researchers whose work is advancing our understanding of the materials that surround us.",
-    "source": "RS",
-    "date": "2026-07-05T13:10:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-grains-goo/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-grains-goo.jpg"
-  },
-  {
-    "id": "rs:2026-07-sun-anatomy",
-    "sourceEventId": "2026-07-sun-anatomy",
-    "title": "In conversation: Anatomy - old science meets new tech",
-    "desc": "From 3D imaging to artificial intelligence, hear from the scientists revealing new insights into ancient and modern species",
-    "source": "RS",
-    "date": "2026-07-05T14:10:00+01:00",
-    "durationMin": 40,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "AI",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 76,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/07/sun-anatomy/",
-    "image": "https://royalsociety.org/-/media/summer-science-exhibition/2026/additional-programme/sun-anatomy.jpg"
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/milner-prize-lecture/",
+    "image": "https://royalsociety.org/-/media/about-us/hub-page/carlton-house-terrace-home-page.jpg"
   }
 ]
