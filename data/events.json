@@ -183,26 +183,6 @@
     "image": "https://www.kcl.ac.uk/newimages/ah/choir-music.x830b98a0.jpg?w=780&h=520&crop=780,440,0,0"
   },
   {
-    "id": "ic:210601",
-    "sourceEventId": "210601",
-    "title": "BBSRC: Forward Strategy and Priorities",
-    "desc": "**VENUE CHANGE: Please note that this event will now take place in room WCMUH 1202, Level 12, Sir Michael Uren Hub, White City Campus**\n\nPlease note that pre-registration is required for this event.\n\nImperial is pleased to welcome Professor Anne Ferguson-Smith, Executive Chair of the Biotechnology and Biological Sciences Research Council (BBSRC), for a special event exploring BBSRC’s future strategy and priorities for the UK bioscience research community.\n\nThe session will begin with a short presentation from Professor Mary Ryan, Vice-Provost (Research and Enterprise), outlining Imperial’s Strategy. This will be followed by a presentation from Professor Ferguson-Smith on BBSRC’s forward strategy, funding priorities, and vision for the future of bioscience research.\n\nThe event will…",
-    "source": "IC",
-    "date": "2026-07-08T10:30:00+01:00",
-    "durationMin": 60,
-    "venue": "WCMUH 1202, Sir Michael Uren Hub, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "General",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210601/bbsrc-forward-strategy-and-priorities/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/2026-06-09-bbsrc-event-header_1781010227414_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:209683",
     "sourceEventId": "209683",
     "title": "Cleantech Innovation MSc 2026 Show",
@@ -246,93 +226,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:209677",
-    "sourceEventId": "209677",
-    "title": "IDE Summer Show 2026",
-    "desc": "The IDE programme is a double master’s degree delivered jointly by the Dyson School of Design Engineering (Imperial College London) and the Royal College of Art . With 45 years of history, IDE has a proud legacy of producing groundbreaking innovations.\n\nThe work in the show focuses on individual student projects work carried out over the last six months and highlights their passion for creating positive change, their abilities in identifying challenges and opportunities, their creativity in developing new ideas, and their skills in designing, developing and validating new solutions.\n\nThis year, there is an impressive diversity of projects, organised across six themes:\n\nLIVING SYSTEMS: From flora to fauna, looking beyond human design\n\nBODY INTELLIGENCE: Understanding the self through…",
-    "source": "IC",
-    "date": "2026-07-07T10:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Imperial Main Entrance, Main Entrance, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Exhibition",
-      "Art exhibition",
-      "Students",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209677/ide-summer-show-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/eventbrite-banner-6_1778758922199_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211122",
-    "sourceEventId": "211122",
-    "title": "Patient Safety in Virtual Consultations in Primary Care",
-    "desc": "Ulrik will present findings exploring patient safety in virtual primary care consultations. Drawing on ongoing collaborative research between Imperial College London and Aarhus University, to examine how patient safety can be conceptualised, measured, and and improved in digitally enabled healthcare",
-    "source": "IC",
-    "date": "2026-07-08T11:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Room 204, School of Public Health, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Public health",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211122/patient-safety-in-virtual-consultations-in-primary-care/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211375",
-    "sourceEventId": "211375",
-    "title": "GATP Seminar – Niklas Garner (Oxford): On Relative Semi-infinite Complexes of Graded Unitary VOAs",
-    "desc": "The vertex operator algebras (VOAs) appearing in the 4d SCFT/VOA correspondence possess many interesting properties, often of a rather geometric flavor. As shown in work of Ardehali, Beem, Lemos, and Rastelli (arXiv:2507.23781), unitarity of the underlying SCFT has an imprint on this VOA, leading the notion of graded unitarity. After reviewing their construction, I will describe several consequences in the context of gauge theories, where the resulting semi-infinite complexes bear a striking resemblance to the de Rham complex of a compact Kähler manifolds. This talk is based on arXiv:2509.10364 with C. Beem.",
-    "source": "IC",
-    "date": "2026-07-08T11:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Huxley 658, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211375/gatp-seminar-niklas-garner-oxford-on-relative-semi-infinite-complexes-of-graded-unitary-voas/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211192",
-    "sourceEventId": "211192",
-    "title": "Structures Seminars – Prof. James M. Ricles (Lehigh University): Seismic Resilience of Buildings with Nonlinear Viscous Dampers Using Real-Time Hybrid Simulation",
-    "desc": "Abstract:\n\nReal-time hybrid simulation (RTHS) is an advanced cyber-physical simulation technique that combines physical testing with computational modeling to evaluate the dynamic response of structural systems subjected to extreme hazards. Components that are difficult to model accurately are tested experimentally, while the remainder of the structure is represented numerically. The physical and numerical substructures are coupled in real time through their interface degrees of freedom, enabling realistic assessment of complete structural systems and response modification devices. Lehigh University hosts the NSF-funded Natural Hazards Engineering Research Infrastructure (NHERI) Lehigh Experimental Facility, which specializes in large-scale, multi-directional RTHS. This presentation…",
-    "source": "IC",
-    "date": "2026-07-08T12:00:00+01:00",
-    "durationMin": 60,
-    "venue": "SKEM 207, Skempton Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211192/structures-seminars-prof-james-ricles-lehigh-university-seismic-resilience-of-buildings-with-nonlinear-viscous-dampers-using-real-time-hybrid-simulation/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sseminars_1630080320563_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211357",
     "sourceEventId": "211357",
     "title": "AI for Healthcare Centre – Embracing the Future of AI in Healthcare 2026",
@@ -372,7 +265,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210788/number-theory-seminar-lior-bary-soroker/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:205249",
@@ -398,6 +291,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-image-imperial-events-page_1770118314815_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:211450",
+    "sourceEventId": "211450",
+    "title": "Scott Warrander (Glasgow) – Stable Envelopes and Quantum Affine Algebras",
+    "desc": "Stable envelopes were introduced by Maulik and Okounkov in cohomology, then by Okounkov and Smirnov in K-theory, to provide geometric constructions of R-matrices with spectral parameters (among other applications, such as in enumerative geometry). In the cohomology case this story applies to Yangians, while the K-theory case is concerned with quantum affine algebras. In this talk we will introduce stable envelopes in the context of equivariant K-theory of Nakajima quiver varieties. We will then see how they can be applied to studying quantum affine algebras, building to the definition of the so called Maulik-Okounkov quantum affine algebra.",
+    "source": "IC",
+    "date": "2026-07-09T11:00:00+01:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211450/scott-warrander-glasgow-stable-envelopes-and-quantum-affine-algebras/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:210484",
     "sourceEventId": "210484",
     "title": "Science Day 2026",
@@ -418,7 +332,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210484/science-day-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210802",
@@ -570,7 +484,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211047/spc-seminar-climate-anubhab-roy-iit-madras/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208954",
@@ -593,6 +507,50 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/208954/icb-cdt-chemical-biology-conference-2026/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/landscape-promo_1776949656734_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209462",
+    "sourceEventId": "209462",
+    "title": "CPE Annual Symposium 2026",
+    "desc": "We are inviting abstracts for poster presentations. Please send to: cpe-admin@imperial.ac.uk .\n\nT he RSC is offering three £100 RSC book vouchers from Materials Horizons , Journal of Materials Chemistry C and RSC Applied Interfaces for poster prizes.\n\nAgenda and abstracts will be posted as they are received.\n\nAttendance is free, but we ask that you do register: Registration for the 2026 CPE Annual Symposium – Fill in form\n\n13 July 2026\n\n9.30 Arrival tea/coffee\n\n9.50 Welcome remarks, Prof Felice Torrisi\n\nSession 1\n\n10.00 Prof Erwin Reisner, University of Cambridge , Solar chemical technologies for the upcycling of CO2, biomass and plastics\n\n10.30 Prof Bob C Schroeder, University College London , Beyond bandgap engineering: spin polarisation in organic semiconductors for photocatalytic…",
+    "source": "IC",
+    "date": "2026-07-13T09:30:00+01:00",
+    "durationMin": 480,
+    "venue": "B10, Molecular Sciences Research Hub (MSRH), White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Symposium",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209462/cpe-annual-symposium-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/cpe-banner-desktop-2000-x-2000-240325-cjwade_1780910874724_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209681",
+    "sourceEventId": "209681",
+    "title": "Contextual Design Engineering – DE MSc 2026 Show",
+    "desc": "The show celebrates the graduating cohort of the MSc Design Engineering programme, presenting projects at the intersection of engineering and design: creative, transdisciplinary, and built for real-world impact.\n\nThis year’s theme, “Designing for Ageing Futures”, explores how design and technology can respond to the opportunities and challenges of an ageing world. From a compact rowing resistance trainer and a music-led tabletop game to finger trainer designed to support dexterity – discover projects built to support wellbeing at every stage of life.\n\nJoin our students and see how design engineering can help us build better futures — register now!",
+    "source": "IC",
+    "date": "2026-07-13T10:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Imperial Main Entrance, Main Entrance, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Exhibition",
+      "Art exhibition",
+      "Students",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209681/contextual-design-engineering-de-msc-2026-show/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/msc-des-eng-show-2026-eventbrite_1780302731811_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:whose-ai-is-it-anyway",
