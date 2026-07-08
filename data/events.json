@@ -183,29 +183,6 @@
     "image": "https://www.kcl.ac.uk/newimages/ah/choir-music.x830b98a0.jpg?w=780&h=520&crop=780,440,0,0"
   },
   {
-    "id": "ic:211026",
-    "sourceEventId": "211026",
-    "title": "Medical innovations from the genome revolution: liquid biopsies",
-    "desc": "The Institute of Global Health Innovation and the Department of Bioengineering are delighted to host a guest lecture by Professor Stephen Quake, one of the world’s most distinguished bioengineers.\n\nIn this talk, Professor Quake will draw on his pioneering work in microfluidics, genomics, and molecular diagnostics to explore how the genomic revolution is transforming clinical medicine through liquid biopsies and what that means for the future of disease detection and patient care.\n\nAbout the speaker\n\nProfessor Stephen Quake is the Lee Otterson Professor of Bioengineering and Applied Physics at Stanford University. He has received numerous awards for his contributions to science and is one of only two dozen scientists elected to all three National Academies.\n\nPreviously he was the Head of…",
-    "source": "IC",
-    "date": "2026-07-07T18:15:00+01:00",
-    "durationMin": 75,
-    "venue": "LTG34, Sir Alexander Fleming Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Genomics",
-      "Medicine",
-      "Engineering",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211026/medical-innovations-from-the-genome-revolution-liquid-biopsies/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/squake-headshot-default_1782471961345_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:210601",
     "sourceEventId": "210601",
     "title": "BBSRC: Forward Strategy and Priorities",
@@ -311,7 +288,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211122/patient-safety-in-virtual-consultations-in-primary-care/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211375",
@@ -441,7 +418,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210484/science-day-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210802",
@@ -570,7 +547,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211042/fluid-dynamics-seminar-anubhab-roy-pmmh-espci/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211047",
@@ -593,7 +570,29 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211047/spc-seminar-climate-anubhab-roy-iit-madras/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:208954",
+    "sourceEventId": "208954",
+    "title": "ICB CDT Chemical Biology Conference 2026",
+    "desc": "Join the Institute of Chemical Biology Centre for Doctoral Training for our annual Chemical Biology Conference on 13th July 2026 .\n\nThe day will include talks from invited speakers such as Alessio Ciulli (University of Dundee), Roslyn Bill (Aston University), and Aatikah Majid (Johns Hopkins). We will be hosting a poster session and flash talks to feature research by PhD students.\n\nOur conference is open to university students, postdocs, academics, and industrial researchers.\n\nRegistration deadline: 3 July 2026\n\nPoster abstract submission form: https://forms.gle/Nr2FFPypzChARjCm9\n\nPoster/flash talk abstract deadline: 19 June 2026",
+    "source": "IC",
+    "date": "2026-07-13T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "SAF LT G34, Sir Alexander Fleming Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Chemistry",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208954/icb-cdt-chemical-biology-conference-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/landscape-promo_1776949656734_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:whose-ai-is-it-anyway",
