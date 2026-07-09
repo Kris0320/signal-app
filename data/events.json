@@ -226,71 +226,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211357",
-    "sourceEventId": "211357",
-    "title": "AI for Healthcare Centre – Embracing the Future of AI in Healthcare 2026",
-    "desc": "Since 2021, this event has brought together pioneers from across technology, healthcare, and regulations to discuss how AI can be deployed safely and with positive impact in medical settings. This event is suitable for researchers, HealthTech innovators, policymakers, clinicians, investors, or anyone interested in the evolving role of AI in health. Through talks and interactive discussions, attendees will engage with the latest thinking on innovation, regulation, safety and real-world implementation of AI in health.\n\nAs Professor Aldo Faisal, Director of the AI for Healthcare Centres, explains: “To really create positive impact with AI for healthcare, we must focus on rigorous science, thoughtful regulation, and collaboration across disciplines.”\n\nSpeakers Ele Harwich Ele’s work focuses…",
-    "source": "IC",
-    "date": "2026-07-08T12:00:00+01:00",
-    "durationMin": 270,
-    "venue": "Lecture Theatre G16, Sir Alexander Fleming Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211357/ai-for-healthcare-centre-embracing-the-future-of-ai-in-healthcare-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250924-ai-for-healthcare-centres-industry-day-eb-028_1783006046740_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210788",
-    "sourceEventId": "210788",
-    "title": "Number Theory Seminar – Lior Bary-Soroker",
-    "desc": "Lior Bary-Soroker: Generic Manin–Mumford\n\nMore information available on the Number Theory seminar website",
-    "source": "IC",
-    "date": "2026-07-08T16:00:00+01:00",
-    "durationMin": 60,
-    "venue": "King's College",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210788/number-theory-seminar-lior-bary-soroker/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:205249",
-    "sourceEventId": "205249",
-    "title": "When mathematics meets medicine",
-    "desc": "Step into the intersection of mathematics and medicine with Professor Reiko Tanaka, revealing how equations can explain disease and treatment.\n\nAbstract:\n\nCan mathematics help us understand why diseases like eczema affect people so differently? How can computers reveal why some treatments work for certain patients but not others? In this lecture, I will share my journey from control theory and engineering into the world of computational biology and medicine: a path that has been both unexpected and deeply rewarding.\n\nI will describe how my research group develops mathematical models and computational approaches to decode the complexity of biological systems and human disease. Our bodies are remarkable control systems: they constantly sense changes, process information, and adjust…",
-    "source": "IC",
-    "date": "2026-07-08T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "G20, Ground floor, Royal School Of Mines, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "maths",
-      "Medicine",
-      "Women at Imperial",
-      "Women in STEM"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/205249/when-mathematics-meets-medicine/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-image-imperial-events-page_1770118314815_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211450",
     "sourceEventId": "211450",
     "title": "Scott Warrander (Glasgow) – Stable Envelopes and Quantum Affine Algebras",
@@ -309,7 +244,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211450/scott-warrander-glasgow-stable-envelopes-and-quantum-affine-algebras/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210484",
@@ -461,7 +396,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211042/fluid-dynamics-seminar-anubhab-roy-pmmh-espci/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211047",
@@ -484,7 +419,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211047/spc-seminar-climate-anubhab-roy-iit-madras/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208954",
@@ -553,47 +488,69 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/msc-des-eng-show-2026-eventbrite_1780302731811_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "lse:whose-ai-is-it-anyway",
-    "sourceEventId": "whose-ai-is-it-anyway",
-    "title": "Whose AI is it anyway? Data, sovereignty, and the geopolitics of intelligence",
-    "desc": "Whose AI is it anyway? Data, sovereignty, and the geopolitics of intelligence",
-    "source": "LSE",
-    "date": "2026-07-08T18:30:00+01:00",
-    "durationMin": 120,
-    "venue": "LSE campus",
-    "area": "Holborn",
+    "id": "ic:210933",
+    "sourceEventId": "210933",
+    "title": "Paediatric patient safety, quality and equity",
+    "desc": "Improving patient safety for children and young people requires not only robust measurement systems, but also intentional integration of patient and family voices into care.\n\nIn this one‑hour hybrid seminar, Dr Naomi Bardach – Professor of Pediatrics and Policy at the University of California, San Francisco, and Vice Chair of Health Services Research in Pediatrics – will present highlights from her nationally recognised research programme focused on paediatric patient safety, quality, and equity.\n\nDr Bardach will share work from her NICHD‑funded research examining inpatient safety events reported directly by patients and families using mobile technology, and how rapidly sharing these observations with hospital staff can drive meaningful safety improvements.\n\nDrawing on her experience…",
+    "source": "IC",
+    "date": "2026-07-14T10:00:00+01:00",
+    "durationMin": 60,
+    "venue": "10th floor boardroom, Queen Elizabeth The Queen Mother Wing, St Mary's Campus",
+    "area": "St Mary's",
     "price": 0,
     "tags": [
-      "AI",
-      "Data science",
+      "Seminar",
+      "child health",
+      "Centre for Paediatrics and Child Health",
+      "Event",
       "Open to all"
     ],
     "format": "In person",
-    "match": 74,
-    "url": "https://www.lse.ac.uk/dsi/events/2025-26/public-events/whose-ai-is-it-anyway",
-    "image": null
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210933/paediatric-patient-safety-quality-and-equity/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/naomi-bardach_1781806048907_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "lse:london-data-week",
-    "sourceEventId": "london-data-week",
-    "title": "London Data Week at LSE",
-    "desc": "London Data Week (LDW) is a citywide, week-long public festival of data. Different organisations across London design and host public events over the week of the festival. This year the DSI is a partner of LDW, co-hosting a day of activities on Wednesday 8th July in collaboration with the King&#x27;s Institute for Artificial Intelligence. The day is comprised of four sessions. Three events during the day, organised by EAST2046, Bionic Awards and the Tesseract Academy will take place on the LSE campus.",
-    "source": "LSE",
-    "date": "2026-07-08T11:00:00+01:00",
-    "durationMin": 480,
-    "venue": "London Data Week at LSE",
-    "area": "Holborn",
+    "id": "ic:211445",
+    "sourceEventId": "211445",
+    "title": "Summer Network Event for Functional Genomics",
+    "desc": "We’re delighted to invite you to our Summer Network Event for Functional Genomics, taking place on July 14, 2026 from 4-6pm, at 170 Queens Gate Council Room. There will be free drinks!\n\nThis informal get-together is a chance to come together as a network, catch up with colleagues, and celebrate the year’s activities.\n\nThe event will include:\n\nA poster session showcasing research from network participants — a great opportunity to share your work and connect with others across the network\n\nA look back at the year’s activities, and a chance to share your feedback and ideas to help shape our plans for the year ahead\n\nCatering and refreshments throughout\n\nWe warmly encourage everyone to bring along a poster they’ve presented recently — whether at a conference, symposium, or elsewhere — so we…",
+    "source": "IC",
+    "date": "2026-07-14T14:00:00+01:00",
+    "durationMin": 240,
+    "venue": "Council Room, 170 Queens Gate, South Kensington Campus",
+    "area": "South Kensington",
     "price": 0,
     "tags": [
-      "AI",
-      "Data science",
-      "artificial intelligence",
+      "Social",
+      "Event",
       "Open to all"
     ],
     "format": "In person",
-    "match": 74,
-    "url": "https://www.lse.ac.uk/dsi/events/2025-26/public-events/london-data-week",
-    "image": null
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211445/summer-network-event-for-functional-genomics/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209528",
+    "sourceEventId": "209528",
+    "title": "Africa Innovates Conference 2026: New Scientific and Developmental Frontiers",
+    "desc": "Africa Innovates is a conference that aims to promote internal collaborations between Africa-focused Science, Policy and Education initiatives at Imperial and build bridges with external partners, focusing specifically on STEMB (Science, Technology, Engineering, Medicine and Business). Africa Innovates cultivates an interdisciplinary dialogue for key researchers, shapers, and decision-makers to explore innovative ideas of how to address some of the grand challenges that African societies are facing today. This conference will showcase some of the Africa-focused activities currently taking place at Imperial.\n\nThe 2026 conference will feature a dynamic mix of plenary sessions, breakout discussions, lightning talks, and poster presentations. Plenary sessions will encourage reflective…",
+    "source": "IC",
+    "date": "2026-07-15T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Lecture Theatre 200, City and Guilds Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209528/africa-innovates-conference-2026-new-scientific-and-developmental-frontiers/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/screenshot-2026-05-11-153740-xxx_1778510274462_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:the-coming-of-age-symposium",
