@@ -19,6 +19,40 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/imkagesofresearch2026.x5f19f042.jpg?w=781&h=440&crop=780,440,1,0"
   },
   {
+    "id": "kcl:undergraduate-info-session-clearing-4-august-2026",
+    "sourceEventId": "32e7b35a-eafc-4988-99da-294d40fcdd98",
+    "title": "Applying to King's through Clearing",
+    "desc": "Find out more about applying to King’s through Clearing in 2026",
+    "source": "KCL",
+    "date": "2026-08-04T16:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-clearing-4-august-2026",
+    "image": "https://www.kcl.ac.uk/departmentalimages/careers/kcl-photoshoot-students-working-in-library.x484a5d75.png?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:undergraduate-info-session-clearing-6-august-2026",
+    "sourceEventId": "a8465727-0284-4bbe-b076-f1be371044bf",
+    "title": "Applying to King's through Clearing",
+    "desc": "Find out more about applying to King’s through Clearing in 2026",
+    "source": "KCL",
+    "date": "2026-08-06T13:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-clearing-6-august-2026",
+    "image": "https://www.kcl.ac.uk/departmentalimages/careers/kcl-photoshoot-students-working-in-library.x484a5d75.png?w=780&h=520&crop=780,440,0,40"
+  },
+  {
     "id": "kcl:kings-foundations-offer-holder-visa-session-6-august-2026",
     "sourceEventId": "905684e8-2e48-435f-97fe-8daabfa80e51",
     "title": "King’s International Foundation Offer Holder event – applying for your Student visa –  6 August 2026",
@@ -226,27 +260,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211450",
-    "sourceEventId": "211450",
-    "title": "Scott Warrander (Glasgow) – Stable Envelopes and Quantum Affine Algebras",
-    "desc": "Stable envelopes were introduced by Maulik and Okounkov in cohomology, then by Okounkov and Smirnov in K-theory, to provide geometric constructions of R-matrices with spectral parameters (among other applications, such as in enumerative geometry). In the cohomology case this story applies to Yangians, while the K-theory case is concerned with quantum affine algebras. In this talk we will introduce stable envelopes in the context of equivariant K-theory of Nakajima quiver varieties. We will then see how they can be applied to studying quantum affine algebras, building to the definition of the so called Maulik-Okounkov quantum affine algebra.",
-    "source": "IC",
-    "date": "2026-07-09T11:00:00+01:00",
-    "durationMin": 60,
-    "venue": "410, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211450/scott-warrander-glasgow-stable-envelopes-and-quantum-affine-algebras/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:210484",
     "sourceEventId": "210484",
     "title": "Science Day 2026",
@@ -267,50 +280,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210484/science-day-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210802",
-    "sourceEventId": "210802",
-    "title": "Move Wimbledon – Red Ball Tennis",
-    "desc": "We will be hosting these events in ethos sports hall at South Kensington and Scalespace Muga at White City.",
-    "source": "IC",
-    "date": "2026-07-09T12:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Muga, Scale Space, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210802/move-wimbledon-red-ball-tennis-3/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/wimbledon_1781097307852_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209118",
-    "sourceEventId": "209118",
-    "title": "Dr Jaime Agudo-Canalejo: Self-organisation through nonequilibrium catalytic activity",
-    "desc": "Self-organisation through nonequilibrium catalytic activity",
-    "source": "IC",
-    "date": "2026-07-09T15:00:00+01:00",
-    "durationMin": 60,
-    "venue": "RSM-228, Royal School Of Mines, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Physics of Life",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209118/agudo-canelo-self-organisation/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/250915-j-tye-ucl-393-biophysics-ipls-2266_1777461641761_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210875",
@@ -396,7 +366,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211042/fluid-dynamics-seminar-anubhab-roy-pmmh-espci/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211047",
@@ -419,7 +389,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211047/spc-seminar-climate-anubhab-roy-iit-madras/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208954",
@@ -529,7 +499,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211445/summer-network-event-for-functional-genomics/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209528",
@@ -551,6 +521,73 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209528/africa-innovates-conference-2026-new-scientific-and-developmental-frontiers/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/screenshot-2026-05-11-153740-xxx_1778510274462_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209753",
+    "sourceEventId": "209753",
+    "title": "London Surgical Symposium 2026",
+    "desc": "An educational forum for international experts on surgical innovation to discuss advances in a diverse range of topics in surgery.\n\nLSS is an annual surgical conference run by the Department of Surgery and Cancer at Imperial, bringing together students, trainees, scientists, allied health professionals. This free, inclusive educational forum brings international experts on surgical innovation to London to discuss advances in a diverse range of topics in surgery.\n\nWe are excited to announce that this year‘s LSS theme will be S urgical management of advanced cancer.\n\nDate: Wednesday 15 July 2026 Time: 12:30 – 17:30 Venue: Lecture Theatre 2, Wolfson Education Centre Hammersmith Campus, Du Cane Road London, W12 0HS",
+    "source": "IC",
+    "date": "2026-07-15T12:30:00+01:00",
+    "durationMin": 300,
+    "venue": "Lecture Theatre 2, Wolfson Education Centre, Hammersmith Campus",
+    "area": "Hammersmith",
+    "price": 0,
+    "tags": [
+      "Symposium",
+      "Surgery",
+      "Clinician/clinicians",
+      "Medicine",
+      "ECRI"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209753/london-surgical-symposium-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/lss-2026_1779107928672_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210731",
+    "sourceEventId": "210731",
+    "title": "Social Rounders",
+    "desc": "Join this Social Rounders session for a fun and relaxed way to get active, have some fresh air and meet others from across Imperial.\n\nDon’t worry if you haven’t played before, the rules are simple and we will provide everyone with a briefing before with friendly reminders during the session.\n\nNo experience is needed – just come along, have fun, and get involved.",
+    "source": "IC",
+    "date": "2026-07-15T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Wormward Scrubs",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210731/social-rounders/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/rounders-sets-2_1781003405666_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:198714",
+    "sourceEventId": "198714",
+    "title": "Weird Weather: The rise of climate conspiracy theories & disinformation",
+    "desc": "From blistering heatwaves to record-breaking rainfall and unseasonal cold snaps, our weather is becoming more erratic and extreme. But as our weather gets weirder, so do the stories surrounding it.\n\nJoin the Grantham Institute for a thought-provoking discussion on the rise of conspiracy theories and disinformation about our changing climate.\n\n​Hear from two experts in the field: Simon Clark , YouTuber and Atmospheric Physicist, and Pallavi Sethi , Climate Change Misinformation Policy Fellow at the Grantham Research Institute, LSE. Together, they’ll unpack how mis- and disinformation are shaping people’s perceptions of the climate crisis and explore what this means for how climate science is talked about in the media, politics and everyday life.\n\n​Limited seating; advance registration…",
+    "source": "IC",
+    "date": "2026-07-16T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Dyson Library, Dyson Building of Design Engineering, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Climate change",
+      "Sustainability",
+      "Science communication",
+      "Natural Sciences"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/198714/weird-weather-the-rise-of-climate-conspiracies-and-disinformation/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:the-coming-of-age-symposium",
@@ -675,6 +712,47 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/discovering-our-collections-through-maps",
     "image": "https://images.prismic.io/wellcomecollection/Zshsd0aF0TcGJWsV_EP_001983_095.jpg?auto=format%2Ccompress&rect=0%2C454%2C5566%2C3131&w=3200&h=1800"
+  },
+  {
+    "id": "wc:join-us-for-alow-stimopening-of-the-exhibitions-au",
+    "sourceEventId": "join-us-for-alow-stimopening-of-the-exhibitions-au",
+    "title": "Low-stim Openings of the 'Audrey Amiss' and 'Rudy Lowe' exhibitions",
+    "desc": "Come to a special opening of Wellcome Collection to see the 'Audrey Amiss' and Rudy Lowe' exhibitions in a calm, low-stim environment.",
+    "source": "WC",
+    "date": "2026-08-06T17:00:00+00:00",
+    "durationMin": 600,
+    "venue": "Gallery 2",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Session",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/join-us-for-alow-stimopening-of-the-exhibitions-au",
+    "image": "https://images.prismic.io/wellcomecollection/x5e8IktXGNnNYqus_EP3629_0022.jpg?auto=format%2Ccompress&rect=0%2C91%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:handle-with-care-aug-2026",
+    "sourceEventId": "handle-with-care-aug-2026",
+    "title": "Handle with Care: Conversations Through Objects",
+    "desc": "Join our Visitor Experience and Engagement team for a drop-in object-handling session, where you can get up close to some of the items in our collection.",
+    "source": "WC",
+    "date": "2026-08-08T12:00:00+00:00",
+    "durationMin": 120,
+    "venue": "The Forum",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Session",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/handle-with-care-aug-2026",
+    "image": "https://images.prismic.io/wellcomecollection/ZtmF1bzzk9ZrXB24_EP_002108_037.jpg?auto=format%2Ccompress&rect=446%2C527%2C3540%2C1991&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
