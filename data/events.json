@@ -260,92 +260,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211359",
-    "sourceEventId": "211359",
-    "title": "Celebrating metallurgy across 175 years of the Royal School of Mines",
-    "desc": "The Department of Materials Engineering Alloys team invites you to join a celebration of the rich metallurgical history of the Royal School of Mines as we mark its 175th anniversary. Bringing together current members, alumni and colleagues across the field, we will celebrate the contributions of the RSM community over the past 175 years and look to the future of metallurgy at Imperial.\n\nWe hope you can join us for a selection of talks and a chance to gather with our community over lunch on 10 July 2026.\n\nVenue: RSM G20 and G06\n\nDate and time: 11:00–14:00, Friday 10 July 2026\n\nFor more information about RSM 175 events, please see: https://www.imperial.ac.uk/rsm-175/",
-    "source": "IC",
-    "date": "2026-07-10T11:00:00+01:00",
-    "durationMin": 180,
-    "venue": "RSM G20 and RSM G06, Royal School Of Mines, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211359/celebrating-metallurgy-across-175-years-of-the-royal-school-of-mines/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/still-display-for-ground-floor-screens-5_1783006563320_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210804",
-    "sourceEventId": "210804",
-    "title": "Move Wimbledon – Red Ball Tennis",
-    "desc": "We will be hosting these events in ethos sports hall at South Kensington and Scalespace Muga at White City.",
-    "source": "IC",
-    "date": "2026-07-10T12:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Sports Hall, Ethos Sports Centre, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210804/move-wimbledon-red-ball-tennis-4/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/wimbledon_1781097307852_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211042",
-    "sourceEventId": "211042",
-    "title": "Fluid Dynamics Seminar: Anubhab Roy (IIT Madras)",
-    "desc": "Collisions of cloud droplets: non-continuum lubrication and the warm-rain size gap",
-    "source": "IC",
-    "date": "2026-07-10T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "139, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211042/fluid-dynamics-seminar-anubhab-roy-pmmh-espci/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211047",
-    "sourceEventId": "211047",
-    "title": "SPC Seminar – Climate – Anubhab Roy (IIT Madras)",
-    "desc": "A few references to our work that the talk draws on:\n\n1. Dhanasekaran, Roy & Koch, Collision rate of bidisperse spheres settling in a compressional non-continuum gas flow, J. Fluid Mech. 910, A10 (2021). https://doi.org/10.1017/jfm.2020.942\n\n2. Dhanasekaran, Roy & Koch, Collision rate of bidisperse, hydrodynamically interacting spheres settling in a turbulent flow, J. Fluid Mech. 912, A5 (2021). https://doi.org/10.1017/jfm.2020.1113\n\n3. Patra, Koch & Roy, Collision efficiency of non-Brownian spheres in a simple shear flow – the role of non-continuum hydrodynamic interactions, J. Fluid Mech. 950, A18 (2022). https://doi.org/10.1017/jfm.2022.817\n\n4. Patra & Roy, Gravity-induced collisions of uncharged cloud droplets in an electric field, J. Atmos. Sci. 82, 11 (2025).…",
-    "source": "IC",
-    "date": "2026-07-10T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "139, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Climate change",
-      "The Space, Plasma and Climate Community",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211047/spc-seminar-climate-anubhab-roy-iit-madras/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:208954",
     "sourceEventId": "208954",
     "title": "ICB CDT Chemical Biology Conference 2026",
@@ -412,6 +326,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/msc-des-eng-show-2026-eventbrite_1780302731811_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:211494",
+    "sourceEventId": "211494",
+    "title": "MAGIC Seminar – Raschid Abedin (University of Hamburg) and Anastasia Vikulova (Basel)",
+    "desc": "Raschid Abedin (University of Hamburg) – Hecke modifications of principal bundles and quantum groups Anastasia Vikulova (Basel) – Composition of Sarkisov links between del Pezzo…\n\nMore details can be found on https://www.imperial.ac.uk/geometry/seminars/magic-seminar/",
+    "source": "IC",
+    "date": "2026-07-13T13:00:00+01:00",
+    "durationMin": 180,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211494/magic-seminar-raschid-abedin-university-of-hamburg-and-anastasia-vikulova-basel/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+  },
+  {
     "id": "ic:210933",
     "sourceEventId": "210933",
     "title": "Paediatric patient safety, quality and equity",
@@ -435,6 +370,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/naomi-bardach_1781806048907_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:211496",
+    "sourceEventId": "211496",
+    "title": "Workshop in geometry at LIMS",
+    "desc": "For more information please visit https://www.imperial.ac.uk/geometry/seminars/magic-seminar/",
+    "source": "IC",
+    "date": "2026-07-14T10:00:00+01:00",
+    "durationMin": 360,
+    "venue": "LIMS",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211496/workshop-in-geometry-at-lims/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:211445",
     "sourceEventId": "211445",
     "title": "Summer Network Event for Functional Genomics",
@@ -453,7 +409,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211445/summer-network-event-for-functional-genomics/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209528",
@@ -541,7 +497,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/198714/weird-weather-the-rise-of-climate-conspiracies-and-disinformation/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210711",
@@ -583,6 +539,48 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/190757/ai-autonomous-industrial-systems-summer-school/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/homepage-default-social--tojpeg_1523872141375_x1.jpg"
+  },
+  {
+    "id": "ic:190765",
+    "sourceEventId": "190765",
+    "title": "Design for Responsible Robotics",
+    "desc": "As robotics and generative AI rapidly evolve and become integral to everyday life, there is an urgent need for innovators who can design technologies that are not only intelligent but also ethical, sustainable, and socially responsible. The Design for Responsible Robotics Summer School invites students to explore the intersection of robotics, artificial intelligence, and human values through an immersive, hands-on learning experience. Over two intensive weeks, participants will gain both technical and creative skills—combining robotics, design thinking, and policy awareness—to imagine and prototype solutions that contribute positively to society. Guided by Imperial experts, students will learn how to design, develop, and evaluate robotic systems that advance innovation while maintaining…",
+    "source": "IC",
+    "date": "2026-07-20T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Training Course",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/190765/design-engineering-for-innovation-summer-school/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/photo-for-webpage_1768910877422_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:191011",
+    "sourceEventId": "191011",
+    "title": "Design Engineering for Innovation Summer School",
+    "desc": "Welcome to the Design Engineering Summer School!\n\nThis Summer School offers a unique opportunity to gain insights into creativity, innovation, and design through a combination of inspiring lectures and hands-on workshops. You will explore evolutionary, revolutionary, and experimental methods for design-led innovation, with modules covering cutting-edge topics such as data-centric design, AI in immersive audio design, and smart cities. These subjects are designed to complement your engineering background and inspire new approaches to innovation.\n\nA key focus of the programme is fostering the Design Engineering mindset. This will involve an exploration of diverse design processes, their practical advantages and limitations, and the development of integrated and comprehensive design…",
+    "source": "IC",
+    "date": "2026-07-20T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Training Course",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/191011/design-engineering-for-innovation-summer-school-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/dyson-pic-1-1_1741176287128_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:the-coming-of-age-symposium",
@@ -709,10 +707,10 @@
     "image": "https://images.prismic.io/wellcomecollection/Zshsd0aF0TcGJWsV_EP_001983_095.jpg?auto=format%2Ccompress&rect=0%2C454%2C5566%2C3131&w=3200&h=1800"
   },
   {
-    "id": "wc:join-us-for-alow-stimopening-of-the-exhibitions-au",
-    "sourceEventId": "join-us-for-alow-stimopening-of-the-exhibitions-au",
-    "title": "Low-stim Openings of the 'Audrey Amiss' and 'Rudy Lowe' exhibitions",
-    "desc": "Come to a special opening of Wellcome Collection to see the 'Audrey Amiss' and Rudy Lowe' exhibitions in a calm, low-stim environment.",
+    "id": "wc:low-stim-openings-audrey-amiss-and-rudy-loewe",
+    "sourceEventId": "low-stim-openings-audrey-amiss-and-rudy-loewe",
+    "title": "Low-stim Openings of the 'Audrey Amiss' and 'Rudy Loewe' exhibitions",
+    "desc": "Come to a special opening of Wellcome Collection to see the 'Audrey Amiss' and Rudy Loewe' exhibitions in a calm, low-stim environment.",
     "source": "WC",
     "date": "2026-08-06T17:00:00+00:00",
     "durationMin": 600,
@@ -726,8 +724,8 @@
     ],
     "format": "In person",
     "match": 78,
-    "url": "https://wellcomecollection.org/events/join-us-for-alow-stimopening-of-the-exhibitions-au",
-    "image": "https://images.prismic.io/wellcomecollection/x5e8IktXGNnNYqus_EP3629_0022.jpg?auto=format%2Ccompress&rect=0%2C91%2C4000%2C2250&w=3200&h=1800"
+    "url": "https://wellcomecollection.org/events/low-stim-openings-audrey-amiss-and-rudy-loewe",
+    "image": "https://images.prismic.io/wellcomecollection/x5e8IktXGNnNYqus_EP3629_0022.jpg?auto=format%2Ccompress&rect=0%2C0%2C4000%2C2250&w=3200&h=1800"
   },
   {
     "id": "wc:handle-with-care-aug-2026",
@@ -748,5 +746,257 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/handle-with-care-aug-2026",
     "image": "https://images.prismic.io/wellcomecollection/ZtmF1bzzk9ZrXB24_EP_002108_037.jpg?auto=format%2Ccompress&rect=446%2C527%2C3540%2C1991&w=3200&h=1800"
+  },
+  {
+    "id": "rs:2026-09-path-to-quantum-gravity",
+    "sourceEventId": "2026-09-path-to-quantum-gravity",
+    "title": "The path to quantum gravity with causal sets",
+    "desc": "Theo Murphy meeting organised by Dr Yasaman Yazdi and Dr Stav Zalel",
+    "source": "RS",
+    "date": "2026-09-07T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Holiday Inn, Manchester City Centre",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Physics",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 76,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/path-to-quantum-gravity/",
+    "image": "https://royalsociety.org/-/media/events/2026/9/path-to-quantum-gravity/lead-image.jpg"
+  },
+  {
+    "id": "rs:2026-09-unravelling-magnetic-histories",
+    "sourceEventId": "2026-09-unravelling-magnetic-histories",
+    "title": "Unravelling the magnetic histories of Earth and other terrestrial objects",
+    "desc": "Discussion meeting organised by Professor Andy Biggin, Dr James Bryson, Professor Cathy Constable and Professor Wyn Williams.",
+    "source": "RS",
+    "date": "2026-09-14T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/unravelling-magnetic-histories/",
+    "image": "https://royalsociety.org/-/media/events/2026/9/magnetic-histories/magnetic-histories-header.jpg"
+  },
+  {
+    "id": "rs:2026-09-bridging-animal-and-ai",
+    "sourceEventId": "2026-09-bridging-animal-and-ai",
+    "title": "Nature of intelligence: Bridging animal and artificial intelligence",
+    "desc": "Theo Murphy meeting organised by Dr HaDi MaBouDi",
+    "source": "RS",
+    "date": "2026-09-21T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "DoubleTree by Hilton, Bristol",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 82,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/bridging-animal-and-ai/",
+    "image": "https://royalsociety.org/-/media/events/2026/9/bridging-animals/nibai-webpage.jpg"
+  },
+  {
+    "id": "rs:2026-10-tof-entomology",
+    "sourceEventId": "2026-10-tof-entomology",
+    "title": "Innovations in entomology",
+    "desc": "This conference will showcase the innovative science and technology occurring across entomology, as well as the challenge and opportunity for translation in the UK.",
+    "source": "RS",
+    "date": "2026-10-01T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/tof-entomology/",
+    "image": "https://royalsociety.org/-/media/events/2026/10/tof-innovations-in-entomology/innovations-in-entomology-image.jpg"
+  },
+  {
+    "id": "rs:2026-10-safeguarding-anthropocene-tropical-forests",
+    "sourceEventId": "2026-10-safeguarding-anthropocene-tropical-forests",
+    "title": "Safeguarding Anthropocene tropical forests",
+    "desc": "Science+ meeting organised by Professor Jane Hill OBE FRS, Datuk Dr Glen Reynolds MBE, Dr Lindsay Banin, Dr Ophelia Wang, Professor John Pyle FRS",
+    "source": "RS",
+    "date": "2026-10-05T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/safeguarding-anthropocene-tropical-forests/",
+    "image": "https://royalsociety.org/-/media/events/2026/10/tropical-forests/tropical-forests.jpg"
+  },
+  {
+    "id": "rs:2026-10-immunology-of-the-exposome",
+    "sourceEventId": "2026-10-immunology-of-the-exposome",
+    "title": "Immunology of the exposome: addressing the crisis in chronic inflammatory disease",
+    "desc": "Discussion meeting organised by Professor Judith Allen FMedSci FRS and Dame Fiona Powrie DBE FMedSci FRS",
+    "source": "RS",
+    "date": "2026-10-12T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Healthcare",
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/immunology-of-the-exposome/",
+    "image": "https://royalsociety.org/-/media/events/2026/10/immunology-of-the-exposome/lead-image.jpg"
+  },
+  {
+    "id": "rs:2026-11-ecological-dynamics",
+    "sourceEventId": "2026-11-ecological-dynamics",
+    "title": "Forecasting ecological dynamics in a changing world, a critical discussion",
+    "desc": "Discussion meeting organised by Dr Emily G Simmonds",
+    "source": "RS",
+    "date": "2026-11-02T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/ecological-dynamics/",
+    "image": "https://royalsociety.org/-/media/events/2026/11/ecological-dynamics/lead-image.jpg"
+  },
+  {
+    "id": "rs:2026-11-low-cost-optical-sensing",
+    "sourceEventId": "2026-11-low-cost-optical-sensing",
+    "title": "Low-cost optical sensing for healthcare",
+    "desc": "Discussion meeting organised by Professor Jeremy J Baumberg FRS, FRSC and Professor Duncan Graham FRSC",
+    "source": "RS",
+    "date": "2026-11-09T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Healthcare",
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 82,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/low-cost-optical-sensing/",
+    "image": "https://royalsociety.org/-/media/about-us/royal-society-new.jpg"
+  },
+  {
+    "id": "rs:2026-11-neuromorphic-computing",
+    "sourceEventId": "2026-11-neuromorphic-computing",
+    "title": "Innovating technologies for neuromorphic computing",
+    "desc": "Discussion meeting and Transforming our Future event organised by Professor Stephen Furber CBE FREng FRS, Professor Judith Driscoll FREng FRS, Professor Stuart Parkin FREng FRS, Dr Sebastian C Dixon and Professor Tony Kenyon",
+    "source": "RS",
+    "date": "2026-11-23T09:00:00+01:00",
+    "durationMin": 420,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/neuromorphic-computing/",
+    "image": "https://royalsociety.org/-/media/events/2026/11/neuromorphic-computing/neuromorphic-lead-image.jpg"
+  },
+  {
+    "id": "rs:2026-12-crossing-barriers",
+    "sourceEventId": "2026-12-crossing-barriers",
+    "title": "Crossing barriers at the axon initial segment",
+    "desc": "Theo Murphy meeting organised by Professor Matthew Grubb, Professor Maren Engelhardt and Professor Maarten H P Kole",
+    "source": "RS",
+    "date": "2026-12-07T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Apex Grassmarket Hotel, Edinburgh",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/12/crossing-barriers/",
+    "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
+  },
+  {
+    "id": "rs:2026-10-francis-crick-prize-lecture",
+    "sourceEventId": "2026-10-francis-crick-prize-lecture",
+    "title": "Francis Crick Prize Lecture: Pathogens and the power of evolution",
+    "desc": "Join us for the Francis Crick Prize Lecture delivered by Professor Kayla King",
+    "source": "RS",
+    "date": "2026-10-14T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/francis-crick-prize-lecture/",
+    "image": "https://royalsociety.org/-/media/awards/francis-crick-medal/stock-image-2025--cropped.jpg"
+  },
+  {
+    "id": "rs:2026-11-croonian-prize-lecture",
+    "sourceEventId": "2026-11-croonian-prize-lecture",
+    "title": "Croonian Prize Lecture delivered by Dr David Baker",
+    "desc": "Join us for the Croonian Prize Lecture delivered by Dr David Baker",
+    "source": "RS",
+    "date": "2026-11-03T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/croonian-prize-lecture/",
+    "image": "https://royalsociety.org/-/media/about-us/hub-page/carlton-house-terrace-home-page.jpg"
+  },
+  {
+    "id": "rs:2026-11-milner-prize-lecture",
+    "sourceEventId": "2026-11-milner-prize-lecture",
+    "title": "Milner Prize Lecture delivered by Professor Johan Håstad",
+    "desc": "Join us for the Royal Society Milner Prize Lecture delivered by Professor Johan H&#229;stad",
+    "source": "RS",
+    "date": "2026-11-12T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Policy",
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/milner-prize-lecture/",
+    "image": "https://royalsociety.org/-/media/about-us/hub-page/carlton-house-terrace-home-page.jpg"
   }
 ]
