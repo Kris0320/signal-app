@@ -388,7 +388,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211496/workshop-in-geometry-at-lims/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211445",
@@ -497,7 +497,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/198714/weird-weather-the-rise-of-climate-conspiracies-and-disinformation/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210711",
@@ -581,6 +581,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/191011/design-engineering-for-innovation-summer-school-2/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/dyson-pic-1-1_1741176287128_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211492",
+    "sourceEventId": "211492",
+    "title": "COW Seminar – Workshop in honour of Frances Kirwan",
+    "desc": "Schedule 9:30 George Cooper (Pisa) 11:00 Victoria Hoskins (Essen) 12:15 Chunyi Li (Warwick) 2:30 Gergely Bérczi (Aarhus) 4:00 Frances Kirwan (Oxford)\n\nMore information available on https://cow.alggeo.xyz/",
+    "source": "IC",
+    "date": "2026-07-21T09:30:00+01:00",
+    "durationMin": 450,
+    "venue": "University of Warwick",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211492/cow-seminar-workshop-in-honour-of-frances-kirwan/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "wc:the-coming-of-age-symposium",
