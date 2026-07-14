@@ -321,28 +321,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:208954",
-    "sourceEventId": "208954",
-    "title": "ICB CDT Chemical Biology Conference 2026",
-    "desc": "Join the Institute of Chemical Biology Centre for Doctoral Training for our annual Chemical Biology Conference on 13th July 2026 .\n\nThe day will include talks from invited speakers such as Alessio Ciulli (University of Dundee), Roslyn Bill (Aston University), and Aatikah Majid (Johns Hopkins). We will be hosting a poster session and flash talks to feature research by PhD students.\n\nOur conference is open to university students, postdocs, academics, and industrial researchers.\n\nRegistration deadline: 3 July 2026\n\nPoster abstract submission form: https://forms.gle/Nr2FFPypzChARjCm9\n\nPoster/flash talk abstract deadline: 19 June 2026",
-    "source": "IC",
-    "date": "2026-07-13T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "SAF LT G34, Sir Alexander Fleming Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Chemistry",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/208954/icb-cdt-chemical-biology-conference-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/landscape-promo_1776949656734_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:209462",
     "sourceEventId": "209462",
     "title": "CPE Annual Symposium 2026",
@@ -428,7 +406,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211496/workshop-in-geometry-at-lims/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211445",
@@ -449,7 +427,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211445/summer-network-event-for-functional-genomics/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209528",
@@ -537,7 +515,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/198714/weird-weather-the-rise-of-climate-conspiracies-and-disinformation/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210711",
@@ -641,7 +619,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211492/cow-seminar-workshop-in-honour-of-frances-kirwan/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207947",
@@ -686,6 +664,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211340/spc-seminar-climate-yumeng-chen-reading/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211499",
+    "sourceEventId": "211499",
+    "title": "Biomathematics seminar – Tara Chari (Schmidt Center, Broad Institute)",
+    "desc": "Biomathematics seminar - Tara Chari (Schmidt Center, Broad Institute)",
+    "source": "IC",
+    "date": "2026-07-21T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "139, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211499/biomathematics-seminar-tara-chari-schmidt-center-broad-institute/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:audio-described-tours-tenderness-and-rage",
