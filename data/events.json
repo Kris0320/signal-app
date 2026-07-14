@@ -278,28 +278,6 @@
     "image": "https://www.kcl.ac.uk/newimages/ah/choir-music.x830b98a0.jpg?w=780&h=520&crop=780,440,0,0"
   },
   {
-    "id": "ic:209683",
-    "sourceEventId": "209683",
-    "title": "Cleantech Innovation MSc 2026 Show",
-    "desc": "At Imperial, we’re fighting climate change with innovation!\n\nFrom AI‑enabled infrastructure software and radiative cooling technologies to novel systems for water conservation, recycling, and marine decarbonisation, our MSc Cleantech Innovation students are tackling some of today’s most pressing sustainability challenges with creativity and expertise.\n\nThis pioneering MSc programme – a joint initiative between the Grantham Institute and the Dyson School of Design Engineering – gives students the opportunity to learn from experts from across the cleantech sector and provides them with the knowledge and tools needed to build and launch their own cleantech solutions. As this year’s students complete their MSc journey, join us for a special event showcasing their creative and inspiring…",
-    "source": "IC",
-    "date": "2026-07-13T10:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Imperial Main Entrance, Main Entrance, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Exhibition",
-      "Climate change",
-      "Students",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209683/cleantech-innovation-msc-2026-show/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/eventbrite-banner-cleantech_1780585566356_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211008",
     "sourceEventId": "211008",
     "title": "Great Service Lunch and Learn: Project staff costing tool",
@@ -321,73 +299,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:209462",
-    "sourceEventId": "209462",
-    "title": "CPE Annual Symposium 2026",
-    "desc": "We are inviting abstracts for poster presentations. Please send to: cpe-admin@imperial.ac.uk .\n\nT he RSC is offering three £100 RSC book vouchers from Materials Horizons , Journal of Materials Chemistry C and RSC Applied Interfaces for poster prizes.\n\nAgenda and abstracts will be posted as they are received.\n\nAttendance is free, but we ask that you do register: Registration for the 2026 CPE Annual Symposium – Fill in form\n\n13 July 2026\n\n9:30 – 9:50 Arrivals/Welcome\n\n9:50 – 10:00 Dr Felice Torrisi – Introduction\n\nSession 1 Chair: Dr Piers Barnes\n\n10:00 – 10:30 Prof Erwin Reisner, University of Cambridge . Solar chemical technologies for the upcycling of CO₂, biomass and plastics\n\n10:30 – 11:00 Prof Bob C. Schroeder, University College London . Beyond Bandgap Engineering: Spin Polarisation…",
-    "source": "IC",
-    "date": "2026-07-13T09:30:00+01:00",
-    "durationMin": 480,
-    "venue": "B10, Molecular Sciences Research Hub (MSRH), White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Symposium",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209462/cpe-annual-symposium-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/cpe-banner-desktop-2000-x-2000-240325-cjwade_1780910874724_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209681",
-    "sourceEventId": "209681",
-    "title": "Contextual Design Engineering – DE MSc 2026 Show",
-    "desc": "The show celebrates the graduating cohort of the MSc Design Engineering programme, presenting projects at the intersection of engineering and design: creative, transdisciplinary, and built for real-world impact.\n\nThis year’s theme, “Designing for Ageing Futures”, explores how design and technology can respond to the opportunities and challenges of an ageing world. From a compact rowing resistance trainer and a music-led tabletop game to finger trainer designed to support dexterity – discover projects built to support wellbeing at every stage of life.\n\nJoin our students and see how design engineering can help us build better futures — register now!",
-    "source": "IC",
-    "date": "2026-07-13T10:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Imperial Main Entrance, Main Entrance, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Exhibition",
-      "Art exhibition",
-      "Students",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209681/contextual-design-engineering-de-msc-2026-show/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/msc-des-eng-show-2026-eventbrite_1780302731811_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210933",
-    "sourceEventId": "210933",
-    "title": "Paediatric patient safety, quality and equity",
-    "desc": "Improving patient safety for children and young people requires not only robust measurement systems, but also intentional integration of patient and family voices into care.\n\nIn this one‑hour hybrid seminar, Dr Naomi Bardach – Professor of Pediatrics and Policy at the University of California, San Francisco, and Vice Chair of Health Services Research in Pediatrics – will present highlights from her nationally recognised research programme focused on paediatric patient safety, quality, and equity.\n\nDr Bardach will share work from her NICHD‑funded research examining inpatient safety events reported directly by patients and families using mobile technology, and how rapidly sharing these observations with hospital staff can drive meaningful safety improvements.\n\nDrawing on her experience…",
-    "source": "IC",
-    "date": "2026-07-14T10:00:00+01:00",
-    "durationMin": 60,
-    "venue": "10th floor boardroom, Queen Elizabeth The Queen Mother Wing, St Mary's Campus",
-    "area": "St Mary's",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "child health",
-      "Centre for Paediatrics and Child Health",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210933/paediatric-patient-safety-quality-and-equity/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/naomi-bardach_1781806048907_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211496",
     "sourceEventId": "211496",
     "title": "Workshop in geometry at LIMS",
@@ -406,7 +317,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211496/workshop-in-geometry-at-lims/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211445",
@@ -427,7 +338,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211445/summer-network-event-for-functional-genomics/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209528",
@@ -515,7 +426,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/198714/weird-weather-the-rise-of-climate-conspiracies-and-disinformation/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210711",
@@ -619,7 +530,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211492/cow-seminar-workshop-in-honour-of-frances-kirwan/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207947",
@@ -663,7 +574,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211340/spc-seminar-climate-yumeng-chen-reading/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211499",
@@ -684,7 +595,71 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211499/biomathematics-seminar-tara-chari-schmidt-center-broad-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207407",
+    "sourceEventId": "207407",
+    "title": "RSM175 Evening Lecture Series: Life and Health",
+    "desc": "Featuring the TRUST research team",
+    "source": "IC",
+    "date": "2026-07-21T18:00:00+01:00",
+    "durationMin": 90,
+    "venue": "G.41, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Departmental event",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207407/ese-evening-lecture-series-life-and-health/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210714",
+    "sourceEventId": "210714",
+    "title": "Walking Tour – White City",
+    "desc": "Join Move and Iya London Walks for a short well-being walk in White City, exploring two local green spaces, mainly via quiet routes, taking you away from traffic and introducing you to the history of White City.\n\nLimited spaces available so please book early to avoid disappointment!\n\nPlease wear weather appropriate clothing as the walking tour is outdoors.",
+    "source": "IC",
+    "date": "2026-07-22T12:55:00+01:00",
+    "durationMin": 65,
+    "venue": "Meet outside: Translation and Innovation Hub (I-Hub), White City, Translation and Innovation Hub (I-HUB), White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210714/walking-tour-white-city-4/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/copy-of-copy-of-movember-events-tiles-11_1777626996334_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211377",
+    "sourceEventId": "211377",
+    "title": "Quantum Learning Quantum: Quantum Computers and AI",
+    "desc": "Join the Department of Physice for a public talk entitled Quantum Learning Quantum: Quantum Computers and AI\n\nProfessor Gerard Milburn, Quantum Fellow at the UK’s NQCC, willl share his vision of how quantum computers and AI could transform science.\n\nGalileo’s great insight was that we can learn about the world by building devices that reveal simple, reproducible phenomena. We push on the world, and the world pushes back. More than a century ago, scientists discovered that some experiments produced a startling result: the world is quantum.\n\nQuantum theory is famously strange, yet we now understand it well enough to put it to work. Quantum technologies aim to harness and control the quantum world in ways that can make us wealthier, healthier and safer. In this talk, Professor Milburn will…",
+    "source": "IC",
+    "date": "2026-07-22T18:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Lecture Theatre 1, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Physics",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211377/quantum-learning-quantum-quantum-computers-and-ai/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/quantum-3_1783070949115_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:audio-described-tours-tenderness-and-rage",
@@ -1022,7 +997,7 @@
     "format": "In person",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/12/crossing-barriers/",
-    "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
+    "image": "https://royalsociety.org/-/media/events/2026/12/crossing-barriers/aiss.jpeg"
   },
   {
     "id": "rs:2026-10-francis-crick-prize-lecture",
