@@ -299,48 +299,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211496",
-    "sourceEventId": "211496",
-    "title": "Workshop in geometry at LIMS",
-    "desc": "For more information please visit https://www.imperial.ac.uk/geometry/seminars/magic-seminar/",
-    "source": "IC",
-    "date": "2026-07-14T10:00:00+01:00",
-    "durationMin": 360,
-    "venue": "LIMS",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211496/workshop-in-geometry-at-lims/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211445",
-    "sourceEventId": "211445",
-    "title": "Summer Network Event for Functional Genomics",
-    "desc": "We’re delighted to invite you to our Summer Network Event for Functional Genomics, taking place on July 14, 2026 from 4-6pm, at 170 Queens Gate Council Room. There will be free drinks!\n\nThis informal get-together is a chance to come together as a network, catch up with colleagues, and celebrate the year’s activities.\n\nThe event will include:\n\nA poster session showcasing research from network participants — a great opportunity to share your work and connect with others across the network\n\nA look back at the year’s activities, and a chance to share your feedback and ideas to help shape our plans for the year ahead\n\nCatering and refreshments throughout\n\nWe warmly encourage everyone to bring along a poster they’ve presented recently — whether at a conference, symposium, or elsewhere — so we…",
-    "source": "IC",
-    "date": "2026-07-14T14:00:00+01:00",
-    "durationMin": 240,
-    "venue": "Council Room, 170 Queens Gate, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211445/summer-network-event-for-functional-genomics/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:209528",
     "sourceEventId": "209528",
     "title": "Africa Innovates Conference 2026: New Scientific and Developmental Frontiers",
@@ -426,7 +384,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/198714/weird-weather-the-rise-of-climate-conspiracies-and-disinformation/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210711",
@@ -530,7 +488,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211492/cow-seminar-workshop-in-honour-of-frances-kirwan/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207947",
@@ -574,7 +532,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211340/spc-seminar-climate-yumeng-chen-reading/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211499",
@@ -595,7 +553,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211499/biomathematics-seminar-tara-chari-schmidt-center-broad-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207407",
@@ -616,7 +574,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207407/ese-evening-lecture-series-life-and-health/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210714",
@@ -660,6 +618,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211377/quantum-learning-quantum-quantum-computers-and-ai/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/quantum-3_1783070949115_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211522",
+    "sourceEventId": "211522",
+    "title": "Developing a Sustainable Research Computing Environment at UK Universities",
+    "desc": "Join us to hear from speakers working on green and sustainable research computing at institutions across the UK and celebrate the launch of our new Digital Research Sustainability short course:\n\nWith the march towards ever more computational research across almost all domains, green and sustainable approaches to research computing are now a key item on the agenda of many university sustainability teams. As researchers rapidly adopt the use of AI and Large Language Models (LLMs), alongside so many other industries, the volume, cost and environmental impact of the computing we use is both a common talking point and a challenge for employers and individuals alike.\n\nThis event, jointly hosted by the Sustainable Institutional Research Computing Culture project at Imperial College London…",
+    "source": "IC",
+    "date": "2026-07-24T10:30:00+01:00",
+    "durationMin": 330,
+    "venue": "Council Room, 170 Queens Gate, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211522/developing-a-sustainable-research-computing-environment-at-uk-universities/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/zac-wolff-s8kfxm9hq9y-unsplash-cropped_1784018843120_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:audio-described-tours-tenderness-and-rage",
