@@ -73,6 +73,25 @@
     "image": "https://www.kcl.ac.uk/newimages/ciel/king's-international-foundation-offer-holder-visa-event-6-august-2026.x688b9a90.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
+    "id": "kcl:great-kings-run-cornwall",
+    "sourceEventId": "6656b0cf-2872-4a0d-9ba3-73e1cd3edeb4",
+    "title": "Great King's Run Cornwall",
+    "desc": "The Great King's Run is King's College London's biggest and most social running event of the year, and this summer it's coming to Cornwall for the King's Service Centre.",
+    "source": "KCL",
+    "date": "2026-08-08T09:30:00",
+    "durationMin": 180,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "King’s Sport & Wellness"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/great-kings-run-cornwall",
+    "image": "https://www.kcl.ac.uk/newimages/sport/events/great-kings-run-group.x15766cb8.jpg?w=780&h=440"
+  },
+  {
     "id": "kcl:careers-in-china-fairs-2026",
     "sourceEventId": "16dde170-c55b-48ec-a12a-29417a8249c0",
     "title": "Careers in China Fairs 2026",
@@ -343,27 +362,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/lss-2026_1779107928672_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:210731",
-    "sourceEventId": "210731",
-    "title": "Social Rounders",
-    "desc": "Join this Social Rounders session for a fun and relaxed way to get active, have some fresh air and meet others from across Imperial.\n\nDon’t worry if you haven’t played before, the rules are simple and we will provide everyone with a briefing before with friendly reminders during the session.\n\nNo experience is needed – just come along, have fun, and get involved.",
-    "source": "IC",
-    "date": "2026-07-15T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Wormward Scrubs",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210731/social-rounders/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/rounders-sets-2_1781003405666_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:198714",
     "sourceEventId": "198714",
     "title": "Weird Weather: The rise of climate conspiracy theories & disinformation",
@@ -488,7 +486,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211492/cow-seminar-workshop-in-honour-of-frances-kirwan/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207947",
@@ -510,6 +508,29 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207947/leverhulme-wildfires-summer-conference-2026/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/flyer-slide_1774607501446_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211556",
+    "sourceEventId": "211556",
+    "title": "SPC space/plasma seminar – Vicente Valenzuela-Villaseca (LLNL) – Tues 21st July 11 AM",
+    "desc": "At 11 AM on Tuesday 21st of July, Vicente Valenzuela-Villaseca from Lawrence Livermore National Laboratory has kindly offered to give a seminar titled \"Laboratory measurements of energy partitioning and anomalous electron heating in magnetized, perpendicular collisionless shocks\" - see full abstract",
+    "source": "IC",
+    "date": "2026-07-21T11:00:00+01:00",
+    "durationMin": 60,
+    "venue": "741, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Space",
+      "Plasma and Climate Community",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211556/spc-space-plasma-seminar-vicente-valenzuela-villaseca-llnl-tues-21st-july-11-am/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211340",
@@ -553,7 +574,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211499/biomathematics-seminar-tara-chari-schmidt-center-broad-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207407",
@@ -574,7 +595,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207407/ese-evening-lecture-series-life-and-health/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210714",
@@ -601,7 +622,7 @@
     "id": "ic:211377",
     "sourceEventId": "211377",
     "title": "Quantum Learning Quantum: Quantum Computers and AI",
-    "desc": "Join the Department of Physice for a public talk entitled Quantum Learning Quantum: Quantum Computers and AI\n\nProfessor Gerard Milburn, Quantum Fellow at the UK’s NQCC, willl share his vision of how quantum computers and AI could transform science.\n\nGalileo’s great insight was that we can learn about the world by building devices that reveal simple, reproducible phenomena. We push on the world, and the world pushes back. More than a century ago, scientists discovered that some experiments produced a startling result: the world is quantum.\n\nQuantum theory is famously strange, yet we now understand it well enough to put it to work. Quantum technologies aim to harness and control the quantum world in ways that can make us wealthier, healthier and safer. In this talk, Professor Milburn will…",
+    "desc": "Join the Department of Physice for a public talk entitled Quantum Learning Quantum: Quantum Computers and AI.\n\nProfessor Gerard Milburn, Quantum Fellow at the UK’s NQCC, willl share his vision of how quantum computers and AI could transform science.\n\nGalileo’s great insight was that we can learn about the world by building devices that reveal simple, reproducible phenomena. We push on the world, and the world pushes back. More than a century ago, scientists discovered that some experiments produced a startling result: the world is quantum.\n\nQuantum theory is famously strange, yet we now understand it well enough to put it to work. Quantum technologies aim to harness and control the quantum world in ways that can make us wealthier, healthier and safer. In this talk, Professor Milburn will…",
     "source": "IC",
     "date": "2026-07-22T18:00:00+01:00",
     "durationMin": 120,
@@ -639,27 +660,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211522/developing-a-sustainable-research-computing-environment-at-uk-universities/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/zac-wolff-s8kfxm9hq9y-unsplash-cropped_1784018843120_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "wc:audio-described-tours-tenderness-and-rage",
-    "sourceEventId": "audio-described-tours-tenderness-and-rage",
-    "title": "Audio Described Tours of 'Tenderness and Rage'",
-    "desc": "Take an audio described tour of 'Tenderness and Rage', a display that explores HIV and AIDS through stories of protest and care.",
-    "source": "WC",
-    "date": "2026-07-15T10:30:00+00:00",
-    "durationMin": 600,
-    "venue": "Gallery 3",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Session",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/audio-described-tours-tenderness-and-rage",
-    "image": "https://images.prismic.io/wellcomecollection/airHxKlQnVZVEN6z_BTG260520152042-Edit.jpg?auto=format%2Ccompress&w=3200&h=1800"
   },
   {
     "id": "wc:an-artist-in-everyday-life",
@@ -783,6 +783,27 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/handle-with-care-aug-2026",
     "image": "https://images.prismic.io/wellcomecollection/ZtmF1bzzk9ZrXB24_EP_002108_037.jpg?auto=format%2Ccompress&rect=446%2C527%2C3540%2C1991&w=3200&h=1800"
+  },
+  {
+    "id": "wc:audio-described-tours-tenderness-and-rage",
+    "sourceEventId": "audio-described-tours-tenderness-and-rage",
+    "title": "Audio Described Tours of 'Tenderness and Rage'",
+    "desc": "Take an audio described tour of 'Tenderness and Rage', a display that explores HIV and AIDS through stories of protest and care.",
+    "source": "WC",
+    "date": "2026-07-15T10:30:00+00:00",
+    "durationMin": 600,
+    "venue": "Gallery 3",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Session",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/audio-described-tours-tenderness-and-rage",
+    "image": "https://images.prismic.io/wellcomecollection/airHxKlQnVZVEN6z_BTG260520152042-Edit.jpg?auto=format%2Ccompress&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
