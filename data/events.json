@@ -318,29 +318,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:198714",
-    "sourceEventId": "198714",
-    "title": "Weird Weather: The rise of climate conspiracy theories & disinformation",
-    "desc": "From blistering heatwaves to record-breaking rainfall and unseasonal cold snaps, our weather is becoming more erratic and extreme. But as our weather gets weirder, so do the stories surrounding it.\n\nJoin the Grantham Institute for a thought-provoking discussion on the rise of conspiracy theories and disinformation about our changing climate.\n\n​Hear from two experts in the field: Simon Clark , YouTuber and Atmospheric Physicist, and Pallavi Sethi , Climate Change Misinformation Policy Fellow at the Grantham Research Institute, LSE. Together, they’ll unpack how mis- and disinformation are shaping people’s perceptions of the climate crisis and explore what this means for how climate science is talked about in the media, politics and everyday life.\n\n​Limited seating; advance registration…",
-    "source": "IC",
-    "date": "2026-07-16T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Dyson Library, Dyson Building of Design Engineering, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Climate change",
-      "Sustainability",
-      "Science communication",
-      "Natural Sciences"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/198714/weird-weather-the-rise-of-climate-conspiracies-and-disinformation/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:210711",
     "sourceEventId": "210711",
     "title": "Walking Tour – White City",
@@ -442,7 +419,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211492/cow-seminar-workshop-in-honour-of-frances-kirwan/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207947",
@@ -486,7 +463,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211556/spc-space-plasma-seminar-vicente-valenzuela-villaseca-llnl-tues-21st-july-11-am/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211340",
@@ -530,7 +507,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211499/biomathematics-seminar-tara-chari-schmidt-center-broad-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207407",
@@ -636,7 +613,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211480/attosecond-ionization-dynamics-from-perturbative-to-strong-field/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210247",
@@ -681,6 +658,48 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210766/building-successful-biotechnology-companies-to-treat-disease/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/harvey-lodish-digital-header_1781089704356_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211501",
+    "sourceEventId": "211501",
+    "title": "Big Butterfly Count at South Kensington",
+    "desc": "Join us on 28 July and take part in the Big Butterfly Count, a UK-wide survey where you can help contribute to conservation science and research by counting butterflies!",
+    "source": "IC",
+    "date": "2026-07-28T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Queen's Lawn, The Queen's Tower, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Sustainability",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211501/big-butterfly-count-at-south-kensington/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/red-admiral-c-amy-lewis-1024x685_1752056321075_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "lse:plp-5-oct",
+    "sourceEventId": "plp-5-oct",
+    "title": "Socialism after AI",
+    "desc": "Socialism after AI",
+    "source": "LSE",
+    "date": "2026-10-05T18:30:00+01:00",
+    "durationMin": 90,
+    "venue": "In-person and online public event (LSE campus, venue tbc to ticketholders)",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/events/plp-5-oct",
+    "image": null
   },
   {
     "id": "wc:an-artist-in-everyday-life",
@@ -804,27 +823,6 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/handle-with-care-aug-2026",
     "image": "https://images.prismic.io/wellcomecollection/ZtmF1bzzk9ZrXB24_EP_002108_037.jpg?auto=format%2Ccompress&rect=446%2C527%2C3540%2C1991&w=3200&h=1800"
-  },
-  {
-    "id": "wc:audio-described-tours-tenderness-and-rage",
-    "sourceEventId": "audio-described-tours-tenderness-and-rage",
-    "title": "Audio Described Tours of 'Tenderness and Rage'",
-    "desc": "Take an audio described tour of 'Tenderness and Rage', a display that explores HIV and AIDS through stories of protest and care.",
-    "source": "WC",
-    "date": "2026-07-15T10:30:00+00:00",
-    "durationMin": 600,
-    "venue": "Gallery 3",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Session",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/audio-described-tours-tenderness-and-rage",
-    "image": "https://images.prismic.io/wellcomecollection/airHxKlQnVZVEN6z_BTG260520152042-Edit.jpg?auto=format%2Ccompress&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
@@ -1038,6 +1036,25 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/10/francis-crick-prize-lecture/",
     "image": "https://royalsociety.org/-/media/awards/francis-crick-medal/stock-image-2025--cropped.jpg"
+  },
+  {
+    "id": "rs:2026-09-open-house",
+    "sourceEventId": "2026-09-open-house",
+    "title": "Open House 2026",
+    "desc": "Explore the history and architectural highlights of Carlton House Terrace, the home of the UK's national academy of science.",
+    "source": "RS",
+    "date": "2026-09-19T10:00:00+01:00",
+    "durationMin": 420,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/open-house/",
+    "image": "https://royalsociety.org/-/media/events/2026/9/open-house/ceiling---web.jpg"
   },
   {
     "id": "rs:2026-11-croonian-prize-lecture",
