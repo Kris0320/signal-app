@@ -318,50 +318,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:209528",
-    "sourceEventId": "209528",
-    "title": "Africa Innovates Conference 2026: New Scientific and Developmental Frontiers",
-    "desc": "Africa Innovates is a conference that aims to promote internal collaborations between Africa-focused Science, Policy and Education initiatives at Imperial and build bridges with external partners, focusing specifically on STEMB (Science, Technology, Engineering, Medicine and Business). Africa Innovates cultivates an interdisciplinary dialogue for key researchers, shapers, and decision-makers to explore innovative ideas of how to address some of the grand challenges that African societies are facing today. This conference will showcase some of the Africa-focused activities currently taking place at Imperial.\n\nThe 2026 conference will feature a dynamic mix of plenary sessions, breakout discussions, lightning talks, and poster presentations. Plenary sessions will encourage reflective…",
-    "source": "IC",
-    "date": "2026-07-15T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Lecture Theatre 200, City and Guilds Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209528/africa-innovates-conference-2026-new-scientific-and-developmental-frontiers/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/screenshot-2026-05-11-153740-xxx_1778510274462_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209753",
-    "sourceEventId": "209753",
-    "title": "London Surgical Symposium 2026",
-    "desc": "An educational forum for international experts on surgical innovation to discuss advances in a diverse range of topics in surgery.\n\nLSS is an annual surgical conference run by the Department of Surgery and Cancer at Imperial, bringing together students, trainees, scientists, allied health professionals. This free, inclusive educational forum brings international experts on surgical innovation to London to discuss advances in a diverse range of topics in surgery.\n\nWe are excited to announce that this year‘s LSS theme will be S urgical management of advanced cancer.\n\nDate: Wednesday 15 July 2026 Time: 12:30 – 17:30 Venue: Lecture Theatre 2, Wolfson Education Centre Hammersmith Campus, Du Cane Road London, W12 0HS",
-    "source": "IC",
-    "date": "2026-07-15T12:30:00+01:00",
-    "durationMin": 300,
-    "venue": "Lecture Theatre 2, Wolfson Education Centre, Hammersmith Campus",
-    "area": "Hammersmith",
-    "price": 0,
-    "tags": [
-      "Symposium",
-      "Surgery",
-      "Clinician/clinicians",
-      "Medicine",
-      "ECRI"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209753/london-surgical-symposium-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/lss-2026_1779107928672_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:198714",
     "sourceEventId": "198714",
     "title": "Weird Weather: The rise of climate conspiracy theories & disinformation",
@@ -382,7 +338,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/198714/weird-weather-the-rise-of-climate-conspiracies-and-disinformation/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210711",
@@ -530,7 +486,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211556/spc-space-plasma-seminar-vicente-valenzuela-villaseca-llnl-tues-21st-july-11-am/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211340",
@@ -553,7 +509,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211340/spc-seminar-climate-yumeng-chen-reading/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211499",
@@ -574,7 +530,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211499/biomathematics-seminar-tara-chari-schmidt-center-broad-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207407",
@@ -595,7 +551,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207407/ese-evening-lecture-series-life-and-health/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210714",
@@ -660,6 +616,71 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211522/developing-a-sustainable-research-computing-environment-at-uk-universities/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/zac-wolff-s8kfxm9hq9y-unsplash-cropped_1784018843120_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211480",
+    "sourceEventId": "211480",
+    "title": "Attosecond ionization dynamics: from perturbative to strong field.",
+    "desc": "Speaker\n\nProfessor Alexandra Landsman The Ohio State University\n\nAbstract:\n\nRecent advances in X‑ray free‑electron laser (XFEL) technology have opened new opportunities to probe photoionization dynamics on attosecond timescales and to access strong‑field regimes at X‑ray wavelengths that were previously experimentally inaccessible. In this talk, I will discuss two complementary classes of XFEL experiments that together illuminate the timing and mechanisms of electron emission in atoms and molecules. First, I will address attosecond photoemission delays measured using circular streaking techniques, with a focus on extending ionization‑delay chronoscopy from linearly to circularly polarized probes. I will also address the challenges of interpreting streaking delays at low photoelectron…",
+    "source": "IC",
+    "date": "2026-07-24T12:00:00+01:00",
+    "durationMin": 60,
+    "venue": "B630, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211480/attosecond-ionization-dynamics-from-perturbative-to-strong-field/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210247",
+    "sourceEventId": "210247",
+    "title": "Discover Imperial: Economics, Finance and Data Science degree",
+    "desc": "Explore the world of economics with a student ambassador-led workshop and then learn about Imperial’s Economics, Finance and Data Science programme.\n\nOur online event will take place via Zoom on Tuesday 28 July from 10:00 – 12:00, and will be an opportunity to work with our BSc Economics, Finance and Data Science Student Ambassadors in an interactive workshop, learn about our undergraduate course and get your questions answered!\n\nThe agenda for the event includes:\n\nA workshop with our BSc ambassadors on GDP & Happiness\n\nAn introduction to our BSc Economics, Finance and Data Science programme\n\nQ&A session with our student ambassadors.\n\nRegister through the link to confirm your place!",
+    "source": "IC",
+    "date": "2026-07-28T10:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Departmental event",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210247/discover-imperial-economics-finance-and-data-science-degree/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210766",
+    "sourceEventId": "210766",
+    "title": "Building successful biotechnology companies to treat disease",
+    "desc": "What is the event about?\n\nProfessor Lodish will share insights from his academic career and his experience co-founding biotechnology companies Genzyme and Millennium Pharmaceuticals , including perspectives on mentorship, ethics, and the relationship between research excellence and commercialising technology. The lecture will be followed by Q&A and networking over lunch, with a panel discussion after lunch.\n\nWho are event speakers?\n\nProf Havey Lodish , Professor of Biology and Biological Engineering, Whitehead Institute for Biomedical Research, MIT\n\nDr Mike Romanos , Associate Dean for Enterprise, Faculty of Medicine, Imperial College London\n\nDr Barbara Domayne-Hayman , KQ Labs Chair & Entrepreneur in Residence, Francis Crick Institute\n\nDr Maria Leiloglou , CEO, EnAcuity Ltd\n\nDr Brian…",
+    "source": "IC",
+    "date": "2026-07-28T11:00:00+01:00",
+    "durationMin": 180,
+    "venue": "-, Sir Michael Uren Hub, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "enterprise",
+      "Institutional Event",
+      "Event",
+      "Staff"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210766/building-successful-biotechnology-companies-to-treat-disease/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/harvey-lodish-digital-header_1781089704356_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:an-artist-in-everyday-life",
