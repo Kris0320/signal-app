@@ -318,27 +318,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:210711",
-    "sourceEventId": "210711",
-    "title": "Walking Tour – White City",
-    "desc": "Join Move and Iya London Walks for a short well-being walk in White City, exploring two local green spaces, mainly via quiet routes, taking you away from traffic and introducing you to the history of White City.\n\nLimited spaces available so please book early to avoid disappointment!\n\nPlease wear weather appropriate clothing as the walking tour is outdoors.",
-    "source": "IC",
-    "date": "2026-07-17T12:55:00+01:00",
-    "durationMin": 65,
-    "venue": "Meet outside: Translation and Innovation Hub (I-Hub), White City, Translation and Innovation Hub (I-HUB), White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210711/walking-tour-white-city-3/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/copy-of-copy-of-movember-events-tiles-11_1777626996334_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:190757",
     "sourceEventId": "190757",
     "title": "Ai Autonomous Industrial Systems Summer School",
@@ -419,7 +398,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211492/cow-seminar-workshop-in-honour-of-frances-kirwan/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207947",
@@ -463,7 +442,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211556/spc-space-plasma-seminar-vicente-valenzuela-villaseca-llnl-tues-21st-july-11-am/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211340",
@@ -507,7 +486,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211499/biomathematics-seminar-tara-chari-schmidt-center-broad-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207407",
@@ -528,7 +507,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207407/ese-evening-lecture-series-life-and-health/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210714",
@@ -613,7 +592,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211480/attosecond-ionization-dynamics-from-perturbative-to-strong-field/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210247",
@@ -680,6 +659,29 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211501/big-butterfly-count-at-south-kensington/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/red-admiral-c-amy-lewis-1024x685_1752056321075_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211504",
+    "sourceEventId": "211504",
+    "title": "Sustainable Food Accelerator: Application Q&A",
+    "desc": "The Sustainable Food Accelerator supports early-stage sustainable food and alternative protein startups to generate the data that makes corporates confident to pilot and investors confident to back.\n\n​Applications are now open! We are hosting a number of informal Q&A webinars to give you the opportunity learn more about the programme and application process. It’s a great opportunity to meet the team and ask any questions you may have. Come join us!\n\n​Q&A Series\n\n​Applications for the Sustainable Food Accelerator are open from July 13th to August 21st 2026. We will run a number of Q&A sessions during the application window, taking place on the following dates:\n\n​Thursday, July 30th – 4pm\n\n​Thursday, August 13th – 4pm\n\n​Please make sure you register for the correct session on the date you…",
+    "source": "IC",
+    "date": "2026-07-30T15:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Climate change",
+      "Innovation",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211504/sustainable-food-accelerator-application-qa/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sfa-qa_1783944789857_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
