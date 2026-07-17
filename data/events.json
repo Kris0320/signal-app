@@ -419,7 +419,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211492/cow-seminar-workshop-in-honour-of-frances-kirwan/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207947",
@@ -486,7 +486,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211340/spc-seminar-climate-yumeng-chen-reading/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211499",
@@ -507,7 +507,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211499/biomathematics-seminar-tara-chari-schmidt-center-broad-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207407",
@@ -613,7 +613,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211480/attosecond-ionization-dynamics-from-perturbative-to-strong-field/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210247",
@@ -634,7 +634,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210247/discover-imperial-economics-finance-and-data-science-degree/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210766",
@@ -682,8 +682,8 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/red-admiral-c-amy-lewis-1024x685_1752056321075_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "lse:plp-5-oct",
-    "sourceEventId": "plp-5-oct",
+    "id": "lse:ai-socialism",
+    "sourceEventId": "ai-socialism",
     "title": "Socialism after AI",
     "desc": "Socialism after AI",
     "source": "LSE",
@@ -698,7 +698,7 @@
     ],
     "format": "Online",
     "match": 74,
-    "url": "https://www.lse.ac.uk/events/plp-5-oct",
+    "url": "https://www.lse.ac.uk/events/ai-socialism",
     "image": null
   },
   {
