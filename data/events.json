@@ -277,24 +277,25 @@
     "image": "https://www.kcl.ac.uk/newimages/ah/film-studies/newsevents/260826-conversation-with-stanley-kwan.x62fa1294.png"
   },
   {
-    "id": "kcl:presteigne-festival-2026",
-    "sourceEventId": "e56dabb7-57fe-485c-b615-4e7a94f00031",
-    "title": "Presteigne Festival 2026",
-    "desc": "The Sopranos and Altos of the Choir of KCL perform at a summer festival in Wales.",
+    "id": "kcl:mathematical-colloquium-weierstrass-bridges-by-alexander-schied",
+    "sourceEventId": "66151d4e-f2cf-4f38-bcd5-c6c87ca91ce1",
+    "title": "Mathematical Colloquium: Weierstrass Bridges by Alexander Schied",
+    "desc": "Join a talk by Alexander Schied from the University of Waterloo",
     "source": "KCL",
-    "date": "2026-08-30T16:30:00",
+    "date": "2026-08-27T15:30:00",
     "durationMin": 60,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
     "tags": [
-      "Arts & Culture",
-      "The Choir of King’s College London"
+      "Public lecture",
+      "Technology & Science",
+      "Department of Mathematics"
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/presteigne-festival-2026",
-    "image": "https://www.kcl.ac.uk/newimages/ah/choir-music.x830b98a0.jpg?w=780&h=520&crop=780,440,0,0"
+    "url": "https://www.kcl.ac.uk/events/mathematical-colloquium-weierstrass-bridges-by-alexander-schied",
+    "image": "https://www.kcl.ac.uk/newimages/ah/strandaldwych.xdb9ff27e.jpg?w=782&h=440&crop=780,440,1,0"
   },
   {
     "id": "ic:211008",
@@ -318,68 +319,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:190757",
-    "sourceEventId": "190757",
-    "title": "Ai Autonomous Industrial Systems Summer School",
-    "desc": "Explore the cutting-edge science and technologies driving the transformation of industrial production towards greater efficiency and sustainability",
-    "source": "IC",
-    "date": "2026-07-20T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Event",
-      "Training Course"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/190757/ai-autonomous-industrial-systems-summer-school/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/homepage-default-social--tojpeg_1523872141375_x1.jpg"
-  },
-  {
-    "id": "ic:190765",
-    "sourceEventId": "190765",
-    "title": "Design for Responsible Robotics",
-    "desc": "As robotics and generative AI rapidly evolve and become integral to everyday life, there is an urgent need for innovators who can design technologies that are not only intelligent but also ethical, sustainable, and socially responsible. The Design for Responsible Robotics Summer School invites students to explore the intersection of robotics, artificial intelligence, and human values through an immersive, hands-on learning experience. Over two intensive weeks, participants will gain both technical and creative skills—combining robotics, design thinking, and policy awareness—to imagine and prototype solutions that contribute positively to society. Guided by Imperial experts, students will learn how to design, develop, and evaluate robotic systems that advance innovation while maintaining…",
-    "source": "IC",
-    "date": "2026-07-20T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Training Course",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/190765/design-engineering-for-innovation-summer-school/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/photo-for-webpage_1768910877422_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:191011",
-    "sourceEventId": "191011",
-    "title": "Design Engineering for Innovation Summer School",
-    "desc": "Welcome to the Design Engineering Summer School!\n\nThis Summer School offers a unique opportunity to gain insights into creativity, innovation, and design through a combination of inspiring lectures and hands-on workshops. You will explore evolutionary, revolutionary, and experimental methods for design-led innovation, with modules covering cutting-edge topics such as data-centric design, AI in immersive audio design, and smart cities. These subjects are designed to complement your engineering background and inspire new approaches to innovation.\n\nA key focus of the programme is fostering the Design Engineering mindset. This will involve an exploration of diverse design processes, their practical advantages and limitations, and the development of integrated and comprehensive design…",
-    "source": "IC",
-    "date": "2026-07-20T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Training Course",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/191011/design-engineering-for-innovation-summer-school-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/dyson-pic-1-1_1741176287128_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211492",
     "sourceEventId": "211492",
     "title": "COW Seminar – Workshop in honour of Frances Kirwan",
@@ -398,7 +337,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211492/cow-seminar-workshop-in-honour-of-frances-kirwan/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:207947",
@@ -422,73 +361,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/flyer-slide_1774607501446_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211556",
-    "sourceEventId": "211556",
-    "title": "SPC space/plasma seminar – Vicente Valenzuela-Villaseca (LLNL) – Tues 21st July 11 AM",
-    "desc": "At 11 AM on Tuesday 21st of July, Vicente Valenzuela-Villaseca from Lawrence Livermore National Laboratory has kindly offered to give a seminar titled \"Laboratory measurements of energy partitioning and anomalous electron heating in magnetized, perpendicular collisionless shocks\" - see full abstract",
-    "source": "IC",
-    "date": "2026-07-21T11:00:00+01:00",
-    "durationMin": 60,
-    "venue": "741, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Space",
-      "Plasma and Climate Community",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211556/spc-space-plasma-seminar-vicente-valenzuela-villaseca-llnl-tues-21st-july-11-am/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211340",
-    "sourceEventId": "211340",
-    "title": "SPC Seminar – Climate – Yumeng Chen (Reading)",
-    "desc": "Speaker: Yumeng Chen (Reading)\n\nTitle: Assimilating phytoplankton carbon in marine ecosystem modelling\n\nAbstract:\n\nThe state of the marine ecosystem can be estimated by combining numerical models and satellite observations through data assimilation (DA). Satellite products representing phytoplankton chlorophyll, derived from ocean colour observations, are widely used in operational marine ecosystem prediction as a proxy for phytoplankton biomass. However, phytoplankton carbon products, although long available, are not yet widely assimilated. A new phytoplankton carbon product from the ESA-funded BICEP project has recently been derived through an alternative processing of ocean colour, providing complementary information on phytoplankton biomass to chlorophyll alone. We therefore expect…",
-    "source": "IC",
-    "date": "2026-07-21T11:30:00+01:00",
-    "durationMin": 60,
-    "venue": "711c, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Climate change",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211340/spc-seminar-climate-yumeng-chen-reading/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211499",
-    "sourceEventId": "211499",
-    "title": "Biomathematics seminar – Tara Chari (Schmidt Center, Broad Institute)",
-    "desc": "Biomathematics seminar - Tara Chari (Schmidt Center, Broad Institute)",
-    "source": "IC",
-    "date": "2026-07-21T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "139, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211499/biomathematics-seminar-tara-chari-schmidt-center-broad-institute/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:207407",
     "sourceEventId": "207407",
     "title": "RSM175 Evening Lecture Series: Life and Health",
@@ -507,7 +379,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/207407/ese-evening-lecture-series-life-and-health/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210714",
@@ -702,7 +574,72 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe-for-disability-pride/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211636",
+    "sourceEventId": "211636",
+    "title": "New Gen Festival",
+    "desc": "New Gen Festival is a youth-led festival celebrating music, dance, creativity and culture in Ealing through live performances, workshops, emerging talent and community collaboration. They put young people at the centre of everything we do. They have opportunities to work in paid festival roles and volunteer to learn new skills as well as having opportunities to perform.\n\nHeld annually in Walpole Park, part of Ealing Summer Festivals, New Gen creates opportunities for emerging artists and young creatives to perform, collaborate and connect with audiences alongside more established performers. They also have a year-long programme of events engaging with young people creatively including workshops, training and open mic nights.\n\nThe festival combines live entertainment with hands-on…",
+    "source": "IC",
+    "date": "2026-07-29T14:00:00+01:00",
+    "durationMin": 420,
+    "venue": "Walpole Park",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Festival",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211636/new-gen-festival-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/new-gen-marketing-t-page-1_1784634668231_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211504",
+    "sourceEventId": "211504",
+    "title": "Sustainable Food Accelerator: Application Q&A",
+    "desc": "The Sustainable Food Accelerator supports early-stage sustainable food and alternative protein startups to generate the data that makes corporates confident to pilot and investors confident to back.\n\n​Applications are now open! We are hosting a number of informal Q&A webinars to give you the opportunity learn more about the programme and application process. It’s a great opportunity to meet the team and ask any questions you may have. Come join us!\n\n​Q&A Series\n\n​Applications for the Sustainable Food Accelerator are open from July 13th to August 21st 2026. We will run a number of Q&A sessions during the application window, taking place on the following dates:\n\n​Thursday, July 30th – 4pm\n\n​Thursday, August 13th – 4pm\n\n​Please make sure you register for the correct session on the date you…",
+    "source": "IC",
+    "date": "2026-07-30T15:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Climate change",
+      "Innovation",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211504/sustainable-food-accelerator-application-qa/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sfa-qa_1783944789857_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210756",
+    "sourceEventId": "210756",
+    "title": "Football Tournament",
+    "desc": "Gather your colleagues and course mates and enter Move’s 5-a-side football tournament. If you want to play but can’t persuade others to join you that’s fine too – enter as an individual and we will assign you a team.\n\nTeam entries will close at midnight on Monday 27 July.",
+    "source": "IC",
+    "date": "2026-07-31T12:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Sports Hall, Ground Floor, Ethos Sports Centre, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210756/football-tournament-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/football-wc_1781017228616_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
