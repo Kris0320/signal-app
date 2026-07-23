@@ -319,28 +319,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211377",
-    "sourceEventId": "211377",
-    "title": "Quantum Learning Quantum: Quantum Computers and AI",
-    "desc": "Join the Department of Physice for a public talk entitled Quantum Learning Quantum: Quantum Computers and AI.\n\nProfessor Gerard Milburn, Quantum Fellow at the UK’s NQCC, willl share his vision of how quantum computers and AI could transform science.\n\nGalileo’s great insight was that we can learn about the world by building devices that reveal simple, reproducible phenomena. We push on the world, and the world pushes back. More than a century ago, scientists discovered that some experiments produced a startling result: the world is quantum.\n\nQuantum theory is famously strange, yet we now understand it well enough to put it to work. Quantum technologies aim to harness and control the quantum world in ways that can make us wealthier, healthier and safer. In this talk, Professor Milburn will…",
-    "source": "IC",
-    "date": "2026-07-22T18:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Lecture Theatre 1, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Physics",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211377/quantum-learning-quantum-quantum-computers-and-ai/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/quantum-3_1783070949115_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211605",
     "sourceEventId": "211605",
     "title": "Greenhouse Cohort 11: Application Q&A",
@@ -403,7 +381,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211480/attosecond-ionization-dynamics-from-perturbative-to-strong-field/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210247",
@@ -424,7 +402,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210247/discover-imperial-economics-finance-and-data-science-degree/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210766",
@@ -490,6 +468,28 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe-for-disability-pride/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211644",
+    "sourceEventId": "211644",
+    "title": "Natural Gas, Electrolysis, Photocatalysis and Methane Pyrolysis based Hydrogen Production in the UK a comparative life cycle analysis of carbon emissions for future electricity and natural gas supply scenarios",
+    "desc": "Journal Club: Natural Gas, Electrolysis, Photocatalysis and Methane Pyrolysis based Hydrogen Production in the UK a comparative life cycle analysis of carbon emissions for future electricity and natural gas supply scenarios\n\nThe Imperial Network of Excellence in Sustainability through Life Cycle Approaches will host Louis Schilders , who will present on his PhD work on hydrogen production in the UK.\n\nAbstract\n\nHydrogen can decarbonise hard-to-abate sectors, but its life-cycle climate performance depends on the production technology and the energy and feedstock systems in which it operates. This study presents an attributional cradle-to-gate life cycle assessment of seven hydrogen production routes under UK conditions: alkaline, proton exchange membrane and solid oxide electrolysis;…",
+    "source": "IC",
+    "date": "2026-07-29T12:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Sustainability",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211644/natural-gas-electrolysis-photocatalysis-and-methane-pyrolysis-based-hydrogen-production-in-the-uk/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
@@ -625,6 +625,29 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211506/sustainable-food-accelerator-application-qa-13-august/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sfa-call-for-projects_1783933571993_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211609",
+    "sourceEventId": "211609",
+    "title": "Greenhouse Cohort 11: Application Q&A",
+    "desc": "The Greenhouse is Undaunted’s flagship accelerator programme, supporting cleantech and deeptech startups from lab to traction. It’s currently now open for applications for Cohort 11.\n\nWe are hosting a number of informal Q&A webinars to give you the opportunity learn more about the programme and application process. It’s a great opportunity to meet the team and ask any questions you may have. Come join us!\n\n​Q&A Series\n\n​Applications for Cohort 11 are open from 16 July – 21 August 2026. We will run a number of Q&A sessions during the application window, taking place on the following dates:\n\n​Thursday, July 23rd – 2pm\n\n​Monday, August 3rd – 11am\n\n​Monday, August 17th – 11am\n\n​Please make sure you register for the correct session on the date you would like to take part. You can find the…",
+    "source": "IC",
+    "date": "2026-08-17T11:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Climate change",
+      "Innovation",
+      "Innovation Ecosystem",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211609/greenhouse-cohort-11-application-qa-17-aug/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/cohort-11-apply-now-banners3_1784538773276_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
