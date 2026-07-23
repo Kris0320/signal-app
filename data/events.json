@@ -153,6 +153,27 @@
     "image": "https://www.kcl.ac.uk/newimages/three-students-walking-together..x23582d32.png?w=782&h=440&crop=780,440,1,0"
   },
   {
+    "id": "kcl:virtual-campus-tour-strand-bush-house-17-august-2026",
+    "sourceEventId": "fed25ced-59ec-46e9-9d7e-897a1d54857f",
+    "title": "Virtual Campus Tour: Strand & Bush House - 17 August 2026",
+    "desc": "Take a virtual tour of our Strand & Bush House campus",
+    "source": "KCL",
+    "date": "2026-08-17T10:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Prospective students",
+      "Student",
+      "University"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/virtual-campus-tour-strand-bush-house-17-august-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/campuses/strand-01780x760.x81db5c02.jpg?crop=780,440,0,235"
+  },
+  {
     "id": "kcl:undergraduate-info-session-personal-statement-18-august-2026",
     "sourceEventId": "5d2eef94-1563-4d32-88d5-151e3d223a38",
     "title": "Writing your undergraduate personal statement",
@@ -277,69 +298,24 @@
     "image": "https://www.kcl.ac.uk/newimages/ah/film-studies/newsevents/260826-conversation-with-stanley-kwan.x62fa1294.png"
   },
   {
-    "id": "kcl:mathematical-colloquium-weierstrass-bridges-by-alexander-schied",
-    "sourceEventId": "66151d4e-f2cf-4f38-bcd5-c6c87ca91ce1",
-    "title": "Mathematical Colloquium: Weierstrass Bridges by Alexander Schied",
-    "desc": "Join a talk by Alexander Schied from the University of Waterloo",
-    "source": "KCL",
-    "date": "2026-08-27T15:30:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Public lecture",
-      "Technology & Science",
-      "Department of Mathematics"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/mathematical-colloquium-weierstrass-bridges-by-alexander-schied",
-    "image": "https://www.kcl.ac.uk/newimages/ah/strandaldwych.xdb9ff27e.jpg?w=782&h=440&crop=780,440,1,0"
-  },
-  {
-    "id": "ic:211008",
-    "sourceEventId": "211008",
-    "title": "Great Service Lunch and Learn: Project staff costing tool",
-    "desc": "Atlas will replace ICIS and some other systems (including Teamseer and Talentlink). This means everyone in Imperial will use Atlas in the future.\n\nOur Lunch and Learn sessions will provide an opportunity for everyone across Imperial to see the new system. These sessions are designed to help you begin to understand what the new system will mean for you.\n\nThe next session will take place on 23 July and will showcase the new Project Staff Costing Tool within Atlas and the tool’s capabilities for project planning and management.\n\nThe tool combines people and project data to automatically calculate the costs of existing staff charged to a project, reducing manual effort and improving accuracy. It also enables users to model and compare different staffing scenarios, providing insights to…",
+    "id": "ic:210247",
+    "sourceEventId": "210247",
+    "title": "Discover Imperial: Economics, Finance and Data Science degree",
+    "desc": "Explore the world of economics with a student ambassador-led workshop and then learn about Imperial’s Economics, Finance and Data Science programme.\n\nOur online event will take place via Zoom on Tuesday 28 July from 10:00 – 12:00, and will be an opportunity to work with our BSc Economics, Finance and Data Science Student Ambassadors in an interactive workshop, learn about our undergraduate course and get your questions answered!\n\nThe agenda for the event includes:\n\nA workshop with our BSc ambassadors on GDP & Happiness\n\nAn introduction to our BSc Economics, Finance and Data Science programme\n\nQ&A session with our student ambassadors.\n\nRegister through the link to confirm your place!",
     "source": "IC",
-    "date": "2026-07-23T12:00:00+01:00",
-    "durationMin": 60,
+    "date": "2026-07-28T10:00:00+01:00",
+    "durationMin": 120,
     "venue": "Online",
     "area": "Online",
     "price": 0,
     "tags": [
-      "General",
-      "Institutional Event",
-      "Staff"
+      "Departmental event",
+      "Open to all"
     ],
     "format": "Online",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211008/great-service-lunch-and-learn-project/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/maya-maceka-yw-qgw-ijxg-unsplash_1779111825624_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211605",
-    "sourceEventId": "211605",
-    "title": "Greenhouse Cohort 11: Application Q&A",
-    "desc": "The Greenhouse is Undaunted’s flagship accelerator programme, supporting cleantech and deeptech startups from lab to traction. It’s currently now open for applications for Cohort 11.\n\nWe are hosting a number of informal Q&A webinars to give you the opportunity learn more about the programme and application process. It’s a great opportunity to meet the team and ask any questions you may have. Come join us!\n\n​Q&A Series\n\n​Applications for Cohort 11 are open from 16 July – 21 August 2026. We will run a number of Q&A sessions during the application window, taking place on the following dates:\n\n​Thursday, July 23rd – 2pm\n\n​Monday, August 3rd – 11am\n\n​Monday, August 17th – 11am\n\n​Please make sure you register for the correct session on the date you would like to take part. You can find the…",
-    "source": "IC",
-    "date": "2026-07-23T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Climate change",
-      "Innovation",
-      "Innovation Ecosystem",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211605/greenhouse-cohort-11-application-qa/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/cohort-11-apply-now-banners3_1784537616984_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/210247/discover-imperial-economics-finance-and-data-science-degree/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211522",
@@ -382,27 +358,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211480/attosecond-ionization-dynamics-from-perturbative-to-strong-field/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210247",
-    "sourceEventId": "210247",
-    "title": "Discover Imperial: Economics, Finance and Data Science degree",
-    "desc": "Explore the world of economics with a student ambassador-led workshop and then learn about Imperial’s Economics, Finance and Data Science programme.\n\nOur online event will take place via Zoom on Tuesday 28 July from 10:00 – 12:00, and will be an opportunity to work with our BSc Economics, Finance and Data Science Student Ambassadors in an interactive workshop, learn about our undergraduate course and get your questions answered!\n\nThe agenda for the event includes:\n\nA workshop with our BSc ambassadors on GDP & Happiness\n\nAn introduction to our BSc Economics, Finance and Data Science programme\n\nQ&A session with our student ambassadors.\n\nRegister through the link to confirm your place!",
-    "source": "IC",
-    "date": "2026-07-28T10:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Departmental event",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210247/discover-imperial-economics-finance-and-data-science-degree/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210766",
@@ -468,7 +423,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe-for-disability-pride/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211644",
@@ -490,7 +445,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211644/natural-gas-electrolysis-photocatalysis-and-methane-pyrolysis-based-hydrogen-production-in-the-uk/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211636",
@@ -650,6 +605,49 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/cohort-11-apply-now-banners3_1784538773276_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:204072",
+    "sourceEventId": "204072",
+    "title": "A Systems Approach to Infrastructure",
+    "desc": "“A Systems Approach to Infrastructure” , is a course for mid to senior level professionals engaged in infrastructure policy, planning, financing and implementation. It is also a place for all those interested in creating a more sustainable and resilient world to engage in discussions with infrastructure policy makers, sponsors and implementers.\n\nAs a world leading university, Imperial promises a learning curve of unsurpassed quality with top experts from around the world who will bring together all aspects of a systems approach to infrastructure implementation from planning, financing, to practical lessons learned on mega infrastructure programmes like Heathrow T5, Thames Tideway, Cross Rail, East-West Rail, Denver Union Station and Eagle Line, and other examples from around the world.…",
+    "source": "IC",
+    "date": "2026-09-02T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Training Course",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/204072/a-systems-approach-to-infrastructure-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/landing-image-web_1768234348036_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211471",
+    "sourceEventId": "211471",
+    "title": "London Hypoxia Networking Meeting",
+    "desc": "We’re pleased to announce that the London Hypoxia Networking (LHN) meeting is returning on 3-4 September 2026 to Imperial College London, and registration is now open.\n\nThis London Hypoxia Networking (LHN) meeting will introduce attendees to the dynamic and rapidly expanding field of hypoxia research with growing implications ranging from basic molecular biology to vascular homeostasis and medicine.\n\nChanges in cellular oxygen trigger a broad array of adaptive responses (both acute and chronic) that have fundamental implications on physiological homeostasis and the pathogenesis of numerous medical conditions. This meeting will bring together hypoxia focused research groups from across the UK and by allowing attendees to disseminate new scientific knowledge, facilitate discussions and…",
+    "source": "IC",
+    "date": "2026-09-03T16:00:00+01:00",
+    "durationMin": 480,
+    "venue": "12th Floor, Sir Michael Uren Hub, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Meeting",
+      "NHLI",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "lse:ai-socialism",
     "sourceEventId": "ai-socialism",
     "title": "Socialism after AI",
@@ -770,6 +768,69 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/handle-with-care-aug-2026",
     "image": "https://images.prismic.io/wellcomecollection/ZtmF1bzzk9ZrXB24_EP_002108_037.jpg?auto=format%2Ccompress&rect=446%2C527%2C3540%2C1991&w=3200&h=1800"
+  },
+  {
+    "id": "wc:mosquitoes-warnings",
+    "sourceEventId": "mosquitoes-warnings",
+    "title": "Mosquitoes Warnings",
+    "desc": "Explore striking posters and prints from our historic collection that reveal how mosquitoes and mosquito-borne diseases have been communicated through public health campaigns.",
+    "source": "WC",
+    "date": "2026-08-22T10:00:00+00:00",
+    "durationMin": 270,
+    "venue": "Viewing Room",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Session",
+      "Healthcare",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/mosquitoes-warnings",
+    "image": "https://images.prismic.io/wellcomecollection/fc1e83ee-b294-4a90-9fce-96349a0ec58c_EP_000700_003+16x9.jpg?auto=format%2Ccompress&w=3200&h=1800"
+  },
+  {
+    "id": "wc:audrey-amiss-rudy-loewe-relaxed-openings",
+    "sourceEventId": "audrey-amiss-rudy-loewe-relaxed-openings",
+    "title": "Relaxed Opening of ‘Audrey Amiss' and ‘Rudy Loewe' exhibitions",
+    "desc": "Join us for a calm and friendly opening of the 'Audrey Amiss' and 'Rudy Loewe' exhibitions, with additional support and facilities.",
+    "source": "WC",
+    "date": "2026-08-23T09:00:00+00:00",
+    "durationMin": 240,
+    "venue": "Gallery 2",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Relaxed opening",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/audrey-amiss-rudy-loewe-relaxed-openings",
+    "image": "https://images.prismic.io/wellcomecollection/zuSP8RLJqswQhLFS_EP3619_0070-2.jpg?auto=format%2Ccompress&rect=0%2C397%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
+    "sourceEventId": "bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
+    "title": "BSL Tour of ‘Audrey Amiss: The Surviving Exhibitions’ with Alison Claire France",
+    "desc": "Join multidisciplinary artist Alison Claire France for a Deaf-led tour of ‘Audrey Amiss: The Surviving Exhibitions’.",
+    "source": "WC",
+    "date": "2026-08-23T13:00:00+00:00",
+    "durationMin": 600,
+    "venue": "Information Point on level 0",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Gallery tour",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
+    "image": "https://images.prismic.io/wellcomecollection/rkHtawbrOkpFMGvy_SDP_EP003626_260702_3114-Edit.jpg?auto=format%2Ccompress&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
@@ -964,6 +1025,25 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/12/crossing-barriers/",
     "image": "https://royalsociety.org/-/media/events/2026/12/crossing-barriers/aiss.jpeg"
+  },
+  {
+    "id": "rs:2027-01-finding-earths",
+    "sourceEventId": "2027-01-finding-earths",
+    "title": "Developing a network of high-stability spectrographs to find Earth twins",
+    "desc": "Theo Murphy meeting organised by Dr Annelies Mortier and Dr Heather Cegla",
+    "source": "RS",
+    "date": "2027-01-25T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Clayton Hotel, Birmingham",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/01/finding-earths/",
+    "image": "https://royalsociety.org/-/media/events/landing-grid/des8801_website_images_events_scientific-events.jpg"
   },
   {
     "id": "rs:2026-10-francis-crick-prize-lecture",
