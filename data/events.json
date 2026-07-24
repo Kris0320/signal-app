@@ -315,7 +315,7 @@
     "format": "Online",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210247/discover-imperial-economics-finance-and-data-science-degree/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211522",
@@ -337,27 +337,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211522/developing-a-sustainable-research-computing-environment-at-uk-universities/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/zac-wolff-s8kfxm9hq9y-unsplash-cropped_1784018843120_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211480",
-    "sourceEventId": "211480",
-    "title": "Attosecond ionization dynamics: from perturbative to strong field.",
-    "desc": "Speaker\n\nProfessor Alexandra Landsman The Ohio State University\n\nAbstract:\n\nRecent advances in X‑ray free‑electron laser (XFEL) technology have opened new opportunities to probe photoionization dynamics on attosecond timescales and to access strong‑field regimes at X‑ray wavelengths that were previously experimentally inaccessible. In this talk, I will discuss two complementary classes of XFEL experiments that together illuminate the timing and mechanisms of electron emission in atoms and molecules. First, I will address attosecond photoemission delays measured using circular streaking techniques, with a focus on extending ionization‑delay chronoscopy from linearly to circularly polarized probes. I will also address the challenges of interpreting streaking delays at low photoelectron…",
-    "source": "IC",
-    "date": "2026-07-24T12:00:00+01:00",
-    "durationMin": 60,
-    "venue": "B630, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211480/attosecond-ionization-dynamics-from-perturbative-to-strong-field/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210766",
@@ -405,27 +384,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/red-admiral-c-amy-lewis-1024x685_1752056321075_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211611",
-    "sourceEventId": "211611",
-    "title": "Able network event: Badge Cafe for Disability Pride",
-    "desc": "Come along to the Badge Café for an afternoon of creativity, conversation, and community as we celebrate Disability Pride this July!\n\nThis is a drop-in session and it’s open to all staff and students at Imperial. There’s no set start time and no expectations. You’re welcome to stay for five minutes or the whole afternoon – we’d love to see you!\n\nMake a badge, get creative, meet new people, reconnect with familiar faces – everyone is welcome! There will be free food and drinks from the Library Café, so come along, grab a snack, and enjoy a relaxed afternoon together.",
-    "source": "IC",
-    "date": "2026-07-28T13:00:00+01:00",
-    "durationMin": 180,
-    "venue": "Library Cafe, Abdus Salam Library, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe-for-disability-pride/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211644",
     "sourceEventId": "211644",
     "title": "Natural Gas, Electrolysis, Photocatalysis and Methane Pyrolysis based Hydrogen Production in the UK a comparative life cycle analysis of carbon emissions for future electricity and natural gas supply scenarios",
@@ -445,7 +403,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211644/natural-gas-electrolysis-photocatalysis-and-methane-pyrolysis-based-hydrogen-production-in-the-uk/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211636",
@@ -645,7 +603,49 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211125",
+    "sourceEventId": "211125",
+    "title": "Optimisation Accelerator: Improving Decisions through Optimisation",
+    "desc": "Optimisation is the workhorse behind modern machine learning and AI. From training neural networks and tuning hyperparameters to resource allocation and decision-making systems, optimisation algorithms are at the core of how intelligent systems learn and improve. This course highlights the central role optimisation plays across engineering, data science, and machine learning, giving participants both the theoretical foundations and practical tools needed to apply optimisation methods in real-world applications.\n\nThis Optimisation Accelerator is an intensive, hands-on course taught by leading optimisation experts from Imperial College London and University College London. The programme is designed for industry practitioners seeking practical optimisation skills with immediate real-world…",
+    "source": "IC",
+    "date": "2026-09-07T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "RODH617, Roderic Hill Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Training Course",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209871",
+    "sourceEventId": "209871",
+    "title": "Optimisation Accelerator: Improving Decisions through Optimisation",
+    "desc": "Optimisation is the workhorse behind modern machine learning and AI. From training neural networks and tuning hyperparameters to resource allocation and decision-making systems, optimisation algorithms are at the core of how intelligent systems learn and improve. This course highlights the central role optimisation plays across engineering, data science, and machine learning, giving participants both the theoretical foundations and practical tools needed to apply optimisation methods in real-world applications.\n\nThis Optimisation Accelerator is an intensive, hands-on course taught by leading optimisation experts from Imperial College London and University College London. The programme is designed for industry practitioners seeking practical optimisation skills with immediate real-world…",
+    "source": "IC",
+    "date": "2026-09-07T12:30:00+01:00",
+    "durationMin": 480,
+    "venue": "TBC, Roderic Hill Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209871/optimisation-accelerator-improving-decisions-through-optimisation/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sargent-centre-event_1779270049169_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
