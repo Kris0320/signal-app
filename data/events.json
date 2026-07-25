@@ -315,28 +315,7 @@
     "format": "Online",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210247/discover-imperial-economics-finance-and-data-science-degree/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211522",
-    "sourceEventId": "211522",
-    "title": "Developing a Sustainable Research Computing Environment at UK Universities",
-    "desc": "Join us to hear from speakers working on green and sustainable research computing at institutions across the UK and celebrate the launch of our new Digital Research Sustainability short course:\n\nWith the march towards ever more computational research across almost all domains, green and sustainable approaches to research computing are now a key item on the agenda of many university sustainability teams. As researchers rapidly adopt the use of AI and Large Language Models (LLMs), alongside so many other industries, the volume, cost and environmental impact of the computing we use is both a common talking point and a challenge for employers and individuals alike.\n\nThis event, jointly hosted by the Sustainable Institutional Research Computing Culture project at Imperial College London…",
-    "source": "IC",
-    "date": "2026-07-24T10:30:00+01:00",
-    "durationMin": 330,
-    "venue": "Council Room, 170 Queens Gate, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211522/developing-a-sustainable-research-computing-environment-at-uk-universities/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/zac-wolff-s8kfxm9hq9y-unsplash-cropped_1784018843120_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210766",
@@ -403,7 +382,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211644/natural-gas-electrolysis-photocatalysis-and-methane-pyrolysis-based-hydrogen-production-in-the-uk/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211636",
@@ -603,7 +582,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -624,7 +603,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -646,6 +625,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209871/optimisation-accelerator-improving-decisions-through-optimisation/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sargent-centre-event_1779270049169_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211287",
+    "sourceEventId": "211287",
+    "title": "Aeronautics Research Showcase 2026",
+    "desc": "Join us for our biennial event, showcasing leading research from across the Department of Aeronautics.\n\nThe event will include:\n\nPoster exhibition including poster competition\n\nKeynote speech\n\nExpert panels, exploring the latest sector advances and technologies\n\nKeynote\n\nNear-term maturity and future disruption – engineering growth in aerospace\n\nJacqueline Castle, Chief Technology Officer at Aerospace Technology Institute\n\nSpeaker Bio\n\nJ acqueline Castle is Chief Technology Officer at the Aerospace Technology Institute, where she is accountable for the ATI’s Technology Strategy to ensure UK Aerospace remains at the forefront of global aerospace and firmly on the path to a sustainable future.\n\nPrior to joining the ATI, Jacqueline spent more than 25 years in the Aerospace Industry at…",
+    "source": "IC",
+    "date": "2026-09-08T13:00:00+01:00",
+    "durationMin": 300,
+    "venue": "Clore Lecture Theatre, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Exhibition",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211287/aeronautics-research-showcase-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/04092024-aeronautics-research-showcase-035_1783436513543_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
