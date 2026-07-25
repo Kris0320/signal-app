@@ -315,7 +315,7 @@
     "format": "Online",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210247/discover-imperial-economics-finance-and-data-science-degree/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210766",
@@ -382,7 +382,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211644/natural-gas-electrolysis-photocatalysis-and-methane-pyrolysis-based-hydrogen-production-in-the-uk/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211636",
@@ -582,7 +582,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -603,7 +603,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -666,26 +666,6 @@
     "match": 74,
     "url": "https://www.lse.ac.uk/events/ai-socialism",
     "image": null
-  },
-  {
-    "id": "wc:tracing-my-history",
-    "sourceEventId": "tracing-my-history",
-    "title": "Tracing My History",
-    "desc": "Join this discussion exploring how lived experience and creative storytelling can reshape how we understand personal histories and research.",
-    "source": "WC",
-    "date": "2026-07-25T12:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Reading Room",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Discussion",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/tracing-my-history",
-    "image": "https://images.prismic.io/wellcomecollection/ajqVmVbRV8_QfxZC_EP_003398_089.jpg?auto=format%2Ccompress&rect=0%2C202%2C4000%2C2250&w=3200&h=1800"
   },
   {
     "id": "wc:theatre-taster-on-love-and-devotion",
