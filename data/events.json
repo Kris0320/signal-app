@@ -113,23 +113,25 @@
     "image": "https://www.kcl.ac.uk/newimages/careers/ee/festivals/2022-fairs-images/china/china-2026-fairs.xf87d2894.jpg?w=880&h=440&crop=780,440,0,0"
   },
   {
-    "id": "kcl:kings-foundations-offer-holder-pre-departure-event-12-august-2026",
-    "sourceEventId": "0fbcee9b-bfce-466b-ba7d-576328e02f47",
-    "title": "King's International Foundation pre-departure event 12 August 2026",
-    "desc": "Join us at this exclusive pre-departure event for King's International Foundation students.",
+    "id": "kcl:ark-special-seminar-translational-longevity",
+    "sourceEventId": "e13d9f71-e99b-44d4-946c-4fa11ef70801",
+    "title": "ARK Special Seminar - Translational Longevity",
+    "desc": "ARK Special Seminar",
     "source": "KCL",
-    "date": "2026-08-12T15:00:00",
+    "date": "2026-08-12T12:00:00",
     "durationMin": 60,
     "venue": "Online",
     "area": "Online",
     "price": 0,
     "tags": [
-      "King's International Foundation"
+      "Seminar",
+      "Public lecture",
+      "Technology & Science"
     ],
     "format": "Online",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/kings-foundations-offer-holder-pre-departure-event-12-august-2026",
-    "image": "https://www.kcl.ac.uk/newimages/accommodation/hero/22-23-mobile-hero-images/move-in-1.x334fce0b.png?w=780&h=521&crop=780,440,0,41"
+    "url": "https://www.kcl.ac.uk/events/ark-special-seminar-translational-longevity",
+    "image": "https://www.kcl.ac.uk/newimages/folsm/thumbnail-newsevents/slcps/doctor-with-supplements.x9ec9f3cc.png"
   },
   {
     "id": "kcl:undergraduate-info-session-ucas-17-august-2026",
@@ -215,6 +217,25 @@
     "image": "https://www.kcl.ac.uk/newimages/ioppn/blogs/research-culture-blogs/research-culture-books.xfddcebed.jpg?w=780&h=520&crop=780,440,0,80"
   },
   {
+    "id": "kcl:kings-foundations-offer-holder-pre-departure-event-19-august-2026",
+    "sourceEventId": "0fbcee9b-bfce-466b-ba7d-576328e02f47",
+    "title": "King's International Foundation pre-departure event 19 August 2026",
+    "desc": "Join us at this exclusive pre-departure event for King's International Foundation students.",
+    "source": "KCL",
+    "date": "2026-08-19T15:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "King's International Foundation"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/kings-foundations-offer-holder-pre-departure-event-19-august-2026",
+    "image": "https://www.kcl.ac.uk/newimages/accommodation/hero/22-23-mobile-hero-images/move-in-1.x334fce0b.png?w=780&h=521&crop=780,440,0,41"
+  },
+  {
     "id": "kcl:vsac-2026",
     "sourceEventId": "c4c8f9a8-8f2a-4f27-91ec-6c2487c13e40",
     "title": "Visual Science of Art Conference (VSAC) 2026",
@@ -277,27 +298,6 @@
     "image": "https://www.kcl.ac.uk/image-library/Press-Photos/dentistry-qs.xda851c8b.jpg?w=780&h=515&crop=780,440,0,38"
   },
   {
-    "id": "kcl:masterclass-conversation-with-stanley-kwan",
-    "sourceEventId": "4a0427e4-0d10-495a-85f8-218755fa8939",
-    "title": "Masterclass: Conversation with Stanley Kwan",
-    "desc": "Join us in person for an exclusive masterclass featuring the legendary filmmaker Stanley Kwan, hosted by Prof Victor Fan at King's College London.",
-    "source": "KCL",
-    "date": "2026-08-26T19:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Public lecture",
-      "Faculty of Arts & Humanities",
-      "Department of Film Studies"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/masterclass-conversation-with-stanley-kwan",
-    "image": "https://www.kcl.ac.uk/newimages/ah/film-studies/newsevents/260826-conversation-with-stanley-kwan.x62fa1294.png"
-  },
-  {
     "id": "ic:210247",
     "sourceEventId": "210247",
     "title": "Discover Imperial: Economics, Finance and Data Science degree",
@@ -315,7 +315,7 @@
     "format": "Online",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/210247/discover-imperial-economics-finance-and-data-science-degree/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210766",
@@ -382,7 +382,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211644/natural-gas-electrolysis-photocatalysis-and-methane-pyrolysis-based-hydrogen-production-in-the-uk/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211636",
@@ -427,6 +427,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211504/sustainable-food-accelerator-application-qa/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sfa-qa_1783944789857_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211654",
+    "sourceEventId": "211654",
+    "title": "Early Academic Talks (EAT)",
+    "desc": "We are hosting our next E arly Academic Talks session this month on Thursday 30th June . This is a great opportunity for Early Career Researchers (ECRs) to network and learn about the research at Imperial in a friendly and informal environment.",
+    "source": "IC",
+    "date": "2026-07-30T16:10:00+01:00",
+    "durationMin": 80,
+    "venue": "Wolfson Seminar Room 1, Commonwealth Building, Hammersmith Campus",
+    "area": "Hammersmith",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211654/early-academic-talks-eat-11/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/early-academic-logo-1_1755594709483_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210756",
@@ -494,6 +515,28 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211627/icb-cdt-lab-of-the-future-hackathon/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/lotf-logobackground_1784627253916_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211653",
+    "sourceEventId": "211653",
+    "title": "From Exceptional Points to Exceptional Bands",
+    "desc": "Abstract\n\nExceptional points (EPs) are spectral singularities in non-Hermitian systems, at which individual eigenvalues and eigenvectors become identical. The successful realization of EPs in diverse physical systems, such as photonics, acoustics, cold atoms, and superconducting circuits, has sparked great interest in fundamental physics and inspired a wide range of novel applications. However, as the term “exceptional” suggests, EPs are usually isolated spectral points. Consequently, functionalities rooted in EPs face several inherent limitations, such as narrow bandwidth. Here, we present a generalization o f the concept of EPs characterized by the coalescence of high-dimensional eigenspaces and overlapped spectra. This condition is denoted as “exceptional deficiency.” When this…",
+    "source": "IC",
+    "date": "2026-08-11T14:00:00+01:00",
+    "durationMin": 120,
+    "venue": "B539 - Floor 5 , Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Physics",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211653/from-exceptional-points-to-exceptional-bands/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211506",
@@ -582,7 +625,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -604,48 +647,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209871",
-    "sourceEventId": "209871",
-    "title": "Optimisation Accelerator: Improving Decisions through Optimisation",
-    "desc": "Optimisation is the workhorse behind modern machine learning and AI. From training neural networks and tuning hyperparameters to resource allocation and decision-making systems, optimisation algorithms are at the core of how intelligent systems learn and improve. This course highlights the central role optimisation plays across engineering, data science, and machine learning, giving participants both the theoretical foundations and practical tools needed to apply optimisation methods in real-world applications.\n\nThis Optimisation Accelerator is an intensive, hands-on course taught by leading optimisation experts from Imperial College London and University College London. The programme is designed for industry practitioners seeking practical optimisation skills with immediate real-world…",
-    "source": "IC",
-    "date": "2026-09-07T12:30:00+01:00",
-    "durationMin": 480,
-    "venue": "TBC, Roderic Hill Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209871/optimisation-accelerator-improving-decisions-through-optimisation/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sargent-centre-event_1779270049169_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211287",
-    "sourceEventId": "211287",
-    "title": "Aeronautics Research Showcase 2026",
-    "desc": "Join us for our biennial event, showcasing leading research from across the Department of Aeronautics.\n\nThe event will include:\n\nPoster exhibition including poster competition\n\nKeynote speech\n\nExpert panels, exploring the latest sector advances and technologies\n\nKeynote\n\nNear-term maturity and future disruption – engineering growth in aerospace\n\nJacqueline Castle, Chief Technology Officer at Aerospace Technology Institute\n\nSpeaker Bio\n\nJ acqueline Castle is Chief Technology Officer at the Aerospace Technology Institute, where she is accountable for the ATI’s Technology Strategy to ensure UK Aerospace remains at the forefront of global aerospace and firmly on the path to a sustainable future.\n\nPrior to joining the ATI, Jacqueline spent more than 25 years in the Aerospace Industry at…",
-    "source": "IC",
-    "date": "2026-09-08T13:00:00+01:00",
-    "durationMin": 300,
-    "venue": "Clore Lecture Theatre, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Exhibition",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211287/aeronautics-research-showcase-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/04092024-aeronautics-research-showcase-035_1783436513543_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
@@ -790,5 +791,314 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
     "image": "https://images.prismic.io/wellcomecollection/rkHtawbrOkpFMGvy_SDP_EP003626_260702_3114-Edit.jpg?auto=format%2Ccompress&w=3200&h=1800"
+  },
+  {
+    "id": "rs:2026-09-path-to-quantum-gravity",
+    "sourceEventId": "2026-09-path-to-quantum-gravity",
+    "title": "The path to quantum gravity with causal sets",
+    "desc": "Theo Murphy meeting organised by Dr Yasaman Yazdi and Dr Stav Zalel",
+    "source": "RS",
+    "date": "2026-09-07T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Holiday Inn, Manchester City Centre",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Physics",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 76,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/path-to-quantum-gravity/",
+    "image": "https://royalsociety.org/-/media/events/2026/9/path-to-quantum-gravity/lead-image.jpg"
+  },
+  {
+    "id": "rs:2026-09-unravelling-magnetic-histories",
+    "sourceEventId": "2026-09-unravelling-magnetic-histories",
+    "title": "Unravelling the magnetic histories of Earth and other terrestrial objects",
+    "desc": "Discussion meeting organised by Professor Andy Biggin, Dr James Bryson, Professor Cathy Constable and Professor Wyn Williams.",
+    "source": "RS",
+    "date": "2026-09-14T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/unravelling-magnetic-histories/",
+    "image": "https://royalsociety.org/-/media/events/2026/9/magnetic-histories/magnetic-histories-header.jpg"
+  },
+  {
+    "id": "rs:2026-09-bridging-animal-and-ai",
+    "sourceEventId": "2026-09-bridging-animal-and-ai",
+    "title": "Nature of intelligence: Bridging animal and artificial intelligence",
+    "desc": "Theo Murphy meeting organised by Dr HaDi MaBouDi",
+    "source": "RS",
+    "date": "2026-09-21T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "DoubleTree by Hilton, Bristol",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 82,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/bridging-animal-and-ai/",
+    "image": "https://royalsociety.org/-/media/events/2026/9/bridging-animals/nibai-webpage.jpg"
+  },
+  {
+    "id": "rs:2026-10-tof-entomology",
+    "sourceEventId": "2026-10-tof-entomology",
+    "title": "Innovations in entomology",
+    "desc": "This conference will showcase the innovative science and technology occurring across entomology, as well as the challenge and opportunity for translation in the UK.",
+    "source": "RS",
+    "date": "2026-10-01T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/tof-entomology/",
+    "image": "https://royalsociety.org/-/media/events/2026/10/tof-innovations-in-entomology/innovations-in-entomology-image.jpg"
+  },
+  {
+    "id": "rs:2026-10-safeguarding-anthropocene-tropical-forests",
+    "sourceEventId": "2026-10-safeguarding-anthropocene-tropical-forests",
+    "title": "Safeguarding Anthropocene tropical forests",
+    "desc": "Science+ meeting organised by Professor Jane Hill OBE FRS, Datuk Dr Glen Reynolds MBE, Dr Lindsay Banin, Dr Ophelia Wang, Professor John Pyle FRS",
+    "source": "RS",
+    "date": "2026-10-05T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/safeguarding-anthropocene-tropical-forests/",
+    "image": "https://royalsociety.org/-/media/events/2026/10/tropical-forests/tropical-forests.jpg"
+  },
+  {
+    "id": "rs:2026-10-immunology-of-the-exposome",
+    "sourceEventId": "2026-10-immunology-of-the-exposome",
+    "title": "Immunology of the exposome: addressing the crisis in chronic inflammatory disease",
+    "desc": "Discussion meeting organised by Professor Judith Allen FMedSci FRS and Dame Fiona Powrie DBE FMedSci FRS",
+    "source": "RS",
+    "date": "2026-10-12T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Healthcare",
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/immunology-of-the-exposome/",
+    "image": "https://royalsociety.org/-/media/events/2026/10/immunology-of-the-exposome/lead-image.jpg"
+  },
+  {
+    "id": "rs:2026-11-ecological-dynamics",
+    "sourceEventId": "2026-11-ecological-dynamics",
+    "title": "Forecasting ecological dynamics in a changing world, a critical discussion",
+    "desc": "Discussion meeting organised by Dr Emily G Simmonds",
+    "source": "RS",
+    "date": "2026-11-02T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/ecological-dynamics/",
+    "image": "https://royalsociety.org/-/media/events/2026/11/ecological-dynamics/lead-image.jpg"
+  },
+  {
+    "id": "rs:2026-11-low-cost-optical-sensing",
+    "sourceEventId": "2026-11-low-cost-optical-sensing",
+    "title": "Low-cost optical sensing for healthcare",
+    "desc": "Discussion meeting organised by Professor Jeremy J Baumberg FRS, FRSC and Professor Duncan Graham FRSC",
+    "source": "RS",
+    "date": "2026-11-09T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Healthcare",
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 82,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/low-cost-optical-sensing/",
+    "image": "https://royalsociety.org/-/media/about-us/royal-society-new.jpg"
+  },
+  {
+    "id": "rs:2026-11-neuromorphic-computing",
+    "sourceEventId": "2026-11-neuromorphic-computing",
+    "title": "Innovating technologies for neuromorphic computing",
+    "desc": "Discussion meeting and Transforming our Future event organised by Professor Stephen Furber CBE FREng FRS, Professor Judith Driscoll FREng FRS, Professor Stuart Parkin FREng FRS, Dr Sebastian C Dixon and Professor Tony Kenyon",
+    "source": "RS",
+    "date": "2026-11-23T09:00:00+01:00",
+    "durationMin": 420,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/neuromorphic-computing/",
+    "image": "https://royalsociety.org/-/media/events/2026/11/neuromorphic-computing/neuromorphic-lead-image.jpg"
+  },
+  {
+    "id": "rs:2026-12-crossing-barriers",
+    "sourceEventId": "2026-12-crossing-barriers",
+    "title": "Crossing barriers at the axon initial segment",
+    "desc": "Theo Murphy meeting organised by Professor Matthew Grubb, Professor Maren Engelhardt and Professor Maarten H P Kole",
+    "source": "RS",
+    "date": "2026-12-07T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Apex Grassmarket Hotel, Edinburgh",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/12/crossing-barriers/",
+    "image": "https://royalsociety.org/-/media/events/2026/12/crossing-barriers/aiss.jpeg"
+  },
+  {
+    "id": "rs:2027-01-finding-earths",
+    "sourceEventId": "2027-01-finding-earths",
+    "title": "Developing a network of high-stability spectrographs to find Earth twins",
+    "desc": "Theo Murphy meeting organised by Dr Annelies Mortier and Dr Heather Cegla",
+    "source": "RS",
+    "date": "2027-01-25T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Clayton Hotel, Birmingham",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/01/finding-earths/",
+    "image": "https://royalsociety.org/-/media/events/landing-grid/des8801_website_images_events_scientific-events.jpg"
+  },
+  {
+    "id": "rs:2027-02-visual-comfort-and-visual-stress",
+    "sourceEventId": "2027-02-visual-comfort-and-visual-stress",
+    "title": "The neurological basis of visual discomfort and visual stress",
+    "desc": "The neurological basis of visual discomfort and visual stress",
+    "source": "RS",
+    "date": "2027-02-01T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/02/visual-comfort-and-visual-stress/",
+    "image": "https://royalsociety.org/-/media/about-us/hub-page/carlton-house-terrace-home-page.jpg"
+  },
+  {
+    "id": "rs:2026-10-francis-crick-prize-lecture",
+    "sourceEventId": "2026-10-francis-crick-prize-lecture",
+    "title": "Francis Crick Prize Lecture: Pathogens and the power of evolution",
+    "desc": "Join us for the Francis Crick Prize Lecture delivered by Professor Kayla King",
+    "source": "RS",
+    "date": "2026-10-14T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/francis-crick-prize-lecture/",
+    "image": "https://royalsociety.org/-/media/awards/francis-crick-medal/stock-image-2025--cropped.jpg"
+  },
+  {
+    "id": "rs:2026-09-open-house",
+    "sourceEventId": "2026-09-open-house",
+    "title": "Open House 2026",
+    "desc": "Explore the history and architectural highlights of Carlton House Terrace, the home of the UK's national academy of science.",
+    "source": "RS",
+    "date": "2026-09-19T10:00:00+01:00",
+    "durationMin": 420,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/open-house/",
+    "image": "https://royalsociety.org/-/media/events/2026/9/open-house/ceiling---web.jpg"
+  },
+  {
+    "id": "rs:2026-11-croonian-prize-lecture",
+    "sourceEventId": "2026-11-croonian-prize-lecture",
+    "title": "Croonian Prize Lecture delivered by Dr David Baker",
+    "desc": "Join us for the Croonian Prize Lecture delivered by Dr David Baker",
+    "source": "RS",
+    "date": "2026-11-03T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/croonian-prize-lecture/",
+    "image": "https://royalsociety.org/-/media/about-us/hub-page/carlton-house-terrace-home-page.jpg"
+  },
+  {
+    "id": "rs:2026-11-milner-prize-lecture",
+    "sourceEventId": "2026-11-milner-prize-lecture",
+    "title": "Milner Prize Lecture delivered by Professor Johan Håstad",
+    "desc": "Join us for the Royal Society Milner Prize Lecture delivered by Professor Johan H&#229;stad",
+    "source": "RS",
+    "date": "2026-11-12T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Policy",
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/milner-prize-lecture/",
+    "image": "https://royalsociety.org/-/media/about-us/hub-page/carlton-house-terrace-home-page.jpg"
   }
 ]
