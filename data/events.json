@@ -298,25 +298,26 @@
     "image": "https://www.kcl.ac.uk/image-library/Press-Photos/dentistry-qs.xda851c8b.jpg?w=780&h=515&crop=780,440,0,38"
   },
   {
-    "id": "ic:211644",
-    "sourceEventId": "211644",
-    "title": "Natural Gas, Electrolysis, Photocatalysis and Methane Pyrolysis based Hydrogen Production in the UK a comparative life cycle analysis of carbon emissions for future electricity and natural gas supply scenarios",
-    "desc": "Journal Club: Natural Gas, Electrolysis, Photocatalysis and Methane Pyrolysis based Hydrogen Production in the UK a comparative life cycle analysis of carbon emissions for future electricity and natural gas supply scenarios\n\nThe Imperial Network of Excellence in Sustainability through Life Cycle Approaches will host Louis Schilders , who will present on his PhD work on hydrogen production in the UK.\n\nAbstract\n\nHydrogen can decarbonise hard-to-abate sectors, but its life-cycle climate performance depends on the production technology and the energy and feedstock systems in which it operates. This study presents an attributional cradle-to-gate life cycle assessment of seven hydrogen production routes under UK conditions: alkaline, proton exchange membrane and solid oxide electrolysis;…",
+    "id": "ic:211504",
+    "sourceEventId": "211504",
+    "title": "Sustainable Food Accelerator: Application Q&A",
+    "desc": "The Sustainable Food Accelerator supports early-stage sustainable food and alternative protein startups to generate the data that makes corporates confident to pilot and investors confident to back.\n\n​Applications are now open! We are hosting a number of informal Q&A webinars to give you the opportunity learn more about the programme and application process. It’s a great opportunity to meet the team and ask any questions you may have. Come join us!\n\n​Q&A Series\n\n​Applications for the Sustainable Food Accelerator are open from July 13th to August 21st 2026. We will run a number of Q&A sessions during the application window, taking place on the following dates:\n\n​Thursday, July 30th – 4pm\n\n​Thursday, August 13th – 4pm\n\n​Please make sure you register for the correct session on the date you…",
     "source": "IC",
-    "date": "2026-07-29T12:30:00+01:00",
+    "date": "2026-07-30T15:00:00+01:00",
     "durationMin": 60,
     "venue": "Online",
     "area": "Online",
     "price": 0,
     "tags": [
-      "Seminar",
-      "Sustainability",
+      "General",
+      "Climate change",
+      "Innovation",
       "Open to all"
     ],
     "format": "Online",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211644/natural-gas-electrolysis-photocatalysis-and-methane-pyrolysis-based-hydrogen-production-in-the-uk/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/211504/sustainable-food-accelerator-application-qa/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sfa-qa_1783944789857_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211636",
@@ -338,29 +339,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211636/new-gen-festival-2/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/new-gen-marketing-t-page-1_1784634668231_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211504",
-    "sourceEventId": "211504",
-    "title": "Sustainable Food Accelerator: Application Q&A",
-    "desc": "The Sustainable Food Accelerator supports early-stage sustainable food and alternative protein startups to generate the data that makes corporates confident to pilot and investors confident to back.\n\n​Applications are now open! We are hosting a number of informal Q&A webinars to give you the opportunity learn more about the programme and application process. It’s a great opportunity to meet the team and ask any questions you may have. Come join us!\n\n​Q&A Series\n\n​Applications for the Sustainable Food Accelerator are open from July 13th to August 21st 2026. We will run a number of Q&A sessions during the application window, taking place on the following dates:\n\n​Thursday, July 30th – 4pm\n\n​Thursday, August 13th – 4pm\n\n​Please make sure you register for the correct session on the date you…",
-    "source": "IC",
-    "date": "2026-07-30T15:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Climate change",
-      "Innovation",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211504/sustainable-food-accelerator-application-qa/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sfa-qa_1783944789857_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211654",
@@ -581,7 +559,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -602,7 +580,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -645,6 +623,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211287/aeronautics-research-showcase-2026/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/04092024-aeronautics-research-showcase-035_1783436513543_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211458",
+    "sourceEventId": "211458",
+    "title": "Walking Tour – White City",
+    "desc": "Join Move and Iya London Walks for a short well-being walk in White City, exploring two local green spaces, mainly via quiet routes, taking you away from traffic and introducing you to the history of White City.\n\nPlease wear weather appropriate clothing as the walking tour is outdoors.",
+    "source": "IC",
+    "date": "2026-09-09T12:55:00+01:00",
+    "durationMin": 65,
+    "venue": "Meet outside: Translation and Innovation Hub (I-Hub), White City, Translation and Innovation Hub (I-HUB), White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211458/walking-tour-white-city-5/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/copy-of-copy-of-movember-events-tiles-11_1777626996334_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
