@@ -320,27 +320,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sfa-qa_1783944789857_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211636",
-    "sourceEventId": "211636",
-    "title": "New Gen Festival",
-    "desc": "New Gen Festival is a youth-led festival celebrating music, dance, creativity and culture in Ealing through live performances, workshops, emerging talent and community collaboration. They put young people at the centre of everything we do. They have opportunities to work in paid festival roles and volunteer to learn new skills as well as having opportunities to perform.\n\nHeld annually in Walpole Park, part of Ealing Summer Festivals, New Gen creates opportunities for emerging artists and young creatives to perform, collaborate and connect with audiences alongside more established performers. They also have a year-long programme of events engaging with young people creatively including workshops, training and open mic nights.\n\nThe festival combines live entertainment with hands-on…",
-    "source": "IC",
-    "date": "2026-07-29T14:00:00+01:00",
-    "durationMin": 420,
-    "venue": "Walpole Park",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Festival",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211636/new-gen-festival-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/new-gen-marketing-t-page-1_1784634668231_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211654",
     "sourceEventId": "211654",
     "title": "Early Academic Talks (EAT)",
@@ -470,7 +449,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211653/from-exceptional-points-to-exceptional-bands/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211506",
@@ -559,7 +538,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -580,7 +559,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -644,6 +623,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211458/walking-tour-white-city-5/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/copy-of-copy-of-movember-events-tiles-11_1777626996334_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:201570",
+    "sourceEventId": "201570",
+    "title": "Thermodynamics Conference 2026",
+    "desc": "We are delighted to invite you to the 29th Thermodynamics Conference, taking place at Imperial College London from 13–15 September 2026.\n\nHeld biennially, this conference brings together researchers, industry professionals, and early-career scientists from across the globe to share advances, foster collaborations, and shape the future of thermodynamics.\n\nKey conference themes can be found on the conference website .\n\nAbstract submissions for oral and poster presentations are now open, and contributions from all areas of thermodynamics are welcome. Please see the abstracts page for details.\n\nRegistration is also open, with early booking recommended. Early-bird booking prices start at £550 depending on delegate type.\n\nSponsorship opportunities are available for organisations across sectors…",
+    "source": "IC",
+    "date": "2026-09-13T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Lecture theatre 1, Lecture theatre 3, ACE Extension, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
