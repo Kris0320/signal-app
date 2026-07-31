@@ -217,6 +217,25 @@
     "image": "https://www.kcl.ac.uk/newimages/ioppn/blogs/research-culture-blogs/research-culture-books.xfddcebed.jpg?w=780&h=520&crop=780,440,0,80"
   },
   {
+    "id": "kcl:postgraduate-law-careers-info-session-18-august-26",
+    "sourceEventId": "d0180764-7c4a-46e5-b406-8a1159d208ae",
+    "title": "Postgraduate Law: Careers Information Session",
+    "desc": "Join online to hear from our Law Careers Consultant at King's College London.",
+    "source": "KCL",
+    "date": "2026-08-18T13:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "The Dickson Poon School of Law"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/postgraduate-law-careers-info-session-18-august-26",
+    "image": "https://www.kcl.ac.uk/newimages/student-life/somerset-house.xee140710.png?w=782&h=440&crop=780,440,1,0"
+  },
+  {
     "id": "kcl:kings-foundations-offer-holder-pre-departure-event-19-august-2026",
     "sourceEventId": "0fbcee9b-bfce-466b-ba7d-576328e02f47",
     "title": "King's International Foundation pre-departure event 19 August 2026",
@@ -278,67 +297,88 @@
     "image": "https://www.kcl.ac.uk/ImportedImages/book-open-unsplash.xbe4be0f7.jpg?w=844&h=563&crop=780,440,41,12"
   },
   {
-    "id": "kcl:undergraduate-info-session-healthcare-courses-25-august-2026",
-    "sourceEventId": "461d6050-04f6-4d20-9b74-d71cd72ba7af",
-    "title": "Applying to healthcare courses at King's",
-    "desc": "Learn more about how to choose the right undergraduate course for you.",
-    "source": "KCL",
-    "date": "2026-08-25T13:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "Student",
-      "University"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-healthcare-courses-25-august-2026",
-    "image": "https://www.kcl.ac.uk/image-library/Press-Photos/dentistry-qs.xda851c8b.jpg?w=780&h=515&crop=780,440,0,38"
-  },
-  {
-    "id": "ic:211504",
-    "sourceEventId": "211504",
-    "title": "Sustainable Food Accelerator: Application Q&A",
-    "desc": "The Sustainable Food Accelerator supports early-stage sustainable food and alternative protein startups to generate the data that makes corporates confident to pilot and investors confident to back.\n\n​Applications are now open! We are hosting a number of informal Q&A webinars to give you the opportunity learn more about the programme and application process. It’s a great opportunity to meet the team and ask any questions you may have. Come join us!\n\n​Q&A Series\n\n​Applications for the Sustainable Food Accelerator are open from July 13th to August 21st 2026. We will run a number of Q&A sessions during the application window, taking place on the following dates:\n\n​Thursday, July 30th – 4pm\n\n​Thursday, August 13th – 4pm\n\n​Please make sure you register for the correct session on the date you…",
+    "id": "ic:211667",
+    "sourceEventId": "211667",
+    "title": "Big Butterfly Count at Wormwood Scrubs Open Space",
+    "desc": "Join Kate McVay, Ecology Advisor at The Scrubs on 6 August and take part in the Big Butterfly Count, a UK-wide survey where you can help contribute to conservation science and research by counting butterflies!",
     "source": "IC",
-    "date": "2026-07-30T15:00:00+01:00",
+    "date": "2026-08-06T11:00:00+01:00",
     "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
+    "venue": "Wormwood Scrubs Open Space",
+    "area": "South Kensington",
     "price": 0,
     "tags": [
       "General",
-      "Climate change",
-      "Innovation",
-      "Open to all"
-    ],
-    "format": "Online",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211504/sustainable-food-accelerator-application-qa/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sfa-qa_1783944789857_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211654",
-    "sourceEventId": "211654",
-    "title": "Early Academic Talks (EAT)",
-    "desc": "We are hosting our next E arly Academic Talks session this month on Thursday 30th June . This is a great opportunity for Early Career Researchers (ECRs) to network and learn about the research at Imperial in a friendly and informal environment.",
-    "source": "IC",
-    "date": "2026-07-30T16:10:00+01:00",
-    "durationMin": 80,
-    "venue": "Wolfson Seminar Room 1, Commonwealth Building, Hammersmith Campus",
-    "area": "Hammersmith",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
+      "Sustainability",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211654/early-academic-talks-eat-11/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/early-academic-logo-1_1755594709483_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/211667/big-butterfly-count-at-wormwood-scrubs-open-space/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/red-admiral-c-amy-lewis-1024x685_1752056321075_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211287",
+    "sourceEventId": "211287",
+    "title": "Aeronautics Research Showcase 2026",
+    "desc": "Join us for our biennial event, showcasing leading research from across the Department of Aeronautics.\n\nThe event will include:\n\nPoster exhibition including poster competition\n\nKeynote speech\n\nExpert panels, exploring the latest sector advances and technologies\n\nKeynote\n\nNear-term maturity and future disruption – engineering growth in aerospace\n\nJacqueline Castle, Chief Technology Officer at Aerospace Technology Institute\n\nSpeaker Bio\n\nJ acqueline Castle is Chief Technology Officer at the Aerospace Technology Institute, where she is accountable for the ATI’s Technology Strategy to ensure UK Aerospace remains at the forefront of global aerospace and firmly on the path to a sustainable future.\n\nPrior to joining the ATI, Jacqueline spent more than 25 years in the Aerospace Industry at…",
+    "source": "IC",
+    "date": "2026-09-08T13:00:00+01:00",
+    "durationMin": 300,
+    "venue": "Clore Lecture Theatre, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211287/aeronautics-research-showcase-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/04092024-aeronautics-research-showcase-035_1783436513543_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210483",
+    "sourceEventId": "210483",
+    "title": "Natural Sciences Showcase 2026",
+    "desc": "Join a full day of presentations and stimulating discussions with the academics and prize-winning PhD students in the Faculty of Natural Sciences and find out about our innovative work. Everybody is welcome! Please register as soon as possible (deadline is 17.00 on 21 September 2026).\n\n10.00 – 18.00, SAFB G16 LT (Sir Alexander Fleming Building)\n\nWelcome coffee from 09.30 in the concourse level 1\n\nDepartmental talks sessions: 10.00 – 16.10 in SAFB G16 LT (coffee breaks in the concourse level 1).\n\nPhD students poster competition: 12.30 – 13.40 in SAFB 120-122 (lunch will be provided) – Imperial staff and students will be able to vote for their favourite poster by Wednesday 23rd September, 15:00 – posters will be uploaded in our website in early September.\n\nPanel session: 16.10 – 17.10 in…",
+    "source": "IC",
+    "date": "2026-09-23T10:00:00+01:00",
+    "durationMin": 480,
+    "venue": "SAFB G16 LT, Sir Alexander Fleming Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "FoNS Research Showcase",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210483/natural-sciences-showcase-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/research-showcase-2026-with-date-green-1000-x-700-px_1784104890433_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211589",
+    "sourceEventId": "211589",
+    "title": "In conversation With Professor Anjali Goswami, Chief Scientific Advisor at the Department for Environment, Food and Rural Affairs (Defra)",
+    "desc": "Join us for the second in this series of fireside conversations with senior scientists in government, hosted by the Imperial Policy Forum, where attendees can hear about what role science plays in informing and shaping government policy, what the process looks like from the inside at the highest level of decision-making, and how you as a researcher can make an impact.\n\nLeading the conversation will be Professor Mary Ryan, Vice-Provost for Research and Enterprise at Imperial.\n\nTimings :\n\nJoin from 17.30\n\nConversation commences 18.00\n\nConversation and Q&A ends: 19.00\n\nAbout the speaker\n\nProfessor Anjali Goswami was appointed Chief Scientific Adviser and Director General Science, Data and Analysis at the Department for Environment, Food and Rural Affairs on 1 July 2025.\n\nAnjali is a…",
+    "source": "IC",
+    "date": "2026-10-01T17:30:00+01:00",
+    "durationMin": 90,
+    "venue": "RSM147, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Symposium",
+      "The Forum",
+      "Institutional Event",
+      "Staff"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211589/in-conversation-with-professor-anjali-goswami-chief-scientific-advisor-at-the-department-for-environment-food-and-rural-affairs-defra/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/anjali-goswami_1784191775868_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:210756",
@@ -383,51 +423,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211607/greenhouse-cohort-11-application-qa-3-aug/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/cohort-11-apply-now-banners3_1784538256744_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211627",
-    "sourceEventId": "211627",
-    "title": "ICB CDT Lab of the Future Hackathon",
-    "desc": "The ICB CDT has launched an ideas-generating Hackathon for teams of Imperial graduates undertaking Masters, PhD or PDRA positions to develop lab of the future tools and technologies – which will address the changing nature of the modern lab.\n\nThe Lab of the Future Hackathon will have a physical prototyping element, with the ICB CDT providing each team with £500 of consumables, mentoring, workshops and access to prototyping equipment until it culminates in a face-to-face grand final at the end of November, where the winners will be chosen by an expert panel of judges. The grand final will be part of a day of panel discussions, showcase events and technology demonstrations from leading academics, global Industry partners and start-ups.\n\nTeams will be challenged to develop novel tools and…",
-    "source": "IC",
-    "date": "2026-08-04T10:00:00+01:00",
-    "durationMin": 30,
-    "venue": "G23/G24, Molecular Sciences Research Hub (MSRH), White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "General",
-      "Artificial intelligence",
-      "Chemistry",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211627/icb-cdt-lab-of-the-future-hackathon/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/lotf-logobackground_1784627253916_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211667",
-    "sourceEventId": "211667",
-    "title": "Big Butterfly Count at Wormwood Scrubs Open Space",
-    "desc": "Join Kate McVay, Ecology Advisor at The Scrubs on 6 August and take part in the Big Butterfly Count, a UK-wide survey where you can help contribute to conservation science and research by counting butterflies!",
-    "source": "IC",
-    "date": "2026-08-06T11:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Wormwood Scrubs Open Space",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Sustainability",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211667/big-butterfly-count-at-wormwood-scrubs-open-space/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/red-admiral-c-amy-lewis-1024x685_1752056321075_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211653",
@@ -538,7 +533,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -583,27 +578,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sargent-centre-event_1779270049169_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211287",
-    "sourceEventId": "211287",
-    "title": "Aeronautics Research Showcase 2026",
-    "desc": "Join us for our biennial event, showcasing leading research from across the Department of Aeronautics.\n\nThe event will include:\n\nPoster exhibition including poster competition\n\nKeynote speech\n\nExpert panels, exploring the latest sector advances and technologies\n\nKeynote\n\nNear-term maturity and future disruption – engineering growth in aerospace\n\nJacqueline Castle, Chief Technology Officer at Aerospace Technology Institute\n\nSpeaker Bio\n\nJ acqueline Castle is Chief Technology Officer at the Aerospace Technology Institute, where she is accountable for the ATI’s Technology Strategy to ensure UK Aerospace remains at the forefront of global aerospace and firmly on the path to a sustainable future.\n\nPrior to joining the ATI, Jacqueline spent more than 25 years in the Aerospace Industry at…",
-    "source": "IC",
-    "date": "2026-09-08T13:00:00+01:00",
-    "durationMin": 300,
-    "venue": "Clore Lecture Theatre, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Exhibition",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211287/aeronautics-research-showcase-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/04092024-aeronautics-research-showcase-035_1783436513543_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211458",
     "sourceEventId": "211458",
     "title": "Walking Tour – White City",
@@ -643,7 +617,72 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211642",
+    "sourceEventId": "211642",
+    "title": "Imperial Vulnerable Plaque & Patient Meeting 2026",
+    "desc": "Over the years, the Imperial VPM meeting has been the catalyst for numerous technical innovations, collaborative initiatives, and landmark clinical trials.\n\nIts programme showcases state-of-the-art developments in the fundamental mechanisms of atherosclerosis, advances in disease diagnosis and risk stratification, and the latest findings from clinical trials.\n\nExtensive discussion sessions encourage critical evaluation of emerging evidence, foster collaboration between academia and industry, and help shape future research priorities to advance the field.",
+    "source": "IC",
+    "date": "2026-09-14T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "NHLI",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210916",
+    "sourceEventId": "210916",
+    "title": "RNA Vaccines & Therapeutics Conference London",
+    "desc": "We’re delighted to invite you to the RNA Vaccines & Therapeutics Conference London, taking place on 15-16 September 2026, at BMA House, London.\n\nHosted by CPI , Imperial College London , and the BioIndustry Association (BIA) , this leading conference will bring together experts from academia, biotech, pharma, and government to explore the developments shaping the next generation of RNA medicines.\n\nAs RNA technologies continue to advance, collaboration across the innovation ecosystem is essential to translate scientific discoveries into real-world solutions. The conference provides a forum to share knowledge, build partnerships, and discuss the priorities that will drive the field forward.\n\nOver two days, attendees will gain insights into advances in RNA vaccines and therapeutics, explore…",
+    "source": "IC",
+    "date": "2026-09-15T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "BMA House",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210916/rna-vaccines-therapeutics-conference-london/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ebd370a3-f0e0-4c60-981d-f77bb3d59d32_1781621222870_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211074",
+    "sourceEventId": "211074",
+    "title": "R&D, Place, and Developing Regional Innovation Systems: Lessons from Greater Manchester",
+    "desc": "This is in-person only event. The event will be followed by the Q&A with the speaker.\n\nAbout the Talk\n\nA large part of the UK’s current economic difficulties arise from the fact that its major cities outside London underperform, with productivity levels in second-tier city regions like Greater Manchester, the West Midlands, and the Glasgow City Region remaining below the UK average. In connection with these regional disparities in economic performance, the attention of policy makers has been drawn to the fact that levels of public and private research and development in these cities is below average, and recent policy initiatives, such as the previous government’s “Innovation Accelerator” Pilot, and the current government’s “Local Innovation Partnership Fund”, have sought to address…",
+    "source": "IC",
+    "date": "2026-09-15T11:00:00+01:00",
+    "durationMin": 60,
+    "venue": "iCube , Dyson Building of Design Engineering, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Industry",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211074/rd-place-and-developing-regional-innovation-systems-lessons-from-greater-manchester/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csep-seminar-event-card_1782244198767_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
@@ -768,6 +807,27 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
     "image": "https://images.prismic.io/wellcomecollection/rkHtawbrOkpFMGvy_SDP_EP003626_260702_3114-Edit.jpg?auto=format%2Ccompress&w=3200&h=1800"
+  },
+  {
+    "id": "wc:audio-described-tour-of-audrey-amiss-and-rudy-loewe-exhibitions-aug2026",
+    "sourceEventId": "audio-described-tour-of-audrey-amiss-and-rudy-loewe-exhibitions-aug2026",
+    "title": "Audio Described Tour of the Audrey Amiss and Rudy Loewe Exhibitions",
+    "desc": "Join us for a guided tour the ‘Audrey Amiss‘ and ‘Rudy Loewe‘ exhibitions with audio description.",
+    "source": "WC",
+    "date": "2026-08-30T10:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Gallery 2",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Gallery tour",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/audio-described-tour-of-audrey-amiss-and-rudy-loewe-exhibitions-aug2026",
+    "image": "https://images.prismic.io/wellcomecollection/Pkh4OhEfrQprG48j_BTG260701143704.jpg?auto=format%2Ccompress&rect=190%2C474%2C3810%2C2143&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
@@ -986,7 +1046,7 @@
     "id": "rs:2027-02-visual-comfort-and-visual-stress",
     "sourceEventId": "2027-02-visual-comfort-and-visual-stress",
     "title": "The neurological basis of visual discomfort and visual stress",
-    "desc": "The neurological basis of visual discomfort and visual stress",
+    "desc": "Science+ meeting organised by Professor Arnold J Wilkins and Dr Beverley Burke.",
     "source": "RS",
     "date": "2027-02-01T09:00:00+01:00",
     "durationMin": 480,
@@ -1000,25 +1060,6 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/02/visual-comfort-and-visual-stress/",
     "image": "https://royalsociety.org/-/media/about-us/hub-page/carlton-house-terrace-home-page.jpg"
-  },
-  {
-    "id": "rs:2026-10-francis-crick-prize-lecture",
-    "sourceEventId": "2026-10-francis-crick-prize-lecture",
-    "title": "Francis Crick Prize Lecture: Pathogens and the power of evolution",
-    "desc": "Join us for the Francis Crick Prize Lecture delivered by Professor Kayla King",
-    "source": "RS",
-    "date": "2026-10-14T18:30:00+01:00",
-    "durationMin": 60,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/francis-crick-prize-lecture/",
-    "image": "https://royalsociety.org/-/media/awards/francis-crick-medal/stock-image-2025--cropped.jpg"
   },
   {
     "id": "rs:2026-09-open-house",
@@ -1038,6 +1079,25 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/09/open-house/",
     "image": "https://royalsociety.org/-/media/events/2026/9/open-house/ceiling---web.jpg"
+  },
+  {
+    "id": "rs:2026-10-francis-crick-prize-lecture",
+    "sourceEventId": "2026-10-francis-crick-prize-lecture",
+    "title": "Francis Crick Prize Lecture: Pathogens and the power of evolution",
+    "desc": "Join us for the Francis Crick Prize Lecture delivered by Professor Kayla King",
+    "source": "RS",
+    "date": "2026-10-14T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/francis-crick-prize-lecture/",
+    "image": "https://royalsociety.org/-/media/awards/francis-crick-medal/stock-image-2025--cropped.jpg"
   },
   {
     "id": "rs:2026-11-croonian-prize-lecture",
