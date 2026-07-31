@@ -381,27 +381,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/anjali-goswami_1784191775868_eventportrait2018_x1.jpg"
   },
   {
-    "id": "ic:210756",
-    "sourceEventId": "210756",
-    "title": "Football Tournament",
-    "desc": "Gather your colleagues and course mates and enter Move’s 5-a-side football tournament. If you want to play but can’t persuade others to join you that’s fine too – enter as an individual and we will assign you a team.\n\nTeam entries will close at midnight on Monday 27 July.",
-    "source": "IC",
-    "date": "2026-07-31T12:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Sports Hall, Ground Floor, Ethos Sports Centre, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210756/football-tournament-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/football-wc_1781017228616_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211607",
     "sourceEventId": "211607",
     "title": "Greenhouse Cohort 11: Application Q&A",
@@ -444,7 +423,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211653/from-exceptional-points-to-exceptional-bands/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211506",
@@ -554,7 +533,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -617,7 +596,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -683,6 +662,28 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211074/rd-place-and-developing-regional-innovation-systems-lessons-from-greater-manchester/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csep-seminar-event-card_1782244198767_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209098",
+    "sourceEventId": "209098",
+    "title": "Resilient and Renewable Society (RRS) Summit",
+    "desc": "Resilient, Renewable Society (RRS) Summit\n\nDate : 16-17 September Time : 09:00–17:00\n\nLocation :\n\nDay 1 – 16th September, Plenary session, Royal Society, SW1Y 5AG\n\nDay 2 – 17th September, Extreme events exercise and workshops, Electrical & Electronic Engineering Building, Imperial College London, SW7 2AZ\n\nThe RRS Summit brings together leaders from academia, NGOs, government, policy, and the private sector to learn from recent crises, stress-test future scenarios, and shape resilience strategies together. Across three thematic sessions, the global summit explores resilience in natural disasters, energy system disruption, and emerging threats, with particular attention to whole-of-society approaches, critical infrastructure, Low- or Middle-Income Country (LMIC) perspectives, and the links…",
+    "source": "IC",
+    "date": "2026-09-16T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Day 1 – Royal Society, Day 2 - Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Civil engineering",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209098/resilient-and-renewable-society-rrs-summit/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/rrs-event-page-featured-image_1778149332411_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
