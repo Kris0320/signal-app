@@ -297,6 +297,310 @@
     "image": "https://www.kcl.ac.uk/ImportedImages/book-open-unsplash.xbe4be0f7.jpg?w=844&h=563&crop=780,440,41,12"
   },
   {
+    "id": "kcl:pioneering-artificial-intelligence-in-nursing",
+    "sourceEventId": "ce7911eb-6a18-4c08-bf73-523a568e21ba",
+    "title": "Pioneering artificial intelligence in nursing",
+    "desc": "The inaugural AI Nurses Network Conference will showcase nursing innovation and leadership in AI in healthcare.",
+    "source": "KCL",
+    "date": "2026-09-01T09:00:00",
+    "durationMin": 390,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "Health",
+      "Florence Nightingale Faculty of Nursing, Midwifery & Palliative Care"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/pioneering-artificial-intelligence-in-nursing",
+    "image": "https://www.kcl.ac.uk/newimages/nmpc/events/audience-sitting-in-chairs.x31401bcd.png?w=780&h=445&crop=780,440,0,3"
+  },
+  {
+    "id": "kcl:openday-top-tips-01-sept-26",
+    "sourceEventId": "ca5f0224-08c5-4e4e-aa9d-c21f418e5a56",
+    "title": "Top Tips for a King's College London open day",
+    "desc": "Learn more about what to expect at our Strand campus undergraduate open day",
+    "source": "KCL",
+    "date": "2026-09-01T17:30:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/openday-top-tips-01-sept-26",
+    "image": "https://www.kcl.ac.uk/newimages/accommodation/hero/22-23-mobile-hero-images/strand-campus-quad-3.x6bed9171.png?w=780&h=521&crop=780,440,0,41"
+  },
+  {
+    "id": "kcl:joint-rd-office-wednesday-walk-in-september",
+    "sourceEventId": "6800d660-5255-4a35-b2f2-fcd6b5f52468",
+    "title": "Joint R&D Office Wednesday Walk-In",
+    "desc": "Drop in and discuss your questions with the Joint R&D Office on the first Wednesday of every month.",
+    "source": "KCL",
+    "date": "2026-09-02T10:00:00",
+    "durationMin": 300,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Health",
+      "NIHR Biomedical Research Centre: Maudsley",
+      "Institute of Psychiatry, Psychology & Neuroscience"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/joint-rd-office-wednesday-walk-in-september",
+    "image": "https://www.kcl.ac.uk/newimages/ioppn/research-and-development/joint-rd-office-drop-in-session.xf23d189a.png"
+  },
+  {
+    "id": "kcl:queering-private-law-conference-2026",
+    "sourceEventId": "b24a4553-c8e1-47e3-9ea9-d695d626bbb5",
+    "title": "Queering Private Law Conference 2026",
+    "desc": "Private law presents itself as neutral and technical, a body of rules that simply reflects how the world is. But its foundational concepts carry assumptions about whose relationships, identities, and lives count as normal. This conference brings queer theory into conversation with private law, asking what is revealed when we take those assumptions seriously and refuse to treat them as inevitable.",
+    "source": "KCL",
+    "date": "2026-09-03T09:00:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "The Dickson Poon School of Law",
+      "Queering Private Law"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/queering-private-law-conference-2026",
+    "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/queering-private-law-conference-2026-mi.xafa02c88.png"
+  },
+  {
+    "id": "kcl:modelling-neural-power-spectra-motivations-applications",
+    "sourceEventId": "3a68265c-154e-4f32-bedb-861fd4f6efec",
+    "title": "Modelling Neural Power Spectra: Motivations & Applications",
+    "desc": "EEG working group meeting - Dr Thomas Donoghue",
+    "source": "KCL",
+    "date": "2026-09-04T11:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "Health"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/modelling-neural-power-spectra-motivations-applications",
+    "image": "https://www.kcl.ac.uk/newimages/research/thumb/eeg-wg-meeting-17.xeb0d489d.jpg?w=782&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:undergraduate-open-day-arts-sciences-strand-campus-05-sept-2026",
+    "sourceEventId": "5b057808-086c-4e68-a870-cfccbfd23712",
+    "title": "Arts & Sciences Undergraduate Open Day - Strand Campus",
+    "desc": "Join us in London to discover more about life at King's College London",
+    "source": "KCL",
+    "date": "2026-09-05T09:30:00",
+    "durationMin": 420,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/undergraduate-open-day-arts-sciences-strand-campus-05-sept-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/clearing/new-images/main/strand-campus-img-2819-main.x587b7cb4.jpg?crop=780,440,0,5"
+  },
+  {
+    "id": "kcl:london-6g-week",
+    "sourceEventId": "7526a9d8-3251-48fb-9901-cd515f940247",
+    "title": "London 6G Week",
+    "desc": "London 6G Week will take place from 7-11 September 2026, a week-long programme focused on next-generation mobile communications and future connectivity systems. The week will include the IEEE CSCN 2026 and the one6G Summit 2026",
+    "source": "KCL",
+    "date": "2026-09-07T09:00:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "Department of Engineering",
+      "Faculty of Natural, Mathematical & Engineering Sciences"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/london-6g-week",
+    "image": "https://www.kcl.ac.uk/newimages/nmes/main-article-780X450/6g-telecomms-upgrade.xcd991a3b.png"
+  },
+  {
+    "id": "kcl:bringing-the-magic-back-to-government-a-behavioural-insights-conference-for-government",
+    "sourceEventId": "69b9a0ec-c135-432a-bb9e-726689dfea3b",
+    "title": "Behavioural science in government: Bringing the magic back",
+    "desc": "In-person and online attendance available",
+    "source": "KCL",
+    "date": "2026-09-08T09:00:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "School for Government"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/bringing-the-magic-back-to-government-a-behavioural-insights-conference-for-government",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/policy-institute/magic-govt.x718af929.png?w=782&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:deans-office-summer-reading-club-at-waterloo-2",
+    "sourceEventId": "02175ca2-a9d3-4f45-a119-9bdd71a163fe",
+    "title": "Dean’s Office Summer Reading Club at Waterloo",
+    "desc": "Stay connected over the summer and share good book recommendations!",
+    "source": "KCL",
+    "date": "2026-09-08T13:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/deans-office-summer-reading-club-at-waterloo-2",
+    "image": "https://www.kcl.ac.uk/newimages/ioppn/blogs/research-culture-blogs/research-culture-books.xfddcebed.jpg?w=780&h=520&crop=780,440,0,80"
+  },
+  {
+    "id": "kcl:sustainability-education-at-kings-what-weve-achieved-where-were-going-internal-only",
+    "sourceEventId": "af36b117-569e-4ebe-9a40-0f5d57d4c818",
+    "title": "Sustainability education at King’s: What we’ve achieved & where we’re going [internal only]",
+    "desc": "Join us at a networking event exploring our progress embedding Education for Sustainability across King’s and looking to the future",
+    "source": "KCL",
+    "date": "2026-09-08T14:30:00",
+    "durationMin": 150,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "University",
+      "King's Sustainability",
+      "Faculty of Arts & Humanities"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/sustainability-education-at-kings-what-weve-achieved-where-were-going-internal-only",
+    "image": "https://www.kcl.ac.uk/newimages/sustainabilty/efs-event.x2df7d039.png?w=780&h=440"
+  },
+  {
+    "id": "kcl:duality",
+    "sourceEventId": "3e5b08b8-fae1-46b4-b7a1-c01a08b71d55",
+    "title": "Duality: Journeys of Ageing and Multiple Long-Term Conditions",
+    "desc": "Duality: a community event exploring ageing and multiple long-term conditions through photos, stories, conversation, food, and connection.",
+    "source": "KCL",
+    "date": "2026-09-08T16:00:00",
+    "durationMin": 210,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Health",
+      "Department of Global Health & Social Medicine",
+      "School of Global Affairs"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/duality",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/GHSM/duality-event-poster.x2ae6addf.png?w=811&h=440&crop=780,440,16,0"
+  },
+  {
+    "id": "kcl:the-fair-necessities-why-we-need-a-fairer-britain",
+    "sourceEventId": "f977ac35-0022-4886-855f-441b0de490e3",
+    "title": "The Fair Necessities: Why We Need a Fairer Britain",
+    "desc": "Join our panel to mark the launch of the book and discuss what a fair society might look like, why it matters, and how we can make it happen.",
+    "source": "KCL",
+    "date": "2026-09-08T18:30:00",
+    "durationMin": 75,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "The Policy Institute",
+      "Faculty of Social Science & Public Policy"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/the-fair-necessities-why-we-need-a-fairer-britain",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/policy-institute/will-snell-cms-graphic1.xe3f16e13.png?crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:connected-induction-for-kings-educators-copy-1",
+    "sourceEventId": "e467c388-53f3-43c5-b31c-bf3e97b14ee3",
+    "title": "ConnectED: Induction for King’s Educators",
+    "desc": "An induction event offering new colleagues who teach an introduction to education at King’s.",
+    "source": "KCL",
+    "date": "2026-09-09T09:30:00",
+    "durationMin": 240,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "University",
+      "King’s Academy"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/connected-induction-for-kings-educators-copy-1",
+    "image": "https://www.kcl.ac.uk/image-library/academy/connected-larger-kcl-2024-09-09-0272-74.x8e57ba74.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:carice-ageing-and-long-term-conditions-seminars-09-september-2026",
+    "sourceEventId": "84266bbb-4bd6-44c0-97c5-d203391c5de9",
+    "title": "CARICE Ageing and Long-term conditions Seminars - 09 September 2026",
+    "desc": "We invite all researchers affiliated or interested in ageing resilience to attend this seminar taking place on the second Wednesday of each month at 16:00 via teams.",
+    "source": "KCL",
+    "date": "2026-09-09T16:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Health",
+      "Faculty of Life Sciences & Medicine",
+      "Centre for Ageing Resilience In a Changing Environment - CARICE"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/carice-ageing-and-long-term-conditions-seminars-09-september-2026",
+    "image": "https://www.kcl.ac.uk/newimages/kped/short-course-catalogue/digital-health-wearable-tech.x4e8b306c.png?w=782&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:the-interdisciplinary-aortic-dissection-symposium-2026",
+    "sourceEventId": "e457d04d-2ecf-44d2-83a7-27e3f171d650",
+    "title": "The Interdisciplinary Aortic Dissection Symposium 2026",
+    "desc": "The third Interdisciplinary Aortic Dissection Symposium will take place on Thursday 10th September at King’s College London.",
+    "source": "KCL",
+    "date": "2026-09-10T08:00:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Faculty of Life Sciences & Medicine",
+      "Centre for Academic Surgery"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/the-interdisciplinary-aortic-dissection-symposium-2026",
+    "image": "https://www.kcl.ac.uk/newimages/folsm/thumbnail-newsevents/scms/the-interdisciplinary-aortic-dissection-symposium-2026.x8cd4ef3f.png"
+  },
+  {
     "id": "ic:211667",
     "sourceEventId": "211667",
     "title": "Big Butterfly Count at Wormwood Scrubs Open Space",
@@ -423,7 +727,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211653/from-exceptional-points-to-exceptional-bands/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211506",
@@ -512,7 +816,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -596,7 +900,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -618,7 +922,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -684,6 +988,70 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209098/resilient-and-renewable-society-rrs-summit/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/rrs-event-page-featured-image_1778149332411_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211703",
+    "sourceEventId": "211703",
+    "title": "Pride Network Summer Social",
+    "desc": "Celebrate the end of summer with Imperial Pride!\n\nJoin friends, colleagues, and alumni for an evening of drinks, laughter, and great company in a welcoming, friendly, and inclusive space.\n\nA small bar tab will be available on a first come, first served basis, so arrive early and raise a glass with us! 🥂\n\nFind out more about the Pride Network here.",
+    "source": "IC",
+    "date": "2026-09-17T17:00:00+01:00",
+    "durationMin": 180,
+    "venue": "Eastside Bar, 8-15 Princes Gardens, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Imperial Pride Network",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211189",
+    "sourceEventId": "211189",
+    "title": "Finance – Deadline for requesting a new supplier",
+    "desc": "If you need to use a new supplier and want a Purchase Order in place before the October freeze, your supplier request must be with Procurement by 21 September. Allow two weeks for supplier setup, then further time to raise and approve the Purchase Order before 19 October.\n\nInclude bank details – requests without them will be delayed.\n\nIf you miss this date, use a blanket Purchase Order against an existing approved supplier to cover your needs during the freeze.\n\nWhat if I only need the supplier set up, not a Purchase Order? Supplier setup freezes on 12 October. Get the request in before then. You can request new suppliers again from w/c 16 November once Atlas is live – guidance on the new process will be shared before go live.",
+    "source": "IC",
+    "date": "2026-09-21T00:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211189/finance-last-chance-to-request-a-new-supplier/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/finance-1_1782469948908_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207409",
+    "sourceEventId": "207409",
+    "title": "RSM175 Evening Lecture Series: Climate",
+    "desc": "Featuring Prof Tina van de Flierdt, Head of the Department of Earth Science and Engineering, Imperial College London",
+    "source": "IC",
+    "date": "2026-09-22T18:00:00+01:00",
+    "durationMin": 90,
+    "venue": "G.41, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Departmental event",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207409/ese-evening-lecture-series-life-and-health-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ese-lectures-climate_1773661722758_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
