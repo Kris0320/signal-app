@@ -1,22 +1,5 @@
 [
   {
-    "id": "kcl:undergraduate-info-session-clearing-4-august-2026",
-    "sourceEventId": "32e7b35a-eafc-4988-99da-294d40fcdd98",
-    "title": "Applying to King's through Clearing",
-    "desc": "Find out more about applying to King’s through Clearing in 2026",
-    "source": "KCL",
-    "date": "2026-08-04T16:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-clearing-4-august-2026",
-    "image": "https://www.kcl.ac.uk/departmentalimages/careers/kcl-photoshoot-students-working-in-library.x484a5d75.png?w=780&h=520&crop=780,440,0,40"
-  },
-  {
     "id": "kcl:undergraduate-info-session-clearing-6-august-2026",
     "sourceEventId": "a8465727-0284-4bbe-b076-f1be371044bf",
     "title": "Applying to King's through Clearing",
@@ -738,7 +721,7 @@
     "id": "ic:211725",
     "sourceEventId": "211725",
     "title": "ISEE (International Society for Environmental Epidemiology) 2026",
-    "desc": "A number of the Environmental Research Group will be presenting at this year’s Conference:\n\nPhD Student George Young – Poster Presentation\n\n‘Estimating personal exposure to indoor- and outdoor-generated PM 2.5 and their associations with childhood respiratory symptoms in West London: The WellHome Study’.\n\nResearch Fellow – Dr Dimitris Evangelopoulos – Oral Presentation\n\n“Investigating the short-term effects of particulate matter chemical components on mortality and the potential modifying effect of extreme temperature: A time-series analysis in London”\n\nTwo Poster presentations\n\n“High temporal resolution monitoring of illicit drug consumption across England via wastewater analysis”\n\n“The short-term respiratory health effects of recurrent landfill fires: A time series analysis, Havering,…",
+    "desc": "A number of the Environmental Research Group will be presenting at this year’s Conference:\n\nPhD Student George Young – Poster Presentation\n\n‘Estimating personal exposure to indoor- and outdoor-generated PM 2.5 and their associations with childhood respiratory symptoms in West London: The WellHome Study’.\n\nResearch Fellow Dr Dimitris Evangelopoulos – Oral Presentation and Two Poster Presentations\n\n“Investigating the short-term effects of particulate matter chemical components on mortality and the potential modifying effect of extreme temperature: A time-series analysis in London”\n\nPoster presentations\n\n“High temporal resolution monitoring of illicit drug consumption across England via wastewater analysis”\n\n“The short-term respiratory health effects of recurrent landfill fires: A time…",
     "source": "IC",
     "date": "2026-08-30T09:00:00+01:00",
     "durationMin": 480,
@@ -759,7 +742,7 @@
     "id": "ic:211741",
     "sourceEventId": "211741",
     "title": "12th International Aerosol Conference",
-    "desc": "A number of the Aerosol Science Team in the Environmental Research Group are presenting during the Conference.\n\nRegistration: Onsite Registration is still available",
+    "desc": "A number of the Aerosol Science Team in the Environmental Research Group are presenting during the Conference.\n\nXiaolu Zhang\n\n“Investigating the short-term effects of particulate matter (PM) chemical components on mortality and the potential modifying effect of extreme temperature: A time-series analysis in London”\n\nMax Priestman “Source characterization of plastic burning in East Java, Indonesia”\n\nSteven Campbell – Oral Presentations “Aerosol oxidative potential and its relationship with toxicity” “Toxicity of Aerosols: Exploring Air-Liquid Interface Exposure” “Integrating in vivo and cohort evidence on the Health Impacts of PM2.5”\n\nSteven Campbell – Poster Presentations “High time resolution quantification of PM2.5 oxidative potential”\n\nGang Chen – Oral Presentations “Aerosol oxidative…",
     "source": "IC",
     "date": "2026-08-30T09:00:00+08:00",
     "durationMin": 480,
@@ -816,7 +799,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -838,7 +821,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -943,7 +926,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -965,7 +948,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -1052,7 +1035,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
