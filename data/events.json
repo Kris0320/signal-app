@@ -1,22 +1,5 @@
 [
   {
-    "id": "kcl:undergraduate-info-session-clearing-6-august-2026",
-    "sourceEventId": "a8465727-0284-4bbe-b076-f1be371044bf",
-    "title": "Applying to King's through Clearing",
-    "desc": "Find out more about applying to King’s through Clearing in 2026",
-    "source": "KCL",
-    "date": "2026-08-06T13:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-clearing-6-august-2026",
-    "image": "https://www.kcl.ac.uk/departmentalimages/careers/kcl-photoshoot-students-working-in-library.x484a5d75.png?w=780&h=520&crop=780,440,0,40"
-  },
-  {
     "id": "kcl:kings-foundations-offer-holder-visa-session-6-august-2026",
     "sourceEventId": "905684e8-2e48-435f-97fe-8daabfa80e51",
     "title": "King’s International Foundation Offer Holder event – applying for your Student visa –  6 August 2026",
@@ -259,6 +242,47 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/deans-office-summer-reading-club-online-4",
     "image": "https://www.kcl.ac.uk/ImportedImages/book-open-unsplash.xbe4be0f7.jpg?w=844&h=563&crop=780,440,41,12"
+  },
+  {
+    "id": "kcl:undergraduate-info-session-healthcare-courses-25-august-2026",
+    "sourceEventId": "461d6050-04f6-4d20-9b74-d71cd72ba7af",
+    "title": "Applying to healthcare courses at King's",
+    "desc": "Learn more about how to choose the right undergraduate course for you.",
+    "source": "KCL",
+    "date": "2026-08-25T13:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Student",
+      "University"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-healthcare-courses-25-august-2026",
+    "image": "https://www.kcl.ac.uk/image-library/Press-Photos/dentistry-qs.xda851c8b.jpg?w=780&h=515&crop=780,440,0,38"
+  },
+  {
+    "id": "kcl:masterclass-conversation-with-stanley-kwan",
+    "sourceEventId": "4a0427e4-0d10-495a-85f8-218755fa8939",
+    "title": "Masterclass: Conversation with Stanley Kwan",
+    "desc": "Join us in person for an exclusive masterclass featuring the legendary filmmaker Stanley Kwan, hosted by Prof Victor Fan at King's College London.",
+    "source": "KCL",
+    "date": "2026-08-26T19:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Public lecture",
+      "Faculty of Arts & Humanities",
+      "Department of Film Studies"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/masterclass-conversation-with-stanley-kwan",
+    "image": "https://www.kcl.ac.uk/newimages/ah/film-studies/newsevents/260826-conversation-with-stanley-kwan.x62fa1294.png"
   },
   {
     "id": "kcl:pioneering-artificial-intelligence-in-nursing",
@@ -566,31 +590,10 @@
     "image": "https://www.kcl.ac.uk/newimages/kped/short-course-catalogue/digital-health-wearable-tech.x4e8b306c.png?w=782&h=440&crop=780,440,1,0"
   },
   {
-    "id": "ic:211667",
-    "sourceEventId": "211667",
-    "title": "Big Butterfly Count at Wormwood Scrubs Open Space",
-    "desc": "Join Kate McVay, Ecology Advisor at The Scrubs on 6 August and take part in the Big Butterfly Count, a UK-wide survey where you can help contribute to conservation science and research by counting butterflies!",
-    "source": "IC",
-    "date": "2026-08-06T11:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Wormwood Scrubs Open Space",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Sustainability",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211667/big-butterfly-count-at-wormwood-scrubs-open-space/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/red-admiral-c-amy-lewis-1024x685_1752056321075_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211287",
     "sourceEventId": "211287",
     "title": "Aeronautics Research Showcase 2026",
-    "desc": "Join us for our biennial event, showcasing leading research from across the Department of Aeronautics.\n\nThe event will include:\n\nPoster exhibition including poster competition\n\nKeynote speech\n\nExpert panels, exploring the latest sector advances and technologies\n\nKeynote\n\nNear-term maturity and future disruption – engineering growth in aerospace\n\nJacqueline Castle, Chief Technology Officer at Aerospace Technology Institute\n\nSpeaker Bio\n\nJ acqueline Castle is Chief Technology Officer at the Aerospace Technology Institute, where she is accountable for the ATI’s Technology Strategy to ensure UK Aerospace remains at the forefront of global aerospace and firmly on the path to a sustainable future.\n\nPrior to joining the ATI, Jacqueline spent more than 25 years in the Aerospace Industry at…",
+    "desc": "Join us for our biennial event, showcasing leading research from across the Department of Aeronautics.\n\nThe event will include:\n\nPoster exhibition including poster competition\n\nKeynote speech\n\nExpert panels, exploring the latest sector advances and technologies\n\nThe audience for this event is primarily academics, researchers and industry professionals, but we do have 20 tickets available for prospective students.\n\nKeynote\n\nNear-term maturity and future disruption – engineering growth in aerospace\n\nJacqueline Castle, Chief Technology Officer at Aerospace Technology Institute\n\nSpeaker Bio\n\nJ acqueline Castle is Chief Technology Officer at the Aerospace Technology Institute, where she is accountable for the ATI’s Technology Strategy to ensure UK Aerospace remains at the forefront of global…",
     "source": "IC",
     "date": "2026-09-08T13:00:00+01:00",
     "durationMin": 300,
@@ -599,12 +602,12 @@
     "price": 0,
     "tags": [
       "Exhibition",
-      "Open to all"
+      "Postgraduate students"
     ],
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211287/aeronautics-research-showcase-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/04092024-aeronautics-research-showcase-035_1783436513543_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/small-260618-aeronautics-showcase-bbq-brendan-foster-photography-176-64_1786016690390_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210483",
@@ -669,7 +672,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211653/from-exceptional-points-to-exceptional-bands/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211506",
@@ -721,7 +724,7 @@
     "id": "ic:211725",
     "sourceEventId": "211725",
     "title": "ISEE (International Society for Environmental Epidemiology) 2026",
-    "desc": "A number of the Environmental Research Group will be presenting at this year’s Conference:\n\nPhD Student George Young – Poster Presentation\n\n‘Estimating personal exposure to indoor- and outdoor-generated PM 2.5 and their associations with childhood respiratory symptoms in West London: The WellHome Study’.\n\nResearch Fellow Dr Dimitris Evangelopoulos – Oral Presentation and Two Poster Presentations\n\n“Investigating the short-term effects of particulate matter chemical components on mortality and the potential modifying effect of extreme temperature: A time-series analysis in London”\n\nPoster presentations\n\n“High temporal resolution monitoring of illicit drug consumption across England via wastewater analysis”\n\n“The short-term respiratory health effects of recurrent landfill fires: A time…",
+    "desc": "A number of the Environmental Research Group will be presenting at this year’s Conference:\n\nPhD Student George Young – Poster Presentation\n\n‘Estimating personal exposure to indoor- and outdoor-generated PM 2.5 and their associations with childhood respiratory symptoms in West London: The WellHome Study’.\n\nResearch Fellow Dr Dimitris Evangelopoulos – Oral Presentation\n\n“Investigating the short-term effects of particulate matter chemical components on mortality and the potential modifying effect of extreme temperature: A time-series analysis in London”\n\nResearch Fellow Dr Dimitris Evangelopoulos – Poster presentations\n\n“High temporal resolution monitoring of illicit drug consumption across England via wastewater analysis”\n\n“The short-term respiratory health effects of recurrent landfill…",
     "source": "IC",
     "date": "2026-08-30T09:00:00+01:00",
     "durationMin": 480,
@@ -742,7 +745,7 @@
     "id": "ic:211741",
     "sourceEventId": "211741",
     "title": "12th International Aerosol Conference",
-    "desc": "A number of the Aerosol Science Team in the Environmental Research Group are presenting during the Conference.\n\nXiaolu Zhang – Poster Presentation\n\n“Investigating the short-term effects of particulate matter (PM) chemical components on mortality and the potential modifying effect of extreme temperature: A time-series analysis in London”\n\nDr Max Priestman – Poster Presentation “Source characterization of plastic burning in East Java, Indonesia”\n\nDr Steven Campbell – Oral Presentations “Aerosol oxidative potential and its relationship with toxicity” “Toxicity of Aerosols: Exploring Air-Liquid Interface Exposure” “Integrating in vivo and cohort evidence on the Health Impacts of PM2.5”\n\nDr Steven Campbell – Poster Presentation “High time resolution quantification of PM2.5 oxidative…",
+    "desc": "A number of the Aerosol Science Team in the Environmental Research Group are presenting during the Conference.\n\nXiaolu Zhang – Oral Presentation\n\n“Investigating the short-term effects of particulate matter (PM) chemical components on mortality and the potential modifying effect of extreme temperature: A time-series analysis in London”\n\nDr Max Priestman – Poster Presentation “Source characterization of plastic burning in East Java, Indonesia”\n\nDr Steven Campbell – Keynote Presentation “High time resolution quantification of PM2.5 oxidative potential”\n\nDr Ian Chen – Oral Presentations “Estimating the oxidative potential of ambient matter using explainable machine learning approaches”\n\nRhea Fang – Oral Presentation “Near real-time quantification of tyre wear particles in the ambient PM2.5…",
     "source": "IC",
     "date": "2026-08-30T09:00:00+08:00",
     "durationMin": 480,
@@ -799,7 +802,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -821,7 +824,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -926,7 +929,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -1035,7 +1038,49 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211189",
+    "sourceEventId": "211189",
+    "title": "Finance – Deadline for requesting a new supplier",
+    "desc": "If you need to use a new supplier and want a Purchase Order in place before the October freeze, your supplier request must be with Procurement by 21 September. Allow two weeks for supplier setup, then further time to raise and approve the Purchase Order before 19 October.\n\nInclude bank details – requests without them will be delayed.\n\nIf you miss this date, use a blanket Purchase Order against an existing approved supplier to cover your needs during the freeze.\n\nWhat if I only need the supplier set up, not a Purchase Order? Supplier setup freezes on 12 October. Get the request in before then. You can request new suppliers again from w/c 16 November once Atlas is live – guidance on the new process will be shared before go live.",
+    "source": "IC",
+    "date": "2026-09-21T00:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211189/finance-last-chance-to-request-a-new-supplier/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/finance-1_1782469948908_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207409",
+    "sourceEventId": "207409",
+    "title": "RSM175 Evening Lecture Series: Climate",
+    "desc": "Featuring Prof Tina van de Flierdt, Head of the Department of Earth Science and Engineering, Imperial College London",
+    "source": "IC",
+    "date": "2026-09-22T18:00:00+01:00",
+    "durationMin": 90,
+    "venue": "G.41, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Departmental event",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207409/ese-evening-lecture-series-life-and-health-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ese-lectures-climate_1773661722758_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
@@ -1056,27 +1101,6 @@
     "match": 74,
     "url": "https://www.lse.ac.uk/events/ai-socialism",
     "image": null
-  },
-  {
-    "id": "wc:low-stim-openings-audrey-amiss-and-rudy-loewe",
-    "sourceEventId": "low-stim-openings-audrey-amiss-and-rudy-loewe",
-    "title": "Low-stim Openings of the 'Audrey Amiss' and 'Rudy Loewe' exhibitions",
-    "desc": "Come to a special opening of Wellcome Collection to see the 'Audrey Amiss' and 'Rudy Loewe' exhibitions in a calm, low-stim environment.",
-    "source": "WC",
-    "date": "2026-08-06T17:00:00+00:00",
-    "durationMin": 600,
-    "venue": "Gallery 2",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Session",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/low-stim-openings-audrey-amiss-and-rudy-loewe",
-    "image": "https://images.prismic.io/wellcomecollection/x5e8IktXGNnNYqus_EP3629_0022.jpg?auto=format%2Ccompress&rect=0%2C0%2C4000%2C2250&w=3200&h=1800"
   },
   {
     "id": "wc:handle-with-care-aug-2026",
@@ -1181,6 +1205,27 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/audio-described-tour-of-audrey-amiss-and-rudy-loewe-exhibitions-aug2026",
     "image": "https://images.prismic.io/wellcomecollection/Pkh4OhEfrQprG48j_BTG260701143704.jpg?auto=format%2Ccompress&rect=190%2C474%2C3810%2C2143&w=3200&h=1800"
+  },
+  {
+    "id": "wc:low-stim-openings-audrey-amiss-and-rudy-loewe",
+    "sourceEventId": "low-stim-openings-audrey-amiss-and-rudy-loewe",
+    "title": "Low-stim Openings of the 'Audrey Amiss' and 'Rudy Loewe' exhibitions",
+    "desc": "Come to a special opening of Wellcome Collection to see the 'Audrey Amiss' and 'Rudy Loewe' exhibitions in a calm, low-stim environment.",
+    "source": "WC",
+    "date": "2026-08-06T17:00:00+00:00",
+    "durationMin": 600,
+    "venue": "Gallery 2",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Session",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/low-stim-openings-audrey-amiss-and-rudy-loewe",
+    "image": "https://images.prismic.io/wellcomecollection/x5e8IktXGNnNYqus_EP3629_0022.jpg?auto=format%2Ccompress&rect=0%2C0%2C4000%2C2250&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
@@ -1412,7 +1457,7 @@
     "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/02/visual-comfort-and-visual-stress/",
-    "image": "https://royalsociety.org/-/media/about-us/hub-page/carlton-house-terrace-home-page.jpg"
+    "image": "https://royalsociety.org/-/media/events/2027/02/visual-discomfort-visual-stress/header-image.jpg"
   },
   {
     "id": "rs:2026-09-open-house",
@@ -1455,8 +1500,8 @@
   {
     "id": "rs:2026-11-croonian-prize-lecture",
     "sourceEventId": "2026-11-croonian-prize-lecture",
-    "title": "Croonian Prize Lecture delivered by Dr David Baker",
-    "desc": "Join us for the Croonian Prize Lecture delivered by Dr David Baker",
+    "title": "Croonian Medal Prize Lecture: Advances in computational protein design",
+    "desc": "Join us for the Croonian Medal Prize Lecture delivered by Dr David Baker",
     "source": "RS",
     "date": "2026-11-03T18:30:00+01:00",
     "durationMin": 60,
