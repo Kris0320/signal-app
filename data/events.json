@@ -1,25 +1,5 @@
 [
   {
-    "id": "kcl:kings-foundations-offer-holder-visa-session-6-august-2026",
-    "sourceEventId": "905684e8-2e48-435f-97fe-8daabfa80e51",
-    "title": "King’s International Foundation Offer Holder event – applying for your Student visa –  6 August 2026",
-    "desc": "Learn more about applying for your Student visa for King's International Foundation Programme at King's College London.",
-    "source": "KCL",
-    "date": "2026-08-06T15:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Technology & Science",
-      "King's Foundations"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/kings-foundations-offer-holder-visa-session-6-august-2026",
-    "image": "https://www.kcl.ac.uk/newimages/ciel/king's-international-foundation-offer-holder-visa-event-6-august-2026.x688b9a90.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
     "id": "kcl:great-kings-run-cornwall",
     "sourceEventId": "6656b0cf-2872-4a0d-9ba3-73e1cd3edeb4",
     "title": "Great King's Run Cornwall",
@@ -802,7 +782,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -845,7 +825,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -929,7 +909,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -951,7 +931,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -1038,7 +1018,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211189",
