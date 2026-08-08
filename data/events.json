@@ -782,7 +782,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -804,7 +804,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -825,7 +825,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -909,7 +909,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -931,7 +931,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -1018,7 +1018,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211189",
@@ -1185,27 +1185,6 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/audio-described-tour-of-audrey-amiss-and-rudy-loewe-exhibitions-aug2026",
     "image": "https://images.prismic.io/wellcomecollection/Pkh4OhEfrQprG48j_BTG260701143704.jpg?auto=format%2Ccompress&rect=190%2C474%2C3810%2C2143&w=3200&h=1800"
-  },
-  {
-    "id": "wc:low-stim-openings-audrey-amiss-and-rudy-loewe",
-    "sourceEventId": "low-stim-openings-audrey-amiss-and-rudy-loewe",
-    "title": "Low-stim Openings of the 'Audrey Amiss' and 'Rudy Loewe' exhibitions",
-    "desc": "Come to a special opening of Wellcome Collection to see the 'Audrey Amiss' and 'Rudy Loewe' exhibitions in a calm, low-stim environment.",
-    "source": "WC",
-    "date": "2026-08-06T17:00:00+00:00",
-    "durationMin": 600,
-    "venue": "Gallery 2",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Session",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/low-stim-openings-audrey-amiss-and-rudy-loewe",
-    "image": "https://images.prismic.io/wellcomecollection/x5e8IktXGNnNYqus_EP3629_0022.jpg?auto=format%2Ccompress&rect=0%2C0%2C4000%2C2250&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
