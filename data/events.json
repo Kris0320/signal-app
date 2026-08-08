@@ -782,7 +782,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -825,7 +825,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -909,7 +909,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -1018,7 +1018,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211189",
@@ -1081,26 +1081,6 @@
     "match": 74,
     "url": "https://www.lse.ac.uk/events/ai-socialism",
     "image": null
-  },
-  {
-    "id": "wc:handle-with-care-aug-2026",
-    "sourceEventId": "handle-with-care-aug-2026",
-    "title": "Handle with Care: Conversations Through Objects",
-    "desc": "Join our Visitor Experience and Engagement team for a drop-in object-handling session, where you can get up close to some of the items in our collection.",
-    "source": "WC",
-    "date": "2026-08-08T12:00:00+00:00",
-    "durationMin": 120,
-    "venue": "The Forum",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Session",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/handle-with-care-aug-2026",
-    "image": "https://images.prismic.io/wellcomecollection/ZtmF1bzzk9ZrXB24_EP_002108_037.jpg?auto=format%2Ccompress&rect=446%2C527%2C3540%2C1991&w=3200&h=1800"
   },
   {
     "id": "wc:mosquitoes-warnings",
