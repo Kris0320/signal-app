@@ -530,25 +530,25 @@
     "image": "https://www.kcl.ac.uk/image-library/academy/connected-larger-kcl-2024-09-09-0272-74.x8e57ba74.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
-    "id": "kcl:carice-ageing-and-long-term-conditions-seminars-09-september-2026",
-    "sourceEventId": "84266bbb-4bd6-44c0-97c5-d203391c5de9",
-    "title": "CARICE Ageing and Long-term conditions Seminars - 09 September 2026",
-    "desc": "We invite all researchers affiliated or interested in ageing resilience to attend this seminar taking place on the second Wednesday of each month at 16:00 via teams.",
+    "id": "kcl:virtual-campus-tour-strand-bush-house-9-september-2026",
+    "sourceEventId": "318da9c0-4bda-44b2-9a9f-f293764ce700",
+    "title": "Virtual Campus Tour: Strand & Bush House - 9 September 2026",
+    "desc": "Take a virtual tour of our Strand & Bush House campus",
     "source": "KCL",
-    "date": "2026-09-09T16:00:00",
+    "date": "2026-09-09T13:00:00",
     "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
+    "venue": "Online",
+    "area": "Online",
     "price": 0,
     "tags": [
-      "Health",
-      "Faculty of Life Sciences & Medicine",
-      "Centre for Ageing Resilience In a Changing Environment - CARICE"
+      "Prospective students",
+      "Student",
+      "University"
     ],
-    "format": "In person",
+    "format": "Online",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/carice-ageing-and-long-term-conditions-seminars-09-september-2026",
-    "image": "https://www.kcl.ac.uk/newimages/kped/short-course-catalogue/digital-health-wearable-tech.x4e8b306c.png?w=782&h=440&crop=780,440,1,0"
+    "url": "https://www.kcl.ac.uk/events/virtual-campus-tour-strand-bush-house-9-september-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/campuses/strand-01780x760.x81db5c02.jpg?crop=780,440,0,235"
   },
   {
     "id": "ic:211287",
@@ -763,7 +763,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -785,7 +785,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -806,7 +806,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -890,7 +890,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -912,7 +912,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -958,6 +958,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csep-seminar-event-card_1782244198767_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:211818",
+    "sourceEventId": "211818",
+    "title": "AOA CYP Mental Health Research Initiative – Final Dissemination",
+    "desc": "Join us on Tuesday 15 th September 2026, at Imperial College London (South Kensington Campus), where we will share our most recent research results , the overall achievements of the ARC Outreach Alliance (a n NIHR Mental Health Initiative) , cele brate the end of a successful project and promote related projects that will continue the work we started to scale up on building on vital children and young people’s mental health research across London and nationwide.\n\nO ur award-winning Young People’s Advisory Group (YPAG) have played a vital role in the success of our research and will be presenting their recent community engagement activities and the ground breaking Priority Setting Mental Health project.\n\nArrival refreshments, a seasonal light dinner buffet and networking drinks will be…",
+    "source": "IC",
+    "date": "2026-09-15T14:00:00+01:00",
+    "durationMin": 300,
+    "venue": "South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Meeting",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211818/aoa-cyp-mental-health-final-dissemination/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/00000-0covid-empty-campus-south-ken-092_1786358665776_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:209098",
     "sourceEventId": "209098",
     "title": "Resilient and Renewable Society (RRS) Summit",
@@ -999,7 +1020,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211189",
@@ -1021,27 +1042,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211189/finance-last-chance-to-request-a-new-supplier/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/finance-1_1782469948908_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:207409",
-    "sourceEventId": "207409",
-    "title": "RSM175 Evening Lecture Series: Climate",
-    "desc": "Featuring Prof Tina van de Flierdt, Head of the Department of Earth Science and Engineering, Imperial College London",
-    "source": "IC",
-    "date": "2026-09-22T18:00:00+01:00",
-    "durationMin": 90,
-    "venue": "G.41, Royal School Of Mines, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Departmental event",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207409/ese-evening-lecture-series-life-and-health-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ese-lectures-climate_1773661722758_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
