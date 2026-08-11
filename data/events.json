@@ -1,26 +1,5 @@
 [
   {
-    "id": "kcl:careers-in-china-fairs-2026",
-    "sourceEventId": "16dde170-c55b-48ec-a12a-29417a8249c0",
-    "title": "Careers in China Fairs 2026",
-    "desc": "Our China Careers Fairs events are a unique way for organisations based in the Chinese Mainland and Hong Kong to engage students and alumni from multiple world-class universities",
-    "source": "KCL",
-    "date": "2026-08-10T08:00:00",
-    "durationMin": 480,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "University",
-      "Student",
-      "Employer Engagement"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/careers-in-china-fairs-2026",
-    "image": "https://www.kcl.ac.uk/newimages/careers/ee/festivals/2022-fairs-images/china/china-2026-fairs.xf87d2894.jpg?w=880&h=440&crop=780,440,0,0"
-  },
-  {
     "id": "kcl:ark-special-seminar-translational-longevity",
     "sourceEventId": "e13d9f71-e99b-44d4-946c-4fa11ef70801",
     "title": "ARK Special Seminar - Translational Longevity",
@@ -530,25 +509,25 @@
     "image": "https://www.kcl.ac.uk/image-library/academy/connected-larger-kcl-2024-09-09-0272-74.x8e57ba74.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
-    "id": "kcl:virtual-campus-tour-strand-bush-house-9-september-2026",
-    "sourceEventId": "318da9c0-4bda-44b2-9a9f-f293764ce700",
-    "title": "Virtual Campus Tour: Strand & Bush House - 9 September 2026",
-    "desc": "Take a virtual tour of our Strand & Bush House campus",
+    "id": "kcl:ai-in-education-innovation-showcase",
+    "sourceEventId": "55c3fede-f035-4410-891b-3138b801a39b",
+    "title": "AI in Education Innovation Showcase",
+    "desc": "Discover, innovate and create impact. Step into the future of education at King’s.",
     "source": "KCL",
-    "date": "2026-09-09T13:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
+    "date": "2026-09-09T09:30:00",
+    "durationMin": 420,
+    "venue": "Strand",
+    "area": "Strand",
     "price": 0,
     "tags": [
-      "Prospective students",
-      "Student",
-      "University"
+      "Exhibition",
+      "University",
+      "Technology & Science"
     ],
-    "format": "Online",
+    "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/virtual-campus-tour-strand-bush-house-9-september-2026",
-    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/campuses/strand-01780x760.x81db5c02.jpg?crop=780,440,0,235"
+    "url": "https://www.kcl.ac.uk/events/ai-in-education-innovation-showcase",
+    "image": "https://www.kcl.ac.uk/image-library/academy/ai-in-education-showcase.x768790d1.png"
   },
   {
     "id": "ic:211287",
@@ -633,7 +612,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211653/from-exceptional-points-to-exceptional-bands/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211506",
@@ -763,7 +742,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -785,7 +764,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -806,7 +785,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -890,7 +869,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -912,7 +891,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -1020,7 +999,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211189",
@@ -1415,7 +1394,7 @@
     "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/10/francis-crick-prize-lecture/",
-    "image": "https://royalsociety.org/-/media/awards/francis-crick-medal/stock-image-2025--cropped.jpg"
+    "image": "https://royalsociety.org/-/media/events/2026/10/francis-crick-lecture/istock-1399511097_cropped.jpg"
   },
   {
     "id": "rs:2026-11-croonian-prize-lecture",
