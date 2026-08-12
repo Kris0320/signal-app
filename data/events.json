@@ -593,28 +593,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/anjali-goswami_1784191775868_eventportrait2018_x1.jpg"
   },
   {
-    "id": "ic:211653",
-    "sourceEventId": "211653",
-    "title": "From Exceptional Points to Exceptional Bands",
-    "desc": "Abstract\n\nExceptional points (EPs) are spectral singularities in non-Hermitian systems, at which individual eigenvalues and eigenvectors become identical. The successful realization of EPs in diverse physical systems, such as photonics, acoustics, cold atoms, and superconducting circuits, has sparked great interest in fundamental physics and inspired a wide range of novel applications. However, as the term “exceptional” suggests, EPs are usually isolated spectral points. Consequently, functionalities rooted in EPs face several inherent limitations, such as narrow bandwidth. Here, we present a generalization o f the concept of EPs characterized by the coalescence of high-dimensional eigenspaces and overlapped spectra. This condition is denoted as “exceptional deficiency.” When this…",
-    "source": "IC",
-    "date": "2026-08-11T14:00:00+01:00",
-    "durationMin": 120,
-    "venue": "B539 - Floor 5 , Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Physics",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211653/from-exceptional-points-to-exceptional-bands/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211506",
     "sourceEventId": "211506",
     "title": "Sustainable Food Accelerator: Application Q&A – 13 August",
@@ -742,7 +720,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -764,7 +742,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -785,7 +763,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -869,7 +847,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -891,7 +869,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -999,7 +977,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211189",
@@ -1021,6 +999,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211189/finance-last-chance-to-request-a-new-supplier/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/finance-1_1782469948908_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207409",
+    "sourceEventId": "207409",
+    "title": "RSM175 Evening Lecture Series: Climate",
+    "desc": "Featuring Prof Tina van de Flierdt, Head of the Department of Earth Science and Engineering, Imperial College London",
+    "source": "IC",
+    "date": "2026-09-22T18:00:00+01:00",
+    "durationMin": 90,
+    "venue": "G.41, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Departmental event",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207409/ese-evening-lecture-series-life-and-health-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ese-lectures-climate_1773661722758_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
