@@ -1,26 +1,5 @@
 [
   {
-    "id": "kcl:ark-special-seminar-translational-longevity",
-    "sourceEventId": "e13d9f71-e99b-44d4-946c-4fa11ef70801",
-    "title": "ARK Special Seminar - Translational Longevity",
-    "desc": "ARK Special Seminar",
-    "source": "KCL",
-    "date": "2026-08-12T12:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Public lecture",
-      "Technology & Science"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/ark-special-seminar-translational-longevity",
-    "image": "https://www.kcl.ac.uk/newimages/folsm/thumbnail-newsevents/slcps/doctor-with-supplements.x9ec9f3cc.png"
-  },
-  {
     "id": "kcl:undergraduate-info-session-ucas-17-august-2026",
     "sourceEventId": "86069de1-c708-4e88-89b0-0ea2e771aed2",
     "title": "Applying to university through UCAS",
@@ -578,7 +557,7 @@
     "source": "IC",
     "date": "2026-10-01T17:30:00+01:00",
     "durationMin": 90,
-    "venue": "RSM147, Royal School Of Mines, South Kensington Campus",
+    "venue": "Lecture theatre G16, Sir Alexander Fleming Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
@@ -720,7 +699,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -742,7 +721,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -763,7 +742,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -847,7 +826,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -869,7 +848,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -977,7 +956,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211189",
@@ -1001,25 +980,25 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/finance-1_1782469948908_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:207409",
-    "sourceEventId": "207409",
-    "title": "RSM175 Evening Lecture Series: Climate",
-    "desc": "Featuring Prof Tina van de Flierdt, Head of the Department of Earth Science and Engineering, Imperial College London",
+    "id": "ic:211611",
+    "sourceEventId": "211611",
+    "title": "Able network event: Badge Cafe",
+    "desc": "Come along to the Badge Café for an afternoon of creativity, conversation, and community.\n\nThis is a drop-in session and it’s open to all staff and students at Imperial. There’s no set start time and no expectations. You’re welcome to stay for five minutes or the whole afternoon – we’d love to see you!\n\nMake a badge, get creative, meet new people, reconnect with familiar faces – everyone is welcome! There will be free food and drinks from the Library Café, so come along, grab a snack, and enjoy a relaxed afternoon together.",
     "source": "IC",
-    "date": "2026-09-22T18:00:00+01:00",
-    "durationMin": 90,
-    "venue": "G.41, Royal School Of Mines, South Kensington Campus",
+    "date": "2026-09-22T13:00:00+01:00",
+    "durationMin": 180,
+    "venue": "Library Cafe, Abdus Salam Library, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Departmental event",
+      "Social",
       "Event",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207409/ese-evening-lecture-series-life-and-health-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ese-lectures-climate_1773661722758_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
@@ -1124,6 +1103,68 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/audio-described-tour-of-audrey-amiss-and-rudy-loewe-exhibitions-aug2026",
     "image": "https://images.prismic.io/wellcomecollection/Pkh4OhEfrQprG48j_BTG260701143704.jpg?auto=format%2Ccompress&rect=190%2C474%2C3810%2C2143&w=3200&h=1800"
+  },
+  {
+    "id": "wc:memories-of-care-trans-contributions-to-health-cul",
+    "sourceEventId": "memories-of-care-trans-contributions-to-health-cul",
+    "title": "Memories of Care: Trans+ Contributions to Health, Culture and Social Justice",
+    "desc": "Join us for a day of events celebrating trans+ contributions to healthcare, social justice, and culture.",
+    "source": "WC",
+    "date": "2026-09-12T10:30:00+00:00",
+    "durationMin": 360,
+    "venue": "Throughout our building",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Session",
+      "Healthcare",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/memories-of-care-trans-contributions-to-health-cul",
+    "image": "https://images.prismic.io/wellcomecollection/d235a904-4214-417b-90de-6fb72f361bd0_EP_000737_049.jpg?auto=format%2Ccompress&rect=0%2C417%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:bsl-interpreted-tours-audrey-amiss-rudy-loewe",
+    "sourceEventId": "bsl-interpreted-tours-audrey-amiss-rudy-loewe",
+    "title": "BSL Interpreted Tours of Audrey Amiss and Rudy Loewe exhibitions",
+    "desc": "Discover more about our Audrey Amiss and Rudy Loewe exhibitions on one of our BSL-interpreted tours.",
+    "source": "WC",
+    "date": "2026-09-12T10:30:00+00:00",
+    "durationMin": 600,
+    "venue": "Gallery 2",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Gallery tour",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/bsl-interpreted-tours-audrey-amiss-rudy-loewe",
+    "image": "https://images.prismic.io/wellcomecollection/GQorxb6SWRo4e1xA_BTG260701143026.jpg?auto=format%2Ccompress&rect=0%2C354%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:wellcome-collection-lates-the-friendship-effect",
+    "sourceEventId": "wellcome-collection-lates-the-friendship-effect",
+    "title": "Wellcome Collection Lates: The Friendship Effect",
+    "desc": "Join us for the next in our series of Wellcome Collection Lates to explore and celebrate friendship, through playful conversations, workshops, pop-up performances, live music and more.",
+    "source": "WC",
+    "date": "2026-09-24T18:00:00+00:00",
+    "durationMin": 180,
+    "venue": "Throughout our building",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Lates",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/wellcome-collection-lates-the-friendship-effect",
+    "image": "https://images.prismic.io/wellcomecollection/agWML6YofJOwHPeE_EP_003366_273.jpg?auto=format%2Ccompress&rect=0%2C196%2C4000%2C2250&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
