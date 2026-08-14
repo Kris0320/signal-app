@@ -572,29 +572,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/anjali-goswami_1784191775868_eventportrait2018_x1.jpg"
   },
   {
-    "id": "ic:211506",
-    "sourceEventId": "211506",
-    "title": "Sustainable Food Accelerator: Application Q&A – 13 August",
-    "desc": "The Sustainable Food Accelerator supports early-stage sustainable food and alternative protein startups to generate the data that makes corporates confident to pilot and investors confident to back.\n\n​Applications are now open! We are hosting a number of informal Q&A webinars to give you the opportunity learn more about the programme and application process. It’s a great opportunity to meet the team and ask any questions you may have. Come join us!\n\n​Q&A Series\n\n​Applications for the Sustainable Food Accelerator are open from July 13th to August 21st 2026. We will run a number of Q&A sessions during the application window, taking place on the following dates:\n\n​Thursday, July 30th – 4pm\n\n​Thursday, August 13th – 4pm\n\n​Please make sure you register for the correct session on the date you…",
-    "source": "IC",
-    "date": "2026-08-13T15:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Climate change",
-      "Innovation",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211506/sustainable-food-accelerator-application-qa-13-august/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sfa-call-for-projects_1783933571993_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211609",
     "sourceEventId": "211609",
     "title": "Greenhouse Cohort 11: Application Q&A",
@@ -699,7 +676,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -721,7 +698,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -742,7 +719,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -826,7 +803,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -848,7 +825,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -998,7 +975,28 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207409",
+    "sourceEventId": "207409",
+    "title": "RSM175 Evening Lecture Series: Climate",
+    "desc": "Featuring Prof Tina van de Flierdt, Head of the Department of Earth Science and Engineering, Imperial College London",
+    "source": "IC",
+    "date": "2026-09-22T18:00:00+01:00",
+    "durationMin": 90,
+    "venue": "G.41, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Departmental event",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207409/ese-evening-lecture-series-life-and-health-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ese-lectures-climate_1773661722758_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
