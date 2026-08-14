@@ -225,6 +225,40 @@
     "image": "https://www.kcl.ac.uk/newimages/nmpc/events/audience-sitting-in-chairs.x31401bcd.png?w=780&h=445&crop=780,440,0,3"
   },
   {
+    "id": "kcl:offer-holder-countdown-to-kings-1-september-2026",
+    "sourceEventId": "b01b1c85-8fb3-415a-9a9b-0685bb907872",
+    "title": "Countdown to King's",
+    "desc": "Hear our last-minute tips and advice before joining King's.",
+    "source": "KCL",
+    "date": "2026-09-01T10:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/offer-holder-countdown-to-kings-1-september-2026",
+    "image": "https://www.kcl.ac.uk/departmentalimages/careers/kcl-marketing-shoot-students-walking.xfa362139.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:offer-holder-moving-in-1-september-2026",
+    "sourceEventId": "c3e01be2-b411-4eb6-a715-11638fe48d0b",
+    "title": "Getting Ready for King’s Residences: Your Guide to Moving In",
+    "desc": "Find out more about living in Wolfson House, Great Dover Street Apartments and Stanford Street Apartments",
+    "source": "KCL",
+    "date": "2026-09-01T13:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/offer-holder-moving-in-1-september-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
+  },
+  {
     "id": "kcl:openday-top-tips-01-sept-26",
     "sourceEventId": "ca5f0224-08c5-4e4e-aa9d-c21f418e5a56",
     "title": "Top Tips for a King's College London open day",
@@ -263,6 +297,40 @@
     "image": "https://www.kcl.ac.uk/newimages/ioppn/research-and-development/joint-rd-office-drop-in-session.xf23d189a.png"
   },
   {
+    "id": "kcl:offer-holder-welfare-resilife-2-september-2026",
+    "sourceEventId": "715e15df-8c2e-468f-b881-aec4eddeeeb6",
+    "title": "Getting Ready for King’s Residences: Welfare & ResiLife",
+    "desc": "Find out more about welfare and ResiLife in King's accommodation",
+    "source": "KCL",
+    "date": "2026-09-02T10:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/offer-holder-welfare-resilife-2-september-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
+  },
+  {
+    "id": "kcl:offer-holder-getting-ready-for-kings-residences-wolfson-2-september-2026",
+    "sourceEventId": "332cbdb7-5402-48fe-a0e9-44512b339064",
+    "title": "Getting Ready for King’s Residences: Wolfson House, Great Dover Street Apartments, Stamford Street Apartments",
+    "desc": "Find out more about living in Wolfson House, Great Dover Street Apartments and Stanford Street Apartments",
+    "source": "KCL",
+    "date": "2026-09-02T16:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/offer-holder-getting-ready-for-kings-residences-wolfson-2-september-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
+  },
+  {
     "id": "kcl:queering-private-law-conference-2026",
     "sourceEventId": "b24a4553-c8e1-47e3-9ea9-d695d626bbb5",
     "title": "Queering Private Law Conference 2026",
@@ -284,6 +352,23 @@
     "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/queering-private-law-conference-2026-mi.xafa02c88.png"
   },
   {
+    "id": "kcl:offer-holder-countdown-to-kings-3-september-2026",
+    "sourceEventId": "334a7dff-87ba-4646-8faf-e94e62e43501",
+    "title": "Countdown to King's",
+    "desc": "Hear our last-minute tips and advice before joining King's.",
+    "source": "KCL",
+    "date": "2026-09-03T16:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/offer-holder-countdown-to-kings-3-september-2026",
+    "image": "https://www.kcl.ac.uk/departmentalimages/careers/kcl-marketing-shoot-students-walking.xfa362139.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
     "id": "kcl:virtual-campus-tour-guys-3-september-2026",
     "sourceEventId": "003b7bdf-26fe-4642-a88c-0596cc79b37d",
     "title": "Virtual Campus Tour: Guy's - 3 September 2026",
@@ -303,6 +388,23 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/virtual-campus-tour-guys-3-september-2026",
     "image": "https://www.kcl.ac.uk/newimages/study/undergraduate/guys-campus.x68cdcedb.jpg?w=780&h=521&crop=780,440,0,41"
+  },
+  {
+    "id": "kcl:offer-holder-getting-ready-for-kings-residences-unite-3-september-2026",
+    "sourceEventId": "fd77ca7f-6239-45ac-878a-0a86c4d82546",
+    "title": "Getting Ready for King’s Residences: Unite",
+    "desc": "Find out more about living in a Unite halls of residence",
+    "source": "KCL",
+    "date": "2026-09-03T17:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/offer-holder-getting-ready-for-kings-residences-unite-3-september-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
   },
   {
     "id": "kcl:modelling-neural-power-spectra-motivations-applications",
@@ -365,148 +467,21 @@
     "image": "https://www.kcl.ac.uk/newimages/nmes/main-article-780X450/6g-telecomms-upgrade.xcd991a3b.png"
   },
   {
-    "id": "kcl:bringing-the-magic-back-to-government-a-behavioural-insights-conference-for-government",
-    "sourceEventId": "69b9a0ec-c135-432a-bb9e-726689dfea3b",
-    "title": "Behavioural science in government: Bringing the magic back",
-    "desc": "In-person and online attendance available",
+    "id": "kcl:offer-holder-getting-ready-for-kings-residences-atlas-7-september-2026",
+    "sourceEventId": "b806968d-ae05-4301-adc0-ab8b252798c9",
+    "title": "Getting Ready for King’s Residences: Atlas, Canada Water, Orchard Lisle & Iris Brook, Vega",
+    "desc": "Find out more about living in Wolfson House, Great Dover Street Apartments and Stanford Street Apartments",
     "source": "KCL",
-    "date": "2026-09-08T09:00:00",
-    "durationMin": 480,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "School for Government"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/bringing-the-magic-back-to-government-a-behavioural-insights-conference-for-government",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/policy-institute/magic-govt.x718af929.png?w=782&h=440&crop=780,440,1,0"
-  },
-  {
-    "id": "kcl:deans-office-summer-reading-club-at-waterloo-2",
-    "sourceEventId": "02175ca2-a9d3-4f45-a119-9bdd71a163fe",
-    "title": "Dean’s Office Summer Reading Club at Waterloo",
-    "desc": "Stay connected over the summer and share good book recommendations!",
-    "source": "KCL",
-    "date": "2026-09-08T13:00:00",
+    "date": "2026-09-07T09:00:00",
     "durationMin": 60,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
+    "tags": [],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/deans-office-summer-reading-club-at-waterloo-2",
-    "image": "https://www.kcl.ac.uk/newimages/ioppn/blogs/research-culture-blogs/research-culture-books.xfddcebed.jpg?w=780&h=520&crop=780,440,0,80"
-  },
-  {
-    "id": "kcl:sustainability-education-at-kings-what-weve-achieved-where-were-going-internal-only",
-    "sourceEventId": "af36b117-569e-4ebe-9a40-0f5d57d4c818",
-    "title": "Sustainability education at King’s: What we’ve achieved & where we’re going [internal only]",
-    "desc": "Join us at a networking event exploring our progress embedding Education for Sustainability across King’s and looking to the future",
-    "source": "KCL",
-    "date": "2026-09-08T14:30:00",
-    "durationMin": 150,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "University",
-      "King's Sustainability",
-      "Faculty of Arts & Humanities"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/sustainability-education-at-kings-what-weve-achieved-where-were-going-internal-only",
-    "image": "https://www.kcl.ac.uk/newimages/sustainabilty/efs-event.x2df7d039.png?w=780&h=440"
-  },
-  {
-    "id": "kcl:duality",
-    "sourceEventId": "3e5b08b8-fae1-46b4-b7a1-c01a08b71d55",
-    "title": "Duality: Journeys of Ageing and Multiple Long-Term Conditions",
-    "desc": "Duality: a community event exploring ageing and multiple long-term conditions through photos, stories, conversation, food, and connection.",
-    "source": "KCL",
-    "date": "2026-09-08T16:00:00",
-    "durationMin": 210,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Health",
-      "Department of Global Health & Social Medicine",
-      "School of Global Affairs"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/duality",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/GHSM/duality-event-poster.x2ae6addf.png?w=811&h=440&crop=780,440,16,0"
-  },
-  {
-    "id": "kcl:the-fair-necessities-why-we-need-a-fairer-britain",
-    "sourceEventId": "f977ac35-0022-4886-855f-441b0de490e3",
-    "title": "The Fair Necessities: Why We Need a Fairer Britain",
-    "desc": "Join our panel to mark the launch of the book and discuss what a fair society might look like, why it matters, and how we can make it happen.",
-    "source": "KCL",
-    "date": "2026-09-08T18:30:00",
-    "durationMin": 75,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "The Policy Institute",
-      "Faculty of Social Science & Public Policy"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/the-fair-necessities-why-we-need-a-fairer-britain",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/policy-institute/will-snell-cms-graphic1.xe3f16e13.png?crop=780,440,1,0"
-  },
-  {
-    "id": "kcl:connected-induction-for-kings-educators-copy-1",
-    "sourceEventId": "e467c388-53f3-43c5-b31c-bf3e97b14ee3",
-    "title": "ConnectED: Induction for King’s Educators",
-    "desc": "An induction event offering new colleagues who teach an introduction to education at King’s.",
-    "source": "KCL",
-    "date": "2026-09-09T09:30:00",
-    "durationMin": 240,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "University",
-      "King’s Academy"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/connected-induction-for-kings-educators-copy-1",
-    "image": "https://www.kcl.ac.uk/image-library/academy/connected-larger-kcl-2024-09-09-0272-74.x8e57ba74.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
-    "id": "kcl:ai-in-education-innovation-showcase",
-    "sourceEventId": "55c3fede-f035-4410-891b-3138b801a39b",
-    "title": "AI in Education Innovation Showcase",
-    "desc": "Discover, innovate and create impact. Step into the future of education at King’s.",
-    "source": "KCL",
-    "date": "2026-09-09T09:30:00",
-    "durationMin": 420,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Exhibition",
-      "University",
-      "Technology & Science"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/ai-in-education-innovation-showcase",
-    "image": "https://www.kcl.ac.uk/image-library/academy/ai-in-education-showcase.x768790d1.png"
+    "url": "https://www.kcl.ac.uk/events/offer-holder-getting-ready-for-kings-residences-atlas-7-september-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
   },
   {
     "id": "ic:211287",
@@ -676,7 +651,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -698,7 +673,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -719,7 +694,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -825,7 +800,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -1103,27 +1078,6 @@
     "image": "https://images.prismic.io/wellcomecollection/Pkh4OhEfrQprG48j_BTG260701143704.jpg?auto=format%2Ccompress&rect=190%2C474%2C3810%2C2143&w=3200&h=1800"
   },
   {
-    "id": "wc:memories-of-care-trans-contributions-to-health-cul",
-    "sourceEventId": "memories-of-care-trans-contributions-to-health-cul",
-    "title": "Memories of Care: Trans+ Contributions to Health, Culture and Social Justice",
-    "desc": "Join us for a day of events celebrating trans+ contributions to healthcare, social justice, and culture.",
-    "source": "WC",
-    "date": "2026-09-12T10:30:00+00:00",
-    "durationMin": 360,
-    "venue": "Throughout our building",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Session",
-      "Healthcare",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/memories-of-care-trans-contributions-to-health-cul",
-    "image": "https://images.prismic.io/wellcomecollection/d235a904-4214-417b-90de-6fb72f361bd0_EP_000737_049.jpg?auto=format%2Ccompress&rect=0%2C417%2C4000%2C2250&w=3200&h=1800"
-  },
-  {
     "id": "wc:bsl-interpreted-tours-audrey-amiss-rudy-loewe",
     "sourceEventId": "bsl-interpreted-tours-audrey-amiss-rudy-loewe",
     "title": "BSL Interpreted Tours of Audrey Amiss and Rudy Loewe exhibitions",
@@ -1143,6 +1097,27 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/bsl-interpreted-tours-audrey-amiss-rudy-loewe",
     "image": "https://images.prismic.io/wellcomecollection/GQorxb6SWRo4e1xA_BTG260701143026.jpg?auto=format%2Ccompress&rect=0%2C354%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:memories-of-care-trans-contributions-to-health-cul",
+    "sourceEventId": "memories-of-care-trans-contributions-to-health-cul",
+    "title": "Memories of Care: Trans+ Contributions to Health, Culture and Social Justice",
+    "desc": "Join us for a day of events celebrating trans+ contributions to healthcare, social justice, and culture.",
+    "source": "WC",
+    "date": "2026-09-12T10:30:00+00:00",
+    "durationMin": 360,
+    "venue": "Throughout our building",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Session",
+      "Healthcare",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/memories-of-care-trans-contributions-to-health-cul",
+    "image": "https://images.prismic.io/wellcomecollection/d235a904-4214-417b-90de-6fb72f361bd0_EP_000737_049.jpg?auto=format%2Ccompress&rect=0%2C417%2C4000%2C2250&w=3200&h=1800"
   },
   {
     "id": "wc:wellcome-collection-lates-the-friendship-effect",
