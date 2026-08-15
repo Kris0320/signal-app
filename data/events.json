@@ -673,7 +673,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -694,7 +694,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -760,6 +760,29 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imagef1_1785755578655_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:212019",
+    "sourceEventId": "212019",
+    "title": "Sustainable Energy Futures Annual Conference",
+    "desc": "Each year, the students of the Grantham Institute’s MSc in Sustainable Energy Futures course organise a conference to showcase their project work. This year, the presentations have been organised into the following overarching themes:\n\nPolicy and Markets\n\nWind\n\nTransport\n\nDigital\n\nMolecules\n\nBioenergy, Batteries, and CCS\n\nBuildings and Infrastructure\n\nCommunities and Urban Development\n\nThe conference will also feature a keynote address by Laurent Segalen , Managing Partner at energy investment firm Megawatt-X and co-host of the Redefining Energy podcast.\n\nAgenda",
+    "source": "IC",
+    "date": "2026-09-11T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Foyer, Sir Alexander Fleming Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Climate change",
+      "Sustainability",
+      "Energy",
+      "Energy Futures Lab"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212019/sustainable-energy-futures-annual-conference-3/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sef-2026-conference-2-1_1786722701427_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:201570",
     "sourceEventId": "201570",
     "title": "Thermodynamics Conference 2026",
@@ -778,7 +801,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -908,7 +931,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211189",
@@ -951,27 +974,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:207409",
-    "sourceEventId": "207409",
-    "title": "RSM175 Evening Lecture Series: Climate",
-    "desc": "Featuring Prof Tina van de Flierdt, Head of the Department of Earth Science and Engineering, Imperial College London",
-    "source": "IC",
-    "date": "2026-09-22T18:00:00+01:00",
-    "durationMin": 90,
-    "venue": "G.41, Royal School Of Mines, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Departmental event",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207409/ese-evening-lecture-series-life-and-health-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ese-lectures-climate_1773661722758_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
