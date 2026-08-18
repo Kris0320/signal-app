@@ -1,25 +1,5 @@
 [
   {
-    "id": "kcl:undergraduate-info-session-personal-statement-18-august-2026",
-    "sourceEventId": "5d2eef94-1563-4d32-88d5-151e3d223a38",
-    "title": "Writing your undergraduate personal statement",
-    "desc": "Discover more about writing a successful undergraduate personal statement at King's.",
-    "source": "KCL",
-    "date": "2026-08-18T09:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "Student",
-      "University"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-personal-statement-18-august-2026",
-    "image": "https://www.kcl.ac.uk/newimages/study/marcomms/students/kings-student-smiling-thumbnail-promo-image-780-x-440-aug-2022.x9e1f4436.png?crop=780,440,0,5"
-  },
-  {
     "id": "kcl:postgraduate-law-careers-info-session-18-august-26",
     "sourceEventId": "d0180764-7c4a-46e5-b406-8a1159d208ae",
     "title": "Postgraduate Law: Careers Information Session",
@@ -37,27 +17,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/postgraduate-law-careers-info-session-18-august-26",
     "image": "https://www.kcl.ac.uk/newimages/student-life/somerset-house.xee140710.png?w=782&h=440&crop=780,440,1,0"
-  },
-  {
-    "id": "kcl:deans-office-summer-reading-club-at-waterloo-1",
-    "sourceEventId": "5bc980ce-b206-40b9-b232-3b2414e67293",
-    "title": "Dean’s Office Summer Reading Club at Waterloo",
-    "desc": "Stay connected over the summer and share good book recommendations!",
-    "source": "KCL",
-    "date": "2026-08-18T13:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/deans-office-summer-reading-club-at-waterloo-1",
-    "image": "https://www.kcl.ac.uk/newimages/ioppn/blogs/research-culture-blogs/research-culture-books.xfddcebed.jpg?w=780&h=520&crop=780,440,0,80"
   },
   {
     "id": "kcl:kings-foundations-offer-holder-pre-departure-event-19-august-2026",
@@ -569,6 +528,27 @@
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:212154",
+    "sourceEventId": "212154",
+    "title": "Atoms in Action: The Past, Present and Future of In Situ Electron Microscopy",
+    "desc": "For more information about RSM 175 events, please see: https://www.imperial.ac.uk/rsm-175/",
+    "source": "IC",
+    "date": "2026-08-28T13:30:00+01:00",
+    "durationMin": 150,
+    "venue": "RSM G06, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212154/atoms-in-action-the-past-present-and-future-of-in-situ-electron-microscopy/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/microscopy-event_1787060530039_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:211725",
     "sourceEventId": "211725",
     "title": "ISEE (International Society for Environmental Epidemiology) 2026",
@@ -650,7 +630,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -672,7 +652,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -693,7 +673,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -800,7 +780,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -822,7 +802,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -951,28 +931,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211189",
-    "sourceEventId": "211189",
-    "title": "Finance – Deadline for requesting a new supplier",
-    "desc": "If you need to use a new supplier and want a Purchase Order in place before the October freeze, your supplier request must be with Procurement by 21 September. Allow two weeks for supplier setup, then further time to raise and approve the Purchase Order before 19 October.\n\nInclude bank details – requests without them will be delayed.\n\nIf you miss this date, use a blanket Purchase Order against an existing approved supplier to cover your needs during the freeze.\n\nWhat if I only need the supplier set up, not a Purchase Order? Supplier setup freezes on 12 October. Get the request in before then. You can request new suppliers again from w/c 16 November once Atlas is live – guidance on the new process will be shared before go live.",
-    "source": "IC",
-    "date": "2026-09-21T00:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211189/finance-last-chance-to-request-a-new-supplier/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/finance-1_1782469948908_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
