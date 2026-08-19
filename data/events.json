@@ -1,24 +1,5 @@
 [
   {
-    "id": "kcl:postgraduate-law-careers-info-session-18-august-26",
-    "sourceEventId": "d0180764-7c4a-46e5-b406-8a1159d208ae",
-    "title": "Postgraduate Law: Careers Information Session",
-    "desc": "Join online to hear from our Law Careers Consultant at King's College London.",
-    "source": "KCL",
-    "date": "2026-08-18T13:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "The Dickson Poon School of Law"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/postgraduate-law-careers-info-session-18-august-26",
-    "image": "https://www.kcl.ac.uk/newimages/student-life/somerset-house.xee140710.png?w=782&h=440&crop=780,440,1,0"
-  },
-  {
     "id": "kcl:kings-foundations-offer-holder-pre-departure-event-19-august-2026",
     "sourceEventId": "0fbcee9b-bfce-466b-ba7d-576328e02f47",
     "title": "King's International Foundation pre-departure event 19 August 2026",
@@ -525,7 +506,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212064/physics-spc-seminar-professor-a-g-r-thomas-electric-and-magnetic-fields-on-the-surface-of-a-dense-plasma-with-relativistic-electron-flows/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212164",
@@ -651,7 +632,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -673,7 +654,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -694,7 +675,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -801,7 +782,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
