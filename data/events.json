@@ -445,7 +445,7 @@
     "id": "ic:211287",
     "sourceEventId": "211287",
     "title": "Aeronautics Research Showcase 2026",
-    "desc": "Join us for our biennial event, showcasing leading research from across the Department of Aeronautics.\n\nThe event will include:\n\nPoster exhibition including poster competition\n\nKeynote speech\n\nExpert panels, exploring the latest sector advances and technologies\n\nThe audience for this event is primarily academics, researchers and industry professionals, but we do have 20 tickets available for prospective students.\n\nKeynote\n\nNear-term maturity and future disruption – engineering growth in aerospace\n\nJacqueline Castle, Chief Technology Officer at Aerospace Technology Institute\n\nSpeaker Bio\n\nJ acqueline Castle is Chief Technology Officer at the Aerospace Technology Institute, where she is accountable for the ATI’s Technology Strategy to ensure UK Aerospace remains at the forefront of global…",
+    "desc": "Join us for our biennial event, showcasing leading research from across the Department of Aeronautics.\n\nThe event will include:\n\nPoster exhibition including poster competition\n\nKeynote speech\n\nExpert panels, exploring the latest sector advances and technologies\n\nThe audience for this event is primarily academics, researchers and industry professionals, but we will have a livestream of the event for prospective students. Please select a ‘Prospective Student Livestream’ ticket type to register for this option.\n\nKeynote\n\nNear-term maturity and future disruption – engineering growth in aerospace\n\nJacqueline Castle, Chief Technology Officer at Aerospace Technology Institute\n\nSpeaker Bio\n\nJ acqueline Castle is Chief Technology Officer at the Aerospace Technology Institute, where she is…",
     "source": "IC",
     "date": "2026-09-08T13:00:00+01:00",
     "durationMin": 300,
@@ -526,6 +526,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212064/physics-spc-seminar-professor-a-g-r-thomas-electric-and-magnetic-fields-on-the-surface-of-a-dense-plasma-with-relativistic-electron-flows/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212164",
+    "sourceEventId": "212164",
+    "title": "Biodynamics & Pianistic Traditions: A Festival-Conference",
+    "desc": "Where science meets the keyboard — an afternoon exploring how skill is learned, refined, and taught.\n\nWhat does biomechanics have to say about a pianist’s technique — and what can decades of musical training teach scientists about how expertise is built? This one-day festival-conference brings researchers from Imperial College London’s Musculoskeletal Research Group together with leading concert pianists for a day of live performance, motion-capture recording, and open discussion.\n\nLive scan sessions and performances from pianists including Philip Fowke (Trinity Laban Conservatoire), Duncan Honeybourne (Royal Academy of Music), Dr Ian Pace (City St George’s, University of London), Dr Robert Markham (Royal Conservatoire of Birmingham), the Ivory Duo Piano Ensemble (Convivium Records), in…",
+    "source": "IC",
+    "date": "2026-08-28T11:30:00+01:00",
+    "durationMin": 480,
+    "venue": "Deptford Town Hall",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212164/biodynamics-pianistic-traditions-a-festival-conference/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/untitled-august-18-2026-at-151456_1787062586559_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212154",
@@ -630,7 +651,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -673,7 +694,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -802,7 +823,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -910,28 +931,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212086/white-city-campus-outdoor-cinema/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/perkins-green_1786976832461_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211703",
-    "sourceEventId": "211703",
-    "title": "Pride Network Summer Social",
-    "desc": "Celebrate the end of summer with Imperial Pride!\n\nJoin friends, colleagues, and alumni for an evening of drinks, laughter, and great company in a welcoming, friendly, and inclusive space.\n\nA small bar tab will be available on a first come, first served basis, so arrive early and raise a glass with us! 🥂\n\nFind out more about the Pride Network here.",
-    "source": "IC",
-    "date": "2026-09-17T17:00:00+01:00",
-    "durationMin": 180,
-    "venue": "Eastside Bar, 8-15 Princes Gardens, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Imperial Pride Network",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
