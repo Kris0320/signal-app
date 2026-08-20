@@ -1,24 +1,5 @@
 [
   {
-    "id": "kcl:kings-foundations-offer-holder-pre-departure-event-19-august-2026",
-    "sourceEventId": "0fbcee9b-bfce-466b-ba7d-576328e02f47",
-    "title": "King's International Foundation pre-departure event 19 August 2026",
-    "desc": "Join us at this exclusive pre-departure event for King's International Foundation students.",
-    "source": "KCL",
-    "date": "2026-08-19T15:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "King's International Foundation"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/kings-foundations-offer-holder-pre-departure-event-19-august-2026",
-    "image": "https://www.kcl.ac.uk/newimages/accommodation/hero/22-23-mobile-hero-images/move-in-1.x334fce0b.png?w=780&h=521&crop=780,440,0,41"
-  },
-  {
     "id": "kcl:vsac-2026",
     "sourceEventId": "c4c8f9a8-8f2a-4f27-91ec-6c2487c13e40",
     "title": "Visual Science of Art Conference (VSAC) 2026",
@@ -652,7 +633,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -674,7 +655,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -824,7 +805,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -1079,6 +1060,27 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/memories-of-care-trans-contributions-to-health-cul",
     "image": "https://images.prismic.io/wellcomecollection/d235a904-4214-417b-90de-6fb72f361bd0_EP_000737_049.jpg?auto=format%2Ccompress&rect=0%2C417%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:immuno-cautious-sessions-audrey-amiss-rudy-loewe-exhbitions",
+    "sourceEventId": "immuno-cautious-sessions-audrey-amiss-rudy-loewe-exhbitions",
+    "title": "Immuno-cautious Openings of the 'Audrey Amiss' and 'Rudy Loewe' exhibitions",
+    "desc": "Come to an immuno-cautious opening of Wellcome Collection to see the 'Audrey Amiss' and 'Rudy Loewe' exhibitions.",
+    "source": "WC",
+    "date": "2026-09-18T08:00:00+00:00",
+    "durationMin": 600,
+    "venue": "Gallery 2",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Session",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/immuno-cautious-sessions-audrey-amiss-rudy-loewe-exhbitions",
+    "image": "https://images.prismic.io/wellcomecollection/cJ4wZJNi582UtbzT_EP3621_0029.jpg?auto=format%2Ccompress&rect=162%2C542%2C3774%2C2123&w=3200&h=1800"
   },
   {
     "id": "wc:wellcome-collection-lates-the-friendship-effect",
