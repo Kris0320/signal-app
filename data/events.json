@@ -327,6 +327,26 @@
     "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
   },
   {
+    "id": "kcl:deep-time-cultures-current-crises",
+    "sourceEventId": "21d3c57e-5d47-409b-a9bd-9030ee79b7e4",
+    "title": "Deep Time Cultures, Current Crises",
+    "desc": "Popularizing Palaeontology: Current & Historical Perspectives",
+    "source": "KCL",
+    "date": "2026-09-03T18:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Department of History",
+      "Faculty of Arts & Humanities"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/deep-time-cultures-current-crises",
+    "image": "https://www.kcl.ac.uk/newimages/ah/history/events/20260820-solar-park-in-dülmen-north-rhine-westphalia-wikipedia-commons.xf07ffe74.png"
+  },
+  {
     "id": "kcl:modelling-neural-power-spectra-motivations-applications",
     "sourceEventId": "3a68265c-154e-4f32-bedb-861fd4f6efec",
     "title": "Modelling Neural Power Spectra: Motivations & Applications",
@@ -385,23 +405,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/london-6g-week",
     "image": "https://www.kcl.ac.uk/newimages/nmes/main-article-780X450/6g-telecomms-upgrade.xcd991a3b.png"
-  },
-  {
-    "id": "kcl:offer-holder-getting-ready-for-kings-residences-atlas-7-september-2026",
-    "sourceEventId": "b806968d-ae05-4301-adc0-ab8b252798c9",
-    "title": "Getting Ready for King’s Residences: Atlas, Canada Water, Orchard Lisle & Iris Brook, Vega",
-    "desc": "Find out more about living in Wolfson House, Great Dover Street Apartments and Stanford Street Apartments",
-    "source": "KCL",
-    "date": "2026-09-07T09:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/offer-holder-getting-ready-for-kings-residences-atlas-7-september-2026",
-    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
   },
   {
     "id": "ic:212086",
@@ -633,7 +636,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -655,7 +658,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -676,7 +679,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -805,7 +808,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -913,7 +916,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
