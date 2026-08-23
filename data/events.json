@@ -594,7 +594,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -616,7 +616,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -637,7 +637,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -744,7 +744,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -766,7 +766,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -874,7 +874,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
@@ -895,48 +895,6 @@
     "match": 74,
     "url": "https://www.lse.ac.uk/events/ai-socialism",
     "image": null
-  },
-  {
-    "id": "wc:audrey-amiss-rudy-loewe-relaxed-openings",
-    "sourceEventId": "audrey-amiss-rudy-loewe-relaxed-openings",
-    "title": "Relaxed Opening of ‘Audrey Amiss' and ‘Rudy Loewe' exhibitions",
-    "desc": "Join us for a calm and friendly opening of the 'Audrey Amiss' and 'Rudy Loewe' exhibitions, with additional support and facilities.",
-    "source": "WC",
-    "date": "2026-08-23T09:00:00+00:00",
-    "durationMin": 240,
-    "venue": "Gallery 2",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Relaxed opening",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/audrey-amiss-rudy-loewe-relaxed-openings",
-    "image": "https://images.prismic.io/wellcomecollection/zuSP8RLJqswQhLFS_EP3619_0070-2.jpg?auto=format%2Ccompress&rect=0%2C397%2C4000%2C2250&w=3200&h=1800"
-  },
-  {
-    "id": "wc:bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
-    "sourceEventId": "bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
-    "title": "BSL Tour of ‘Audrey Amiss: The Surviving Exhibitions’ with Alison Claire France",
-    "desc": "Join multidisciplinary artist Alison Claire France for a Deaf-led tour of ‘Audrey Amiss: The Surviving Exhibitions’.",
-    "source": "WC",
-    "date": "2026-08-23T13:00:00+00:00",
-    "durationMin": 600,
-    "venue": "Information Point on level 0",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Gallery tour",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
-    "image": "https://images.prismic.io/wellcomecollection/rkHtawbrOkpFMGvy_SDP_EP003626_260702_3114-Edit.jpg?auto=format%2Ccompress&w=3200&h=1800"
   },
   {
     "id": "wc:audio-described-tour-of-audrey-amiss-and-rudy-loewe-exhibitions-aug2026",
@@ -1041,6 +999,27 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/wellcome-collection-lates-the-friendship-effect",
     "image": "https://images.prismic.io/wellcomecollection/agWML6YofJOwHPeE_EP_003366_273.jpg?auto=format%2Ccompress&rect=0%2C196%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
+    "sourceEventId": "bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
+    "title": "BSL Tour of ‘Audrey Amiss: The Surviving Exhibitions’ with Alison Claire France",
+    "desc": "Join multidisciplinary artist Alison Claire France for a Deaf-led tour of ‘Audrey Amiss: The Surviving Exhibitions’.",
+    "source": "WC",
+    "date": "2026-08-23T13:00:00+00:00",
+    "durationMin": 600,
+    "venue": "Information Point on level 0",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Gallery tour",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
+    "image": "https://images.prismic.io/wellcomecollection/rkHtawbrOkpFMGvy_SDP_EP003626_260702_3114-Edit.jpg?auto=format%2Ccompress&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
