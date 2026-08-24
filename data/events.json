@@ -192,6 +192,27 @@
     "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
   },
   {
+    "id": "kcl:despair-or-hope-for-co2-neutrality",
+    "sourceEventId": "ea81b619-00d4-4222-bf3a-48d739761f79",
+    "title": "Despair or Hope for CO₂ Neutrality in the Anthropocene?",
+    "desc": "Join us for a talk with Prof Mark Lawrence, Scientific Director at the Research Institute for Sustainability (RIFS) at the GFZ Helmholtz Centre for Geosciences, exploring one of the most pressing questions in the climate debate: how much can we realistically rely on removing carbon dioxide from the atmosphere to address climate change?",
+    "source": "KCL",
+    "date": "2026-09-02T16:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "Society",
+      "King's Climate Research Hub"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/despair-or-hope-for-co2-neutrality",
+    "image": "https://www.kcl.ac.uk/newimages/sustainabilty/factory-pollution-at-sunset.x64946068.png?crop=780,440,0,5"
+  },
+  {
     "id": "kcl:offer-holder-getting-ready-for-kings-residences-wolfson-2-september-2026",
     "sourceEventId": "332cbdb7-5402-48fe-a0e9-44512b339064",
     "title": "Getting Ready for King’s Residences: Wolfson House, Great Dover Street Apartments, Stamford Street Apartments",
@@ -344,27 +365,6 @@
     "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/clearing/new-images/main/strand-campus-img-2819-main.x587b7cb4.jpg?crop=780,440,0,5"
   },
   {
-    "id": "kcl:london-6g-week",
-    "sourceEventId": "7526a9d8-3251-48fb-9901-cd515f940247",
-    "title": "London 6G Week",
-    "desc": "London 6G Week will take place from 7-11 September 2026, a week-long programme focused on next-generation mobile communications and future connectivity systems. The week will include the IEEE CSCN 2026 and the one6G Summit 2026",
-    "source": "KCL",
-    "date": "2026-09-07T09:00:00",
-    "durationMin": 480,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Technology & Science",
-      "Department of Engineering",
-      "Faculty of Natural, Mathematical & Engineering Sciences"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/london-6g-week",
-    "image": "https://www.kcl.ac.uk/newimages/nmes/main-article-780X450/6g-telecomms-upgrade.xcd991a3b.png"
-  },
-  {
     "id": "ic:212086",
     "sourceEventId": "212086",
     "title": "White City Campus Outdoor Cinema",
@@ -429,7 +429,7 @@
     "id": "ic:211848",
     "sourceEventId": "211848",
     "title": "Heart attacks and strokes: healing and light",
-    "desc": "Join Professor Joseph Boyle, Professor of Chemical Systems Pathology, to discover how white blood cells can help repair and protect our blood vessels and reduce the risk of heart attacks and strokes.\n\nPlease register to attend in person. A live stream link for online attendance will be available here shortly.\n\nWe look forward to seeing you on Wednesday 30 September!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nMost heart attacks and strokes are caused by a single process. This affects the vessels to the heart and the brain and comprises fatty deposits. Crucially these fatty deposits are not inert but trigger 2 opposed processes involving white blood defence cells. In one of…",
+    "desc": "Join Professor Joseph Boyle, Professor of Chemical Systems Pathology, to discover how white blood cells can help repair and protect our blood vessels and reduce the risk of heart attacks and strokes.\n\nPlease register to attend in person. A live stream link for online attendance is available here.\n\nWe look forward to seeing you on Wednesday 30 September!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nMost heart attacks and strokes are caused by a single process. This affects the vessels to the heart and the brain and comprises fatty deposits. Crucially these fatty deposits are not inert but trigger 2 opposed processes involving white blood defence cells. In one of these, white…",
     "source": "IC",
     "date": "2026-09-30T17:30:00+01:00",
     "durationMin": 60,
@@ -469,6 +469,28 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211589/in-conversation-with-professor-anjali-goswami-chief-scientific-advisor-at-the-department-for-environment-food-and-rural-affairs-defra/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/anjali-goswami_1784191775868_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:212321",
+    "sourceEventId": "212321",
+    "title": "HHG in liquid crystals: a close look at symmetry-breaking transition",
+    "desc": "Abstract\n\nUltrafast Liquid Crystal Dynamics Group, Max Planck for Nuclear Physics, Heidelberg, Germany\n\nHigh-order harmonic generation (HHG) spectroscopy is a powerful tool for probing electronic structures across different states of matter. Here, we demonstrate its ability to resolve the evolution of microscopic order across a first-order phase transition in the thermotropic liquid crystal 5CB. Using a dynamically refreshed liquid-crystal platform, we perform temperature-dependent HHG measurements across the nematic-to-isotropic transition. The harmonic yield exhibits a distinct four-fold polarization anisotropy in the nematic phase that vanishes upon reaching the isotropic state, with higher harmonics retaining nematic signatures longer than lower orders. A multiscale theoretical…",
+    "source": "IC",
+    "date": "2026-08-26T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "LT2 - Floor 1 , Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Physics",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212321/hhg-in-liquid-crystals-a-close-look-at-symmetry-breaking-transition/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212164",
@@ -511,6 +533,28 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212154/atoms-in-action-the-past-present-and-future-of-in-situ-electron-microscopy/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/microscopy-event_1787060530039_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212333",
+    "sourceEventId": "212333",
+    "title": "SPC Seminar – Plasma – Professor Zhi Qiao (Shanghai Tech University)",
+    "desc": "Speaker: Professor Zhi Qiao (Shanghai Tech University) Title: Advanced X-ray Optical Diagnostics for Synchrotron and Free-Electron Lasers",
+    "source": "IC",
+    "date": "2026-08-28T15:00:00+01:00",
+    "durationMin": 60,
+    "venue": "741, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212333/spc-seminar-plasma-professor-zhi-qiao-shanghai-tech-university/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211725",
@@ -637,7 +681,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -744,7 +788,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -766,7 +810,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -853,28 +897,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209098/resilient-and-renewable-society-rrs-summit/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/rrs-event-page-featured-image_1778149332411_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211703",
-    "sourceEventId": "211703",
-    "title": "Pride Network Summer Social",
-    "desc": "Celebrate the end of summer with Imperial Pride!\n\nJoin friends, colleagues, and alumni for an evening of drinks, laughter, and great company in a welcoming, friendly, and inclusive space.\n\nA small bar tab will be available on a first come, first served basis, so arrive early and raise a glass with us! 🥂\n\nFind out more about the Pride Network here.",
-    "source": "IC",
-    "date": "2026-09-17T17:00:00+01:00",
-    "durationMin": 180,
-    "venue": "Eastside Bar, 8-15 Princes Gardens, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Imperial Pride Network",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211703/pride-network-summer-social/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
@@ -999,27 +1021,6 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/wellcome-collection-lates-the-friendship-effect",
     "image": "https://images.prismic.io/wellcomecollection/agWML6YofJOwHPeE_EP_003366_273.jpg?auto=format%2Ccompress&rect=0%2C196%2C4000%2C2250&w=3200&h=1800"
-  },
-  {
-    "id": "wc:bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
-    "sourceEventId": "bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
-    "title": "BSL Tour of ‘Audrey Amiss: The Surviving Exhibitions’ with Alison Claire France",
-    "desc": "Join multidisciplinary artist Alison Claire France for a Deaf-led tour of ‘Audrey Amiss: The Surviving Exhibitions’.",
-    "source": "WC",
-    "date": "2026-08-23T13:00:00+00:00",
-    "durationMin": 600,
-    "venue": "Information Point on level 0",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Gallery tour",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/bsl-tours-the-surviving-exhibitions-with-alison-claire-france",
-    "image": "https://images.prismic.io/wellcomecollection/rkHtawbrOkpFMGvy_SDP_EP003626_260702_3114-Edit.jpg?auto=format%2Ccompress&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
@@ -1313,7 +1314,7 @@
   {
     "id": "rs:2026-11-milner-prize-lecture",
     "sourceEventId": "2026-11-milner-prize-lecture",
-    "title": "Milner Prize Lecture delivered by Professor Johan Håstad",
+    "title": "Milner Prize Lecture: Highlights from 40 years of Complexity Theory",
     "desc": "Join us for the Royal Society Milner Prize Lecture delivered by Professor Johan H&#229;stad",
     "source": "RS",
     "date": "2026-11-12T18:30:00+01:00",
