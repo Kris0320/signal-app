@@ -1,25 +1,5 @@
 [
   {
-    "id": "kcl:undergraduate-info-session-healthcare-courses-25-august-2026",
-    "sourceEventId": "461d6050-04f6-4d20-9b74-d71cd72ba7af",
-    "title": "Applying to healthcare courses at King's",
-    "desc": "Learn more about how to choose the right undergraduate course for you.",
-    "source": "KCL",
-    "date": "2026-08-25T13:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "Student",
-      "University"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-healthcare-courses-25-august-2026",
-    "image": "https://www.kcl.ac.uk/image-library/Press-Photos/dentistry-qs.xda851c8b.jpg?w=780&h=515&crop=780,440,0,38"
-  },
-  {
     "id": "kcl:masterclass-conversation-with-stanley-kwan",
     "sourceEventId": "4a0427e4-0d10-495a-85f8-218755fa8939",
     "title": "Masterclass: Conversation with Stanley Kwan",
@@ -192,6 +172,23 @@
     "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
   },
   {
+    "id": "kcl:offer-holder-getting-ready-for-kings-residences-wolfson-2-september-2026",
+    "sourceEventId": "332cbdb7-5402-48fe-a0e9-44512b339064",
+    "title": "Getting Ready for King’s Residences: Wolfson House, Great Dover Street Apartments, Stamford Street Apartments",
+    "desc": "Find out more about living in Wolfson House, Great Dover Street Apartments and Stanford Street Apartments",
+    "source": "KCL",
+    "date": "2026-09-02T16:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/offer-holder-getting-ready-for-kings-residences-wolfson-2-september-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
+  },
+  {
     "id": "kcl:despair-or-hope-for-co2-neutrality",
     "sourceEventId": "ea81b619-00d4-4222-bf3a-48d739761f79",
     "title": "Despair or Hope for CO₂ Neutrality in the Anthropocene?",
@@ -211,23 +208,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/despair-or-hope-for-co2-neutrality",
     "image": "https://www.kcl.ac.uk/newimages/sustainabilty/factory-pollution-at-sunset.x64946068.png?crop=780,440,0,5"
-  },
-  {
-    "id": "kcl:offer-holder-getting-ready-for-kings-residences-wolfson-2-september-2026",
-    "sourceEventId": "332cbdb7-5402-48fe-a0e9-44512b339064",
-    "title": "Getting Ready for King’s Residences: Wolfson House, Great Dover Street Apartments, Stamford Street Apartments",
-    "desc": "Find out more about living in Wolfson House, Great Dover Street Apartments and Stanford Street Apartments",
-    "source": "KCL",
-    "date": "2026-09-02T16:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/offer-holder-getting-ready-for-kings-residences-wolfson-2-september-2026",
-    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
   },
   {
     "id": "kcl:queering-private-law-conference-2026",
@@ -326,6 +306,27 @@
     "image": "https://www.kcl.ac.uk/newimages/ah/history/events/20260820-solar-park-in-dülmen-north-rhine-westphalia-wikipedia-commons.xf07ffe74.png"
   },
   {
+    "id": "kcl:automating-deductive-content-analysis",
+    "sourceEventId": "b2dc611e-06d0-4df7-83a2-f02c7d6d21f6",
+    "title": "Automating deductive content analysis in social science: From theory to practice",
+    "desc": "Have you ever wished for a faster, cheaper, yet effective way to annotate your huge dataset with a set of your codes/labels? Look no further. Attend this beginner-friendly workshop designed to introduce the conceptual and practical basics of automated frame (or more broadly, content) analysis",
+    "source": "KCL",
+    "date": "2026-09-04T09:30:00",
+    "durationMin": 240,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "King’s India Institute",
+      "King’s Global Institutes",
+      "School of Global Affairs"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/automating-deductive-content-analysis",
+    "image": "https://www.kcl.ac.uk/newimages/nmes/outreach/thumbnails/python-programming.x305d43af.png"
+  },
+  {
     "id": "kcl:modelling-neural-power-spectra-motivations-applications",
     "sourceEventId": "3a68265c-154e-4f32-bedb-861fd4f6efec",
     "title": "Modelling Neural Power Spectra: Motivations & Applications",
@@ -346,29 +347,10 @@
     "image": "https://www.kcl.ac.uk/newimages/research/thumb/eeg-wg-meeting-17.xeb0d489d.jpg?w=782&h=440&crop=780,440,1,0"
   },
   {
-    "id": "kcl:undergraduate-open-day-arts-sciences-strand-campus-05-sept-2026",
-    "sourceEventId": "5b057808-086c-4e68-a870-cfccbfd23712",
-    "title": "Arts & Sciences Undergraduate Open Day - Strand Campus",
-    "desc": "Join us in London to discover more about life at King's College London",
-    "source": "KCL",
-    "date": "2026-09-05T09:30:00",
-    "durationMin": 420,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-open-day-arts-sciences-strand-campus-05-sept-2026",
-    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/clearing/new-images/main/strand-campus-img-2819-main.x587b7cb4.jpg?crop=780,440,0,5"
-  },
-  {
     "id": "ic:212086",
     "sourceEventId": "212086",
     "title": "White City Campus Outdoor Cinema",
-    "desc": "This September, Imperial’s White City Campus is bringing cinema outdoors.\n\nFrom 16 th – 20 th September 2026, come along to Perkin’s Green at the heart of north campus for five days of free outdoor screenings.\n\nInspired by five themes that reflect Imperial’s spirit of enquiry – Discovery, Intelligence, Curiosity, Earth and Exploration – with the programme shaped by you. The week will feature films that entertain, provoke curiosity and open up new ways of seeing the world.\n\nEach day includes:\n\nA daytime screening at 12:30\n\nAn evening screening at 17:30\n\nVote for your favourite film\n\nFor every screening slot, we’ve selected a shortlist of films.\n\nVote for the one you want to see, and the winning title in each slot will be screened alongside a selection of good food and drinks, and a great…",
+    "desc": "This September, Imperial’s White City Campus is bringing cinema outdoors.\n\nFrom 16 – 20 September 2026, come along to Perkin’s Green at the heart of north campus for five days of free outdoor screenings. Inspired by five themes that reflect Imperial’s spirit of enquiry – Discovery, Intelligence, Curiosity, Earth and Exploration – the films will entertain, inspire and open up new ways of seeing the world.\n\nAll s cree nings are free, no booking required. Just turn up, grab a seat and some free popcorn.\n\nThe film programme:\n\nWednesday 16 September — Discovery\n\nFilms about the restless minds who asked the questions nobody else dared to\n\n12:30\n\nThe Hitchhiker’s Guide to the Galaxy · PG · 109 mins\n\nAn ordinary man is whisked across the galaxy after Earth is demolished to make way for a…",
     "source": "IC",
     "date": "2026-09-16T12:30:00+01:00",
     "durationMin": 480,
@@ -490,7 +472,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212321/hhg-in-liquid-crystals-a-close-look-at-symmetry-breaking-transition/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212164",
@@ -554,7 +536,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212333/spc-seminar-plasma-professor-zhi-qiao-shanghai-tech-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211725",
@@ -638,7 +620,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -660,7 +642,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -681,7 +663,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -788,7 +770,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -810,7 +792,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -841,7 +823,7 @@
     "source": "IC",
     "date": "2026-09-15T11:00:00+01:00",
     "durationMin": 60,
-    "venue": "iCube , Dyson Building of Design Engineering, South Kensington Campus",
+    "venue": "LG19a, Lower Ground, Imperial Business School , Dyson Building of Design Engineering, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
