@@ -472,7 +472,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212321/hhg-in-liquid-crystals-a-close-look-at-symmetry-breaking-transition/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212164",
@@ -536,7 +536,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212333/spc-seminar-plasma-professor-zhi-qiao-shanghai-tech-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211725",
@@ -620,7 +620,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -685,6 +685,29 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209871/optimisation-accelerator-improving-decisions-through-optimisation/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sargent-centre-event_1779270049169_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212408",
+    "sourceEventId": "212408",
+    "title": "LCN 20th Anniversary Symposium and Celebration",
+    "desc": "Join us as we celebrate 20 years of discovery, innovation and collaboration at the London Centre for Nanotechnology.\n\nThe LCN brings together researchers from King’s College London, UCL and Imperial College London to tackle major challenges in healthcare, sustainability and transformative technologies.\n\nOver the past two decades, LCN researchers have helped advance discoveries that improve lives, support greener futures and drive innovation.\n\nThis special anniversary symposium will bring together researchers, students, alumni, industry partners, policymakers, supporters and members of the wider community for a day of talks, discussion and celebration.\n\nThe programme will explore how nanoscience and nanotechnology are helping to address some of society’s biggest challenges through three…",
+    "source": "IC",
+    "date": "2026-09-09T09:30:00+01:00",
+    "durationMin": 480,
+    "venue": "Bush House Auditorium",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Symposium",
+      "Nanotechnology",
+      "materials",
+      "Engineering",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212408/lcn-20th-anniversary-symposium/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/20th-flagship-seminar-poster-v2_1787684343939_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211458",
@@ -770,7 +793,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -857,28 +880,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211818/aoa-cyp-mental-health-final-dissemination/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/aoa-final-event_1786526150052_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209098",
-    "sourceEventId": "209098",
-    "title": "Resilient and Renewable Society (RRS) Summit",
-    "desc": "Resilient, Renewable Society (RRS) Summit\n\nDate : 16-17 September Time : 09:00–17:00\n\nLocation :\n\nDay 1 – 16th September, Plenary session, Royal Society, SW1Y 5AG\n\nDay 2 – 17th September, Extreme events exercise and workshops, Electrical & Electronic Engineering Building, Imperial College London, SW7 2AZ\n\nThe RRS Summit brings together leaders from academia, NGOs, government, policy, and the private sector to learn from recent crises, stress-test future scenarios, and shape resilience strategies together. Across three thematic sessions, the global summit explores resilience in natural disasters, energy system disruption, and emerging threats, with particular attention to whole-of-society approaches, critical infrastructure, Low- or Middle-Income Country (LMIC) perspectives, and the links…",
-    "source": "IC",
-    "date": "2026-09-16T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Day 1 – Royal Society, Day 2 - Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Civil engineering",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209098/resilient-and-renewable-society-rrs-summit/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/rrs-event-page-featured-image_1778149332411_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
