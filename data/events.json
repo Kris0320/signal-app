@@ -453,28 +453,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/anjali-goswami_1784191775868_eventportrait2018_x1.jpg"
   },
   {
-    "id": "ic:212321",
-    "sourceEventId": "212321",
-    "title": "HHG in liquid crystals: a close look at symmetry-breaking transition",
-    "desc": "Abstract\n\nUltrafast Liquid Crystal Dynamics Group, Max Planck for Nuclear Physics, Heidelberg, Germany\n\nHigh-order harmonic generation (HHG) spectroscopy is a powerful tool for probing electronic structures across different states of matter. Here, we demonstrate its ability to resolve the evolution of microscopic order across a first-order phase transition in the thermotropic liquid crystal 5CB. Using a dynamically refreshed liquid-crystal platform, we perform temperature-dependent HHG measurements across the nematic-to-isotropic transition. The harmonic yield exhibits a distinct four-fold polarization anisotropy in the nematic phase that vanishes upon reaching the isotropic state, with higher harmonics retaining nematic signatures longer than lower orders. A multiscale theoretical…",
-    "source": "IC",
-    "date": "2026-08-26T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "LT2 - Floor 1 , Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Physics",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212321/hhg-in-liquid-crystals-a-close-look-at-symmetry-breaking-transition/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:212164",
     "sourceEventId": "212164",
     "title": "Biodynamics & Pianistic Traditions: A Festival-Conference",
@@ -536,7 +514,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212333/spc-seminar-plasma-professor-zhi-qiao-shanghai-tech-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211725",
@@ -620,7 +598,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -663,7 +641,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -731,6 +709,29 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/copy-of-copy-of-movember-events-tiles-11_1777626996334_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:212447",
+    "sourceEventId": "212447",
+    "title": "Addressing Early-Life Health Inequalities: A Public Health Perspective",
+    "desc": "Join us for an engaging discussion on the public health challenges and opportunities involved in tackling health inequalities from the earliest stages of life",
+    "source": "IC",
+    "date": "2026-09-09T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "PaeCH",
+      "Centre for Paediatrics and Child Health",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212447/addressing-early-life-health-inequalities-a-public-health-perspective/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:211716",
     "sourceEventId": "211716",
     "title": "20th International Symposium on Persistent Toxic Substances and Health",
@@ -759,7 +760,7 @@
     "source": "IC",
     "date": "2026-09-11T09:00:00+01:00",
     "durationMin": 480,
-    "venue": "Foyer, Sir Alexander Fleming Building, South Kensington Campus",
+    "venue": "EEE408, Electrical & Electronic Engineering, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
@@ -793,7 +794,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -815,7 +816,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
