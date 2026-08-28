@@ -1,26 +1,5 @@
 [
   {
-    "id": "kcl:masterclass-conversation-with-stanley-kwan",
-    "sourceEventId": "4a0427e4-0d10-495a-85f8-218755fa8939",
-    "title": "Masterclass: Conversation with Stanley Kwan",
-    "desc": "Join us in person for an exclusive masterclass featuring the legendary filmmaker Stanley Kwan, hosted by Prof Victor Fan at King's College London.",
-    "source": "KCL",
-    "date": "2026-08-26T19:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Public lecture",
-      "Faculty of Arts & Humanities",
-      "Department of Film Studies"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/masterclass-conversation-with-stanley-kwan",
-    "image": "https://www.kcl.ac.uk/newimages/ah/film-studies/newsevents/260826-conversation-with-stanley-kwan.x62fa1294.png"
-  },
-  {
     "id": "kcl:mathematical-colloquium-weierstrass-bridges-by-alexander-schied",
     "sourceEventId": "66151d4e-f2cf-4f38-bcd5-c6c87ca91ce1",
     "title": "Mathematical Colloquium: Weierstrass Bridges by Alexander Schied",
@@ -172,6 +151,23 @@
     "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
   },
   {
+    "id": "kcl:offer-holder-getting-ready-for-kings-residences-wolfson-2-september-2026",
+    "sourceEventId": "332cbdb7-5402-48fe-a0e9-44512b339064",
+    "title": "Getting Ready for King’s Residences: Wolfson House, Great Dover Street Apartments, Stamford Street Apartments",
+    "desc": "Find out more about living in Wolfson House, Great Dover Street Apartments and Stanford Street Apartments",
+    "source": "KCL",
+    "date": "2026-09-02T16:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/offer-holder-getting-ready-for-kings-residences-wolfson-2-september-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
+  },
+  {
     "id": "kcl:despair-or-hope-for-co2-neutrality",
     "sourceEventId": "ea81b619-00d4-4222-bf3a-48d739761f79",
     "title": "Despair or Hope for CO₂ Neutrality in the Anthropocene?",
@@ -191,23 +187,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/despair-or-hope-for-co2-neutrality",
     "image": "https://www.kcl.ac.uk/newimages/sustainabilty/factory-pollution-at-sunset.x64946068.png?crop=780,440,0,5"
-  },
-  {
-    "id": "kcl:offer-holder-getting-ready-for-kings-residences-wolfson-2-september-2026",
-    "sourceEventId": "332cbdb7-5402-48fe-a0e9-44512b339064",
-    "title": "Getting Ready for King’s Residences: Wolfson House, Great Dover Street Apartments, Stamford Street Apartments",
-    "desc": "Find out more about living in Wolfson House, Great Dover Street Apartments and Stanford Street Apartments",
-    "source": "KCL",
-    "date": "2026-09-02T16:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/offer-holder-getting-ready-for-kings-residences-wolfson-2-september-2026",
-    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
   },
   {
     "id": "kcl:queering-private-law-conference-2026",
@@ -387,70 +366,71 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/small-260618-aeronautics-showcase-bbq-brendan-foster-photography-176-64_1786016690390_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:210483",
-    "sourceEventId": "210483",
-    "title": "Natural Sciences Showcase 2026",
-    "desc": "Join a full day of presentations and stimulating discussions with the academics and prize-winning PhD students in the Faculty of Natural Sciences and find out about our innovative work. Everybody is welcome! Please register as soon as possible (deadline is 17.00 on 21 September 2026).\n\n10.00 – 18.00, SAFB G16 LT (Sir Alexander Fleming Building)\n\nWelcome coffee from 09.30 in the concourse level 1\n\nDepartmental talks sessions: 10.00 – 16.10 in SAFB G16 LT (coffee breaks in the concourse level 1).\n\nPhD students poster competition: 12.30 – 13.40 in SAFB 120-122 (lunch will be provided) – Imperial staff and students will be able to vote for their favourite poster by Wednesday 23rd September, 15:00 – posters will be uploaded in our website in early September.\n\nPanel session: 16.10 – 17.10 in…",
+    "id": "ic:212497",
+    "sourceEventId": "212497",
+    "title": "Quantum Leaps and Nano Wonders",
+    "desc": "Quantum Leaps & Nano Wonders welcomes everyone to discover the fascinating worlds of nano and quantum technologies, and to meet the researchers making them happen. Through talks, demonstrations, exhibits, and hands-on activities, you will have the opportunity to explore cutting-edge science and learn how nanoscale discoveries are shaping future technologies. Researchers will reflect on two decades of scientific achievement, showcase their latest work, and share their vision for the opportunities and challenges ahead. Together, we’ll celebrate the people, ideas and discoveries that have shaped the LCN’s first 20 years and look forward to the next generation of breakthroughs.\n\nThis event is suitable for all.\n\nWhether you are part of the LCN or just curious about how nanoscience and quantum…",
     "source": "IC",
-    "date": "2026-09-23T10:00:00+01:00",
-    "durationMin": 480,
-    "venue": "SAFB G16 LT, Sir Alexander Fleming Building, South Kensington Campus",
+    "date": "2026-09-10T17:00:00+01:00",
+    "durationMin": 180,
+    "venue": "Main Entrance Foyer, Main Entrance, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
       "General",
-      "FoNS Research Showcase",
+      "Nanotechnology",
+      "materials",
+      "Engineering",
+      "Outreach"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212497/quantum-leaps-and-nano-wonders/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/poster-landscape-quantum-leaps-nano-wonders-v2_1787827313642_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212446",
+    "sourceEventId": "212446",
+    "title": "“Material Intelligence” – Textile Intersections Exhibition",
+    "desc": "Join us for Material Intelligence , an exhibition presented as part of the Textiles Intersections 2026 Conference .\n\nThe exhibition explores a wide range of interpretations of the relationship between materials and intelligence. From the materials used in textile production and fabrication, to the exploration of ‘Intelligence’ as contextualized by recent and historical conversations about AI , the theme also extends to other-than-human forms of intelligence, including those found in plant and animal life.\n\nThe exhibited works engage with and expand upon these critical perspectives through questions of technology, human–machine collaboration, and the agency of non-human agents, both biological and synthetic. They also consider the ways in which commons are created and sustained through…",
+    "source": "IC",
+    "date": "2026-09-17T10:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Ground Floor Lecture Theatre, Dyson Building of Design Engineering, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Exhibition",
+      "Art exhibition",
+      "Sustainability",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210483/natural-sciences-showcase-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/research-showcase-2026-with-date-green-1000-x-700-px_1784104890433_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/212446/material-intelligence-textile-intersections-exhibition/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/plushe-lu-lyu_1787753261684_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211848",
-    "sourceEventId": "211848",
-    "title": "Heart attacks and strokes: healing and light",
-    "desc": "Join Professor Joseph Boyle, Professor of Chemical Systems Pathology, to discover how white blood cells can help repair and protect our blood vessels and reduce the risk of heart attacks and strokes.\n\nPlease register to attend in person. A live stream link for online attendance is available here.\n\nWe look forward to seeing you on Wednesday 30 September!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nMost heart attacks and strokes are caused by a single process. This affects the vessels to the heart and the brain and comprises fatty deposits. Crucially these fatty deposits are not inert but trigger 2 opposed processes involving white blood defence cells. In one of these, white…",
+    "id": "ic:211709",
+    "sourceEventId": "211709",
+    "title": "Discover Imperial Fair (South Kensington)",
+    "desc": "This is a must-visit interactive fair for all new students. Come visit the over 25 stalls to find out all about the opportunities and support services for you at Imperial that are there for you on top of your academic course. There will be a range of fun activities to get involved with, demonstrating lots that Imperial has to offer, as well as lots of freebies and giveaways!",
     "source": "IC",
-    "date": "2026-09-30T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
+    "date": "2026-09-28T10:30:00+01:00",
+    "durationMin": 360,
+    "venue": "Queen's Tower Rooms, Level 1, Sherfield Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Lecture",
-      "Institutional Event",
-      "Imperial Inaugurals",
-      "NHLI",
+      "General",
+      "Welcome to Imperial",
+      "Welcome week",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211848/heart-attacks-and-strokes-healing-and-light/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-eventbrite-banner-joseph-boyle_1786453920588_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211589",
-    "sourceEventId": "211589",
-    "title": "In conversation With Professor Anjali Goswami, Chief Scientific Advisor at the Department for Environment, Food and Rural Affairs (Defra)",
-    "desc": "Join us for the second in this series of fireside conversations with senior scientists in government, hosted by the Imperial Policy Forum, where attendees can hear about what role science plays in informing and shaping government policy, what the process looks like from the inside at the highest level of decision-making, and how you as a researcher can make an impact.\n\nLeading the conversation will be Professor Mary Ryan, Vice-Provost for Research and Enterprise at Imperial.\n\nTimings :\n\nJoin from 17.30\n\nConversation commences 18.00\n\nConversation and Q&A ends: 19.00\n\nAbout the speaker\n\nProfessor Anjali Goswami was appointed Chief Scientific Adviser and Director General Science, Data and Analysis at the Department for Environment, Food and Rural Affairs on 1 July 2025.\n\nAnjali is a…",
-    "source": "IC",
-    "date": "2026-10-01T17:30:00+01:00",
-    "durationMin": 90,
-    "venue": "Lecture theatre G16, Sir Alexander Fleming Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Symposium",
-      "The Forum",
-      "Institutional Event",
-      "Staff"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211589/in-conversation-with-professor-anjali-goswami-chief-scientific-advisor-at-the-department-for-environment-food-and-rural-affairs-defra/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/anjali-goswami_1784191775868_eventportrait2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/211709/discover-imperial-sk-26/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-college-london-welcome-day-30th-september-2024-brendan-foster-photography-587-180-min_1755092303265_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212164",
@@ -514,7 +494,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212333/spc-seminar-plasma-professor-zhi-qiao-shanghai-tech-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211725",
@@ -598,7 +578,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -620,7 +600,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212474",
@@ -642,7 +622,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212474/san-francisco-east-bay-alumni-meet-up/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -663,7 +643,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -751,7 +731,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212447/addressing-early-life-health-inequalities-a-public-health-perspective/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211716",
@@ -775,27 +755,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imagef1_1785755578655_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212497",
-    "sourceEventId": "212497",
-    "title": "Quantum Leaps and Nano Wonders",
-    "desc": "Quantum Leaps & Nano Wonders welcomes everyone to discover the fascinating worlds of nano and quantum technologies, and to meet the researchers making them happen. Through talks, demonstrations, exhibits, and hands-on activities, you will have the opportunity to explore cutting-edge science and learn how nanoscale discoveries are shaping future technologies. Researchers will reflect on two decades of scientific achievement, showcase their latest work, and share their vision for the opportunities and challenges ahead. Together, we’ll celebrate the people, ideas and discoveries that have shaped the LCN’s first 20 years and look forward to the next generation of breakthroughs.\n\nThis event is suitable for all.\n\nWhether you are part of the LCN or just curious about how nanoscience and quantum…",
+    "id": "ic:212524",
+    "sourceEventId": "212524",
+    "title": "Material Encounters: Art and Nanoscience Exhibition",
+    "desc": "An exhibition of artworks born from collaborations between artists and scientists, translating cutting-edge nanoscience into new forms of creative enquiry. Developed in partnership with the London-based artist collective Changeable Beast, Material Encounters invites artists to work closely with scientists to create new artworks inspired by cutting-edge research in nanotechnology and material science.\n\nAcross the project, artists have been paired with researchers at the London Centre for Nanotechnology (LCN) who share a thematic, creative and intellectual affinity. Each partnership is flexible, allowing collaborators to shape the process in ways that suit their interests and working practices.\n\nParticipating artists include members of Changeable Beast and invited guest artists working…",
     "source": "IC",
-    "date": "2026-09-10T17:00:00+01:00",
-    "durationMin": 180,
+    "date": "2026-09-10T16:00:00+01:00",
+    "durationMin": 240,
     "venue": "Main Entrance Foyer, Main Entrance, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "General",
+      "Exhibition",
       "Nanotechnology",
       "materials",
       "Engineering",
-      "Outreach"
+      "Event"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212497/quantum-leaps-and-nano-wonders/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/poster-landscape-quantum-leaps-nano-wonders-v2_1787827313642_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/212524/material-encounters-art-and-nanoscience-exhibition/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/me-portrait-imperial-event_1787860911593_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212019",
@@ -862,27 +842,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:210916",
-    "sourceEventId": "210916",
-    "title": "RNA Vaccines & Therapeutics Conference London",
-    "desc": "We’re delighted to invite you to the RNA Vaccines & Therapeutics Conference London, taking place on 15-16 September 2026, at BMA House, London.\n\nHosted by CPI , Imperial College London , and the BioIndustry Association (BIA) , this leading conference will bring together experts from academia, biotech, pharma, and government to explore the developments shaping the next generation of RNA medicines.\n\nAs RNA technologies continue to advance, collaboration across the innovation ecosystem is essential to translate scientific discoveries into real-world solutions. The conference provides a forum to share knowledge, build partnerships, and discuss the priorities that will drive the field forward.\n\nOver two days, attendees will gain insights into advances in RNA vaccines and therapeutics, explore…",
-    "source": "IC",
-    "date": "2026-09-15T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "BMA House",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210916/rna-vaccines-therapeutics-conference-london/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ebd370a3-f0e0-4c60-981d-f77bb3d59d32_1781621222870_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
@@ -1007,6 +966,26 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/wellcome-collection-lates-the-friendship-effect",
     "image": "https://images.prismic.io/wellcomecollection/agWML6YofJOwHPeE_EP_003366_273.jpg?auto=format%2Ccompress&rect=0%2C196%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:discovering-our-collections-through-songsheets",
+    "sourceEventId": "discovering-our-collections-through-songsheets",
+    "title": "Discovering our Collections through Songsheets",
+    "desc": "In this hands-on workshop, you’ll learn more about the songsheets in our collections and how to use them for research.",
+    "source": "WC",
+    "date": "2026-09-29T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Viewing Room",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/discovering-our-collections-through-songsheets",
+    "image": "https://images.prismic.io/wellcomecollection/Zshsd0aF0TcGJWsV_EP_001983_095.jpg?auto=format%2Ccompress&rect=0%2C454%2C5566%2C3131&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-path-to-quantum-gravity",
