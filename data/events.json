@@ -1,26 +1,5 @@
 [
   {
-    "id": "kcl:mathematical-colloquium-weierstrass-bridges-by-alexander-schied",
-    "sourceEventId": "66151d4e-f2cf-4f38-bcd5-c6c87ca91ce1",
-    "title": "Mathematical Colloquium: Weierstrass Bridges by Alexander Schied",
-    "desc": "Join a talk by Alexander Schied from the University of Waterloo",
-    "source": "KCL",
-    "date": "2026-08-27T15:30:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Public lecture",
-      "Technology & Science",
-      "Department of Mathematics"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/mathematical-colloquium-weierstrass-bridges-by-alexander-schied",
-    "image": "https://www.kcl.ac.uk/newimages/ah/strandaldwych.xdb9ff27e.jpg?w=782&h=440&crop=780,440,1,0"
-  },
-  {
     "id": "kcl:presteigne-festival-2026",
     "sourceEventId": "e56dabb7-57fe-485c-b615-4e7a94f00031",
     "title": "Presteigne Festival 2026",
@@ -433,70 +412,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-college-london-welcome-day-30th-september-2024-brendan-foster-photography-587-180-min_1755092303265_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212164",
-    "sourceEventId": "212164",
-    "title": "Biodynamics & Pianistic Traditions: A Festival-Conference",
-    "desc": "Where science meets the keyboard — an afternoon exploring how skill is learned, refined, and taught.\n\nWhat does biomechanics have to say about a pianist’s technique — and what can decades of musical training teach scientists about how expertise is built? This one-day festival-conference brings researchers from Imperial College London’s Musculoskeletal Research Group together with leading concert pianists for a day of live performance, motion-capture recording, and open discussion.\n\nLive scan sessions and performances from pianists including Philip Fowke (Trinity Laban Conservatoire), Duncan Honeybourne (Royal Academy of Music), Dr Ian Pace (City St George’s, University of London), Dr Robert Markham (Royal Conservatoire of Birmingham), the Ivory Duo Piano Ensemble (Convivium Records), in…",
-    "source": "IC",
-    "date": "2026-08-28T11:30:00+01:00",
-    "durationMin": 480,
-    "venue": "Deptford Town Hall",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212164/biodynamics-pianistic-traditions-a-festival-conference/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/untitled-august-18-2026-at-151456_1787062586559_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212154",
-    "sourceEventId": "212154",
-    "title": "Atoms in Action: The Past, Present and Future of In Situ Electron Microscopy",
-    "desc": "For more information about RSM 175 events, please see: https://www.imperial.ac.uk/rsm-175/",
-    "source": "IC",
-    "date": "2026-08-28T13:30:00+01:00",
-    "durationMin": 150,
-    "venue": "RSM G06, Royal School Of Mines, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212154/atoms-in-action-the-past-present-and-future-of-in-situ-electron-microscopy/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/microscopy-event_1787060530039_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212333",
-    "sourceEventId": "212333",
-    "title": "SPC Seminar – Plasma – Professor Zhi Qiao (Shanghai Tech University)",
-    "desc": "Speaker: Professor Zhi Qiao (Shanghai Tech University) Title: Advanced X-ray Optical Diagnostics for Synchrotron and Free-Electron Lasers",
-    "source": "IC",
-    "date": "2026-08-28T15:00:00+01:00",
-    "durationMin": 60,
-    "venue": "741, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212333/spc-seminar-plasma-professor-zhi-qiao-shanghai-tech-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211725",
     "sourceEventId": "211725",
     "title": "ISEE (International Society for Environmental Epidemiology) 2026",
@@ -600,7 +515,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212474",
@@ -622,7 +537,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212474/san-francisco-east-bay-alumni-meet-up/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -643,7 +558,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -731,7 +646,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212447/addressing-early-life-health-inequalities-a-public-health-perspective/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211716",
@@ -775,7 +690,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212539/hosting-an-intern-whats-involved-and-whats-in-it-for-you/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212524",
@@ -842,7 +757,72 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211642",
+    "sourceEventId": "211642",
+    "title": "Imperial Vulnerable Plaque & Patient Meeting 2026",
+    "desc": "Over the years, the Imperial VPM meeting has been the catalyst for numerous technical innovations, collaborative initiatives, and landmark clinical trials.\n\nIts programme showcases state-of-the-art developments in the fundamental mechanisms of atherosclerosis, advances in disease diagnosis and risk stratification, and the latest findings from clinical trials.\n\nExtensive discussion sessions encourage critical evaluation of emerging evidence, foster collaboration between academia and industry, and help shape future research priorities to advance the field.",
+    "source": "IC",
+    "date": "2026-09-14T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "NHLI",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:210916",
+    "sourceEventId": "210916",
+    "title": "RNA Vaccines & Therapeutics Conference London",
+    "desc": "We’re delighted to invite you to the RNA Vaccines & Therapeutics Conference London, taking place on 15-16 September 2026, at BMA House, London.\n\nHosted by CPI , Imperial College London , and the BioIndustry Association (BIA) , this leading conference will bring together experts from academia, biotech, pharma, and government to explore the developments shaping the next generation of RNA medicines.\n\nAs RNA technologies continue to advance, collaboration across the innovation ecosystem is essential to translate scientific discoveries into real-world solutions. The conference provides a forum to share knowledge, build partnerships, and discuss the priorities that will drive the field forward.\n\nOver two days, attendees will gain insights into advances in RNA vaccines and therapeutics, explore…",
+    "source": "IC",
+    "date": "2026-09-15T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "BMA House",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210916/rna-vaccines-therapeutics-conference-london/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ebd370a3-f0e0-4c60-981d-f77bb3d59d32_1781621222870_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211074",
+    "sourceEventId": "211074",
+    "title": "R&D, Place, and Developing Regional Innovation Systems: Lessons from Greater Manchester",
+    "desc": "This is in-person only event. The event will be followed by the Q&A with the speaker.\n\nAbout the Talk\n\nA large part of the UK’s current economic difficulties arise from the fact that its major cities outside London underperform, with productivity levels in second-tier city regions like Greater Manchester, the West Midlands, and the Glasgow City Region remaining below the UK average. In connection with these regional disparities in economic performance, the attention of policy makers has been drawn to the fact that levels of public and private research and development in these cities is below average, and recent policy initiatives, such as the previous government’s “Innovation Accelerator” Pilot, and the current government’s “Local Innovation Partnership Fund”, have sought to address…",
+    "source": "IC",
+    "date": "2026-09-15T11:00:00+01:00",
+    "durationMin": 60,
+    "venue": "LG19a, Lower Ground, Imperial Business School , Dyson Building of Design Engineering, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Industry",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211074/rd-place-and-developing-regional-innovation-systems-lessons-from-greater-manchester/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csep-seminar-event-card_1782244198767_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
