@@ -1,25 +1,5 @@
 [
   {
-    "id": "kcl:presteigne-festival-2026",
-    "sourceEventId": "e56dabb7-57fe-485c-b615-4e7a94f00031",
-    "title": "Presteigne Festival 2026",
-    "desc": "The Sopranos and Altos of the Choir of KCL perform at a summer festival in Wales.",
-    "source": "KCL",
-    "date": "2026-08-30T16:30:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Arts & Culture",
-      "The Choir of King’s College London"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/presteigne-festival-2026",
-    "image": "https://www.kcl.ac.uk/newimages/ah/choir-music.x830b98a0.jpg?w=780&h=520&crop=780,440,0,0"
-  },
-  {
     "id": "kcl:pioneering-artificial-intelligence-in-nursing",
     "sourceEventId": "ce7911eb-6a18-4c08-bf73-523a568e21ba",
     "title": "Pioneering artificial intelligence in nursing",
@@ -493,7 +473,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -515,7 +495,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212474",
@@ -558,7 +538,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -646,7 +626,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212447/addressing-early-life-health-inequalities-a-public-health-perspective/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211716",
@@ -690,7 +670,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212539/hosting-an-intern-whats-involved-and-whats-in-it-for-you/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212524",
@@ -779,7 +759,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -843,27 +823,6 @@
     "match": 74,
     "url": "https://www.lse.ac.uk/events/ai-socialism",
     "image": null
-  },
-  {
-    "id": "wc:audio-described-tour-of-audrey-amiss-and-rudy-loewe-exhibitions-aug2026",
-    "sourceEventId": "audio-described-tour-of-audrey-amiss-and-rudy-loewe-exhibitions-aug2026",
-    "title": "Audio Described Tour of the Audrey Amiss and Rudy Loewe Exhibitions",
-    "desc": "Join us for a guided tour the ‘Audrey Amiss‘ and ‘Rudy Loewe‘ exhibitions with audio description.",
-    "source": "WC",
-    "date": "2026-08-30T10:30:00+00:00",
-    "durationMin": 60,
-    "venue": "Gallery 2",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Gallery tour",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/audio-described-tour-of-audrey-amiss-and-rudy-loewe-exhibitions-aug2026",
-    "image": "https://images.prismic.io/wellcomecollection/Pkh4OhEfrQprG48j_BTG260701143704.jpg?auto=format%2Ccompress&rect=190%2C474%2C3810%2C2143&w=3200&h=1800"
   },
   {
     "id": "wc:bsl-interpreted-tours-audrey-amiss-rudy-loewe",
