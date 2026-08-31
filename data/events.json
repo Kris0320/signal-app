@@ -392,48 +392,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-college-london-welcome-day-30th-september-2024-brendan-foster-photography-587-180-min_1755092303265_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211725",
-    "sourceEventId": "211725",
-    "title": "ISEE (International Society for Environmental Epidemiology) 2026",
-    "desc": "A number of the Environmental Research Group will be presenting at this year’s Conference:\n\nPhD Student George Young – Poster Presentation\n\n‘Estimating personal exposure to indoor- and outdoor-generated PM 2.5 and their associations with childhood respiratory symptoms in West London: The WellHome Study’.\n\nResearch Fellow Dr Dimitris Evangelopoulos – Oral Presentation\n\n“Investigating the short-term effects of particulate matter chemical components on mortality and the potential modifying effect of extreme temperature: A time-series analysis in London”\n\nResearch Fellow Dr Dimitris Evangelopoulos – Poster presentations\n\n“High temporal resolution monitoring of illicit drug consumption across England via wastewater analysis”\n\n“The short-term respiratory health effects of recurrent landfill…",
-    "source": "IC",
-    "date": "2026-08-30T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Science Congress Center",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211725/isee-international-society-for-environmental-epidemiology-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/scc-munich-freiflaeche-stiege-01-1610x772-1024x683_1785757604522_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211741",
-    "sourceEventId": "211741",
-    "title": "12th International Aerosol Conference",
-    "desc": "A number of the Aerosol Science Team in the Environmental Research Group are presenting during the Conference.\n\nXiaolu Zhang – Oral Presentation\n\n“Investigating the short-term effects of particulate matter (PM) chemical components on mortality and the potential modifying effect of extreme temperature: A time-series analysis in London”\n\nDr Max Priestman – Poster Presentation “Source characterization of plastic burning in East Java, Indonesia”\n\nDr Steven Campbell – Keynote Presentation “High time resolution quantification of PM2.5 oxidative potential”\n\nDr Ian Chen – Oral Presentations “Estimating the oxidative potential of ambient matter using explainable machine learning approaches”\n\nRhea Fang – Oral Presentation “Near real-time quantification of tyre wear particles in the ambient PM2.5…",
-    "source": "IC",
-    "date": "2026-08-30T09:00:00+08:00",
-    "durationMin": 480,
-    "venue": "Xi'an Qujiang International Convention Center",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211741/12th-international-aerosol-conference/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/241121-j-tye-imperial-70-environmental-research-3746_1785767949762_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:204072",
     "sourceEventId": "204072",
     "title": "A Systems Approach to Infrastructure",
@@ -473,7 +431,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -517,7 +475,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212474/san-francisco-east-bay-alumni-meet-up/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -538,7 +496,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -626,7 +584,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212447/addressing-early-life-health-inequalities-a-public-health-perspective/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211716",
@@ -737,7 +695,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -759,7 +717,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
