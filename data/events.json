@@ -110,6 +110,27 @@
     "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
   },
   {
+    "id": "kcl:mindfulness-with-jenny-online-13",
+    "sourceEventId": "53e8454a-17ee-4c47-9c05-ee0f16a75ab8",
+    "title": "Mindfulness with Jenny - Online",
+    "desc": "A session to explore mindfulness and how to be mindful.",
+    "source": "KCL",
+    "date": "2026-09-02T10:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Student",
+      "International"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-13",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/winter-path.x8d8d756b.jpg?w=837&h=558&crop=780,440,0,118"
+  },
+  {
     "id": "kcl:offer-holder-getting-ready-for-kings-residences-wolfson-2-september-2026",
     "sourceEventId": "332cbdb7-5402-48fe-a0e9-44512b339064",
     "title": "Getting Ready for King’s Residences: Wolfson House, Great Dover Street Apartments, Stamford Street Apartments",
@@ -265,26 +286,6 @@
     "image": "https://www.kcl.ac.uk/newimages/nmes/outreach/thumbnails/python-programming.x305d43af.png"
   },
   {
-    "id": "kcl:modelling-neural-power-spectra-motivations-applications",
-    "sourceEventId": "3a68265c-154e-4f32-bedb-861fd4f6efec",
-    "title": "Modelling Neural Power Spectra: Motivations & Applications",
-    "desc": "EEG working group meeting - Dr Thomas Donoghue",
-    "source": "KCL",
-    "date": "2026-09-04T11:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Technology & Science",
-      "Health"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/modelling-neural-power-spectra-motivations-applications",
-    "image": "https://www.kcl.ac.uk/newimages/research/thumb/eeg-wg-meeting-17.xeb0d489d.jpg?w=782&h=440&crop=780,440,1,0"
-  },
-  {
     "id": "kcl:behavioral-policy-for-family-bpf",
     "sourceEventId": "4dc46681-a151-42e3-bba2-8c1a01265b68",
     "title": "Behavioral Policy for Family (BPF)",
@@ -306,6 +307,27 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/policy-institute/bpp-familyv2.xe5988866.jpg?crop=780,440,1,0"
   },
   {
+    "id": "kcl:morning-prayer-at-the-strand-6",
+    "sourceEventId": "0b82650f-7ce1-49f8-93b1-9ce8fc1742ac",
+    "title": "Morning Prayer at the Strand",
+    "desc": "A Morning Prayer service every Thursday during term time in the College Chapel.",
+    "source": "KCL",
+    "date": "2026-10-01T09:30:00",
+    "durationMin": 30,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-the-strand-6",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
     "id": "kcl:international-construction-arbitration-conference-2026",
     "sourceEventId": "2a5ee212-7c3c-436c-bf1a-8fc7d67445f3",
     "title": "International Construction Arbitration Conference 2026",
@@ -325,6 +347,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/international-construction-arbitration-conference-2026",
     "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/international-construction-arbitration-conference-2026-hero-image-1.x62824bfd.png"
+  },
+  {
+    "id": "kcl:morning-prayer-at-guys-5",
+    "sourceEventId": "b7fd0780-8087-46da-8837-df57e2c1ee26",
+    "title": "Morning Prayer at Guy's",
+    "desc": "A short Morning Prayer service at Guy's every Thursday during term time.",
+    "source": "KCL",
+    "date": "2026-10-01T10:00:00",
+    "durationMin": 30,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-guys-5",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
     "id": "kcl:from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
@@ -387,6 +430,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/welcome-mass-at-the-strand",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/communion-wafers.x7c3c6afb.JPG?w=780&h=519&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:afternoon-tea-at-the-strand-6",
+    "sourceEventId": "811d3b7a-00be-462a-bda1-92f179bb38bb",
+    "title": "Afternoon Tea at the Strand",
+    "desc": "An opportunity to enjoy Afternoon Tea in the Strand Chaplaincy every Friday during term time.",
+    "source": "KCL",
+    "date": "2026-10-02T14:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/afternoon-tea-at-the-strand-6",
+    "image": "https://www.kcl.ac.uk/newimages/new-students/begins/london/food-cake.x45f32373.jpg?w=780&h=520&crop=780,440,0,0"
   },
   {
     "id": "kcl:virtual-campus-tour-strand-bush-house-2-october-2026",
@@ -535,69 +599,6 @@
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/autumn-book.x1c8f9c97.jpg?w=780&h=520&crop=780,440,0,80"
   },
   {
-    "id": "kcl:choral-evensong-at-the-strand",
-    "sourceEventId": "1b60c6d7-6d6c-4036-b21d-51217e245135",
-    "title": "Choral Evensong at the Strand",
-    "desc": "A service of words and music on Tuesdays in term time with the Choir of King's College London.",
-    "source": "KCL",
-    "date": "2026-10-06T17:30:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Arts & Culture",
-      "International",
-      "Society"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/choral-evensong-at-the-strand",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/choir-images/organ-pipes-closeup.x5473cfb6.jpg?w=780&h=585&crop=780,440,0,73"
-  },
-  {
-    "id": "kcl:banking-financial-services-networking-night-2026",
-    "sourceEventId": "a049a6b5-5065-4bd5-b471-22b2331f8edd",
-    "title": "Banking & Financial Services Networking Night 2026",
-    "desc": "Help unlock our students' awareness of the roles and options available across financial services in the UK and globally.",
-    "source": "KCL",
-    "date": "2026-10-06T18:30:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "International",
-      "Student",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/banking-financial-services-networking-night-2026",
-    "image": "https://www.kcl.ac.uk/newimages/careers/ee/festivals/2022-fairs-images/banking-networking.x4c179d99.jpg?w=782&h=440&crop=780,440,1,0"
-  },
-  {
-    "id": "kcl:joint-rd-office-wednesday-walk-in-october",
-    "sourceEventId": "4c463c2e-fe50-46ca-828f-bf46446f566b",
-    "title": "Joint R&D Office Wednesday Walk-In",
-    "desc": "Drop in and discuss your questions with the Joint R&D Office on the first Wednesday of every month.",
-    "source": "KCL",
-    "date": "2026-10-07T10:00:00",
-    "durationMin": 300,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Health",
-      "NIHR Biomedical Research Centre: Maudsley",
-      "Institute of Psychiatry, Psychology & Neuroscience"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/joint-rd-office-wednesday-walk-in-october",
-    "image": "https://www.kcl.ac.uk/newimages/ioppn/research-and-development/joint-rd-office-drop-in-session.xf23d189a.png"
-  },
-  {
     "id": "ic:212086",
     "sourceEventId": "212086",
     "title": "White City Campus Outdoor Cinema",
@@ -744,7 +745,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -766,7 +767,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212474",
@@ -788,7 +789,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212474/san-francisco-east-bay-alumni-meet-up/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -809,7 +810,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -897,7 +898,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212447/addressing-early-life-health-inequalities-a-public-health-perspective/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211716",
@@ -941,7 +942,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212539/hosting-an-intern-whats-involved-and-whats-in-it-for-you/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212524",
@@ -1008,7 +1009,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -1030,7 +1031,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -1074,26 +1075,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211074/rd-place-and-developing-regional-innovation-systems-lessons-from-greater-manchester/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csep-seminar-event-card_1782244198767_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "lse:ai-socialism",
-    "sourceEventId": "ai-socialism",
-    "title": "Socialism after AI",
-    "desc": "Socialism after AI",
-    "source": "LSE",
-    "date": "2026-10-05T18:30:00+01:00",
-    "durationMin": 90,
-    "venue": "In-person and online public event (LSE campus, venue tbc to ticketholders)",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "AI",
-      "Open to all"
-    ],
-    "format": "Online",
-    "match": 74,
-    "url": "https://www.lse.ac.uk/events/ai-socialism",
-    "image": null
   },
   {
     "id": "wc:bsl-interpreted-tours-audrey-amiss-rudy-loewe",
@@ -1352,7 +1333,7 @@
     "format": "In person + online",
     "match": 82,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/11/low-cost-optical-sensing/",
-    "image": "https://royalsociety.org/-/media/about-us/royal-society-new.jpg"
+    "image": "https://royalsociety.org/-/media/events/2026/11/low-cost-sensing/low-cost-sensing.jpg"
   },
   {
     "id": "rs:2026-11-neuromorphic-computing",
