@@ -21,40 +21,6 @@
     "image": "https://www.kcl.ac.uk/newimages/nmpc/events/audience-sitting-in-chairs.x31401bcd.png?w=780&h=445&crop=780,440,0,3"
   },
   {
-    "id": "kcl:offer-holder-countdown-to-kings-1-september-2026",
-    "sourceEventId": "b01b1c85-8fb3-415a-9a9b-0685bb907872",
-    "title": "Countdown to King's",
-    "desc": "Hear our last-minute tips and advice before joining King's.",
-    "source": "KCL",
-    "date": "2026-09-01T10:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/offer-holder-countdown-to-kings-1-september-2026",
-    "image": "https://www.kcl.ac.uk/departmentalimages/careers/kcl-marketing-shoot-students-walking.xfa362139.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
-    "id": "kcl:offer-holder-moving-in-1-september-2026",
-    "sourceEventId": "c3e01be2-b411-4eb6-a715-11638fe48d0b",
-    "title": "Getting Ready for King’s Residences: Your Guide to Moving In",
-    "desc": "Find out more about living in Wolfson House, Great Dover Street Apartments and Stanford Street Apartments",
-    "source": "KCL",
-    "date": "2026-09-01T13:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/offer-holder-moving-in-1-september-2026",
-    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/a-new-template-images/accommodation-moving-in-welcome.x9f45dbd8.jpg?w=780&h=624&crop=780,440,0,92"
-  },
-  {
     "id": "kcl:openday-top-tips-01-sept-26",
     "sourceEventId": "ca5f0224-08c5-4e4e-aa9d-c21f418e5a56",
     "title": "Top Tips for a King's College London open day",
@@ -286,6 +252,45 @@
     "image": "https://www.kcl.ac.uk/newimages/nmes/outreach/thumbnails/python-programming.x305d43af.png"
   },
   {
+    "id": "kcl:modelling-neural-power-spectra-motivations-applications",
+    "sourceEventId": "3a68265c-154e-4f32-bedb-861fd4f6efec",
+    "title": "Modelling Neural Power Spectra: Motivations & Applications",
+    "desc": "EEG working group meeting - Dr Thomas Donoghue",
+    "source": "KCL",
+    "date": "2026-09-04T11:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "Health"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/modelling-neural-power-spectra-motivations-applications",
+    "image": "https://www.kcl.ac.uk/newimages/research/thumb/eeg-wg-meeting-17.xeb0d489d.jpg?w=782&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:undergraduate-open-day-arts-sciences-strand-campus-05-sept-2026",
+    "sourceEventId": "5b057808-086c-4e68-a870-cfccbfd23712",
+    "title": "Arts & Sciences Undergraduate Open Day - Strand Campus",
+    "desc": "Join us in London to discover more about life at King's College London",
+    "source": "KCL",
+    "date": "2026-09-05T09:30:00",
+    "durationMin": 420,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/undergraduate-open-day-arts-sciences-strand-campus-05-sept-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/clearing/new-images/main/strand-campus-img-2819-main.x587b7cb4.jpg?crop=780,440,0,5"
+  },
+  {
     "id": "kcl:behavioral-policy-for-family-bpf",
     "sourceEventId": "4dc46681-a151-42e3-bba2-8c1a01265b68",
     "title": "Behavioral Policy for Family (BPF)",
@@ -305,27 +310,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/behavioral-policy-for-family-bpf",
     "image": "https://www.kcl.ac.uk/newimages/sspp/policy-institute/bpp-familyv2.xe5988866.jpg?crop=780,440,1,0"
-  },
-  {
-    "id": "kcl:morning-prayer-at-the-strand-6",
-    "sourceEventId": "0b82650f-7ce1-49f8-93b1-9ce8fc1742ac",
-    "title": "Morning Prayer at the Strand",
-    "desc": "A Morning Prayer service every Thursday during term time in the College Chapel.",
-    "source": "KCL",
-    "date": "2026-10-01T09:30:00",
-    "durationMin": 30,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-the-strand-6",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
     "id": "kcl:international-construction-arbitration-conference-2026",
@@ -349,12 +333,12 @@
     "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/international-construction-arbitration-conference-2026-hero-image-1.x62824bfd.png"
   },
   {
-    "id": "kcl:morning-prayer-at-guys-5",
-    "sourceEventId": "b7fd0780-8087-46da-8837-df57e2c1ee26",
-    "title": "Morning Prayer at Guy's",
-    "desc": "A short Morning Prayer service at Guy's every Thursday during term time.",
+    "id": "kcl:morning-prayer-at-the-strand-6",
+    "sourceEventId": "0b82650f-7ce1-49f8-93b1-9ce8fc1742ac",
+    "title": "Morning Prayer at the Strand",
+    "desc": "A Morning Prayer service every Thursday during term time in the College Chapel.",
     "source": "KCL",
-    "date": "2026-10-01T10:00:00",
+    "date": "2026-10-01T09:30:00",
     "durationMin": 30,
     "venue": "Strand",
     "area": "Strand",
@@ -366,7 +350,7 @@
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-guys-5",
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-the-strand-6",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
@@ -409,6 +393,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/six-steps-to-build-your-career-map",
     "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
+  },
+  {
+    "id": "kcl:morning-prayer-at-guys-5",
+    "sourceEventId": "b7fd0780-8087-46da-8837-df57e2c1ee26",
+    "title": "Morning Prayer at Guy's",
+    "desc": "A short Morning Prayer service at Guy's every Thursday during term time.",
+    "source": "KCL",
+    "date": "2026-10-01T10:00:00",
+    "durationMin": 30,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-guys-5",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
     "id": "kcl:welcome-mass-at-the-strand",
@@ -745,7 +750,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211471",
@@ -767,7 +772,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212474",
@@ -789,7 +794,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212474/san-francisco-east-bay-alumni-meet-up/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211125",
@@ -810,7 +815,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -898,7 +903,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212447/addressing-early-life-health-inequalities-a-public-health-perspective/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211716",
@@ -942,7 +947,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212539/hosting-an-intern-whats-involved-and-whats-in-it-for-you/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212524",
@@ -1031,7 +1036,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
