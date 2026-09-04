@@ -1,46 +1,5 @@
 [
   {
-    "id": "kcl:queering-private-law-conference-2026",
-    "sourceEventId": "b24a4553-c8e1-47e3-9ea9-d695d626bbb5",
-    "title": "Queering Private Law Conference 2026",
-    "desc": "Private law presents itself as neutral and technical, a body of rules that simply reflects how the world is. But its foundational concepts carry assumptions about whose relationships, identities, and lives count as normal. This conference brings queer theory into conversation with private law, asking what is revealed when we take those assumptions seriously and refuse to treat them as inevitable.",
-    "source": "KCL",
-    "date": "2026-09-03T09:00:00",
-    "durationMin": 480,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "The Dickson Poon School of Law",
-      "Queering Private Law"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/queering-private-law-conference-2026",
-    "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/queering-private-law-conference-2026-mi.xafa02c88.png"
-  },
-  {
-    "id": "kcl:deep-time-cultures-current-crises",
-    "sourceEventId": "21d3c57e-5d47-409b-a9bd-9030ee79b7e4",
-    "title": "Deep Time Cultures, Current Crises",
-    "desc": "Popularizing Palaeontology: Current & Historical Perspectives",
-    "source": "KCL",
-    "date": "2026-09-03T18:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Department of History",
-      "Faculty of Arts & Humanities"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/deep-time-cultures-current-crises",
-    "image": "https://www.kcl.ac.uk/newimages/ah/history/events/20260820-solar-park-in-dülmen-north-rhine-westphalia-wikipedia-commons.xf07ffe74.png"
-  },
-  {
     "id": "kcl:automating-deductive-content-analysis",
     "sourceEventId": "b2dc611e-06d0-4df7-83a2-f02c7d6d21f6",
     "title": "Automating deductive content analysis in social science: From theory to practice",
@@ -238,27 +197,6 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/policy-institute/bpp-familyv2.xe5988866.jpg?crop=780,440,1,0"
   },
   {
-    "id": "kcl:international-construction-arbitration-conference-2026",
-    "sourceEventId": "2a5ee212-7c3c-436c-bf1a-8fc7d67445f3",
-    "title": "International Construction Arbitration Conference 2026",
-    "desc": "Join us for the seventh annual International Construction Arbitration Conference",
-    "source": "KCL",
-    "date": "2026-10-01T09:30:00",
-    "durationMin": 480,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Law",
-      "The Dickson Poon School of Law"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/international-construction-arbitration-conference-2026",
-    "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/international-construction-arbitration-conference-2026-hero-image-1.x62824bfd.png"
-  },
-  {
     "id": "kcl:morning-prayer-at-the-strand-6",
     "sourceEventId": "0b82650f-7ce1-49f8-93b1-9ce8fc1742ac",
     "title": "Morning Prayer at the Strand",
@@ -278,6 +216,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/morning-prayer-at-the-strand-6",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:international-construction-arbitration-conference-2026",
+    "sourceEventId": "2a5ee212-7c3c-436c-bf1a-8fc7d67445f3",
+    "title": "International Construction Arbitration Conference 2026",
+    "desc": "Join us for the seventh annual International Construction Arbitration Conference",
+    "source": "KCL",
+    "date": "2026-10-01T09:30:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Law",
+      "The Dickson Poon School of Law"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/international-construction-arbitration-conference-2026",
+    "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/international-construction-arbitration-conference-2026-hero-image-1.x62824bfd.png"
   },
   {
     "id": "kcl:from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
@@ -637,49 +596,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-college-london-welcome-day-30th-september-2024-brendan-foster-photography-587-180-min_1755092303265_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211758",
-    "sourceEventId": "211758",
-    "title": "London Mathematical Biology Conference",
-    "desc": "The 3rd London Mathematical Biology conference, hosted at Imperial College London https://londonmathbio.github.io/",
-    "source": "IC",
-    "date": "2026-09-03T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "228, Royal School Of Mines, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211758/london-mathematical-biology-conference/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211471",
-    "sourceEventId": "211471",
-    "title": "London Hypoxia Networking Meeting",
-    "desc": "We’re pleased to announce that the London Hypoxia Networking (LHN) meeting is returning on 3-4 September 2026 to Imperial College London, and registration is now open.\n\nThis London Hypoxia Networking (LHN) meeting will introduce attendees to the dynamic and rapidly expanding field of hypoxia research with growing implications ranging from basic molecular biology to vascular homeostasis and medicine.\n\nChanges in cellular oxygen trigger a broad array of adaptive responses (both acute and chronic) that have fundamental implications on physiological homeostasis and the pathogenesis of numerous medical conditions. This meeting will bring together hypoxia focused research groups from across the UK and by allowing attendees to disseminate new scientific knowledge, facilitate discussions and…",
-    "source": "IC",
-    "date": "2026-09-03T16:00:00+01:00",
-    "durationMin": 480,
-    "venue": "12th Floor, Sir Michael Uren Hub, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Meeting",
-      "NHLI",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211471/london-hypoxia-networking-meeting-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211125",
     "sourceEventId": "211125",
     "title": "Optimisation Accelerator: Improving Decisions through Optimisation",
@@ -698,7 +614,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -720,6 +636,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209871/optimisation-accelerator-improving-decisions-through-optimisation/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sargent-centre-event_1779270049169_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212775",
+    "sourceEventId": "212775",
+    "title": "Matrix-product state skeletons in Onsager-integrable quantum chains",
+    "desc": "Title: Matrix-product state skeletons in Onsager-integrable quantum chains\n\nAbstract: In this talk, I will discuss how skeletons of matrix-product-state-solvable models underlie the phase diagrams of Onsager-integrable chiral clock models. I will demonstrate how to construct these MPS skeletons using the Onsager algebra in gapped phases. Moreover, the skeleton is dense, meaning that a point along the skeleton approximates an arbitrary gapped Hamiltonian in the phase diagram. This provides us with a route to calculating correlation functions such as string-order parameters; such parameters are diagnostics of the symmetry-protected topological order of the phases.\n\nhttps://imogencamp.uk/",
+    "source": "IC",
+    "date": "2026-09-08T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "B630, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212775/matrix-product-state-skeletons-in-onsager-integrable-quantum-chains/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212702",
@@ -918,7 +855,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -940,7 +877,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -1005,6 +942,28 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211818/aoa-cyp-mental-health-final-dissemination/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/aoa-final-event_1786526150052_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:209098",
+    "sourceEventId": "209098",
+    "title": "Resilient and Renewable Society (RRS) Summit",
+    "desc": "Resilient, Renewable Society (RRS) Summit\n\nDate : 16-17 September Time : 09:00–17:00\n\nLocation :\n\nDay 1 – 16th September, Plenary session, Royal Society, SW1Y 5AG\n\nDay 2 – 17th September, Extreme events exercise and workshops, Electrical & Electronic Engineering Building, Imperial College London, SW7 2AZ\n\nThe RRS Summit brings together leaders from academia, NGOs, government, policy, and the private sector to learn from recent crises, stress-test future scenarios, and shape resilience strategies together. Across three thematic sessions, the global summit explores resilience in natural disasters, energy system disruption, and emerging threats, with particular attention to whole-of-society approaches, critical infrastructure, Low- or Middle-Income Country (LMIC) perspectives, and the links…",
+    "source": "IC",
+    "date": "2026-09-16T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Day 1 – Royal Society, Day 2 - Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Civil engineering",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/209098/resilient-and-renewable-society-rrs-summit/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/rrs-event-page-featured-image_1778149332411_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
@@ -1261,7 +1220,7 @@
       "Healthcare",
       "Open to all"
     ],
-    "format": "In person + online",
+    "format": "In person",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/10/immunology-of-the-exposome/",
     "image": "https://royalsociety.org/-/media/events/2026/10/immunology-of-the-exposome/lead-image.jpg"
