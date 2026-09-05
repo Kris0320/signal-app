@@ -1,65 +1,5 @@
 [
   {
-    "id": "kcl:automating-deductive-content-analysis",
-    "sourceEventId": "b2dc611e-06d0-4df7-83a2-f02c7d6d21f6",
-    "title": "Automating deductive content analysis in social science: From theory to practice",
-    "desc": "Have you ever wished for a faster, cheaper, yet effective way to annotate your huge dataset with a set of your codes/labels? Look no further. Attend this beginner-friendly workshop designed to introduce the conceptual and practical basics of automated frame (or more broadly, content) analysis",
-    "source": "KCL",
-    "date": "2026-09-04T09:30:00",
-    "durationMin": 240,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "King’s India Institute",
-      "King’s Global Institutes",
-      "School of Global Affairs"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/automating-deductive-content-analysis",
-    "image": "https://www.kcl.ac.uk/newimages/nmes/outreach/thumbnails/python-programming.x305d43af.png"
-  },
-  {
-    "id": "kcl:modelling-neural-power-spectra-motivations-applications",
-    "sourceEventId": "3a68265c-154e-4f32-bedb-861fd4f6efec",
-    "title": "Modelling Neural Power Spectra: Motivations & Applications",
-    "desc": "EEG working group meeting - Dr Thomas Donoghue",
-    "source": "KCL",
-    "date": "2026-09-04T11:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Technology & Science",
-      "Health"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/modelling-neural-power-spectra-motivations-applications",
-    "image": "https://www.kcl.ac.uk/newimages/research/thumb/eeg-wg-meeting-17.xeb0d489d.jpg?w=782&h=440&crop=780,440,1,0"
-  },
-  {
-    "id": "kcl:undergraduate-open-day-arts-sciences-strand-campus-05-sept-2026",
-    "sourceEventId": "5b057808-086c-4e68-a870-cfccbfd23712",
-    "title": "Arts & Sciences Undergraduate Open Day - Strand Campus",
-    "desc": "Join us in London to discover more about life at King's College London",
-    "source": "KCL",
-    "date": "2026-09-05T09:30:00",
-    "durationMin": 420,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-open-day-arts-sciences-strand-campus-05-sept-2026",
-    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/clearing/new-images/main/strand-campus-img-2819-main.x587b7cb4.jpg?crop=780,440,0,5"
-  },
-  {
     "id": "kcl:offer-holder-getting-ready-for-kings-residences-atlas-7-september-2026",
     "sourceEventId": "b806968d-ae05-4301-adc0-ab8b252798c9",
     "title": "Getting Ready for King’s Residences: Atlas, Canada Water, Orchard Lisle & Iris Brook, Vega",
@@ -174,6 +114,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/sustainability-education-at-kings-what-weve-achieved-where-were-going-internal-only",
     "image": "https://www.kcl.ac.uk/newimages/sustainabilty/efs-event.x2df7d039.png?w=780&h=440"
+  },
+  {
+    "id": "kcl:duality",
+    "sourceEventId": "3e5b08b8-fae1-46b4-b7a1-c01a08b71d55",
+    "title": "Duality: Journeys of Ageing and Multiple Long-Term Conditions",
+    "desc": "Duality: a community event exploring ageing and multiple long-term conditions through photos, stories, conversation, food, and connection.",
+    "source": "KCL",
+    "date": "2026-09-08T16:00:00",
+    "durationMin": 210,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Health",
+      "Department of Global Health & Social Medicine",
+      "School of Global Affairs"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/duality",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/GHSM/hero/event-poster3-duality.x59a025bf.png"
   },
   {
     "id": "kcl:behavioral-policy-for-family-bpf",
@@ -656,7 +617,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212775/matrix-product-state-skeletons-in-onsager-integrable-quantum-chains/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212702",
@@ -855,7 +816,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -877,7 +838,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
