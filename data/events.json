@@ -473,7 +473,7 @@
     "id": "ic:211287",
     "sourceEventId": "211287",
     "title": "Aeronautics Research Showcase 2026",
-    "desc": "Join us for our biennial event, showcasing leading research from across the Department of Aeronautics.\n\nThe event will include:\n\nPoster exhibition including poster competition\n\nKeynote speech\n\nExpert panels, exploring the latest sector advances and technologies\n\nThe audience for this event is primarily academics, researchers and industry professionals, but we will have a livestream of the event for prospective students. Please select a ‘Prospective Student Livestream’ ticket type to register for this option.\n\nKeynote\n\nNear-term maturity and future disruption – engineering growth in aerospace\n\nJacqueline Castle, Chief Technology Officer at Aerospace Technology Institute\n\nSpeaker Bio\n\nJ acqueline Castle is Chief Technology Officer at the Aerospace Technology Institute, where she is…",
+    "desc": "Join us for our biennial event, showcasing leading research from across the Department of Aeronautics.\n\nThe event will include:\n\nPoster exhibition including poster competition\n\nKeynote speech\n\nExpert panels, exploring the latest sector advances and technologies\n\nThe audience for this event is primarily academics, researchers and industry professionals, but we will have a livestream of the event for prospective students, and attendees who cannot make it in-person. If you would like to receive the link to the livestream, please email aero-comms@imperial.ac.uk .\n\nKeynote\n\nNear-term maturity and future disruption – engineering growth in aerospace\n\nJacqueline Castle, Chief Technology Officer at Aerospace Technology Institute\n\nSpeaker Bio\n\nJ acqueline Castle is Chief Technology Officer at the…",
     "source": "IC",
     "date": "2026-09-08T13:00:00+01:00",
     "durationMin": 300,
@@ -575,7 +575,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211125/optimisation-accelerator-improving-decisions-through-optimisation-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:209871",
@@ -617,7 +617,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212775/matrix-product-state-skeletons-in-onsager-integrable-quantum-chains/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212702",
@@ -798,6 +798,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sef-2026-conference-2-1_1786722701427_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:212841",
+    "sourceEventId": "212841",
+    "title": "Dyson School of Engineering @ Base One",
+    "desc": "About MANUFACTORY – Presented through exhibitions, installations, site-specific interventions, performances, food, open studios, talks, workshops and participatory events, Manufactory invites audiences into the hidden spaces of production that shape the city. Unfolding across workshops, warehouses, studios and industrial sites, the festival opens up environments that are rarely accessible to the public, foregrounding Park Royal as a distinctive destination for contemporary interdisciplinary practice.\n\nStartup Exhibitors –\n\nCarbon Cell is dedicated to providing a sustainable alternative to traditional polymer-based foams. Their high-performance expandable foam is fully compostable and locks in carbon for centuries.\n\nOmnilabs Research is an innovative MedTech firm that is focused on…",
+    "source": "IC",
+    "date": "2026-09-11T12:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Base One",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Exhibition",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212841/dyson-school-of-engineering-base-one/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/dyson22_1788772360682_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:201570",
     "sourceEventId": "201570",
     "title": "Thermodynamics Conference 2026",
@@ -816,7 +837,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -838,7 +859,28 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212892",
+    "sourceEventId": "212892",
+    "title": "Sex-specific Innate Immune Networks of the Cystic Fibrosis Airway",
+    "desc": "Dr. Britto is an Associate Professor of Medicine in the Division of Pulmonary, Critical Care & Sleep Medicine (PCCM) at Yale University, School of Medicine, the Director of the PCCM fellowship Program, and the Associate Director of The Yale Adult CF Program.\n\nHis research program investigates the role of airway immune cells in inflammatory signaling during host pathogen interactions, with an emphasis on mononuclear phagocyte communication in cystic fibrosis (CF).\n\nHis laboratory applies a multidisciplinary approach to understand excessive inflammation in CF airways, focused on immune-epithelial interactions and respiratory infection. Dr. Britto performed the first single-cell CyTOF characterization of sputum immune cells in CF, followed by the first scRNAseq characterization of airway…",
+    "source": "IC",
+    "date": "2026-09-14T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Paul Woods Lecture Theatre, Guy Scadding Building, Royal Brompton Campus",
+    "area": "Royal Brompton",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212892/sex-specific-innate-immune-networks-of-the-cystic-fibrosis-airway/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/templates-3_1788793804248_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210916",
@@ -908,7 +950,7 @@
     "id": "ic:209098",
     "sourceEventId": "209098",
     "title": "Resilient and Renewable Society (RRS) Summit",
-    "desc": "Resilient, Renewable Society (RRS) Summit\n\nDate : 16-17 September Time : 09:00–17:00\n\nLocation :\n\nDay 1 – 16th September, Plenary session, Royal Society, SW1Y 5AG\n\nDay 2 – 17th September, Extreme events exercise and workshops, Electrical & Electronic Engineering Building, Imperial College London, SW7 2AZ\n\nThe RRS Summit brings together leaders from academia, NGOs, government, policy, and the private sector to learn from recent crises, stress-test future scenarios, and shape resilience strategies together. Across three thematic sessions, the global summit explores resilience in natural disasters, energy system disruption, and emerging threats, with particular attention to whole-of-society approaches, critical infrastructure, Low- or Middle-Income Country (LMIC) perspectives, and the links…",
+    "desc": "Please note, this event is now fully booked.\n\nResilient, Renewable Society (RRS) Summit\n\nDate : 16-17 September Time : 09:00–17:00\n\nLocation :\n\nDay 1 – 16th September, Plenary session, Royal Society, SW1Y 5AG\n\nDay 2 – 17th September, Extreme events exercise and workshops, Electrical & Electronic Engineering Building, Imperial College London, SW7 2AZ\n\nThe RRS Summit brings together leaders from academia, NGOs, government, policy, and the private sector to learn from recent crises, stress-test future scenarios, and shape resilience strategies together. Across three thematic sessions, the global summit explores resilience in natural disasters, energy system disruption, and emerging threats, with particular attention to whole-of-society approaches, critical infrastructure, Low- or…",
     "source": "IC",
     "date": "2026-09-16T09:00:00+01:00",
     "durationMin": 480,
@@ -947,27 +989,6 @@
     "image": null
   },
   {
-    "id": "wc:bsl-interpreted-tours-audrey-amiss-rudy-loewe",
-    "sourceEventId": "bsl-interpreted-tours-audrey-amiss-rudy-loewe",
-    "title": "BSL Interpreted Tours of Audrey Amiss and Rudy Loewe exhibitions",
-    "desc": "Discover more about our Audrey Amiss and Rudy Loewe exhibitions on one of our BSL-interpreted tours.",
-    "source": "WC",
-    "date": "2026-09-12T10:30:00+00:00",
-    "durationMin": 600,
-    "venue": "Gallery 2",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Gallery tour",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/bsl-interpreted-tours-audrey-amiss-rudy-loewe",
-    "image": "https://images.prismic.io/wellcomecollection/GQorxb6SWRo4e1xA_BTG260701143026.jpg?auto=format%2Ccompress&rect=0%2C354%2C4000%2C2250&w=3200&h=1800"
-  },
-  {
     "id": "wc:memories-of-care-trans-contributions-to-health-cul",
     "sourceEventId": "memories-of-care-trans-contributions-to-health-cul",
     "title": "Memories of Care: Trans+ Contributions to Health, Culture and Social Justice",
@@ -987,6 +1008,27 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/memories-of-care-trans-contributions-to-health-cul",
     "image": "https://images.prismic.io/wellcomecollection/d235a904-4214-417b-90de-6fb72f361bd0_EP_000737_049.jpg?auto=format%2Ccompress&rect=0%2C417%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:bsl-interpreted-tours-audrey-amiss-rudy-loewe",
+    "sourceEventId": "bsl-interpreted-tours-audrey-amiss-rudy-loewe",
+    "title": "BSL Interpreted Tours of Audrey Amiss and Rudy Loewe exhibitions",
+    "desc": "Discover more about our Audrey Amiss and Rudy Loewe exhibitions on one of our BSL-interpreted tours.",
+    "source": "WC",
+    "date": "2026-09-12T10:30:00+00:00",
+    "durationMin": 600,
+    "venue": "Gallery 2",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Gallery tour",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/bsl-interpreted-tours-audrey-amiss-rudy-loewe",
+    "image": "https://images.prismic.io/wellcomecollection/GQorxb6SWRo4e1xA_BTG260701143026.jpg?auto=format%2Ccompress&rect=0%2C354%2C4000%2C2250&w=3200&h=1800"
   },
   {
     "id": "wc:immuno-cautious-sessions-audrey-amiss-rudy-loewe-exhbitions",
@@ -1052,7 +1094,7 @@
   {
     "id": "wc:conversations-about-death-oct26",
     "sourceEventId": "conversations-about-death-oct26",
-    "title": "Conversations About Death",
+    "title": "Conversations about Death",
     "desc": "Join us for conversations about death in a comfortable and relaxed setting.",
     "source": "WC",
     "date": "2026-10-03T11:00:00+00:00",
