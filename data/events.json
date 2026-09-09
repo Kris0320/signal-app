@@ -699,7 +699,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212892",
@@ -1162,6 +1162,25 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/02/visual-comfort-and-visual-stress/",
     "image": "https://royalsociety.org/-/media/events/2027/02/visual-discomfort-visual-stress/header-image.jpg"
+  },
+  {
+    "id": "rs:2027-02-endogenous-viral-elements",
+    "sourceEventId": "2027-02-endogenous-viral-elements",
+    "title": "Endogenous viral elements",
+    "desc": "Theo Murphy meeting organised by Dr Katy Brown, Dr Emma Harding and Professor Rachael Tarlinton",
+    "source": "RS",
+    "date": "2027-02-08T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Clayton Hotel, Birmingham",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/02/endogenous-viral-elements/",
+    "image": "https://royalsociety.org/-/media/events/2027/02/endogenous-elements/lead-image.jpg"
   },
   {
     "id": "rs:2026-09-open-house",
