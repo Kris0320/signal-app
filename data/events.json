@@ -1,25 +1,5 @@
 [
   {
-    "id": "kcl:the-fair-necessities-why-we-need-a-fairer-britain",
-    "sourceEventId": "f977ac35-0022-4886-855f-441b0de490e3",
-    "title": "The Fair Necessities: Why We Need a Fairer Britain",
-    "desc": "Join our panel to mark the launch of the book and discuss what a fair society might look like, why it matters, and how we can make it happen.",
-    "source": "KCL",
-    "date": "2026-09-08T18:30:00",
-    "durationMin": 75,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "The Policy Institute",
-      "Faculty of Social Science & Public Policy"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/the-fair-necessities-why-we-need-a-fairer-britain",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/policy-institute/will-snell-cms-graphic1.xe3f16e13.png?crop=780,440,1,0"
-  },
-  {
     "id": "kcl:behavioral-policy-for-family-bpf",
     "sourceEventId": "4dc46681-a151-42e3-bba2-8c1a01265b68",
     "title": "Behavioral Policy for Family (BPF)",
@@ -420,29 +400,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-college-london-welcome-day-30th-september-2024-brendan-foster-photography-587-180-min_1755092303265_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212408",
-    "sourceEventId": "212408",
-    "title": "LCN 20th Anniversary Symposium and Celebration",
-    "desc": "Join us as we celebrate 20 years of discovery, innovation and collaboration at the London Centre for Nanotechnology.\n\nThe LCN brings together researchers from King’s College London, UCL and Imperial College London to tackle major challenges in healthcare, sustainability and transformative technologies.\n\nOver the past two decades, LCN researchers have helped advance discoveries that improve lives, support greener futures and drive innovation.\n\nThis special anniversary symposium will bring together researchers, students, alumni, industry partners, policymakers, supporters and members of the wider community for a day of talks, discussion and celebration.\n\nThe programme will explore how nanoscience and nanotechnology are helping to address some of society’s biggest challenges through three…",
-    "source": "IC",
-    "date": "2026-09-09T09:30:00+01:00",
-    "durationMin": 480,
-    "venue": "Bush House Auditorium",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Symposium",
-      "Nanotechnology",
-      "materials",
-      "Engineering",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212408/lcn-20th-anniversary-symposium/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/20th-flagship-seminar-poster-v2_1787684343939_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211716",
     "sourceEventId": "211716",
     "title": "20th International Symposium on Persistent Toxic Substances and Health",
@@ -571,7 +528,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212892",
@@ -699,7 +656,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212700/cow-seminar-8/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212704",
@@ -720,7 +677,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212704/magic-seminar-egor-yasinsky-bordeaux/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212876",
@@ -743,6 +700,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212876/43rd-stuod-sandbox-workshop-stephen-griffies-ipsl-locean-cnrs-sorbonne-princeton-university/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213014",
+    "sourceEventId": "213014",
+    "title": "Creating a neuroinclusive NHLI: awareness, understanding and action",
+    "desc": "Join colleagues from across Imperial for an engaging afternoon exploring how we can create a more neuroinclusive culture within the National Heart and Lung Institute (NHLI) and beyond.\n\nThe event will bring together expert speakers, Imperial colleagues, students and researchers to share knowledge, lived experiences, practical guidance and the latest research on neurodiversity. Attendees will gain a better understanding of neurodiversity in the workplace and educational settings, learn about support available at Imperial, and explore actions that can help foster a more inclusive environment for staff and students.\n\nThe programme will feature keynote presentations from external experts, perspectives from Imperial support services and networks, personal experiences from neurodivergent…",
+    "source": "IC",
+    "date": "2026-09-21T13:00:00+01:00",
+    "durationMin": 255,
+    "venue": "1203, Sir Michael Uren Hub, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Departmental event",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213014/creating-a-neuroinclusive-nhli-awareness-understanding-and-action/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/templates-8_1788948281145_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
