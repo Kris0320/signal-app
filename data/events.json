@@ -333,52 +333,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/perkins-green_1786976832461_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212524",
-    "sourceEventId": "212524",
-    "title": "Material Encounters: Art and Nanoscience Exhibition",
-    "desc": "An exhibition of artworks born from collaborations between artists and scientists, translating cutting-edge nanoscience into new forms of creative enquiry. Developed in partnership with the London-based artist collective Changeable Beast, Material Encounters invites artists to work closely with scientists to create new artworks inspired by cutting-edge research in nanotechnology and material science.\n\nAcross the project, artists have been paired with researchers at the London Centre for Nanotechnology (LCN) who share a thematic, creative and intellectual affinity. Each partnership is flexible, allowing collaborators to shape the process in ways that suit their interests and working practices.\n\nParticipating artists include members of Changeable Beast and invited guest artists working…",
-    "source": "IC",
-    "date": "2026-09-10T16:00:00+01:00",
-    "durationMin": 240,
-    "venue": "Main Entrance Foyer, Main Entrance, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Exhibition",
-      "Nanotechnology",
-      "materials",
-      "Engineering",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212524/material-encounters-art-and-nanoscience-exhibition/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/me-portrait-imperial-event_1787860911593_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212497",
-    "sourceEventId": "212497",
-    "title": "Quantum Leaps and Nano Wonders",
-    "desc": "Quantum Leaps & Nano Wonders welcomes everyone to discover the fascinating worlds of nano and quantum technologies, and to meet the researchers making them happen. Through talks, demonstrations, exhibits, and hands-on activities, you will have the opportunity to explore cutting-edge science and learn how nanoscale discoveries are shaping future technologies. Researchers will reflect on two decades of scientific achievement, showcase their latest work, and share their vision for the opportunities and challenges ahead. Together, we’ll celebrate the people, ideas and discoveries that have shaped the LCN’s first 20 years and look forward to the next generation of breakthroughs.\n\nThis event is suitable for all.\n\nWhether you are part of the LCN or just curious about how nanoscience and quantum…",
-    "source": "IC",
-    "date": "2026-09-10T17:00:00+01:00",
-    "durationMin": 180,
-    "venue": "Main Entrance Foyer, Main Entrance, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Nanotechnology",
-      "materials",
-      "Engineering",
-      "Outreach"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212497/quantum-leaps-and-nano-wonders/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/poster-landscape-quantum-leaps-nano-wonders-v2_1787827313642_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211848",
     "sourceEventId": "211848",
     "title": "Heart attacks and strokes: healing and light",
@@ -509,7 +463,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -531,7 +485,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212892",
@@ -682,7 +636,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212700/cow-seminar-8/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212704",
@@ -703,7 +657,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212704/magic-seminar-egor-yasinsky-bordeaux/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212876",
@@ -725,7 +679,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212876/43rd-stuod-sandbox-workshop-stephen-griffies-ipsl-locean-cnrs-sorbonne-princeton-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213014",
@@ -767,7 +721,51 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212679",
+    "sourceEventId": "212679",
+    "title": "Nature-inspired computation: real world challenges and opportunities",
+    "desc": "Continued advances in Frontier AI capabilities were achieved through escalating compute, electricity, cooling, water and infrastructure demand.\n\nFurther progress, and the full realisation of the potential societal benefit of this technology, is now constrained not only by computational model quality, but by the physical limitations, energetic and environmental costs of the underlying computational infrastructure.\n\nIn light of a clear need for cheap, low energy, sustainable compute solutions, researchers and innovators have been exploring different physical signals that could potentially transform future computing paradigms.\n\nThis session will bring together panellists and speakers across sectors to discuss the challenges and opportunities for a radical transformation of our approach to…",
+    "source": "IC",
+    "date": "2026-09-22T13:15:00+01:00",
+    "durationMin": 120,
+    "venue": "Council Room, 170 Queens Gate, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Artificial intelligence",
+      "Physics",
+      "Nature",
+      "Schools of Convergence Science"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212679/nature-inspired-computation-real-world-challenges-and-opportunities/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-2065767453_1788428592793_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:207409",
+    "sourceEventId": "207409",
+    "title": "RSM175 Evening Lecture Series: Climate",
+    "desc": "Featuring Prof Tina van de Flierdt, Head of the Department of Earth Science and Engineering, Imperial College London",
+    "source": "IC",
+    "date": "2026-09-22T18:00:00+01:00",
+    "durationMin": 90,
+    "venue": "G.41, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Departmental event",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/207409/ese-evening-lecture-series-life-and-health-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ese-lectures-climate_1773661722758_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
