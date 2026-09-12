@@ -422,29 +422,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-eventbrite-banner-joseph-boyle_1786453920588_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212019",
-    "sourceEventId": "212019",
-    "title": "Sustainable Energy Futures Annual Conference",
-    "desc": "Each year, the students of the Grantham Institute’s MSc in Sustainable Energy Futures course organise a conference to showcase their project work. This year, the presentations have been organised into the following overarching themes:\n\nPolicy and Markets\n\nWind\n\nTransport\n\nDigital\n\nMolecules\n\nBioenergy, Batteries, and CCS\n\nBuildings and Infrastructure\n\nCommunities and Urban Development\n\nThe conference will also feature a keynote address by Laurent Segalen , Managing Partner at energy investment firm Megawatt-X and co-host of the Redefining Energy podcast.\n\nAgenda",
-    "source": "IC",
-    "date": "2026-09-11T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "EEE408, Electrical & Electronic Engineering, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Climate change",
-      "Sustainability",
-      "Energy",
-      "Energy Futures Lab"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212019/sustainable-energy-futures-annual-conference-3/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sef-2026-conference-2-1_1786722701427_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:212841",
     "sourceEventId": "212841",
     "title": "Dyson School of Design Engineering @ Base One",
@@ -507,7 +484,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/201570/thermodynamics-conference-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211642",
@@ -529,7 +506,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212892",
@@ -682,7 +659,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213124/spc-seminar-space-dr-emma-davies-geosphere-austria/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212700",
@@ -724,7 +701,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212704/magic-seminar-egor-yasinsky-bordeaux/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:213141",
@@ -769,7 +746,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212876/43rd-stuod-sandbox-workshop-stephen-griffies-ipsl-locean-cnrs-sorbonne-princeton-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213014",
@@ -812,6 +789,29 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212679",
+    "sourceEventId": "212679",
+    "title": "Nature-inspired computation: real world challenges and opportunities",
+    "desc": "Continued advances in Frontier AI capabilities were achieved through escalating compute, electricity, cooling, water and infrastructure demand.\n\nFurther progress, and the full realisation of the potential societal benefit of this technology, is now constrained not only by computational model quality, but by the physical limitations, energetic and environmental costs of the underlying computational infrastructure.\n\nIn light of a clear need for cheap, low energy, sustainable compute solutions, researchers and innovators have been exploring different physical signals that could potentially transform future computing paradigms.\n\nThis session will bring together panellists and speakers across sectors to discuss the challenges and opportunities for a radical transformation of our approach to…",
+    "source": "IC",
+    "date": "2026-09-22T13:15:00+01:00",
+    "durationMin": 120,
+    "venue": "Council Room, 170 Queens Gate, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Artificial intelligence",
+      "Physics",
+      "Nature",
+      "Schools of Convergence Science"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212679/nature-inspired-computation-real-world-challenges-and-opportunities/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-2065767453_1788428592793_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
