@@ -462,7 +462,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212892",
@@ -615,7 +615,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213124/spc-seminar-space-dr-emma-davies-geosphere-austria/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212700",
@@ -636,7 +636,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212700/cow-seminar-8/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212704",
@@ -657,7 +657,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212704/magic-seminar-egor-yasinsky-bordeaux/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:213141",
@@ -702,7 +702,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212876/43rd-stuod-sandbox-workshop-stephen-griffies-ipsl-locean-cnrs-sorbonne-princeton-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213014",
@@ -744,7 +744,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212679",
@@ -890,27 +890,6 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/conversations-about-death-oct26",
     "image": "https://images.prismic.io/wellcomecollection/aK3SEWGNHVfTOVOh_EP_002130_043.jpg?auto=format,compress&rect=0,0,4000,2250&w=3200&h=1800"
-  },
-  {
-    "id": "wc:bsl-interpreted-tours-audrey-amiss-rudy-loewe",
-    "sourceEventId": "bsl-interpreted-tours-audrey-amiss-rudy-loewe",
-    "title": "BSL Interpreted Tours of Audrey Amiss and Rudy Loewe exhibitions",
-    "desc": "Discover more about our Audrey Amiss and Rudy Loewe exhibitions on one of our BSL-interpreted tours.",
-    "source": "WC",
-    "date": "2026-09-12T10:30:00+00:00",
-    "durationMin": 600,
-    "venue": "Gallery 2",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Gallery tour",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/bsl-interpreted-tours-audrey-amiss-rudy-loewe",
-    "image": "https://images.prismic.io/wellcomecollection/GQorxb6SWRo4e1xA_BTG260701143026.jpg?auto=format%2Ccompress&rect=0%2C354%2C4000%2C2250&w=3200&h=1800"
   },
   {
     "id": "wc:elders-2046-for-living-and-dying-otherwise",
