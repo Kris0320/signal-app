@@ -444,27 +444,6 @@
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212892",
-    "sourceEventId": "212892",
-    "title": "Sex-specific Innate Immune Networks of the Cystic Fibrosis Airway",
-    "desc": "Dr. Britto is an Associate Professor of Medicine in the Division of Pulmonary, Critical Care & Sleep Medicine (PCCM) at Yale University, School of Medicine, the Director of the PCCM fellowship Program, and the Associate Director of The Yale Adult CF Program.\n\nHis research program investigates the role of airway immune cells in inflammatory signaling during host pathogen interactions, with an emphasis on mononuclear phagocyte communication in cystic fibrosis (CF).\n\nHis laboratory applies a multidisciplinary approach to understand excessive inflammation in CF airways, focused on immune-epithelial interactions and respiratory infection. Dr. Britto performed the first single-cell CyTOF characterization of sputum immune cells in CF, followed by the first scRNAseq characterization of airway…",
-    "source": "IC",
-    "date": "2026-09-14T16:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Paul Woods Lecture Theatre, Guy Scadding Building, Royal Brompton Campus",
-    "area": "Royal Brompton",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212892/sex-specific-innate-immune-networks-of-the-cystic-fibrosis-airway/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/templates-3_1788793804248_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:210916",
     "sourceEventId": "210916",
     "title": "RNA Vaccines & Therapeutics Conference London",
@@ -594,7 +573,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213124/spc-seminar-space-dr-emma-davies-geosphere-austria/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212700",
@@ -615,7 +594,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212700/cow-seminar-8/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212704",
@@ -636,7 +615,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212704/magic-seminar-egor-yasinsky-bordeaux/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:213141",
@@ -681,6 +660,29 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212876/43rd-stuod-sandbox-workshop-stephen-griffies-ipsl-locean-cnrs-sorbonne-princeton-university/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213199",
+    "sourceEventId": "213199",
+    "title": "Computing with Waves Workshop 2026",
+    "desc": "We would like to invite you to the COMPUTING WITH WAVES WORKSHOP 2026 , taking place at 170 Queen’s Gate, Imperial College London , on 21–22 September 2026 .\n\nThis two-day workshop will bring together researchers from across photonics, electromagnetics, acoustics, magnonics, solid-state systems, and related fields. The programme will feature ten invited speakers and will focus on exchanging ideas, identifying shared challenges, and stimulating new collaborations in computing and information processing with waves.\n\nIf you would like to attend, please register HERE to secure your free place. As capacity is limited to 50 participants, we encourage early registration.\n\nFurther information, including the list of invited speakers and the programme, is available on the META4D Website.",
+    "source": "IC",
+    "date": "2026-09-21T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Conference Room, 170 Queens Gate, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "The Light Community",
+      "The Matter Community",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213199/computing-with-waves-workshop-2026/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
