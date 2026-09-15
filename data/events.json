@@ -422,28 +422,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-eventbrite-banner-joseph-boyle_1786453920588_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211642",
-    "sourceEventId": "211642",
-    "title": "Imperial Vulnerable Plaque & Patient Meeting 2026",
-    "desc": "Over the years, the Imperial VPM meeting has been the catalyst for numerous technical innovations, collaborative initiatives, and landmark clinical trials.\n\nIts programme showcases state-of-the-art developments in the fundamental mechanisms of atherosclerosis, advances in disease diagnosis and risk stratification, and the latest findings from clinical trials.\n\nExtensive discussion sessions encourage critical evaluation of emerging evidence, foster collaboration between academia and industry, and help shape future research priorities to advance the field.",
-    "source": "IC",
-    "date": "2026-09-14T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "NHLI",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211642/imperial-vulnerable-plaque-patient-meeting-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:210916",
     "sourceEventId": "210916",
     "title": "RNA Vaccines & Therapeutics Conference London",
@@ -573,7 +551,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213124/spc-seminar-space-dr-emma-davies-geosphere-austria/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212700",
@@ -594,7 +572,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212700/cow-seminar-8/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212704",
@@ -683,7 +661,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213199/computing-with-waves-workshop-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213014",
@@ -725,7 +703,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212679",
@@ -914,25 +892,6 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/elders-2046-for-living-and-dying-otherwise",
     "image": "https://images.prismic.io/wellcomecollection/lFezoR-1Vl3HwH8Y_SDP_EP003644_260814_1625_v2.jpg?auto=format%2Ccompress&rect=0%2C476%2C4000%2C2250&w=3200&h=1800"
-  },
-  {
-    "id": "rs:2026-09-unravelling-magnetic-histories",
-    "sourceEventId": "2026-09-unravelling-magnetic-histories",
-    "title": "Unravelling the magnetic histories of Earth and other terrestrial objects",
-    "desc": "Discussion meeting organised by Professor Andy Biggin, Dr James Bryson, Professor Cathy Constable and Professor Wyn Williams.",
-    "source": "RS",
-    "date": "2026-09-14T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/09/unravelling-magnetic-histories/",
-    "image": "https://royalsociety.org/-/media/events/2026/9/magnetic-histories/magnetic-histories-header.jpg"
   },
   {
     "id": "rs:2026-09-bridging-animal-and-ai",
