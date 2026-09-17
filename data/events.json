@@ -21,27 +21,6 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/policy-institute/bpp-familyv2.xe5988866.jpg?crop=780,440,1,0"
   },
   {
-    "id": "kcl:morning-prayer-at-the-strand-6",
-    "sourceEventId": "0b82650f-7ce1-49f8-93b1-9ce8fc1742ac",
-    "title": "Morning Prayer at the Strand",
-    "desc": "A Morning Prayer service every Thursday during term time in the College Chapel.",
-    "source": "KCL",
-    "date": "2026-10-01T09:30:00",
-    "durationMin": 30,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-the-strand-6",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
     "id": "kcl:international-construction-arbitration-conference-2026",
     "sourceEventId": "2a5ee212-7c3c-436c-bf1a-8fc7d67445f3",
     "title": "International Construction Arbitration Conference 2026",
@@ -63,24 +42,25 @@
     "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/international-construction-arbitration-conference-2026-hero-image-1.x62824bfd.png"
   },
   {
-    "id": "kcl:six-steps-to-build-your-career-map",
-    "sourceEventId": "d668fc4c-836c-4318-b7c4-3c0e00cd9482",
-    "title": "Six Steps to Build Your Career Map",
-    "desc": "Build a personalised career map to identify your strengths, skills and experiences to explore career possibilities.",
+    "id": "kcl:morning-prayer-at-the-strand-6",
+    "sourceEventId": "0b82650f-7ce1-49f8-93b1-9ce8fc1742ac",
+    "title": "Morning Prayer at the Strand",
+    "desc": "A Morning Prayer service every Thursday during term time in the College Chapel.",
     "source": "KCL",
-    "date": "2026-10-01T10:00:00",
-    "durationMin": 120,
-    "venue": "Online",
-    "area": "Online",
+    "date": "2026-10-01T09:30:00",
+    "durationMin": 30,
+    "venue": "Strand",
+    "area": "Strand",
     "price": 0,
     "tags": [
-      "University",
-      "Society"
+      "Student",
+      "International",
+      "University"
     ],
-    "format": "Online",
+    "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/six-steps-to-build-your-career-map",
-    "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-the-strand-6",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
     "id": "kcl:from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
@@ -102,6 +82,26 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/261001-mainimage-updated.xb1e20a07.png?w=782&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:six-steps-to-build-your-career-map",
+    "sourceEventId": "d668fc4c-836c-4318-b7c4-3c0e00cd9482",
+    "title": "Six Steps to Build Your Career Map",
+    "desc": "Build a personalised career map to identify your strengths, skills and experiences to explore career possibilities.",
+    "source": "KCL",
+    "date": "2026-10-01T10:00:00",
+    "durationMin": 120,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Society"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/six-steps-to-build-your-career-map",
+    "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
   },
   {
     "id": "kcl:morning-prayer-at-guys-5",
@@ -229,6 +229,27 @@
     "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
   },
   {
+    "id": "kcl:the-prohibition-of-the-use-of-force-at-the-end-of-the-liberal-international-order",
+    "sourceEventId": "7f33e951-1298-4aa1-aa62-4d38d01bf968",
+    "title": "The Prohibition of the Use of Force at the End of the Liberal International Order",
+    "desc": "This talk will show how the abandonment and distortion of legal discursive practices unfolds and why this affects the Liberal International Order.",
+    "source": "KCL",
+    "date": "2026-10-01T16:30:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/the-prohibition-of-the-use-of-force-at-the-end-of-the-liberal-international-order",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/shutterstock-2215036015.xbbc19328.jpg?w=780&h=1170&crop=780,440,0,365"
+  },
+  {
     "id": "kcl:welcome-mass-at-the-strand",
     "sourceEventId": "d7238d67-9942-4885-bb07-a0fc7681a896",
     "title": "Welcome Mass at the Strand",
@@ -292,27 +313,6 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/asian-crucible-social-media-banner.x440bf3c0.png?w=781&h=440&crop=780,440,1,0"
   },
   {
-    "id": "kcl:weekly-eucharist-at-guys-6",
-    "sourceEventId": "d53a2d63-ba96-46db-917b-710dff26c3f7",
-    "title": "Weekly Eucharist at Guy's",
-    "desc": "A Eucharist service every Friday at midday during term time in the Guy's Chapel.",
-    "source": "KCL",
-    "date": "2026-10-02T12:00:00",
-    "durationMin": 30,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Arts & Culture",
-      "International",
-      "Society"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/weekly-eucharist-at-guys-6",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Guys-Chapel.xb387592c.jpg?w=780&h=520&crop=780,440,0,61"
-  },
-  {
     "id": "ic:212140",
     "sourceEventId": "212140",
     "title": "World Space Week 2026 – panel and networking",
@@ -333,26 +333,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212140/world-space-week-2026/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-418189603_1787047204215_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212086",
-    "sourceEventId": "212086",
-    "title": "White City Campus Outdoor Cinema",
-    "desc": "This September, Imperial’s White City Campus is bringing cinema outdoors.\n\nFrom 16 – 20 September 2026, come along to Perkin’s Green at the heart of north campus for five days of free outdoor screenings. Inspired by five themes that reflect Imperial’s spirit of enquiry – Discovery, Intelligence, Curiosity, Earth and Exploration – the films will entertain, inspire and open up new ways of seeing the world.\n\nAll s cree nings are free, no booking required. Just turn up, grab a seat and some free popcorn.\n\nThe film programme:\n\nWednesday 16 September — Discovery\n\nFilms about the restless minds who asked the questions nobody else dared to\n\n12:30\n\nThe Hitchhiker’s Guide to the Galaxy · PG · 109 mins\n\nAn ordinary man is whisked across the galaxy after Earth is demolished to make way for a…",
-    "source": "IC",
-    "date": "2026-09-16T12:30:00+01:00",
-    "durationMin": 480,
-    "venue": "Perkins Green garden, North Campus , Collabor-88, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Film screening",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212086/white-city-campus-outdoor-cinema/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/perkins-green_1786976832461_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:210483",
@@ -379,7 +359,7 @@
     "id": "ic:212448",
     "sourceEventId": "212448",
     "title": "Where Great Ideas Grow Campus Takeover",
-    "desc": "Over two days, North Campus at White City Campus will come alive with events and activities open to all.\n\nThe Where Great Ideas Grow event brings together hands-on making, inspiring showcases, interactive learning, great food and live music.\n\nThe event is designed to foster opportune encounters, enable cross‑disciplinary exchange and strengthen connections amongst the White City Campus community.\n\nWhat to Expect\n\nEach afternoon there will be three vibrant zones to explore, with free activities and experiences, alongside music, food and drink:\n\nShare Knowledge\n\nInteractive demos from Imperial teams and departments where you can experience cutting-edge innovations up close\n\nBite‑size talks, tool try‑outs and learn-by-doing stations\n\nOpportunities to ask questions, swap expertise, and…",
+    "desc": "Over two days, North Campus at White City Campus will come alive with events and activities open to all.\n\nThe Where Great Ideas Grow event brings together hands-on making, inspiring showcases, interactive learning, great food and live music.\n\nThe event is designed to foster opportune encounters, enable cross‑disciplinary exchange and strengthen connections amongst the White City Campus community.\n\nWhat to Expect\n\nEach afternoon there will be three vibrant zones to explore, with free activities and experiences, alongside music, food and drink:\n\nShare Knowledge\n\nInteractive demos from Imperial teams and departments where you can experience cutting-edge innovations up close and discover simple ways to get involved in ongoing campus studies and projects.\n\nBreathe London Communities\n\nDiscover…",
     "source": "IC",
     "date": "2026-09-30T12:00:00+01:00",
     "durationMin": 480,
@@ -443,71 +423,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212446/material-intelligence-textile-intersections-exhibition/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/plushe-lu-lyu_1787753261684_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:213124",
-    "sourceEventId": "213124",
-    "title": "SPC Seminar – Space – Dr. Emma Davies (GeoSphere Austria)",
-    "desc": "Speaker: Dr. Emma Davies (GeoSphere Austria) Title: Coronal Mass Ejections of Solar Cycle 25 - Insights from In Situ Multi-Spacecraft Measurements",
-    "source": "IC",
-    "date": "2026-09-17T11:00:00+01:00",
-    "durationMin": 60,
-    "venue": "711c, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Space",
-      "The Space, Plasma and Climate Community",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213124/spc-seminar-space-dr-emma-davies-geosphere-austria/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212700",
-    "sourceEventId": "212700",
-    "title": "COW Seminar",
-    "desc": "Schedule 12:30 Yankı Lekili (Imperial): Curves on surfaces and moduli of associative algebras 2:15 Fatemeh Rezaee (Cambridge): Moduli of sheaves from scattering diagrams 4:00 Tarig Abdelgadir (Loughborough): The McKay correspondence via VGIT (case D4)\n\nMore information available on https://cow.alggeo.xyz/",
-    "source": "IC",
-    "date": "2026-09-17T12:30:00+01:00",
-    "durationMin": 270,
-    "venue": "University of Bath",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212700/cow-seminar-8/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:212704",
-    "sourceEventId": "212704",
-    "title": "MAGIC Seminar – Egor Yasinsky (Bordeaux)",
-    "desc": "Egor Yasinsky (Bordeaux): TBC\n\nMore details can be found on https://www.imperial.ac.uk/geometry/seminars/magic-seminar/",
-    "source": "IC",
-    "date": "2026-09-17T13:00:00+01:00",
-    "durationMin": 90,
-    "venue": "TBC, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212704/magic-seminar-egor-yasinsky-bordeaux/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:213141",
@@ -575,7 +490,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213199/computing-with-waves-workshop-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213014",
@@ -617,7 +532,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212679",
@@ -706,7 +621,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212579/structures-seminar-recent-advances-in-hybrid-timber-steel-structural-systems-from-composite-floors-to-seismically-resilient-connections/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212904",
@@ -749,7 +664,30 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212255/scaling-lca-without-loosing-the-plot/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213453",
+    "sourceEventId": "213453",
+    "title": "SPC Seminar – Space – Dr. Maria Smirnova (Weizmann Institute of Science)",
+    "desc": "Title: The Revival of Radio Occultations: Investigating the Atmospheres of Jupiter and Saturn\n\nSpeaker: Dr. Maria Smirnova (Weizmann Institute of Science)\n\nAbstract:\n\nRadio occultation (RO) is a uniquely powerful technique for probing giant planet atmospheres. As a spacecraft radio signal passes behind the planetary limb, it is refracted by the atmosphere, and the measured changes in the signal can be inverted to retrieve high-vertical-resolution profiles of refractivity, density, pressure, and temperature from the upper troposphere into the stratosphere. At rapidly rotating and strongly oblate planets, these measurements require dedicated ray-tracing inversions that account for planetary shape, gravity, winds, and the full radio-path geometry.\n\nAt Jupiter, NASA’s Juno mission has…",
+    "source": "IC",
+    "date": "2026-09-25T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Lecture Theatre 2, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Space",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213453/spc-seminar-space-dr-maria-smirnova-weizmann-institute-of-science/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211709",
@@ -794,6 +732,28 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211821",
+    "sourceEventId": "211821",
+    "title": "Understanding fetal growth and preterm birth",
+    "desc": "Every year, millions of babies are born prematurely, and many face significant health challenges both at birth and later in life. At the same time, fetal growth restriction affects up to 10% of pregnancies, with the most severe cases linked to poor outcomes, including stillbirth.\n\nResearchers across the AHSC are working to improve our understanding of why babies are born too soon, how risk can be identified earlier, and to help clinicians to make crucial decisions about the timing of birth for growth-restricted babies.\n\nIn this seminar, two experts will talk about their research on understanding fetal growth and preterm birth and answer your questions:\n\nProfessor Christoph Lees is a Professor of Obstetrics at Imperial College London, Honorary Consultant in Obstetrics and Head of Fetal…",
+    "source": "IC",
+    "date": "2026-09-30T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Medicine",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211821/understanding-fetal-growth-and-preterm-birth/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/fetal-growth-webinar-image_1786364639829_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
@@ -1242,7 +1202,7 @@
     "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/11/faraday-prize-lecture/",
-    "image": "https://royalsociety.org/-/media/events/2026/11/faraday-prize-lecture/hope-thumbnail-cropped.png"
+    "image": "https://royalsociety.org/-/media/events/2026/11/faraday-prize-lecture/hope-thumbnail-cropped.jpg"
   },
   {
     "id": "rs:2026-11-milner-prize-lecture",
