@@ -63,6 +63,26 @@
     "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/international-construction-arbitration-conference-2026-hero-image-1.x62824bfd.png"
   },
   {
+    "id": "kcl:six-steps-to-build-your-career-map",
+    "sourceEventId": "d668fc4c-836c-4318-b7c4-3c0e00cd9482",
+    "title": "Six Steps to Build Your Career Map",
+    "desc": "Build a personalised career map to identify your strengths, skills and experiences to explore career possibilities.",
+    "source": "KCL",
+    "date": "2026-10-01T10:00:00",
+    "durationMin": 120,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Society"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/six-steps-to-build-your-career-map",
+    "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
+  },
+  {
     "id": "kcl:from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
     "sourceEventId": "f300cb03-3878-4e98-b96f-b6fb39f4d37d",
     "title": "From Investment to Capability: The Future of Air and Space Power in the UK",
@@ -82,26 +102,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/261001-mainimage-updated.xb1e20a07.png?w=782&h=440&crop=780,440,1,0"
-  },
-  {
-    "id": "kcl:six-steps-to-build-your-career-map",
-    "sourceEventId": "d668fc4c-836c-4318-b7c4-3c0e00cd9482",
-    "title": "Six Steps to Build Your Career Map",
-    "desc": "Build a personalised career map to identify your strengths, skills and experiences to explore career possibilities.",
-    "source": "KCL",
-    "date": "2026-10-01T10:00:00",
-    "durationMin": 120,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "University",
-      "Society"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/six-steps-to-build-your-career-map",
-    "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
   },
   {
     "id": "kcl:morning-prayer-at-guys-5",
@@ -422,28 +422,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-eventbrite-banner-joseph-boyle_1786453920588_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:209098",
-    "sourceEventId": "209098",
-    "title": "Resilient and Renewable Society (RRS) Summit",
-    "desc": "Please note, this event is now fully booked.\n\nResilient, Renewable Society (RRS) Summit\n\nDate : 16-17 September Time : 09:00–17:00\n\nLocation :\n\nDay 1 – 16th September, Plenary session, Royal Society, SW1Y 5AG\n\nDay 2 – 17th September, Extreme events exercise and workshops, Electrical & Electronic Engineering Building, Imperial College London, SW7 2AZ\n\nThe RRS Summit brings together leaders from academia, NGOs, government, policy, and the private sector to learn from recent crises, stress-test future scenarios, and shape resilience strategies together. Across three thematic sessions, the global summit explores resilience in natural disasters, energy system disruption, and emerging threats, with particular attention to whole-of-society approaches, critical infrastructure, Low- or…",
-    "source": "IC",
-    "date": "2026-09-16T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Day 1 – Royal Society, Day 2 - Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Civil engineering",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209098/resilient-and-renewable-society-rrs-summit/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/rrs-event-page-featured-image_1778149332411_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:212446",
     "sourceEventId": "212446",
     "title": "“Material Intelligence” – Textile Intersections Exhibition",
@@ -487,7 +465,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213124/spc-seminar-space-dr-emma-davies-geosphere-austria/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212700",
@@ -508,7 +486,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212700/cow-seminar-8/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212704",
@@ -529,7 +507,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212704/magic-seminar-egor-yasinsky-bordeaux/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:213141",
@@ -574,7 +552,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212876/43rd-stuod-sandbox-workshop-stephen-griffies-ipsl-locean-cnrs-sorbonne-princeton-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213199",
@@ -597,7 +575,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213199/computing-with-waves-workshop-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213014",
@@ -639,7 +617,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212679",
@@ -728,7 +706,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212579/structures-seminar-recent-advances-in-hybrid-timber-steel-structural-systems-from-composite-floors-to-seismically-resilient-connections/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212904",
@@ -815,7 +793,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
@@ -835,6 +813,26 @@
     "format": "Online",
     "match": 74,
     "url": "https://www.lse.ac.uk/hayek/events/the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
+    "image": null
+  },
+  {
+    "id": "lse:ai-socialism",
+    "sourceEventId": "ai-socialism",
+    "title": "Socialism after AI",
+    "desc": "Socialism after AI",
+    "source": "LSE",
+    "date": "2026-10-05T18:30:00+01:00",
+    "durationMin": 90,
+    "venue": "In-person and online public event (LSE campus, venue tbc to ticketholders)",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/events/ai-socialism",
     "image": null
   },
   {
