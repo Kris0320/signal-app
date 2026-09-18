@@ -21,27 +21,6 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/policy-institute/bpp-familyv2.xe5988866.jpg?crop=780,440,1,0"
   },
   {
-    "id": "kcl:international-construction-arbitration-conference-2026",
-    "sourceEventId": "2a5ee212-7c3c-436c-bf1a-8fc7d67445f3",
-    "title": "International Construction Arbitration Conference 2026",
-    "desc": "Join us for the seventh annual International Construction Arbitration Conference",
-    "source": "KCL",
-    "date": "2026-10-01T09:30:00",
-    "durationMin": 480,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Law",
-      "The Dickson Poon School of Law"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/international-construction-arbitration-conference-2026",
-    "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/international-construction-arbitration-conference-2026-hero-image-1.x62824bfd.png"
-  },
-  {
     "id": "kcl:morning-prayer-at-the-strand-6",
     "sourceEventId": "0b82650f-7ce1-49f8-93b1-9ce8fc1742ac",
     "title": "Morning Prayer at the Strand",
@@ -61,6 +40,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/morning-prayer-at-the-strand-6",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:international-construction-arbitration-conference-2026",
+    "sourceEventId": "2a5ee212-7c3c-436c-bf1a-8fc7d67445f3",
+    "title": "International Construction Arbitration Conference 2026",
+    "desc": "Join us for the seventh annual International Construction Arbitration Conference",
+    "source": "KCL",
+    "date": "2026-10-01T09:30:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Law",
+      "The Dickson Poon School of Law"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/international-construction-arbitration-conference-2026",
+    "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/international-construction-arbitration-conference-2026-hero-image-1.x62824bfd.png"
   },
   {
     "id": "kcl:from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
@@ -310,7 +310,7 @@
     "format": "In person",
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/book-talk-asian-crucible-globalisation-geopolitics-and-the-contest-for-the-future-with-prof-nick-bisley",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/asian-crucible-social-media-banner.x440bf3c0.png?w=781&h=440&crop=780,440,1,0"
+    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/asian-crucible-v2.xc63bf2da.png?w=781&h=440&crop=780,440,1,0"
   },
   {
     "id": "ic:212140",
@@ -335,25 +335,26 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-418189603_1787047204215_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:210483",
-    "sourceEventId": "210483",
-    "title": "Natural Sciences Showcase 2026",
-    "desc": "Join a full day of presentations and stimulating discussions with the academics and prize-winning PhD students in the Faculty of Natural Sciences and find out about our innovative work. Everybody is welcome! Please register as soon as possible (deadline is 17.00 on 21 September 2026).\n\n10.00 – 18.00, SAFB G16 LT (Sir Alexander Fleming Building)\n\nWelcome coffee from 09.30 in the concourse level 1\n\nDepartmental talks sessions: 10.00 – 16.10 in SAFB G16 LT (coffee breaks in the concourse level 1).\n\nPhD students poster competition : 12.30 – 13.40 in SAFB 120-122 (lunch will be provided) – Imperial staff and students will be able to vote for their favourite poster by Wednesday 23rd September, 15:00 – posters will be uploaded in our website in early September.\n\nPanel session: 16.10 – 17.10 in…",
+    "id": "ic:211709",
+    "sourceEventId": "211709",
+    "title": "Discover Imperial Fair (South Kensington)",
+    "desc": "This is a must-visit interactive fair for all new students. Come visit the over 25 stalls to find out all about the opportunities and support services for you at Imperial that are there for you on top of your academic course. There will be a range of fun activities to get involved with, demonstrating lots that Imperial has to offer, as well as lots of freebies and giveaways!",
     "source": "IC",
-    "date": "2026-09-23T10:00:00+01:00",
-    "durationMin": 480,
-    "venue": "SAFB G16 LT, Sir Alexander Fleming Building, South Kensington Campus",
+    "date": "2026-09-28T10:30:00+01:00",
+    "durationMin": 360,
+    "venue": "Queen's Tower Rooms, Level 1, Sherfield Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
       "General",
-      "FoNS Research Showcase",
+      "Welcome to Imperial",
+      "Welcome week",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210483/natural-sciences-showcase-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/research-showcase-2026-with-date-green-1000-x-700-px_1784104890433_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/211709/discover-imperial-sk-26/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-college-london-welcome-day-30th-september-2024-brendan-foster-photography-587-180-min_1755092303265_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212448",
@@ -402,72 +403,24 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-eventbrite-banner-joseph-boyle_1786453920588_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212446",
-    "sourceEventId": "212446",
-    "title": "“Material Intelligence” – Textile Intersections Exhibition",
-    "desc": "Join us for Material Intelligence , an exhibition presented as part of the Textiles Intersections 2026 Conference .\n\nThe exhibition explores a wide range of interpretations of the relationship between materials and intelligence. From the materials used in textile production and fabrication, to the exploration of ‘Intelligence’ as contextualized by recent and historical conversations about AI , the theme also extends to other-than-human forms of intelligence, including those found in plant and animal life.\n\nThe exhibited works engage with and expand upon these critical perspectives through questions of technology, human–machine collaboration, and the agency of non-human agents, both biological and synthetic. They also consider the ways in which commons are created and sustained through…",
+    "id": "ic:212436",
+    "sourceEventId": "212436",
+    "title": "Dyson School of Design Engineering Commencement Lecture 2026",
+    "desc": "For this year’s Commencement Lecture, Dyson School of Design Engineering is excited to welcome John Maeda – one of the most influential voices at the intersection of design and technology – who will give a talk titled “Design and Engineering Are the Same Job Now” .\n\nProgramme\n\n18.30 – Arrivals and registration\n\n19.00 – Welcome Address\n\n19.10 – Commencement Lecture\n\n19.55 – Q&A Session\n\n20.15 – Drinks Reception\n\nAbout the Talk\n\nDesign and Engineering Are the Same Job Now\n\nFor most of the last century, someone drew the thing and someone else made it work. That division of labor produced much of the world around us. But the era of the creative genius up front and the engineers in the back is coming to an end.\n\nI’ve spent thirty years working on both sides of that divide, first writing about…",
     "source": "IC",
-    "date": "2026-09-17T10:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Ground Floor Lecture Theatre, Dyson Building of Design Engineering, South Kensington Campus",
+    "date": "2026-10-08T19:00:00+01:00",
+    "durationMin": 75,
+    "venue": "LT200, City and Guilds Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Exhibition",
-      "Art exhibition",
-      "Sustainability",
-      "Event",
+      "Lecture",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212446/material-intelligence-textile-intersections-exhibition/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/plushe-lu-lyu_1787753261684_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:213141",
-    "sourceEventId": "213141",
-    "title": "Short-Baseline Neutrino Anomalies: From LSND to SBND and Everything in Between",
-    "desc": "Abstract: Short-baseline neutrino anomalies have held the community’s attention for more than two decades, with the persistent 4.8σ MiniBooNE excess standing as a tantalizing hint of physics beyond the Standard Model. Recent MicroBooNE results have substantially redrawn this picture: comprehensive searches strongly disfavour the traditional light sterile neutrino explanation, yet the anomalies themselves remain unexplained. That tension has driven an exciting shift toward richer theoretical frameworks. Dark-sector models with new mediators, enhanced couplings, and novel production mechanisms now provide compelling alternatives that speak both to the anomalies and to broader questions of neutrino mass generation and dark matter. I will review the MicroBooNE experimental results, discuss…",
-    "source": "IC",
-    "date": "2026-09-18T10:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Lecture Theatre 2, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Physics",
-      "Physics of Particles",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213141/short-baseline-neutrino-anomalies-from-lsnd-to-sbnd-and-everything-in-between/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/image_1789138262023_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212876",
-    "sourceEventId": "212876",
-    "title": "43rd STUOD Sandbox Workshop – Stephen Griffies (IPSL/LOCEAN/CNRS/Sorbonne + Princeton University)",
-    "desc": "The 43rd meeting of the Sandbox Series will be held online:\n\nTo join remotely via Webex:\n\nhttps://stuod.my.webex.com/stuod.my/j.php?MTID=m6cbd750462f369b27ea3d39fe4506d5f\n\nProblems and prospects at the frontier of ocean model theory and practice\n\nAbstract:\n\nWe discuss questions related to representation and parameterization in global ocean climate modelling. First, we consider mesoscale eddy backscatter as a method that enhances the energetics of scales explicitly represented, rather than parameterizing scales that are missing. Advances with backscatter suggest that it can allow us to remove traditional mesoscale parameterizations well before fully resolving the mesoscale. However, there remain outstanding issues with backscatter, possibly related to ocean boundaries. Second, we…",
-    "source": "IC",
-    "date": "2026-09-18T12:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "CNRS-Imperial Abraham de Moivre",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212876/43rd-stuod-sandbox-workshop-stephen-griffies-ipsl-locean-cnrs-sorbonne-princeton-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/212436/dyson-school-of-design-engineering-commencement-lecture-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csep-seminar-event-card-2_1787844079460_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213199",
@@ -490,7 +443,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213199/computing-with-waves-workshop-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213014",
@@ -532,7 +485,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212679",
@@ -579,6 +532,28 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ese-lectures-climate_1773661722758_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:210483",
+    "sourceEventId": "210483",
+    "title": "Natural Sciences Showcase 2026",
+    "desc": "Join a full day of presentations and stimulating discussions with the academics and prize-winning PhD students in the Faculty of Natural Sciences and find out about our innovative work. Everybody is welcome! Please register as soon as possible (deadline is 17.00 on 21 September 2026).\n\n10.00 – 18.00, SAFB G16 LT (Sir Alexander Fleming Building)\n\nWelcome coffee from 09.30 in the concourse level 1\n\nDepartmental talks sessions: 10.00 – 16.10 in SAFB G16 LT (coffee breaks in the concourse level 1).\n\nPhD students poster competition : 12.30 – 13.40 in SAFB 120-122 (lunch will be provided) – Imperial staff and students will be able to vote for their favourite poster by Wednesday 23rd September, 15:00 – posters will be uploaded in our website in early September.\n\nPanel session: 16.10 – 17.10 in…",
+    "source": "IC",
+    "date": "2026-09-23T10:00:00+01:00",
+    "durationMin": 480,
+    "venue": "SAFB G16 LT, Sir Alexander Fleming Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "FoNS Research Showcase",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210483/natural-sciences-showcase-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/research-showcase-2026-with-date-green-1000-x-700-px_1784104890433_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:212375",
     "sourceEventId": "212375",
     "title": "3Rs Hub Lunchtime Talks – Professor Emma Robinson",
@@ -621,7 +596,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212579/structures-seminar-recent-advances-in-hybrid-timber-steel-structural-systems-from-composite-floors-to-seismically-resilient-connections/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212904",
@@ -664,7 +639,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212255/scaling-lca-without-loosing-the-plot/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213453",
@@ -687,30 +662,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213453/spc-seminar-space-dr-maria-smirnova-weizmann-institute-of-science/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211709",
-    "sourceEventId": "211709",
-    "title": "Discover Imperial Fair (South Kensington)",
-    "desc": "This is a must-visit interactive fair for all new students. Come visit the over 25 stalls to find out all about the opportunities and support services for you at Imperial that are there for you on top of your academic course. There will be a range of fun activities to get involved with, demonstrating lots that Imperial has to offer, as well as lots of freebies and giveaways!",
-    "source": "IC",
-    "date": "2026-09-28T10:30:00+01:00",
-    "durationMin": 360,
-    "venue": "Queen's Tower Rooms, Level 1, Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Welcome to Imperial",
-      "Welcome week",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211709/discover-imperial-sk-26/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-college-london-welcome-day-30th-september-2024-brendan-foster-photography-587-180-min_1755092303265_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213201",
@@ -731,7 +683,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211821",
@@ -754,6 +706,52 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211821/understanding-fetal-growth-and-preterm-birth/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/fetal-growth-webinar-image_1786364639829_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212694",
+    "sourceEventId": "212694",
+    "title": "Imperial Clinical Trials Unit (ICTU) Child Health Seminar",
+    "desc": "This seminar, chaired by Professor Chris Gale (Deputy Director ICTU), will provide an overview of ICTU's support for child health research, including innovative trial design expertise, training opportunities, and examples of successful child health studies delivered in collaboration with ICTU.",
+    "source": "IC",
+    "date": "2026-10-01T12:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Centre for Paediatrics and Child Health",
+      "Mohn Centre for Childrens Health and Wellbeing",
+      "PaeCH",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212694/imperial-clinical-trials-unit-ictu-child-health-seminar/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/centre-image_1788438512543_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212757",
+    "sourceEventId": "212757",
+    "title": "Lunchtime Concert – Ed Lyon (tenor) Iain Farrington (piano)",
+    "desc": "Songs by two giants of 20th century theatre, Ivor Novello and Noel Coward, performed in new arrangements\n\nEd Lyon (tenor)\n\nIain Farrington (piano)",
+    "source": "IC",
+    "date": "2026-10-01T13:00:00+01:00",
+    "durationMin": 45,
+    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
+    "area": "Off",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Concerts",
+      "Creative",
+      "Arts",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212757/lunchtime-concert-ed-lyon-tenor-iain-farrington-piano/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ed-lyon-4-credit-nik-pate_1789727244199_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
@@ -783,7 +781,7 @@
     "source": "LSE",
     "date": "2026-10-05T18:30:00+01:00",
     "durationMin": 90,
-    "venue": "In-person and online public event (LSE campus, venue tbc to ticketholders)",
+    "venue": "In-person and online public event (Sheikh Zayed Theatre, Cheng Kin Ku Building)",
     "area": "Online",
     "price": 0,
     "tags": [
@@ -794,27 +792,6 @@
     "match": 74,
     "url": "https://www.lse.ac.uk/events/ai-socialism",
     "image": null
-  },
-  {
-    "id": "wc:immuno-cautious-sessions-audrey-amiss-rudy-loewe-exhbitions",
-    "sourceEventId": "immuno-cautious-sessions-audrey-amiss-rudy-loewe-exhbitions",
-    "title": "Immuno-cautious Openings of the 'Audrey Amiss' and 'Rudy Loewe' exhibitions",
-    "desc": "Come to an immuno-cautious opening of Wellcome Collection to see the 'Audrey Amiss' and 'Rudy Loewe' exhibitions.",
-    "source": "WC",
-    "date": "2026-09-18T08:00:00+00:00",
-    "durationMin": 600,
-    "venue": "Gallery 2",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Session",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/immuno-cautious-sessions-audrey-amiss-rudy-loewe-exhbitions",
-    "image": "https://images.prismic.io/wellcomecollection/cJ4wZJNi582UtbzT_EP3621_0029.jpg?auto=format%2Ccompress&rect=162%2C542%2C3774%2C2123&w=3200&h=1800"
   },
   {
     "id": "wc:wellcome-collection-lates-the-friendship-effect",
@@ -895,6 +872,27 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/elders-2046-for-living-and-dying-otherwise",
     "image": "https://images.prismic.io/wellcomecollection/lFezoR-1Vl3HwH8Y_SDP_EP003644_260814_1625_v2.jpg?auto=format%2Ccompress&rect=0%2C476%2C4000%2C2250&w=3200&h=1800"
+  },
+  {
+    "id": "wc:immuno-cautious-sessions-audrey-amiss-rudy-loewe-exhbitions",
+    "sourceEventId": "immuno-cautious-sessions-audrey-amiss-rudy-loewe-exhbitions",
+    "title": "Immuno-cautious Openings of the 'Audrey Amiss' and 'Rudy Loewe' exhibitions",
+    "desc": "Come to an immuno-cautious opening of Wellcome Collection to see the 'Audrey Amiss' and 'Rudy Loewe' exhibitions.",
+    "source": "WC",
+    "date": "2026-09-18T08:00:00+00:00",
+    "durationMin": 600,
+    "venue": "Gallery 2",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Session",
+      "Exhibition",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/immuno-cautious-sessions-audrey-amiss-rudy-loewe-exhbitions",
+    "image": "https://images.prismic.io/wellcomecollection/cJ4wZJNi582UtbzT_EP3621_0029.jpg?auto=format%2Ccompress&rect=162%2C542%2C3774%2C2123&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-bridging-animal-and-ai",
