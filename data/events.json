@@ -443,7 +443,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213199/computing-with-waves-workshop-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213014",
@@ -596,7 +596,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212579/structures-seminar-recent-advances-in-hybrid-timber-steel-structural-systems-from-composite-floors-to-seismically-resilient-connections/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212904",
@@ -639,7 +639,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212255/scaling-lca-without-loosing-the-plot/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213453",
@@ -662,7 +662,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213453/spc-seminar-space-dr-maria-smirnova-weizmann-institute-of-science/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213201",
@@ -683,7 +683,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211821",
@@ -872,27 +872,6 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/elders-2046-for-living-and-dying-otherwise",
     "image": "https://images.prismic.io/wellcomecollection/lFezoR-1Vl3HwH8Y_SDP_EP003644_260814_1625_v2.jpg?auto=format%2Ccompress&rect=0%2C476%2C4000%2C2250&w=3200&h=1800"
-  },
-  {
-    "id": "wc:immuno-cautious-sessions-audrey-amiss-rudy-loewe-exhbitions",
-    "sourceEventId": "immuno-cautious-sessions-audrey-amiss-rudy-loewe-exhbitions",
-    "title": "Immuno-cautious Openings of the 'Audrey Amiss' and 'Rudy Loewe' exhibitions",
-    "desc": "Come to an immuno-cautious opening of Wellcome Collection to see the 'Audrey Amiss' and 'Rudy Loewe' exhibitions.",
-    "source": "WC",
-    "date": "2026-09-18T08:00:00+00:00",
-    "durationMin": 600,
-    "venue": "Gallery 2",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Session",
-      "Exhibition",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/immuno-cautious-sessions-audrey-amiss-rudy-loewe-exhbitions",
-    "image": "https://images.prismic.io/wellcomecollection/cJ4wZJNi582UtbzT_EP3621_0029.jpg?auto=format%2Ccompress&rect=162%2C542%2C3774%2C2123&w=3200&h=1800"
   },
   {
     "id": "rs:2026-09-bridging-animal-and-ai",
