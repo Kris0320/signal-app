@@ -63,27 +63,6 @@
     "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/international-construction-arbitration-conference-2026-hero-image-1.x62824bfd.png"
   },
   {
-    "id": "kcl:from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
-    "sourceEventId": "f300cb03-3878-4e98-b96f-b6fb39f4d37d",
-    "title": "From Investment to Capability: The Future of Air and Space Power in the UK",
-    "desc": "From Investment to Capability: The Future of Air and Space Power in the UK",
-    "source": "KCL",
-    "date": "2026-10-01T10:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "Society",
-      "Freeman Air and Space Institute",
-      "Department of War Studies"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/261001-mainimage-updated.xb1e20a07.png?w=782&h=440&crop=780,440,1,0"
-  },
-  {
     "id": "kcl:six-steps-to-build-your-career-map",
     "sourceEventId": "d668fc4c-836c-4318-b7c4-3c0e00cd9482",
     "title": "Six Steps to Build Your Career Map",
@@ -123,6 +102,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/morning-prayer-at-guys-5",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
+    "sourceEventId": "f300cb03-3878-4e98-b96f-b6fb39f4d37d",
+    "title": "From Investment to Capability: The Future of Air and Space Power in the UK",
+    "desc": "From Investment to Capability: The Future of Air and Space Power in the UK",
+    "source": "KCL",
+    "date": "2026-10-01T10:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Society",
+      "Freeman Air and Space Institute",
+      "Department of War Studies"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/261001-mainimage-updated.xb1e20a07.png?w=782&h=440&crop=780,440,1,0"
   },
   {
     "id": "kcl:barista-session-at-guys-5",
@@ -443,28 +443,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213199/computing-with-waves-workshop-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:213014",
-    "sourceEventId": "213014",
-    "title": "Creating a neuroinclusive NHLI: awareness, understanding and action",
-    "desc": "Join colleagues from across Imperial for an engaging afternoon exploring how we can create a more neuroinclusive culture within the National Heart and Lung Institute (NHLI) and beyond.\n\nThe event will bring together expert speakers, Imperial colleagues, students and researchers to share knowledge, lived experiences, practical guidance and the latest research on neurodiversity. Attendees will gain a better understanding of neurodiversity in the workplace and educational settings, learn about support available at Imperial, and explore actions that can help foster a more inclusive environment for staff and students.\n\nThe programme will feature keynote presentations from external experts, perspectives from Imperial support services and networks, personal experiences from neurodivergent…",
-    "source": "IC",
-    "date": "2026-09-21T13:00:00+01:00",
-    "durationMin": 255,
-    "venue": "1203, Sir Michael Uren Hub, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Departmental event",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213014/creating-a-neuroinclusive-nhli-awareness-understanding-and-action/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/templates-8_1788948281145_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211611",
@@ -485,7 +464,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212679",
@@ -596,7 +575,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212579/structures-seminar-recent-advances-in-hybrid-timber-steel-structural-systems-from-composite-floors-to-seismically-resilient-connections/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212904",
@@ -662,7 +641,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213453/spc-seminar-space-dr-maria-smirnova-weizmann-institute-of-science/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213201",
@@ -683,7 +662,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211821",
@@ -796,6 +775,29 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211589/in-conversation-with-professor-anjali-goswami-chief-scientific-advisor-at-the-department-for-environment-food-and-rural-affairs-defra/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/anjali-goswami_1784191775868_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:212487",
+    "sourceEventId": "212487",
+    "title": "Discover Imperial Fair – White City",
+    "desc": "This is a must-visit interactive fair for all students studying at White City or Hammersmith. White City has so much to offer students in the local area so come along to find out about everything you can get involved, as well as hear from teams offering you support and opportunities Imperial. Expect fun interactive stalls with plenty of freebies!",
+    "source": "IC",
+    "date": "2026-10-05T11:00:00+01:00",
+    "durationMin": 240,
+    "venue": "Ground Floor Foyer, School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Exhibition",
+      "Welcome to Imperial",
+      "Welcome week",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212487/discover-imperial-fair-white-city-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/210917-north-site-white-city-053_1723561716135_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
@@ -1168,6 +1170,25 @@
     "image": "https://royalsociety.org/-/media/events/2026/10/francis-crick-lecture/istock-1399511097_cropped.jpg"
   },
   {
+    "id": "rs:2026-10-see-buildings-differently",
+    "sourceEventId": "2026-10-see-buildings-differently",
+    "title": "See Buildings Differently",
+    "desc": "In this panel discussion, we gather some of the UK's brightest minds to see if they can See Buildings Differently.",
+    "source": "RS",
+    "date": "2026-10-28T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/see-buildings-differently/",
+    "image": "https://royalsociety.org/-/media/events/2026/10/see-stuff-differently-series/see-buildings-differently.jpg"
+  },
+  {
     "id": "rs:2026-11-croonian-prize-lecture",
     "sourceEventId": "2026-11-croonian-prize-lecture",
     "title": "Croonian Prize Lecture: Advances in computational protein design",
@@ -1225,5 +1246,25 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/11/milner-prize-lecture/",
     "image": "https://royalsociety.org/-/media/events/2026/11/milner-prize-lecture/milneristock-1090964280.jpg"
+  },
+  {
+    "id": "rs:2026-11-see-healthcare-differently",
+    "sourceEventId": "2026-11-see-healthcare-differently",
+    "title": "See Healthcare Differently",
+    "desc": "In this panel discussion, we gather some of the UK's brightest minds to see if they can See Healthcare Differently.",
+    "source": "RS",
+    "date": "2026-11-24T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Healthcare",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 82,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/see-healthcare-differently/",
+    "image": "https://royalsociety.org/-/media/events/2026/10/see-stuff-differently-series/see-healthcare-differently.jpg"
   }
 ]
