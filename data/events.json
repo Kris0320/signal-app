@@ -63,26 +63,6 @@
     "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/international-construction-arbitration-conference-2026-hero-image-1.x62824bfd.png"
   },
   {
-    "id": "kcl:six-steps-to-build-your-career-map",
-    "sourceEventId": "d668fc4c-836c-4318-b7c4-3c0e00cd9482",
-    "title": "Six Steps to Build Your Career Map",
-    "desc": "Build a personalised career map to identify your strengths, skills and experiences to explore career possibilities.",
-    "source": "KCL",
-    "date": "2026-10-01T10:00:00",
-    "durationMin": 120,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "University",
-      "Society"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/six-steps-to-build-your-career-map",
-    "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
-  },
-  {
     "id": "kcl:morning-prayer-at-guys-5",
     "sourceEventId": "b7fd0780-8087-46da-8837-df57e2c1ee26",
     "title": "Morning Prayer at Guy's",
@@ -123,6 +103,26 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/261001-mainimage-updated.xb1e20a07.png?w=782&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:six-steps-to-build-your-career-map",
+    "sourceEventId": "d668fc4c-836c-4318-b7c4-3c0e00cd9482",
+    "title": "Six Steps to Build Your Career Map",
+    "desc": "Build a personalised career map to identify your strengths, skills and experiences to explore career possibilities.",
+    "source": "KCL",
+    "date": "2026-10-01T10:00:00",
+    "durationMin": 120,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Society"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/six-steps-to-build-your-career-map",
+    "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
   },
   {
     "id": "kcl:barista-session-at-guys-5",
@@ -271,27 +271,6 @@
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/communion-wafers.x7c3c6afb.JPG?w=780&h=519&crop=780,440,0,40"
   },
   {
-    "id": "kcl:military-innovation-network-welcome-event",
-    "sourceEventId": "fbe926bd-c1b6-46c5-b281-0da59eca3fd5",
-    "title": "Military Innovation Network: Welcome Event",
-    "desc": "Join the Military Innovation Network (MIN) for a Welcome Event for an evening of research discussions, networking, and engagement.",
-    "source": "KCL",
-    "date": "2026-10-01T18:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "International",
-      "Student"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/military-innovation-network-welcome-event",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/military-innovation-network-welcome-event.xea7efeb6.png?w=780&h=488&crop=780,440,0,0"
-  },
-  {
     "id": "kcl:book-talk-asian-crucible-globalisation-geopolitics-and-the-contest-for-the-future-with-prof-nick-bisley",
     "sourceEventId": "95205b32-b467-479b-83db-db7e294bec42",
     "title": "Book Talk: 'Asian Crucible: Globalisation, Geopolitics and the Contest for the Future' with Prof Nick Bisley",
@@ -311,6 +290,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/book-talk-asian-crucible-globalisation-geopolitics-and-the-contest-for-the-future-with-prof-nick-bisley",
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/asian-crucible-v2.xc63bf2da.png?w=781&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:military-innovation-network-welcome-event",
+    "sourceEventId": "fbe926bd-c1b6-46c5-b281-0da59eca3fd5",
+    "title": "Military Innovation Network: Welcome Event",
+    "desc": "Join the Military Innovation Network (MIN) for a Welcome Event for an evening of research discussions, networking, and engagement.",
+    "source": "KCL",
+    "date": "2026-10-01T18:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "International",
+      "Student"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/military-innovation-network-welcome-event",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/military-innovation-network-welcome-event.xea7efeb6.png?w=780&h=488&crop=780,440,0,0"
   },
   {
     "id": "ic:212140",
@@ -423,73 +423,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csep-seminar-event-card-2_1787844079460_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:213199",
-    "sourceEventId": "213199",
-    "title": "Computing with Waves Workshop 2026",
-    "desc": "We would like to invite you to the COMPUTING WITH WAVES WORKSHOP 2026 , taking place at 170 Queen’s Gate, Imperial College London , on 21–22 September 2026 .\n\nThis two-day workshop will bring together researchers from across photonics, electromagnetics, acoustics, magnonics, solid-state systems, and related fields. The programme will feature ten invited speakers and will focus on exchanging ideas, identifying shared challenges, and stimulating new collaborations in computing and information processing with waves.\n\nIf you would like to attend, please register HERE to secure your free place. As capacity is limited to 50 participants, we encourage early registration.\n\nFurther information, including the list of invited speakers and the programme, is available on the META4D Website.",
-    "source": "IC",
-    "date": "2026-09-21T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Conference Room, 170 Queens Gate, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "The Light Community",
-      "The Matter Community",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213199/computing-with-waves-workshop-2026/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211611",
-    "sourceEventId": "211611",
-    "title": "Able network event: Badge Cafe",
-    "desc": "Come along to the Badge Café for an afternoon of creativity, conversation, and community.\n\nThis is a drop-in session and it’s open to all staff and students at Imperial. There’s no set start time and no expectations. You’re welcome to stay for five minutes or the whole afternoon – we’d love to see you!\n\nMake a badge, get creative, meet new people, reconnect with familiar faces – everyone is welcome! There will be free food and drinks from the Library Café, so come along, grab a snack, and enjoy a relaxed afternoon together.",
-    "source": "IC",
-    "date": "2026-09-22T13:00:00+01:00",
-    "durationMin": 180,
-    "venue": "Library Cafe, Abdus Salam Library, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211611/able-network-event-badge-cafe/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212679",
-    "sourceEventId": "212679",
-    "title": "Nature-inspired computation: real world challenges and opportunities",
-    "desc": "Continued advances in Frontier AI capabilities were achieved through escalating compute, electricity, cooling, water and infrastructure demand.\n\nFurther progress, and the full realisation of the potential societal benefit of this technology, is now constrained not only by computational model quality, but by the physical limitations, energetic and environmental costs of the underlying computational infrastructure.\n\nIn light of a clear need for cheap, low energy, sustainable compute solutions, researchers and innovators have been exploring different physical signals that could potentially transform future computing paradigms.\n\nThis session will bring together panellists and speakers across sectors to discuss the challenges and opportunities for a radical transformation of our approach to…",
-    "source": "IC",
-    "date": "2026-09-22T13:15:00+01:00",
-    "durationMin": 120,
-    "venue": "Council Room, 170 Queens Gate, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Artificial intelligence",
-      "Physics",
-      "Nature",
-      "Schools of Convergence Science"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212679/nature-inspired-computation-real-world-challenges-and-opportunities/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-2065767453_1788428592793_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:207409",
     "sourceEventId": "207409",
     "title": "RSM175 Evening Lecture Series: Climate",
@@ -575,7 +508,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212579/structures-seminar-recent-advances-in-hybrid-timber-steel-structural-systems-from-composite-floors-to-seismically-resilient-connections/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212904",
@@ -618,7 +551,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212255/scaling-lca-without-loosing-the-plot/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213453",
@@ -641,7 +574,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213453/spc-seminar-space-dr-maria-smirnova-weizmann-institute-of-science/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213201",
@@ -662,7 +595,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211821",
@@ -798,6 +731,72 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212487/discover-imperial-fair-white-city-2/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/210917-north-site-white-city-053_1723561716135_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213295",
+    "sourceEventId": "213295",
+    "title": "Biomathematics Seminar – Meichen Fang (Imperial)",
+    "desc": "Meichen Fang (Imperial College London)",
+    "source": "IC",
+    "date": "2026-10-05T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213295/biomathematics-seminar-meichen-fang-imperial/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:187622",
+    "sourceEventId": "187622",
+    "title": "Christian Meditation: Online and In-person",
+    "desc": "Format: In person and Online (hybrid)\n\nIn Person: Chaplaincy, 15 Prince’s Gardens, South Kensington Campus, SW7 1NA (Drop-in)\n\nOnline via private Zoom Meeting invite . You can subscribe to our weekly mailing list to get the weekly Zoom Link.\n\nAnyone outside the Colleges of South Kensington who would like to attend online please contact Andrew Willson a.willson@imperial.ac.uk\n\nFacilitator: The Christian Meditation sessions are led by Andrew Willson, College Chaplain.\n\nAbout Christian Meditation\n\nChristianity has a long and rich history of meditation and contemplative prayer. These ancient Christian traditions have their roots in the monasteries of the desert hermits of the second century. Jesus himself often prayed in times of stillness and solitude. Many of these long established…",
+    "source": "IC",
+    "date": "2026-10-05T13:10:00+01:00",
+    "durationMin": 30,
+    "venue": "Chaplaincy Multi-Faith Centre, 15 Prince's Gardens, South Kensington, SW7 1NA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "mental health",
+      "Education",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/187622/weekly-christian-meditation/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/christian-meditation-2-1086-x-307-1642077206866-x4-ezgifcom-webp-to-jpg-converter_1717097303804_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212638",
+    "sourceEventId": "212638",
+    "title": "HEP seminar: Mitesh Patel (Imperial) – State of the Nation",
+    "desc": "Annual State of the Nation update on the physics department",
+    "source": "IC",
+    "date": "2026-10-05T15:00:00+01:00",
+    "durationMin": 60,
+    "venue": "539, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Physics of Particles",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212638/hep-seminar-mitesh-patel-imperial-state-of-the-nation/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bebc_1697635355708_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
@@ -1246,5 +1245,24 @@
     "match": 82,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/11/see-healthcare-differently/",
     "image": "https://royalsociety.org/-/media/events/2026/10/see-stuff-differently-series/see-healthcare-differently.jpg"
+  },
+  {
+    "id": "rs:2026-12-see-christmas-differently",
+    "sourceEventId": "2026-12-see-christmas-differently",
+    "title": "See Christmas Differently",
+    "desc": "In this panel discussion, we gather some of the UK's brightest minds to see if they can See Christmas Differently.",
+    "source": "RS",
+    "date": "2026-12-08T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/12/see-christmas-differently/",
+    "image": "https://royalsociety.org/-/media/events/2026/10/see-stuff-differently-series/see-christmas-differently.jpg"
   }
 ]
