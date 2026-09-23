@@ -423,27 +423,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csep-seminar-event-card-2_1787844079460_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:207409",
-    "sourceEventId": "207409",
-    "title": "RSM175 Evening Lecture Series: Climate",
-    "desc": "Featuring Prof Tina van de Flierdt, Head of the Department of Earth Science and Engineering, Imperial College London",
-    "source": "IC",
-    "date": "2026-09-22T18:00:00+01:00",
-    "durationMin": 90,
-    "venue": "G.41, Royal School Of Mines, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Departmental event",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207409/ese-evening-lecture-series-life-and-health-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ese-lectures-climate_1773661722758_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:210483",
     "sourceEventId": "210483",
     "title": "Natural Sciences Showcase 2026",
@@ -551,7 +530,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212255/scaling-lca-without-loosing-the-plot/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213453",
@@ -574,7 +553,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213453/spc-seminar-space-dr-maria-smirnova-weizmann-institute-of-science/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213201",
@@ -751,7 +730,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213295/biomathematics-seminar-meichen-fang-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:187622",
@@ -797,6 +776,29 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212638/hep-seminar-mitesh-patel-imperial-state-of-the-nation/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bebc_1697635355708_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213398",
+    "sourceEventId": "213398",
+    "title": "The Grid We Need Now – EPICS Centre Seminar",
+    "desc": "changing the rules underpinning grid operation to make fuller use of AI and run the system more effectively;\n\nensuring AI applications deliver tangible benefits for households and businesses;\n\npreparing the grid and wider energy system to make responsible use of AI’s future potential for greater autonomy; and\n\nstreamlining testing and deployment so that effective AI solutions can be adopted more quickly.\n\nBio : Lucy Yu is a trained scientist and award-winning technologist, venture builder and policymaker. She has more than twenty years’ experience building, scaling and leading venture-backed global deep tech and consumer-facing ventures in AI, mobile, energy, and mobility; and developing technology policy and regulation for the UK government, European Commission, and the UN.\n\nLucy is…",
+    "source": "IC",
+    "date": "2026-10-05T17:00:00+01:00",
+    "durationMin": 60,
+    "venue": "LT1 (ACEX 250), ACE Extension, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Department of Electrical and Electronic Engineering",
+      "Energy",
+      "Sustainability",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213398/the-grid-we-need-now/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-events-epics-ly-v2_1789664633080_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
@@ -1128,6 +1130,25 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/03/plasticity-after-visual-damage/",
     "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
+  },
+  {
+    "id": "rs:2027-03-future-of-materials-discovery",
+    "sourceEventId": "2027-03-future-of-materials-discovery",
+    "title": "The future of materials discovery",
+    "desc": "Discussion meeting organised by Professor Robert G Palgrave and Sir Richard Catlow FRS",
+    "source": "RS",
+    "date": "2027-03-15T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/03/future-of-materials-discovery/",
+    "image": "https://royalsociety.org/-/media/events/2027/03/future-materials/lead-image.jpg"
   },
   {
     "id": "rs:2026-10-francis-crick-prize-lecture",
