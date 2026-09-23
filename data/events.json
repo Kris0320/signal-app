@@ -21,27 +21,6 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/policy-institute/bpp-familyv2.xe5988866.jpg?crop=780,440,1,0"
   },
   {
-    "id": "kcl:morning-prayer-at-the-strand-6",
-    "sourceEventId": "0b82650f-7ce1-49f8-93b1-9ce8fc1742ac",
-    "title": "Morning Prayer at the Strand",
-    "desc": "A Morning Prayer service every Thursday during term time in the College Chapel.",
-    "source": "KCL",
-    "date": "2026-10-01T09:30:00",
-    "durationMin": 30,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-the-strand-6",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
     "id": "kcl:international-construction-arbitration-conference-2026",
     "sourceEventId": "2a5ee212-7c3c-436c-bf1a-8fc7d67445f3",
     "title": "International Construction Arbitration Conference 2026",
@@ -63,12 +42,12 @@
     "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/international-construction-arbitration-conference-2026-hero-image-1.x62824bfd.png"
   },
   {
-    "id": "kcl:morning-prayer-at-guys-5",
-    "sourceEventId": "b7fd0780-8087-46da-8837-df57e2c1ee26",
-    "title": "Morning Prayer at Guy's",
-    "desc": "A short Morning Prayer service at Guy's every Thursday during term time.",
+    "id": "kcl:morning-prayer-at-the-strand-6",
+    "sourceEventId": "0b82650f-7ce1-49f8-93b1-9ce8fc1742ac",
+    "title": "Morning Prayer at the Strand",
+    "desc": "A Morning Prayer service every Thursday during term time in the College Chapel.",
     "source": "KCL",
-    "date": "2026-10-01T10:00:00",
+    "date": "2026-10-01T09:30:00",
     "durationMin": 30,
     "venue": "Strand",
     "area": "Strand",
@@ -80,8 +59,28 @@
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-guys-5",
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-the-strand-6",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:six-steps-to-build-your-career-map",
+    "sourceEventId": "d668fc4c-836c-4318-b7c4-3c0e00cd9482",
+    "title": "Six Steps to Build Your Career Map",
+    "desc": "Build a personalised career map to identify your strengths, skills and experiences to explore career possibilities.",
+    "source": "KCL",
+    "date": "2026-10-01T10:00:00",
+    "durationMin": 120,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Society"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/six-steps-to-build-your-career-map",
+    "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
   },
   {
     "id": "kcl:from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
@@ -105,24 +104,25 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/261001-mainimage-updated.xb1e20a07.png?w=782&h=440&crop=780,440,1,0"
   },
   {
-    "id": "kcl:six-steps-to-build-your-career-map",
-    "sourceEventId": "d668fc4c-836c-4318-b7c4-3c0e00cd9482",
-    "title": "Six Steps to Build Your Career Map",
-    "desc": "Build a personalised career map to identify your strengths, skills and experiences to explore career possibilities.",
+    "id": "kcl:morning-prayer-at-guys-5",
+    "sourceEventId": "b7fd0780-8087-46da-8837-df57e2c1ee26",
+    "title": "Morning Prayer at Guy's",
+    "desc": "A short Morning Prayer service at Guy's every Thursday during term time.",
     "source": "KCL",
     "date": "2026-10-01T10:00:00",
-    "durationMin": 120,
-    "venue": "Online",
-    "area": "Online",
+    "durationMin": 30,
+    "venue": "Strand",
+    "area": "Strand",
     "price": 0,
     "tags": [
-      "University",
-      "Society"
+      "Student",
+      "International",
+      "University"
     ],
-    "format": "Online",
+    "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/six-steps-to-build-your-career-map",
-    "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-guys-5",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
     "id": "kcl:barista-session-at-guys-5",
@@ -250,27 +250,6 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/shutterstock-2215036015.xbbc19328.jpg?w=780&h=1170&crop=780,440,0,365"
   },
   {
-    "id": "kcl:welcome-mass-at-the-strand",
-    "sourceEventId": "d7238d67-9942-4885-bb07-a0fc7681a896",
-    "title": "Welcome Mass at the Strand",
-    "desc": "A Welcome Mass service to mark the start of the academic year.",
-    "source": "KCL",
-    "date": "2026-10-01T18:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "International",
-      "Society",
-      "Student"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/welcome-mass-at-the-strand",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/communion-wafers.x7c3c6afb.JPG?w=780&h=519&crop=780,440,0,40"
-  },
-  {
     "id": "kcl:book-talk-asian-crucible-globalisation-geopolitics-and-the-contest-for-the-future-with-prof-nick-bisley",
     "sourceEventId": "95205b32-b467-479b-83db-db7e294bec42",
     "title": "Book Talk: 'Asian Crucible: Globalisation, Geopolitics and the Contest for the Future' with Prof Nick Bisley",
@@ -290,6 +269,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/book-talk-asian-crucible-globalisation-geopolitics-and-the-contest-for-the-future-with-prof-nick-bisley",
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/asian-crucible-v2.xc63bf2da.png?w=781&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:welcome-mass-at-the-strand",
+    "sourceEventId": "d7238d67-9942-4885-bb07-a0fc7681a896",
+    "title": "Welcome Mass at the Strand",
+    "desc": "A Welcome Mass service to mark the start of the academic year.",
+    "source": "KCL",
+    "date": "2026-10-01T18:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "International",
+      "Society",
+      "Student"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/welcome-mass-at-the-strand",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/communion-wafers.x7c3c6afb.JPG?w=780&h=519&crop=780,440,0,40"
   },
   {
     "id": "kcl:military-innovation-network-welcome-event",
@@ -445,51 +445,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/research-showcase-2026-with-date-green-1000-x-700-px_1784104890433_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212375",
-    "sourceEventId": "212375",
-    "title": "3Rs Hub Lunchtime Talks – Professor Emma Robinson",
-    "desc": "The seminar marks the launch of a new series by the 3RsHub, bringing together experts in the 3Rs to explore the latest advances in the field. In the first session, Professor Emma Robinson will introduce the 3Hs Initiative , a scientific framework launched in March 2024 to promote better welfare and improve the lifetime experience of laboratory rodents.",
-    "source": "IC",
-    "date": "2026-09-23T12:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Seminar Room A, LMS Building, Hammersmith Campus",
-    "area": "Hammersmith",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "animal research",
-      "Medicine",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212375/3rs-hub-lunchtime-talks-professor-emma-robinson/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-college-050517-87_1787651829000_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212579",
-    "sourceEventId": "212579",
-    "title": "Structures Seminar: Recent Advances in Hybrid Timber–Steel Structural Systems: From Composite Floors to Seismically Resilient Connections",
-    "desc": "Abstract:\n\nThe use of mass timber and hybrid timber–steel in construction has risen dramatically in recent years across North America and Europe, fueled by its potential to reduce the environmental impact of buildings while enabling rapid and efficient construction. However, wider adoption of these systems requires a better understanding of their structural performance during day-to-day operations and under extreme loading conditions. At the same time, there remains a need to develop novel systems to address ongoing challenges associated with structural efficiency and resilience. This presentation summarizes ongoing research on two complementary themes: (1) hybrid timber–steel composite floor systems and (2) the seismic performance of conventional and high-performance timber connections.…",
-    "source": "IC",
-    "date": "2026-09-23T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Skempton Room 207, Skempton Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Civil engineering",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212579/structures-seminar-recent-advances-in-hybrid-timber-steel-structural-systems-from-composite-floors-to-seismically-resilient-connections/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:212904",
     "sourceEventId": "212904",
     "title": "CumbriaMed Research Webinar Series: Technology-Assisted Healthcare",
@@ -530,7 +485,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212255/scaling-lca-without-loosing-the-plot/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213453",
@@ -553,7 +508,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213453/spc-seminar-space-dr-maria-smirnova-weizmann-institute-of-science/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213201",
@@ -645,6 +600,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ed-lyon-4-credit-nik-pate_1789727244199_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:213857",
+    "sourceEventId": "213857",
+    "title": "Analysis and Dynamics seminar",
+    "desc": "Speaker: Clifford Gilmore (Universite Clermont Auvergne),\n\nTitle: TBA\n\nAbstract: TBA",
+    "source": "IC",
+    "date": "2026-10-01T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213857/analysis-and-dynamics-seminar-8/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:212604",
     "sourceEventId": "212604",
     "title": "PDEs Seminar – Mitchell Taylor (ETH)",
@@ -730,7 +706,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213295/biomathematics-seminar-meichen-fang-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:187622",
@@ -799,6 +775,29 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213398/the-grid-we-need-now/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-events-epics-ly-v2_1789664633080_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212939",
+    "sourceEventId": "212939",
+    "title": "Navigating IP in the world of AI",
+    "desc": "Join our IP experts as they cover key points that researchers in applied AI need to know about protecting AI-related research\n\nWhat’s the key information?\n\nEvent format: Panel discussion with audience Q&A followed by a networking lunch\n\nEvent date: Tuesday 6 October 2026\n\nEvent time: 12:00 pm – 1:15 pm (Networking lunch: 1:15 pm – 2:00 pm)\n\nEvent location: The Arena, Scale Space , White City\n\nWho should attend?\n\nAcademics and early-career researchers from Imperial College London with an interest in commercialising their research through spinouts or licensing and startups and early-stage spinouts in Imperial’s ecosystem.\n\nPlease note: Attendance at this event is reserved for Imperial College London staff and staff at companies in Imperial’s ecosystem.\n\nWhat will we cover?\n\nWhatever your…",
+    "source": "IC",
+    "date": "2026-10-06T12:00:00+01:00",
+    "durationMin": 120,
+    "venue": "The Area, Scale Space, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "enterprise",
+      "Institutional Event",
+      "Event",
+      "Staff"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212939/navigating-ip-in-the-world-of-ai/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/vs-ip-event-oct26-ds_1788869531779_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
