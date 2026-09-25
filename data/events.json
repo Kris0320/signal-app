@@ -250,25 +250,25 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/shutterstock-2215036015.xbbc19328.jpg?w=780&h=1170&crop=780,440,0,365"
   },
   {
-    "id": "kcl:welcome-mass-at-the-strand",
-    "sourceEventId": "d7238d67-9942-4885-bb07-a0fc7681a896",
-    "title": "Welcome Mass at the Strand",
-    "desc": "A Welcome Mass service to mark the start of the academic year.",
+    "id": "kcl:yarn-and-yap-at-guys-7",
+    "sourceEventId": "ae4d68f8-3345-40b0-8da0-689909fa39a7",
+    "title": "Yarn and Yap at Guy's",
+    "desc": "An opportunity to undertake a crafting project in the Guy's Chaplaincy.",
     "source": "KCL",
-    "date": "2026-10-01T18:00:00",
+    "date": "2026-10-01T17:30:00",
     "durationMin": 60,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
     "tags": [
+      "Student",
       "International",
-      "Society",
-      "Student"
+      "University"
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/welcome-mass-at-the-strand",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/communion-wafers.x7c3c6afb.JPG?w=780&h=519&crop=780,440,0,40"
+    "url": "https://www.kcl.ac.uk/events/yarn-and-yap-at-guys-7",
+    "image": "https://www.kcl.ac.uk/newimages/students/crochet-blankets.xd46b238b.png?w=782&h=440&crop=780,440,1,0"
   },
   {
     "id": "kcl:book-talk-asian-crucible-globalisation-geopolitics-and-the-contest-for-the-future-with-prof-nick-bisley",
@@ -292,25 +292,25 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/asian-crucible-v2.xc63bf2da.png?w=781&h=440&crop=780,440,1,0"
   },
   {
-    "id": "kcl:military-innovation-network-welcome-event",
-    "sourceEventId": "fbe926bd-c1b6-46c5-b281-0da59eca3fd5",
-    "title": "Military Innovation Network: Welcome Event",
-    "desc": "Join the Military Innovation Network (MIN) for a Welcome Event for an evening of research discussions, networking, and engagement.",
+    "id": "kcl:welcome-mass-at-the-strand",
+    "sourceEventId": "d7238d67-9942-4885-bb07-a0fc7681a896",
+    "title": "Welcome Mass at the Strand",
+    "desc": "A Welcome Mass service to mark the start of the academic year.",
     "source": "KCL",
     "date": "2026-10-01T18:00:00",
-    "durationMin": 120,
+    "durationMin": 60,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
     "tags": [
-      "Workshop",
       "International",
+      "Society",
       "Student"
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/military-innovation-network-welcome-event",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/military-innovation-network-welcome-event.xea7efeb6.png?w=780&h=488&crop=780,440,0,0"
+    "url": "https://www.kcl.ac.uk/events/welcome-mass-at-the-strand",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/communion-wafers.x7c3c6afb.JPG?w=780&h=519&crop=780,440,0,40"
   },
   {
     "id": "ic:212140",
@@ -318,8 +318,8 @@
     "title": "World Space Week 2026 – panel and networking",
     "desc": "Join Imperial’s School of Convergence Science and the London Space Network for a World Space Week panel discussion and networking event.\n\nThe discussion, ‘Sovereign capability: innovation and access’ will explore the UK’s reliance on other nations’ capabilities and how sovereign capability will transform the UK and shape our future.\n\nA drinks reception will follow the panel discussion.\n\nThe panel:\n\nAnushka Sharma, Founder, London Space Network (moderator)\n\nMajor General Paul Tedman (Rtrd), Former UK Space Command, Managing Director – Europe, Anduril Industries\n\nProfessor Jonathan Eastwood, Convening Co-Director for Space, Security and Telecoms, Imperial\n\nAdditional speakers to be announced\n\nAbout the School of Convergence Science\n\nThe School of Convergence Science is a mission-led…",
     "source": "IC",
-    "date": "2026-10-07T17:45:00+01:00",
-    "durationMin": 165,
+    "date": "2026-10-07T17:30:00+01:00",
+    "durationMin": 180,
     "venue": "Queen's Tower Rooms, Sherfield Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
@@ -423,29 +423,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csep-seminar-event-card-2_1787844079460_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:213453",
-    "sourceEventId": "213453",
-    "title": "SPC Seminar – Space – Dr. Maria Smirnova (Weizmann Institute of Science)",
-    "desc": "Title: The Revival of Radio Occultations: Investigating the Atmospheres of Jupiter and Saturn\n\nSpeaker: Dr. Maria Smirnova (Weizmann Institute of Science)\n\nAbstract:\n\nRadio occultation (RO) is a uniquely powerful technique for probing giant planet atmospheres. As a spacecraft radio signal passes behind the planetary limb, it is refracted by the atmosphere, and the measured changes in the signal can be inverted to retrieve high-vertical-resolution profiles of refractivity, density, pressure, and temperature from the upper troposphere into the stratosphere. At rapidly rotating and strongly oblate planets, these measurements require dedicated ray-tracing inversions that account for planetary shape, gravity, winds, and the full radio-path geometry.\n\nAt Jupiter, NASA’s Juno mission has…",
-    "source": "IC",
-    "date": "2026-09-25T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Lecture Theatre 2, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Space",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213453/spc-seminar-space-dr-maria-smirnova-weizmann-institute-of-science/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:213201",
     "sourceEventId": "213201",
     "title": "Finance and Stochastics Seminar – Dorje Brody",
@@ -464,7 +441,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211821",
@@ -553,7 +530,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213857/analysis-and-dynamics-seminar-8/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213950",
@@ -640,7 +617,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213955/geometry-and-topology-seminar-kyler-siegel-imperial-college-london/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212487",
@@ -797,6 +774,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209807/doid-seminar-series-dr-george-chamilos-university-of-crete/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/georgis-chamilos-photo_1789130128404_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:213507",
+    "sourceEventId": "213507",
+    "title": "Annual CCMI CDT Opening Celebrations",
+    "desc": "Speaker: Prof Anna-Karin Tornberg\n\nWe would love for you to join us for our Annual CCMI CDT Opening Celebrations on Tuesday 6 October from 2pm onwards in 90 High Holborn.\n\nWe are going to have an amazing seminar by Prof Anna-Karin Tornberg from KTH Stockholm followed by drinks and nibbles to celebrate with our existing and new PhD students.\n\nYou can sign up at\n\nhttps://www.eventbrite.com/e/ccmi-cdt-start-of-year-celebrations-tickets-2000965939991?aff=oddtdtcreator\n\nHoping to see you there.\n\nBest wishes\n\nColin Cotter",
+    "source": "IC",
+    "date": "2026-10-06T14:00:00+01:00",
+    "durationMin": 120,
+    "venue": "UCL",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213507/annual-ccmi-cdt-opening-celebrations/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
@@ -1245,6 +1243,25 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/11/milner-prize-lecture/",
     "image": "https://royalsociety.org/-/media/events/2026/11/milner-prize-lecture/milneristock-1090964280.jpg"
+  },
+  {
+    "id": "rs:2026-11-science-narratives-and-the-public",
+    "sourceEventId": "2026-11-science-narratives-and-the-public",
+    "title": "Science narratives and the public",
+    "desc": "A conference exploring how scientists have crafted narratives about their work, exploring a broad sweep of media, from print to television and beyond.",
+    "source": "RS",
+    "date": "2026-11-20T09:30:00+01:00",
+    "durationMin": 450,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/science-narratives-and-the-public/",
+    "image": "https://royalsociety.org/-/media/events/2026/11/science-narratives-and-the-public/science-narratives-and-the-public-1.jpg"
   },
   {
     "id": "rs:2026-11-see-healthcare-differently",
