@@ -441,7 +441,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211821",
@@ -464,6 +464,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/211821/understanding-fetal-growth-and-preterm-birth/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/fetal-growth-webinar-image_1786364639829_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214066",
+    "sourceEventId": "214066",
+    "title": "Community Garden Action Days",
+    "desc": "Drop-in sessions from 13:00–16:00 on Wednesdays.\n\nJoin the student organisers and volunteers in the Community Garden at the Chaplaincy Centre. A chance to get outside, and be involved in growing plants, sowing seeds, clearing new ground, or pruning bushes. If this is your first session of gardening or if you have plenty of experience, all are welcome.\n\nOpen to students and staff. Drop-in during the afternoon and stay for as long as you like. Gloves, protective gear and tools provided, with wet weather options in needed.\n\nThe Community Garden at the Chaplaincy, accessed through the Multi-Faith Centre at 15 Princes Gardens, or via the side gate of the Weeks Building at 16 Princes Gardens (all ID cards have swipe access to both doors).\n\nIf you’d like to know more, feel free to email us at…",
+    "source": "IC",
+    "date": "2026-09-30T13:00:00+01:00",
+    "durationMin": 180,
+    "venue": "Chaplaincy Multi-Faith Centre",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214066/community-garden-action-days-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gardening-banner_1714416170181_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212694",
@@ -530,7 +551,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213857/analysis-and-dynamics-seminar-8/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213950",
@@ -617,7 +638,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213955/geometry-and-topology-seminar-kyler-siegel-imperial-college-london/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212487",
@@ -774,27 +795,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/209807/doid-seminar-series-dr-george-chamilos-university-of-crete/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/georgis-chamilos-photo_1789130128404_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:213507",
-    "sourceEventId": "213507",
-    "title": "Annual CCMI CDT Opening Celebrations",
-    "desc": "Speaker: Prof Anna-Karin Tornberg\n\nWe would love for you to join us for our Annual CCMI CDT Opening Celebrations on Tuesday 6 October from 2pm onwards in 90 High Holborn.\n\nWe are going to have an amazing seminar by Prof Anna-Karin Tornberg from KTH Stockholm followed by drinks and nibbles to celebrate with our existing and new PhD students.\n\nYou can sign up at\n\nhttps://www.eventbrite.com/e/ccmi-cdt-start-of-year-celebrations-tickets-2000965939991?aff=oddtdtcreator\n\nHoping to see you there.\n\nBest wishes\n\nColin Cotter",
-    "source": "IC",
-    "date": "2026-10-06T14:00:00+01:00",
-    "durationMin": 120,
-    "venue": "UCL",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213507/annual-ccmi-cdt-opening-celebrations/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
