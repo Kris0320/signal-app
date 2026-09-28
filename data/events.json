@@ -335,28 +335,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-418189603_1787047204215_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211709",
-    "sourceEventId": "211709",
-    "title": "Discover Imperial Fair (South Kensington)",
-    "desc": "This is a must-visit interactive fair for all new students. Come visit the over 25 stalls to find out all about the opportunities and support services for you at Imperial that are there for you on top of your academic course. There will be a range of fun activities to get involved with, demonstrating lots that Imperial has to offer, as well as lots of freebies and giveaways!",
-    "source": "IC",
-    "date": "2026-09-28T10:30:00+01:00",
-    "durationMin": 360,
-    "venue": "Queen's Tower Rooms, Level 1, Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Welcome to Imperial",
-      "Welcome week",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211709/discover-imperial-sk-26/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-college-london-welcome-day-30th-september-2024-brendan-foster-photography-587-180-min_1755092303265_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:212448",
     "sourceEventId": "212448",
     "title": "Where Great Ideas Grow Campus Takeover",
@@ -441,7 +419,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213201/finance-and-stochastics-seminar-dorje-brody/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211821",
@@ -551,7 +529,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213857/analysis-and-dynamics-seminar-8/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213950",
@@ -682,7 +660,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213295/biomathematics-seminar-meichen-fang-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:187622",
@@ -797,24 +775,25 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/georgis-chamilos-photo_1789130128404_eventportrait2018_x1.jpg"
   },
   {
-    "id": "lse:the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
-    "sourceEventId": "the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
-    "title": "The Hayekian case for wage flexibility in an AI economy",
-    "desc": "The Hayekian case for wage flexibility in an AI economy",
-    "source": "LSE",
-    "date": "2026-09-28T18:30:00+01:00",
+    "id": "ic:213507",
+    "sourceEventId": "213507",
+    "title": "Annual CCMI CDT Opening Celebrations",
+    "desc": "Speaker: Prof Anna-Karin Tornberg\n\nWe would love for you to join us for our Annual CCMI CDT Opening Celebrations on Tuesday 6 October from 2pm onwards in 90 High Holborn.\n\nWe are going to have an amazing seminar by Prof Anna-Karin Tornberg from KTH Stockholm followed by drinks and nibbles to celebrate with our existing and new PhD students.\n\nYou can sign up at\n\nhttps://www.eventbrite.com/e/ccmi-cdt-start-of-year-celebrations-tickets-2000965939991?aff=oddtdtcreator\n\nHoping to see you there.\n\nBest wishes\n\nColin Cotter",
+    "source": "IC",
+    "date": "2026-10-06T14:00:00+01:00",
     "durationMin": 120,
-    "venue": "Online public event",
-    "area": "Online",
+    "venue": "UCL",
+    "area": "South Kensington",
     "price": 0,
     "tags": [
-      "AI",
+      "Seminar",
+      "Event",
       "Open to all"
     ],
-    "format": "Online",
-    "match": 74,
-    "url": "https://www.lse.ac.uk/hayek/events/the-hayekian-case-for-wage-flexibility-in-an-ai-economy",
-    "image": null
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213507/annual-ccmi-cdt-opening-celebrations/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
