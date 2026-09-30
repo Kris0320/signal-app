@@ -271,27 +271,6 @@
     "image": "https://www.kcl.ac.uk/newimages/students/crochet-blankets.xd46b238b.png?w=782&h=440&crop=780,440,1,0"
   },
   {
-    "id": "kcl:welcome-mass-at-the-strand",
-    "sourceEventId": "d7238d67-9942-4885-bb07-a0fc7681a896",
-    "title": "Welcome Mass at the Strand",
-    "desc": "A Welcome Mass service to mark the start of the academic year.",
-    "source": "KCL",
-    "date": "2026-10-01T18:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "International",
-      "Society",
-      "Student"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/welcome-mass-at-the-strand",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/communion-wafers.x7c3c6afb.JPG?w=780&h=519&crop=780,440,0,40"
-  },
-  {
     "id": "kcl:book-talk-asian-crucible-globalisation-geopolitics-and-the-contest-for-the-future-with-prof-nick-bisley",
     "sourceEventId": "95205b32-b467-479b-83db-db7e294bec42",
     "title": "Book Talk: 'Asian Crucible: Globalisation, Geopolitics and the Contest for the Future' with Prof Nick Bisley",
@@ -311,6 +290,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/book-talk-asian-crucible-globalisation-geopolitics-and-the-contest-for-the-future-with-prof-nick-bisley",
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/asian-crucible-v2.xc63bf2da.png?w=781&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:welcome-mass-at-the-strand",
+    "sourceEventId": "d7238d67-9942-4885-bb07-a0fc7681a896",
+    "title": "Welcome Mass at the Strand",
+    "desc": "A Welcome Mass service to mark the start of the academic year.",
+    "source": "KCL",
+    "date": "2026-10-01T18:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "International",
+      "Society",
+      "Student"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/welcome-mass-at-the-strand",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/communion-wafers.x7c3c6afb.JPG?w=780&h=519&crop=780,440,0,40"
   },
   {
     "id": "ic:212140",
@@ -358,29 +358,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/img-0726_1788277816337_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211848",
-    "sourceEventId": "211848",
-    "title": "Heart attacks and strokes: healing and light",
-    "desc": "Join Professor Joseph Boyle, Professor of Chemical Systems Pathology, to discover how white blood cells can help repair and protect our blood vessels and reduce the risk of heart attacks and strokes.\n\nPlease register to attend in person. A live stream link for online attendance is available here.\n\nWe look forward to seeing you on Wednesday 30 September!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nMost heart attacks and strokes are caused by a single process. This affects the vessels to the heart and the brain and comprises fatty deposits. Crucially these fatty deposits are not inert but trigger 2 opposed processes involving white blood defence cells. In one of these, white…",
-    "source": "IC",
-    "date": "2026-09-30T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Institutional Event",
-      "Imperial Inaugurals",
-      "NHLI",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211848/heart-attacks-and-strokes-healing-and-light/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-eventbrite-banner-joseph-boyle_1786453920588_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:212436",
     "sourceEventId": "212436",
     "title": "Dyson School of Design Engineering Commencement Lecture 2026",
@@ -399,49 +376,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212436/dyson-school-of-design-engineering-commencement-lecture-2026/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csep-seminar-event-card-2_1787844079460_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211821",
-    "sourceEventId": "211821",
-    "title": "Understanding fetal growth and preterm birth",
-    "desc": "Every year, millions of babies are born prematurely, and many face significant health challenges both at birth and later in life. At the same time, fetal growth restriction affects up to 10% of pregnancies, with the most severe cases linked to poor outcomes, including stillbirth.\n\nResearchers across the AHSC are working to improve our understanding of why babies are born too soon, how risk can be identified earlier, and to help clinicians to make crucial decisions about the timing of birth for growth-restricted babies.\n\nIn this seminar, two experts will talk about their research on understanding fetal growth and preterm birth and answer your questions:\n\nProfessor Christoph Lees is a Professor of Obstetrics at Imperial College London, Honorary Consultant in Obstetrics and Head of Fetal…",
-    "source": "IC",
-    "date": "2026-09-30T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Medicine",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211821/understanding-fetal-growth-and-preterm-birth/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/fetal-growth-webinar-image_1786364639829_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:214175",
-    "sourceEventId": "214175",
-    "title": "Community Garden Action Days",
-    "desc": "Drop-in sessions from 13:00–16:00 on Wednesdays.\n\nJoin the student organisers and volunteers in the Community Garden at the Chaplaincy Centre. A chance to get outside, and be involved in growing plants, sowing seeds, clearing new ground, or pruning bushes. If this is your first session of gardening or if you have plenty of experience, all are welcome.\n\nOpen to students and staff. Drop-in during the afternoon and stay for as long as you like. Gloves, protective gear and tools provided, with wet weather options in needed.\n\nThe Community Garden at the Chaplaincy, accessed through the Multi-Faith Centre at 15 Princes Gardens, or via the side gate of the Weeks Building at 16 Princes Gardens (all ID cards have swipe access to both doors).\n\nIf you’d like to know more, feel free to email us at…",
-    "source": "IC",
-    "date": "2026-09-30T13:00:00+01:00",
-    "durationMin": 180,
-    "venue": "Chaplaincy Multi-Faith Centre",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214175/community-garden-action-days-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gardening-banner_1714416170181_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212694",
@@ -508,7 +442,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213857/analysis-and-dynamics-seminar-8/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213950",
@@ -552,6 +486,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212604/pdes-seminar-mitchell-taylor-eth/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/apdescritta_1610543878723_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214162",
+    "sourceEventId": "214162",
+    "title": "Junior Dynamics Seminar – Amir Khodaeian Karim (Imperial)",
+    "desc": "The Adiabatic Theory of Partially Integrable Systems\n\nAbstract : We introduce action variables for partially integrable systems that generalize the classical integrable theory. Under the assumption of ergodicity of the flow restricted to the common levels of the integrals, we show that a slow change of parameters creates geometrically defined integrals of the corresponding averaged system – the so-called adiabatic invariants. We also show that without the ergodicity, the integrability property for the averaged system is lost, contrary to the classical case, and, in fact, the averaged system can ”hallucinate” arbitrary symplectic dynamics.",
+    "source": "IC",
+    "date": "2026-10-01T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "658, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214162/junior-dynamics-seminar-amir-khodaeian-karim-imperial/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211589",
@@ -772,7 +727,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214159/dynamical-systems-seminar-tommaso-cornelis-rosati/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213507",
@@ -793,7 +748,51 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213507/annual-ccmi-cdt-opening-celebrations/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213759",
+    "sourceEventId": "213759",
+    "title": "Finance and Stochastics Seminar – Martin Herdegen",
+    "desc": "Speaker : Martin Herdegen\n\nTitle : Optimal Investment and Consumption in a Stochastic Factor Model\n\nAbstract : In this talk, we study optimal investment and consumption in an incomplete stochastic factor model for a power utility investor on the infinite horizon.When the state space of the stochastic factor is finite, we give a complete characterisation of the well-posedness of the problem, and provide an efficient numerical algorithm for computing the value function. When the state space is a (possibly infinite) open interval and the stochastic factor is represented by an Itô diffusion, we develop a general theory of sub- and supersolutions for second-order ordinary differential equations on open domains without boundary values to prove existence of the solution to the…",
+    "source": "IC",
+    "date": "2026-10-06T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213759/finance-and-stochastics-seminar-martin-herdegen/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212844",
+    "sourceEventId": "212844",
+    "title": "Entrepreneur Masterclass: From Lab Demo to Product Portfolio",
+    "desc": "The Entrepreneur Masterclass series of events in the Department of Physics showcases the commercial journeys of successful physics-based innovators.\n\nEach session will bring a leading entrepreneur to campus to share insights into a key aspect of taking deep-tech ideas from labs to market.\n\nThe next event will be on Tuesday 6th October at 5:30 pm in the Physics Level 8 Common Room. Refreshments will be provided.\n\nThe event is aimed at all staff, post-docs, and PhD and Masters students.\n\nDuring this event, Dr Craig Tombling will take the audience on a journey from the lab to the marketplace and along the way discuss key steps and decision including:\n\nFinding focus – Evolving teams – Putting in process – Consultancy perils – Prototype staircase – Make or buy\n\nSpeaker\n\nDr Tombling is…",
+    "source": "IC",
+    "date": "2026-10-06T17:30:00+01:00",
+    "durationMin": 120,
+    "venue": "Level 8 Common Room, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Departmental event",
+      "Physics",
+      "Entrepreneurship",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212844/entrepreneur-masterclass-from-lab-demo-to-product-portfolio/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/img-20260904-wa0005_1788775701268_eventportrait2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
