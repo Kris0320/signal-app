@@ -21,27 +21,6 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/policy-institute/bpp-familyv2.xe5988866.jpg?crop=780,440,1,0"
   },
   {
-    "id": "kcl:morning-prayer-at-the-strand-6",
-    "sourceEventId": "0b82650f-7ce1-49f8-93b1-9ce8fc1742ac",
-    "title": "Morning Prayer at the Strand",
-    "desc": "A Morning Prayer service every Thursday during term time in the College Chapel.",
-    "source": "KCL",
-    "date": "2026-10-01T09:30:00",
-    "durationMin": 30,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-the-strand-6",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
     "id": "kcl:international-construction-arbitration-conference-2026",
     "sourceEventId": "2a5ee212-7c3c-436c-bf1a-8fc7d67445f3",
     "title": "International Construction Arbitration Conference 2026",
@@ -102,27 +81,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/261001-mainimage-updated.xb1e20a07.png?w=782&h=440&crop=780,440,1,0"
-  },
-  {
-    "id": "kcl:morning-prayer-at-guys-5",
-    "sourceEventId": "b7fd0780-8087-46da-8837-df57e2c1ee26",
-    "title": "Morning Prayer at Guy's",
-    "desc": "A short Morning Prayer service at Guy's every Thursday during term time.",
-    "source": "KCL",
-    "date": "2026-10-01T10:00:00",
-    "durationMin": 30,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-guys-5",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
   },
   {
     "id": "kcl:barista-session-at-guys-5",
@@ -271,6 +229,27 @@
     "image": "https://www.kcl.ac.uk/newimages/students/crochet-blankets.xd46b238b.png?w=782&h=440&crop=780,440,1,0"
   },
   {
+    "id": "kcl:welcome-mass-at-the-strand",
+    "sourceEventId": "d7238d67-9942-4885-bb07-a0fc7681a896",
+    "title": "Welcome Mass at the Strand",
+    "desc": "A Welcome Mass service to mark the start of the academic year.",
+    "source": "KCL",
+    "date": "2026-10-01T18:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "International",
+      "Society",
+      "Student"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/welcome-mass-at-the-strand",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/communion-wafers.x7c3c6afb.JPG?w=780&h=519&crop=780,440,0,40"
+  },
+  {
     "id": "kcl:book-talk-asian-crucible-globalisation-geopolitics-and-the-contest-for-the-future-with-prof-nick-bisley",
     "sourceEventId": "95205b32-b467-479b-83db-db7e294bec42",
     "title": "Book Talk: 'Asian Crucible: Globalisation, Geopolitics and the Contest for the Future' with Prof Nick Bisley",
@@ -292,25 +271,359 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/asian-crucible-v2.xc63bf2da.png?w=781&h=440&crop=780,440,1,0"
   },
   {
-    "id": "kcl:welcome-mass-at-the-strand",
-    "sourceEventId": "d7238d67-9942-4885-bb07-a0fc7681a896",
-    "title": "Welcome Mass at the Strand",
-    "desc": "A Welcome Mass service to mark the start of the academic year.",
+    "id": "kcl:military-innovation-network-welcome-event",
+    "sourceEventId": "fbe926bd-c1b6-46c5-b281-0da59eca3fd5",
+    "title": "Military Innovation Network: Welcome Event",
+    "desc": "Join the Military Innovation Network (MIN) for a Welcome Event for an evening of research discussions, networking, and engagement.",
     "source": "KCL",
     "date": "2026-10-01T18:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "International",
+      "Student"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/military-innovation-network-welcome-event",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/military-innovation-network-welcome-event.xea7efeb6.png?w=780&h=488&crop=780,440,0,0"
+  },
+  {
+    "id": "kcl:weekly-eucharist-at-guys-6",
+    "sourceEventId": "d53a2d63-ba96-46db-917b-710dff26c3f7",
+    "title": "Weekly Eucharist at Guy's",
+    "desc": "A Eucharist service every Friday at midday during term time in the Guy's Chapel.",
+    "source": "KCL",
+    "date": "2026-10-02T12:00:00",
+    "durationMin": 30,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Arts & Culture",
+      "International",
+      "Society"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/weekly-eucharist-at-guys-6",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Guys-Chapel.xb387592c.jpg?w=780&h=520&crop=780,440,0,61"
+  },
+  {
+    "id": "kcl:future-skills-hackathon-thriving-in-the-age-of-genai",
+    "sourceEventId": "0aa31ce7-2d3f-4313-8df8-59c06d949ae7",
+    "title": "Future Skills Hackathon: Thriving in the Age of GenAI",
+    "desc": "Tackle real-world business challenges alongside students from different disciplines and industry experts.",
+    "source": "KCL",
+    "date": "2026-11-02T09:00:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Business & Finance",
+      "Technology & Science"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/future-skills-hackathon-thriving-in-the-age-of-genai",
+    "image": "https://www.kcl.ac.uk/newimages/ai/780x440/kbs-hackathon-event-image-780x440.x08f705aa.jpg"
+  },
+  {
+    "id": "kcl:morning-prayer-at-denmark-hill-10",
+    "sourceEventId": "88879b9a-86ab-4a2a-b847-fef4222732cf",
+    "title": "Morning Prayer at Denmark Hill",
+    "desc": "A Morning Prayer service every Tuesday morning in term time.",
+    "source": "KCL",
+    "date": "2026-11-03T09:30:00",
+    "durationMin": 20,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-denmark-hill-10",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:morning-prayer-at-waterloo-6",
+    "sourceEventId": "039e8de7-c99a-4a6b-adbb-18bab615973f",
+    "title": "Morning Prayer at Waterloo",
+    "desc": "A simple morning prayer in the Christian tradition to start your day.",
+    "source": "KCL",
+    "date": "2026-11-03T09:30:00",
+    "durationMin": 20,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-waterloo-6",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:global-placements-employer-speed-meet-autumn-2026",
+    "sourceEventId": "d388f8f6-b202-464e-9c4e-166f4c31c615",
+    "title": "Global Placements: Employer Speed Meet (Autumn 2026)",
+    "desc": "Speak directly with students about your Year in Industry opportunities in the UK and overseas.",
+    "source": "KCL",
+    "date": "2026-11-03T10:00:00",
+    "durationMin": 120,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Employer Engagement",
+      "Faculty of Natural, Mathematical & Engineering Sciences"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/global-placements-employer-speed-meet-autumn-2026",
+    "image": "https://www.kcl.ac.uk/newimages/careers/ee/festivals/2022-fairs-images/global-placements.x0d5bc537.jpg?w=782&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:international-lunch-at-waterloo-11",
+    "sourceEventId": "8ee0c2f1-f7bf-4b09-82db-8ab902b853a3",
+    "title": "International Lunch at Waterloo",
+    "desc": "Meet other members of the King's community and enjoy a (free!) lunch.",
+    "source": "KCL",
+    "date": "2026-11-03T12:00:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/international-lunch-at-waterloo-11",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/lunch-2.x5ac34aef.jpg?w=860&h=573&crop=780,440,0,50"
+  },
+  {
+    "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
+    "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
+    "title": "Law undergraduate information session: Hong Kong - 3 November",
+    "desc": "Join us at our Law info session in Hong Kong.",
+    "source": "KCL",
+    "date": "2026-11-03T18:00:00",
+    "durationMin": 150,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "The Dickson Poon School of Law"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/law-undergraduate-information-session-hong-kong-3-november",
+    "image": "https://www.kcl.ac.uk/newimages/law/images/somerset-house.x3e401677.jpg?w=780&h=585&crop=780,440,0,73"
+  },
+  {
+    "id": "kcl:joint-rd-office-wednesday-walk-in-november",
+    "sourceEventId": "5431c597-8382-4e00-bcc5-6719b3c932fe",
+    "title": "Joint R&D Office Wednesday Walk-In",
+    "desc": "Drop in and discuss your questions with the Joint R&D Office on the first Wednesday of every month.",
+    "source": "KCL",
+    "date": "2026-11-04T10:00:00",
+    "durationMin": 300,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Health",
+      "NIHR Biomedical Research Centre: Maudsley",
+      "Institute of Psychiatry, Psychology & Neuroscience"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/joint-rd-office-wednesday-walk-in-november",
+    "image": "https://www.kcl.ac.uk/newimages/ioppn/research-and-development/joint-rd-office-drop-in-session.xf23d189a.png"
+  },
+  {
+    "id": "kcl:mindfulness-with-jenny-online-21",
+    "sourceEventId": "ee63f6c7-aeb1-478f-8677-d6bc14f95a44",
+    "title": "Mindfulness with Jenny - Online",
+    "desc": "A session to explore mindfulness and how to be mindful.",
+    "source": "KCL",
+    "date": "2026-11-04T10:00:00",
     "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Student",
+      "International"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-21",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/winter-path.x8d8d756b.jpg?w=837&h=558&crop=780,440,0,118"
+  },
+  {
+    "id": "kcl:praying-the-holy-rosary-at-guys-9",
+    "sourceEventId": "28d3d69e-cb56-4ecd-8913-69804cd07efb",
+    "title": "Praying the Holy Rosary at Guy's",
+    "desc": "An opportunity to pray the Holy Rosary every Wednesday in term time in the Guy's Chapel.",
+    "source": "KCL",
+    "date": "2026-11-04T12:15:00",
+    "durationMin": 30,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/praying-the-holy-rosary-at-guys-9",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/rosary-photo.xfcdbe4e4.jpg?w=780&h=545&crop=780,440,0,98"
+  },
+  {
+    "id": "kcl:sacrament-of-confession-at-guys-8",
+    "sourceEventId": "4927cd89-99cd-49a2-bdd4-22f4caaf1dc3",
+    "title": "Sacrament of Confession at Guy's",
+    "desc": "A Catholic priest is available to hear Confessions before the celebration of Holy Mass.",
+    "source": "KCL",
+    "date": "2026-11-04T12:30:00",
+    "durationMin": 30,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
     "tags": [
       "International",
-      "Society",
-      "Student"
+      "Student",
+      "University"
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/welcome-mass-at-the-strand",
+    "url": "https://www.kcl.ac.uk/events/sacrament-of-confession-at-guys-8",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/Prayer.x2a2d8268.JPG?w=780&h=505&crop=780,440,0,33"
+  },
+  {
+    "id": "kcl:carbon-literacy-training-november-2026",
+    "sourceEventId": "e7c0e91b-eb02-476c-bcba-5e201dfd561c",
+    "title": "Carbon Literacy Training - November 2026",
+    "desc": "Join us for a 2 half day Carbon Literacy Training to develop your knowledge of the climate crisis",
+    "source": "KCL",
+    "date": "2026-11-04T13:00:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "University",
+      "King's Sustainability",
+      "Faculty of Arts & Humanities"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/carbon-literacy-training-november-2026",
+    "image": "https://www.kcl.ac.uk/newimages/sustainabilty/New-Carbon-Literacy-Training-thumbnail.x68b657fb.png?w=780&h=440"
+  },
+  {
+    "id": "kcl:college-eucharist-at-the-strand-said-service",
+    "sourceEventId": "8cd714eb-0adb-416c-ad3b-8422dd6175e8",
+    "title": "College Eucharist at the Strand - Said Service",
+    "desc": "A said Communion service in the College Chapel.",
+    "source": "KCL",
+    "date": "2026-11-04T13:10:00",
+    "durationMin": 30,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Arts & Culture",
+      "International",
+      "Society"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/college-eucharist-at-the-strand-said-service",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chapel-3-peter-dazeley.x2e080a73.jpg?w=780&h=525&crop=780,440,0,0"
+  },
+  {
+    "id": "kcl:catholic-mass-at-guys-11",
+    "sourceEventId": "3a92ee1a-112a-4458-a4c7-69b4e1858914",
+    "title": "Catholic Mass at Guy's",
+    "desc": "Holy Mass celebrated every Wednesday in term time in the Guy's Chapel.",
+    "source": "KCL",
+    "date": "2026-11-04T13:10:00",
+    "durationMin": 50,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Arts & Culture",
+      "Health",
+      "International"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/catholic-mass-at-guys-11",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/communion-wafers.x7c3c6afb.JPG?w=780&h=519&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:deepening-our-understanding-ai-for-ocean-exploration",
+    "sourceEventId": "6eb44ac5-6bce-4723-b139-64905136a4e0",
+    "title": "Deepening Our Understanding: AI for Ocean Exploration",
+    "desc": "Eric Orenstein on his research developing AI for ocean exploration.",
+    "source": "KCL",
+    "date": "2026-11-04T14:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "King’s Institute for Artificial Intelligence",
+      "Department of Informatics"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/deepening-our-understanding-ai-for-ocean-exploration",
+    "image": "https://www.kcl.ac.uk/newimages/ai/780x440/ai-for-ocean-exploration-ai-frontiers-eric-orenstein-780x440.xb5db2aa3.png?w=781&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:daniell-lecture-2026-polymer-colloids-rock",
+    "sourceEventId": "01d344ef-b228-4bb9-980e-1802cd3565c6",
+    "title": "Daniell Lecture 2026: Polymer colloids rock!",
+    "desc": "An exciting chemistry lecture for secondary students from Chemistry Professor Stefan A. F. Bon.",
+    "source": "KCL",
+    "date": "2026-11-04T16:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Public lecture",
+      "Technology & Science",
+      "Faculty of Natural, Mathematical & Engineering Sciences"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/daniell-lecture-2026-polymer-colloids-rock",
+    "image": "https://www.kcl.ac.uk/newimages/nmes/outreach/chemistry/daniell-lecture-2026-thumbnail-main-image-780-x-440-4.x6494feba.png"
   },
   {
     "id": "ic:212140",
@@ -442,7 +755,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213857/analysis-and-dynamics-seminar-8/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213950",
@@ -506,7 +819,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214162/junior-dynamics-seminar-amir-khodaeian-karim-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211589",
@@ -550,7 +863,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213955/geometry-and-topology-seminar-kyler-siegel-imperial-college-london/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212487",
@@ -748,7 +1061,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213507/annual-ccmi-cdt-opening-celebrations/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213759",
@@ -769,7 +1082,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213759/finance-and-stochastics-seminar-martin-herdegen/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212844",
