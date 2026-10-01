@@ -42,26 +42,6 @@
     "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/international-construction-arbitration-conference-2026-hero-image-1.x62824bfd.png"
   },
   {
-    "id": "kcl:six-steps-to-build-your-career-map",
-    "sourceEventId": "d668fc4c-836c-4318-b7c4-3c0e00cd9482",
-    "title": "Six Steps to Build Your Career Map",
-    "desc": "Build a personalised career map to identify your strengths, skills and experiences to explore career possibilities.",
-    "source": "KCL",
-    "date": "2026-10-01T10:00:00",
-    "durationMin": 120,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "University",
-      "Society"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/six-steps-to-build-your-career-map",
-    "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
-  },
-  {
     "id": "kcl:from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
     "sourceEventId": "f300cb03-3878-4e98-b96f-b6fb39f4d37d",
     "title": "From Investment to Capability: The Future of Air and Space Power in the UK",
@@ -83,110 +63,6 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/261001-mainimage-updated.xb1e20a07.png?w=782&h=440&crop=780,440,1,0"
   },
   {
-    "id": "kcl:barista-session-at-guys-5",
-    "sourceEventId": "6afc08b4-e581-4b4f-9de1-6c37ddc7e16d",
-    "title": "Barista Session at Guy's",
-    "desc": "An opportunity to learn the secrets of the Chaplaincy coffee machine!",
-    "source": "KCL",
-    "date": "2026-10-01T12:00:00",
-    "durationMin": 30,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/barista-session-at-guys-5",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/coffee-love.x9429b7cc.jpg?w=780&h=1169&crop=780,440,0,315"
-  },
-  {
-    "id": "kcl:rosary-prayer-group-at-the-strand-5",
-    "sourceEventId": "297b0413-da1c-476e-ae60-c4f203ef373e",
-    "title": "Rosary Prayer Group at the Strand",
-    "desc": "An opportunity to pray the Holy Rosary in the College Chapel.",
-    "source": "KCL",
-    "date": "2026-10-01T12:15:00",
-    "durationMin": 45,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Arts & Culture",
-      "Business & Finance",
-      "Health"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/rosary-prayer-group-at-the-strand-5",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/Icon.xd9ba609c.jpg?w=869&h=440&crop=780,440,45,0"
-  },
-  {
-    "id": "kcl:international-lunch-at-guys-5",
-    "sourceEventId": "1d236562-5846-4cb8-b0e1-b3edb747ffed",
-    "title": "International Lunch at Guy's",
-    "desc": "Meet up in the Chaplaincy & enjoy a (free!) light lunch on Thursdays during term time.",
-    "source": "KCL",
-    "date": "2026-10-01T12:30:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/international-lunch-at-guys-5",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/lunch-3.x0c8e05fe.jpg?w=780&h=585&crop=780,440,0,48"
-  },
-  {
-    "id": "kcl:buddhist-lunchtime-meditation-at-bush-house-1",
-    "sourceEventId": "3c0dfc19-e073-436a-9d46-80a95880ffe0",
-    "title": "Buddhist Lunchtime Meditation at Bush House",
-    "desc": "An opportunity to practice Buddhist meditations & explore Buddhist teachings.",
-    "source": "KCL",
-    "date": "2026-10-01T13:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "University",
-      "Student",
-      "International"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/buddhist-lunchtime-meditation-at-bush-house-1",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/white-stone-buddha-credit-to-hogets-baerndal.x169e1c50.jpg?w=1133&h=647&crop=780,440,0,0"
-  },
-  {
-    "id": "kcl:making-yourself-fundable-funding-series-13",
-    "sourceEventId": "a84db560-8e36-46fe-a69d-2aff40398d6c",
-    "title": "Making Yourself Fundable - Funding Series 1/3",
-    "desc": "Take practical steps towards becoming funding-ready with strategies to plan, position, and communicate your research effectively.",
-    "source": "KCL",
-    "date": "2026-10-01T13:30:00",
-    "durationMin": 90,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "University",
-      "Society"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/making-yourself-fundable-funding-series-13",
-    "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
-  },
-  {
     "id": "kcl:the-prohibition-of-the-use-of-force-at-the-end-of-the-liberal-international-order",
     "sourceEventId": "7f33e951-1298-4aa1-aa62-4d38d01bf968",
     "title": "The Prohibition of the Use of Force at the End of the Liberal International Order",
@@ -206,48 +82,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/the-prohibition-of-the-use-of-force-at-the-end-of-the-liberal-international-order",
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/shutterstock-2215036015.xbbc19328.jpg?w=780&h=1170&crop=780,440,0,365"
-  },
-  {
-    "id": "kcl:yarn-and-yap-at-guys-7",
-    "sourceEventId": "ae4d68f8-3345-40b0-8da0-689909fa39a7",
-    "title": "Yarn and Yap at Guy's",
-    "desc": "An opportunity to undertake a crafting project in the Guy's Chaplaincy.",
-    "source": "KCL",
-    "date": "2026-10-01T17:30:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/yarn-and-yap-at-guys-7",
-    "image": "https://www.kcl.ac.uk/newimages/students/crochet-blankets.xd46b238b.png?w=782&h=440&crop=780,440,1,0"
-  },
-  {
-    "id": "kcl:welcome-mass-at-the-strand",
-    "sourceEventId": "d7238d67-9942-4885-bb07-a0fc7681a896",
-    "title": "Welcome Mass at the Strand",
-    "desc": "A Welcome Mass service to mark the start of the academic year.",
-    "source": "KCL",
-    "date": "2026-10-01T18:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "International",
-      "Society",
-      "Student"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/welcome-mass-at-the-strand",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/communion-wafers.x7c3c6afb.JPG?w=780&h=519&crop=780,440,0,40"
   },
   {
     "id": "kcl:book-talk-asian-crucible-globalisation-geopolitics-and-the-contest-for-the-future-with-prof-nick-bisley",
@@ -311,6 +145,172 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/weekly-eucharist-at-guys-6",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Guys-Chapel.xb387592c.jpg?w=780&h=520&crop=780,440,0,61"
+  },
+  {
+    "id": "kcl:sweet-friday-at-guys-8",
+    "sourceEventId": "16585716-5f4c-4a0a-bcf1-662e4ae80512",
+    "title": "Sweet Friday! at Guy's",
+    "desc": "An opportunity to enjoy cake & coffee in the Guy's Chaplaincy every Friday during term time.",
+    "source": "KCL",
+    "date": "2026-10-02T13:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/sweet-friday-at-guys-8",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/cupcakes-art.x54c12ceb.jpg?w=780&h=585&crop=780,440,0,38"
+  },
+  {
+    "id": "kcl:afternoon-tea-at-the-strand-6",
+    "sourceEventId": "811d3b7a-00be-462a-bda1-92f179bb38bb",
+    "title": "Afternoon Tea at the Strand",
+    "desc": "An opportunity to enjoy Afternoon Tea in the Strand Chaplaincy every Friday during term time.",
+    "source": "KCL",
+    "date": "2026-10-02T14:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/afternoon-tea-at-the-strand-6",
+    "image": "https://www.kcl.ac.uk/newimages/new-students/begins/london/food-cake.x45f32373.jpg?w=780&h=520&crop=780,440,0,0"
+  },
+  {
+    "id": "kcl:virtual-campus-tour-strand-bush-house-2-october-2026",
+    "sourceEventId": "fed25ced-59ec-46e9-9d7e-897a1d54857f",
+    "title": "Virtual Campus Tour: Strand & Bush House - 2 October 2026",
+    "desc": "Take a virtual tour of our Strand & Bush House campus",
+    "source": "KCL",
+    "date": "2026-10-02T17:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Prospective students",
+      "Student",
+      "University"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/virtual-campus-tour-strand-bush-house-2-october-2026",
+    "image": "https://www.kcl.ac.uk/ImportedImages/0Prospectus/campuses/strand-01780x760.x81db5c02.jpg?crop=780,440,0,235"
+  },
+  {
+    "id": "kcl:unlocking-ai-computer-science-2026",
+    "sourceEventId": "4f423fc8-db28-4ff5-a4bf-f54d58abc51e",
+    "title": "Unlocking AI & Computer Science 2026",
+    "desc": "An online programme for girls",
+    "source": "KCL",
+    "date": "2026-10-02T17:30:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "Faculty of Natural, Mathematical & Engineering Sciences",
+      "Department of Informatics"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/unlocking-ai-computer-science-2026",
+    "image": "https://www.kcl.ac.uk/newimages/nmes/outreach/unlockingai/unlocking-ai-computer-science-thumbnail-780-x-450-1.xf3639022.png?crop=780,440,0,5"
+  },
+  {
+    "id": "kcl:a-walk-in-the-countryside-with-the-chaplaincy",
+    "sourceEventId": "a5bd01bf-22de-43a3-956e-6ffbdc2e2cd1",
+    "title": "A Walk in the Countryside with the Chaplaincy",
+    "desc": "An opportunity to escape the city for the countryside outside London.",
+    "source": "KCL",
+    "date": "2026-10-03T10:00:00",
+    "durationMin": 420,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "International",
+      "Student",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/a-walk-in-the-countryside-with-the-chaplaincy",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/nature.x070f821a.jpg?w=780&h=496&crop=780,440,0,0"
+  },
+  {
+    "id": "kcl:morning-prayer-online-13",
+    "sourceEventId": "4c61a67f-f068-4de8-9d09-4ed5b5d5c69f",
+    "title": "Morning Prayer - Online",
+    "desc": "A short, simple online prayer service at the start of the week.",
+    "source": "KCL",
+    "date": "2026-10-05T09:30:00",
+    "durationMin": 30,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-online-13",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:book-talk-negotiating-with-the-enemy-the-case-of-the-helsinki-final-act-1975",
+    "sourceEventId": "fbca2eb4-153a-42a5-86da-f869525c7099",
+    "title": "Book Talk: Negotiating With The Enemy: The Case Of The Helsinki Final Act (1975)",
+    "desc": "This seminar will examine how the Final Act was negotiated, why the talks succeeded, and what its lessons are for today’s international conflicts.",
+    "source": "KCL",
+    "date": "2026-10-05T12:30:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "International",
+      "Society"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/book-talk-negotiating-with-the-enemy-the-case-of-the-helsinki-final-act-1975",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/negotiating-with-the-enemy-book-talk-k-banner.x5276dada.png"
+  },
+  {
+    "id": "kcl:griffiths-report",
+    "sourceEventId": "dcba5c49-5647-43c0-b06b-6b878e5605f1",
+    "title": "Agenda for Action – digging deep on the origins and impact of the Griffiths’ Community Care report for social work",
+    "desc": "Robin Means, Jon Glasby, Jill Manthorpe",
+    "source": "KCL",
+    "date": "2026-10-05T13:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Health and Social Care Workforce Research Unit"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/griffiths-report",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/ahscwru/swhn/events/2026/griffiths-780.x0db5e811.jpg"
   },
   {
     "id": "kcl:future-skills-hackathon-thriving-in-the-age-of-genai",
@@ -626,49 +626,26 @@
     "image": "https://www.kcl.ac.uk/newimages/nmes/outreach/chemistry/daniell-lecture-2026-thumbnail-main-image-780-x-440-4.x6494feba.png"
   },
   {
-    "id": "ic:212140",
-    "sourceEventId": "212140",
-    "title": "World Space Week 2026 – panel and networking",
-    "desc": "Join Imperial’s School of Convergence Science and the London Space Network for a World Space Week panel discussion and networking event.\n\nThe discussion, ‘Sovereign capability: innovation and access’ will explore the UK’s reliance on other nations’ capabilities and how sovereign capability will transform the UK and shape our future.\n\nA drinks reception will follow the panel discussion.\n\nAgenda\n\n5:30pm – Arrivals and registration\n\n6:00pm – Welcome from Professor Nigel Brandon, Vice-President (Corporate Engagement), Imperial College London\n\n6:10pm – Panel discussion\n\n7:00pm – Q&A\n\n7:20pm – Networking drinks reception\n\n8:30pm – Event ends\n\nThe panel:\n\nAnushka Sharma, Founder, London Space Network (moderator)\n\nAlice Bunn, Co-Director, UK Space Agency\n\nProfessor Jonathan Eastwood, Convening…",
+    "id": "ic:212487",
+    "sourceEventId": "212487",
+    "title": "Discover Imperial Fair – White City",
+    "desc": "This is a must-visit interactive fair for all students studying at White City or Hammersmith. White City has so much to offer students in the local area so come along to find out about everything you can get involved, as well as hear from teams offering you support and opportunities Imperial. Expect fun interactive stalls with plenty of freebies!",
     "source": "IC",
-    "date": "2026-10-07T17:30:00+01:00",
-    "durationMin": 180,
-    "venue": "Queen's Tower Rooms, Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Space",
-      "Institutional Event",
-      "Postgraduate students"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212140/world-space-week-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-418189603_1787047204215_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212448",
-    "sourceEventId": "212448",
-    "title": "Where Great Ideas Grow Campus Takeover",
-    "desc": "Over two days, North Campus at White City Campus will come alive with events and activities open to all.\n\nThe Where Great Ideas Grow event brings together hands-on making, inspiring showcases, interactive learning, great food and live music.\n\nThe event is designed to foster opportune encounters, enable cross‑disciplinary exchange and strengthen connections amongst the White City Campus community.\n\nWhat to Expect\n\nEach afternoon there will be three vibrant zones to explore, with free activities and experiences, alongside music, food and drink:\n\nShare Knowledge\n\nInteractive demos from Imperial teams and departments where you can experience cutting-edge innovations up close and discover simple ways to get involved in ongoing campus studies and projects.\n\nBreathe London Communities\n\nDiscover…",
-    "source": "IC",
-    "date": "2026-09-30T12:00:00+01:00",
-    "durationMin": 480,
-    "venue": "Perkins Green Garden, North Campus , Collabor-88, White City Campus",
+    "date": "2026-10-05T11:00:00+01:00",
+    "durationMin": 240,
+    "venue": "Ground Floor Foyer, School of Public Health, White City Campus",
     "area": "White City",
     "price": 0,
     "tags": [
-      "Festival",
-      "Innovation",
-      "Innovation Ecosystem",
-      "White City Campus",
-      "Chemistry"
+      "Exhibition",
+      "Welcome to Imperial",
+      "Welcome week",
+      "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212448/white-city-campus-where-great-ideas-grow/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/img-0726_1788277816337_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/212487/discover-imperial-fair-white-city-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/210917-north-site-white-city-053_1723561716135_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212436",
@@ -691,158 +668,26 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csep-seminar-event-card-2_1787844079460_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212694",
-    "sourceEventId": "212694",
-    "title": "Imperial Clinical Trials Unit (ICTU) Child Health Seminar",
-    "desc": "This seminar, chaired by Professor Chris Gale (Deputy Director ICTU), will provide an overview of ICTU's support for child health research, including innovative trial design expertise, training opportunities, and examples of successful child health studies delivered in collaboration with ICTU.",
+    "id": "ic:211811",
+    "sourceEventId": "211811",
+    "title": "The Bioengineering Lecture 2026",
+    "desc": "About the Bioengineering Lecture\n\nThe Bioengineering Lecture is the Department of Bioengineering’s flagship lecture, bringing our community together to hear from a leading international researcher working at the forefront of their field.\n\nThis year, we welcome Professor Julia Vorholt , Professor of Microbiology at ETH Zurich, whose laboratory studies plant microbiomes, one-carbon metabolism, and endosymbioses.\n\nThe lecture will be followed by a drinks reception, giving attendees the opportunity to meet Professor Vorholt and continue the conversation with colleagues from the university.\n\nEngineering Endosymbioses Through Single-Cell Implantation\n\nAbstract\n\nEndosymbiosis, in which one organism lives inside another, has profoundly shaped the evolution of complex life forms. By intimately…",
     "source": "IC",
-    "date": "2026-10-01T12:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Centre for Paediatrics and Child Health",
-      "Mohn Centre for Childrens Health and Wellbeing",
-      "PaeCH",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212694/imperial-clinical-trials-unit-ictu-child-health-seminar/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/centre-image_1788438512543_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212757",
-    "sourceEventId": "212757",
-    "title": "Lunchtime Concert – Ed Lyon (tenor) Iain Farrington (piano)",
-    "desc": "Songs by two giants of 20th century theatre, Ivor Novello and Noel Coward, performed in new arrangements\n\nEd Lyon (tenor)\n\nIain Farrington (piano)",
-    "source": "IC",
-    "date": "2026-10-01T13:00:00+01:00",
-    "durationMin": 45,
-    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Creative",
-      "Arts",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212757/lunchtime-concert-ed-lyon-tenor-iain-farrington-piano/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ed-lyon-4-credit-nik-pate_1789727244199_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:213857",
-    "sourceEventId": "213857",
-    "title": "Analysis and Dynamics seminar",
-    "desc": "Speaker: Clifford Gilmore (Universite Clermont Auvergne),\n\nTitle: Universality of composition operators and applications to complex dynamics\n\nAbstract: Birkhoff uncovered the first example of a universal operator in 1929, when he showed that translations acting on the space of entire functions can display a maximally divergent behaviour. It was however not until the late 1980s before the investigation of universality received systematic attention. Since then it has been a rapidly evolving area that lies at the intersection of topological dynamics, operator theory and ergodic theory.",
-    "source": "IC",
-    "date": "2026-10-01T13:00:00+01:00",
+    "date": "2026-10-12T17:30:00+01:00",
     "durationMin": 60,
-    "venue": "410, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
+    "venue": "Lecture Theatre B10, Molecular Sciences Research Hub (MSRH), White City Campus",
+    "area": "White City",
     "price": 0,
     "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213857/analysis-and-dynamics-seminar-8/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:213950",
-    "sourceEventId": "213950",
-    "title": "3Is Seminars: Dr Calum Gabbutt (Immunology and Inflammation) and Professor Cecilia Johansson (NHLI)",
-    "desc": "Join the next 3Is seminar with talks delivered by Calum Gabbutt and Cecilia Johansson.\n\nThe talks will be:\n\n“Resolving the clonal relationships between haematological cells by applying mathematical modelling to methylation data” – Dr Calum Gabbutt (Department of Immunology and Inflammation)\n\n“Shaping lung immunity: The role of type I interferons in viral infection and cancer” – Professor Cecilia Johansson (NHLI).",
-    "source": "IC",
-    "date": "2026-10-01T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Seminar Room 2, Wolfson Education Centre, Hammersmith Campus",
-    "area": "Hammersmith",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Immune system",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213950/3is-seminars-dr-calum-gabbutt-immunology-and-inflammation-and-professor-cecilia-johansson-nhli/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/3is-seminar-image-at-15x_1790249029186_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212604",
-    "sourceEventId": "212604",
-    "title": "PDEs Seminar – Mitchell Taylor (ETH)",
-    "desc": "Title: Formalization in Analysis and PDE\n\nAbstract: I will discuss several of my recent works in analysis and PDE, all of which have been entirely formalized in Lean. The talk will be introductory and focus on the main motivations for my works and how mathematicians without prior Lean experience can now formally verify their papers in a relatively short period of time.",
-    "source": "IC",
-    "date": "2026-10-01T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Huxley 130, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212604/pdes-seminar-mitchell-taylor-eth/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/apdescritta_1610543878723_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:214162",
-    "sourceEventId": "214162",
-    "title": "Junior Dynamics Seminar – Amir Khodaeian Karim (Imperial)",
-    "desc": "The Adiabatic Theory of Partially Integrable Systems\n\nAbstract : We introduce action variables for partially integrable systems that generalize the classical integrable theory. Under the assumption of ergodicity of the flow restricted to the common levels of the integrals, we show that a slow change of parameters creates geometrically defined integrals of the corresponding averaged system – the so-called adiabatic invariants. We also show that without the ergodicity, the integrability property for the averaged system is lost, contrary to the classical case, and, in fact, the averaged system can ”hallucinate” arbitrary symplectic dynamics.",
-    "source": "IC",
-    "date": "2026-10-01T16:00:00+01:00",
-    "durationMin": 60,
-    "venue": "658, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214162/junior-dynamics-seminar-amir-khodaeian-karim-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211589",
-    "sourceEventId": "211589",
-    "title": "In conversation With Professor Anjali Goswami, Chief Scientific Advisor at the Department for Environment, Food and Rural Affairs (Defra)",
-    "desc": "Join us for the second in this series of fireside conversations with senior scientists in government, hosted by the Imperial Policy Forum, where attendees can hear about what role science plays in informing and shaping government policy, what the process looks like from the inside at the highest level of decision-making, and how you as a researcher can make an impact.\n\nLeading the conversation will be Professor Mary Ryan, Vice-Provost for Research and Enterprise at Imperial.\n\nTimings :\n\nJoin from 17.30\n\nConversation commences 18.00\n\nConversation and Q&A ends: 19.00\n\nAbout the speaker\n\nProfessor Anjali Goswami was appointed Chief Scientific Adviser and Director General Science, Data and Analysis at the Department for Environment, Food and Rural Affairs on 1 July 2025.\n\nAnjali is a…",
-    "source": "IC",
-    "date": "2026-10-01T17:30:00+01:00",
-    "durationMin": 90,
-    "venue": "Lecture theatre G16, Sir Alexander Fleming Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Symposium",
-      "The Forum",
+      "Lecture",
       "Institutional Event",
-      "Event",
-      "Staff"
+      "Women in STEM",
+      "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211589/in-conversation-with-professor-anjali-goswami-chief-scientific-advisor-at-the-department-for-environment-food-and-rural-affairs-defra/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/anjali-goswami_1784191775868_eventportrait2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/211811/the-bioengineering-lecture-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bioeng-lecture-2026_1786483609835_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213955",
@@ -863,30 +708,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213955/geometry-and-topology-seminar-kyler-siegel-imperial-college-london/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212487",
-    "sourceEventId": "212487",
-    "title": "Discover Imperial Fair – White City",
-    "desc": "This is a must-visit interactive fair for all students studying at White City or Hammersmith. White City has so much to offer students in the local area so come along to find out about everything you can get involved, as well as hear from teams offering you support and opportunities Imperial. Expect fun interactive stalls with plenty of freebies!",
-    "source": "IC",
-    "date": "2026-10-05T11:00:00+01:00",
-    "durationMin": 240,
-    "venue": "Ground Floor Foyer, School of Public Health, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Exhibition",
-      "Welcome to Imperial",
-      "Welcome week",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212487/discover-imperial-fair-white-city-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/210917-north-site-white-city-053_1723561716135_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213295",
@@ -1040,7 +862,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214159/dynamical-systems-seminar-tommaso-cornelis-rosati/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213507",
@@ -1082,7 +904,28 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213759/finance-and-stochastics-seminar-martin-herdegen/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214389",
+    "sourceEventId": "214389",
+    "title": "Astrophysics Weekly Seminar: Kai Lehman – Beyond the Explicit Likelihood: Novel Methods for Simulation-Based Cosmology",
+    "desc": "Astrophysics Weekly Seminar: Kai Lehman - Beyond the Explicit Likelihood: Novel Methods for Simulation-Based Cosmology",
+    "source": "IC",
+    "date": "2026-10-06T14:30:00+01:00",
+    "durationMin": 60,
+    "venue": "711C, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214389/astrophysics-weekly-seminar-kai-lehman-beyond-the-explicit-likelihood-novel-methods-for-simulation-based-cosmology/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212844",
@@ -1106,6 +949,160 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212844/entrepreneur-masterclass-from-lab-demo-to-product-portfolio/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/img-20260904-wa0005_1788775701268_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:210460",
+    "sourceEventId": "210460",
+    "title": "Open Themed Art Class [1]",
+    "desc": "This art class is open to everyone working and studying at Imperial College.\n\nIt is free and open to all levels and abilities, so whether you are an absolute beginner or an experienced artist you will find the tutor has something special to offer you. Come and explore.\n\nPlease feel free to join and leave at any point during the session.\n\nThese sessions are responsive to you , providing an invaluable opportunity for you to create whatever you like with free materials and mentoring support with professional artist Mindy Lee.\n\nSpaces are limited to 10 per session\n\nTickets will be released 8 days in advance of the class. Please book a ticket from your COLLEGE EMAIL ADDRESS only. Tickets booked from external emails will be deleted. Please cancel your ticket if you can no longer attend.\n\nHow…",
+    "source": "IC",
+    "date": "2026-10-07T13:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Blyth Art Studio, Room RODH 319, LEVEL 3, Roderic Hill, Roderic Hill Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Arts",
+      "Education",
+      "Student experience",
+      "Staff experience"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210460/open-themed-art-class-1-5/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/studio-table_1658237865363_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214067",
+    "sourceEventId": "214067",
+    "title": "Community Garden Action Days",
+    "desc": "Drop-in sessions from 13:00–16:00 on Wednesdays.\n\nJoin the student organisers and volunteers in the Community Garden at the Chaplaincy Centre. A chance to get outside, and be involved in growing plants, sowing seeds, clearing new ground, or pruning bushes. If this is your first session of gardening or if you have plenty of experience, all are welcome.\n\nOpen to students and staff. Drop-in during the afternoon and stay for as long as you like. Gloves, protective gear and tools provided, with wet weather options in needed.\n\nThe Community Garden at the Chaplaincy, accessed through the Multi-Faith Centre at 15 Princes Gardens, or via the side gate of the Weeks Building at 16 Princes Gardens (all ID cards have swipe access to both doors).\n\nIf you’d like to know more, feel free to email us at…",
+    "source": "IC",
+    "date": "2026-10-07T13:00:00+01:00",
+    "durationMin": 180,
+    "venue": "Chaplaincy Multi-Faith Centre",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214067/community-garden-action-days-3/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gardening-banner_1714416170181_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:188896",
+    "sourceEventId": "188896",
+    "title": "Communion Service",
+    "desc": "A reflective service of communion (sharing bread and wine) in the middle of the working week.\n\nA chance to pause and stand back from the activities of work, to reflect on our lives, and to pray for peace and justice and for people we know.\n\nJoin the people of Holy Trinity Church, and staff and students from other colleges and local institutions.\n\nService open to all, using an order from the Church of England.\n\nSubscribe to Mailing list for more information and weekly reminder delivered at your inbox.\n\nHow to find us: Holy Trinity Church, Prince Consort Rd, SW7 2BA (next to Beit Quadrangle, South Kensington)",
+    "source": "IC",
+    "date": "2026-10-07T13:05:00+01:00",
+    "durationMin": 35,
+    "venue": "Holy Trinity Church, Prince Consort Rd, SW7 2BA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/188896/communion-service-and-weekly-prayers/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/communion-service-banner_1650018964277_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213739",
+    "sourceEventId": "213739",
+    "title": "Control and Optimisation seminar – Jacco Thyssen (York)",
+    "desc": "Title\n\nWhen No One Learns, Everyone Can Coordinate: Public Signals in Dynamic Adverse Selection\n\nAbstract\n\nWe consider a model with dynamic adverse selection and public news. We show that embedding simple return and buy-back options in spot sale contracts implements the full-information first-best allocation. Even if the public signal never fully reveals the seller’s private information, it remains critical for implementation. The signal serves as a coordination device that enables screening of informed agents and achieves separation at the initial stage. Strikingly, the signal’s correlation with the private information is essential for implementation, even though uninformed agents learn nothing from the signal. We apply the model to a buyer–seller setting, rationalizing the pervasive…",
+    "source": "IC",
+    "date": "2026-10-07T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213739/control-and-optimisation-seminar-jacco-thyssen-york/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214137",
+    "sourceEventId": "214137",
+    "title": "SPC Seminar – Space – Dr. Mariana Jeunon Barros (QMUL)",
+    "desc": "Abstract: In this work we investigate a series of six 3He-rich events that were observed by Solar Orbiter on 10/29/2022-10/30/2022. We find possible candidates for the solar sources of such events and present a Differential Emission Measure (DEM) analysis to further characterize the plasma conditions that led to their eruption. By comparing the plasma properties of the six events, we can compare the distinct characteristics of each of the sources that could have led to more 3He enhancement.\n\nThis study demonstrates that there is a temperature range (1.86-4.1MK) which is associated with 3He enhancement. Our results show that 3He enrichment depends not only on temperature, but also on the thermal structure of the plasma, particularly the width and peak temperature of individual thermal…",
+    "source": "IC",
+    "date": "2026-10-07T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "741, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Space",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214137/spc-seminar-space-dr-mariana-jeunon-barros-qmul/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212725",
+    "sourceEventId": "212725",
+    "title": "Designing the Sustainable Aircraft: From High-Fidelity Computational Aerodynamics to AI-Assisted Multidisciplinary Design",
+    "desc": "The Brahmal Vasudevan Institute for Sustainable Aviation is pleased to welcome Professor Stefan Görtz of the DLR Institute of Aerodynamics and Flow Technology for a seminar exploring advanced computational approaches to the design of more sustainable aircraft.\n\nAbstract\n\nSustainable aviation requires aircraft that combine advanced aerodynamics with innovative propulsion and energy systems. This seminar will present how DLR addresses this challenge through advanced computational methods, spanning high-fidelity CFD and multidisciplinary design optimisation, and demonstrate their application to aircraft concepts featuring high-aspect-ratio wings and hybrid-electric propulsion.\n\nProf. Görtz will also discuss how machine learning and AI-assisted methods can complement high-fidelity…",
+    "source": "IC",
+    "date": "2026-10-07T14:30:00+01:00",
+    "durationMin": 60,
+    "venue": "664, City and Guilds Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Sustainability",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212725/designing-the-sustainable-aircraft-from-high-fidelity-computational-aerodynamics-to-ai-assisted-multidisciplinary-design/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/1430-1_1788451797352_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212140",
+    "sourceEventId": "212140",
+    "title": "World Space Week 2026 – panel and networking",
+    "desc": "Join Imperial’s School of Convergence Science and the London Space Network for a World Space Week panel discussion and networking event.\n\nThe discussion, ‘Sovereign capability: innovation and access’ will explore the UK’s reliance on other nations’ capabilities and how sovereign capability will transform the UK and shape our future.\n\nA drinks reception will follow the panel discussion.\n\nAgenda\n\n5:30pm – Arrivals and registration\n\n6:00pm – Welcome from Professor Nigel Brandon, Vice-President (Corporate Engagement), Imperial College London\n\n6:10pm – Panel discussion\n\n7:00pm – Q&A\n\n7:20pm – Networking drinks reception\n\n8:30pm – Event ends\n\nThe panel:\n\nAnushka Sharma, Founder, London Space Network (moderator)\n\nAlice Bunn, Co-Director, UK Space Agency\n\nProfessor Jonathan Eastwood, Convening…",
+    "source": "IC",
+    "date": "2026-10-07T17:30:00+01:00",
+    "durationMin": 180,
+    "venue": "Queen's Tower Rooms, Sherfield Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Space",
+      "Institutional Event",
+      "Event",
+      "Postgraduate students"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212140/world-space-week-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-418189603_1787047204215_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
@@ -1514,6 +1511,26 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/11/milner-prize-lecture/",
     "image": "https://royalsociety.org/-/media/events/2026/11/milner-prize-lecture/milneristock-1090964280.jpg"
+  },
+  {
+    "id": "rs:2026-11-lost-women-of-science-conversations",
+    "sourceEventId": "2026-11-lost-women-of-science-conversations",
+    "title": "Lost Women of Science Conversations: Hertha Ayrton - Electrical Engineer Extraordinaire",
+    "desc": "Join Lost Women of Science, the award-winning podcast that tells the stories of remarkable - and largely unheralded - female scientists throughout history, for an evening celebrating Royal Society Hughes Medal-winner Hertha Ayrton: inventor, engineer, suffragette, trailblazer and firefighter.",
+    "source": "RS",
+    "date": "2026-11-19T19:00:00+01:00",
+    "durationMin": 90,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Policy",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/lost-women-of-science-conversations/",
+    "image": "https://royalsociety.org/-/media/events/2026/11/lwos-hertha.jpg"
   },
   {
     "id": "rs:2026-11-science-narratives-and-the-public",
