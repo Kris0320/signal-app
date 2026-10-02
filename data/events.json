@@ -1,173 +1,5 @@
 [
   {
-    "id": "kcl:international-construction-arbitration-conference-2026",
-    "sourceEventId": "2a5ee212-7c3c-436c-bf1a-8fc7d67445f3",
-    "title": "International Construction Arbitration Conference 2026",
-    "desc": "Join us for the seventh annual International Construction Arbitration Conference",
-    "source": "KCL",
-    "date": "2026-10-01T09:30:00",
-    "durationMin": 480,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Law",
-      "The Dickson Poon School of Law"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/international-construction-arbitration-conference-2026",
-    "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/international-construction-arbitration-conference-2026-hero-image-1.x62824bfd.png"
-  },
-  {
-    "id": "kcl:from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
-    "sourceEventId": "f300cb03-3878-4e98-b96f-b6fb39f4d37d",
-    "title": "From Investment to Capability: The Future of Air and Space Power in the UK",
-    "desc": "From Investment to Capability: The Future of Air and Space Power in the UK",
-    "source": "KCL",
-    "date": "2026-10-01T10:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "Society",
-      "Freeman Air and Space Institute",
-      "Department of War Studies"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/from-investment-to-capability-the-future-of-air-and-space-power-in-the-uk",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/261001-mainimage-updated.xb1e20a07.png?w=782&h=440&crop=780,440,1,0"
-  },
-  {
-    "id": "kcl:the-prohibition-of-the-use-of-force-at-the-end-of-the-liberal-international-order",
-    "sourceEventId": "7f33e951-1298-4aa1-aa62-4d38d01bf968",
-    "title": "The Prohibition of the Use of Force at the End of the Liberal International Order",
-    "desc": "This talk will show how the abandonment and distortion of legal discursive practices unfolds and why this affects the Liberal International Order.",
-    "source": "KCL",
-    "date": "2026-10-01T16:30:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/the-prohibition-of-the-use-of-force-at-the-end-of-the-liberal-international-order",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/shutterstock-2215036015.xbbc19328.jpg?w=780&h=1170&crop=780,440,0,365"
-  },
-  {
-    "id": "kcl:book-talk-asian-crucible-globalisation-geopolitics-and-the-contest-for-the-future-with-prof-nick-bisley",
-    "sourceEventId": "95205b32-b467-479b-83db-db7e294bec42",
-    "title": "Book Talk: 'Asian Crucible: Globalisation, Geopolitics and the Contest for the Future' with Prof Nick Bisley",
-    "desc": "Asian Crucible explores the role of globalisation and geopolitics in the making of modern Asia.",
-    "source": "KCL",
-    "date": "2026-10-01T18:00:00",
-    "durationMin": 75,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Public lecture",
-      "International",
-      "Faculty of Social Science & Public Policy"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/book-talk-asian-crucible-globalisation-geopolitics-and-the-contest-for-the-future-with-prof-nick-bisley",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/asian-crucible-v2.xc63bf2da.png?w=781&h=440&crop=780,440,1,0"
-  },
-  {
-    "id": "kcl:military-innovation-network-welcome-event",
-    "sourceEventId": "fbe926bd-c1b6-46c5-b281-0da59eca3fd5",
-    "title": "Military Innovation Network: Welcome Event",
-    "desc": "Join the Military Innovation Network (MIN) for a Welcome Event for an evening of research discussions, networking, and engagement.",
-    "source": "KCL",
-    "date": "2026-10-01T18:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "International",
-      "Student"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/military-innovation-network-welcome-event",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/military-innovation-network-welcome-event.xea7efeb6.png?w=780&h=488&crop=780,440,0,0"
-  },
-  {
-    "id": "kcl:weekly-eucharist-at-guys-6",
-    "sourceEventId": "d53a2d63-ba96-46db-917b-710dff26c3f7",
-    "title": "Weekly Eucharist at Guy's",
-    "desc": "A Eucharist service every Friday at midday during term time in the Guy's Chapel.",
-    "source": "KCL",
-    "date": "2026-10-02T12:00:00",
-    "durationMin": 30,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Arts & Culture",
-      "International",
-      "Society"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/weekly-eucharist-at-guys-6",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Guys-Chapel.xb387592c.jpg?w=780&h=520&crop=780,440,0,61"
-  },
-  {
-    "id": "kcl:sweet-friday-at-guys-8",
-    "sourceEventId": "16585716-5f4c-4a0a-bcf1-662e4ae80512",
-    "title": "Sweet Friday! at Guy's",
-    "desc": "An opportunity to enjoy cake & coffee in the Guy's Chaplaincy every Friday during term time.",
-    "source": "KCL",
-    "date": "2026-10-02T13:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/sweet-friday-at-guys-8",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/cupcakes-art.x54c12ceb.jpg?w=780&h=585&crop=780,440,0,38"
-  },
-  {
-    "id": "kcl:afternoon-tea-at-the-strand-6",
-    "sourceEventId": "811d3b7a-00be-462a-bda1-92f179bb38bb",
-    "title": "Afternoon Tea at the Strand",
-    "desc": "An opportunity to enjoy Afternoon Tea in the Strand Chaplaincy every Friday during term time.",
-    "source": "KCL",
-    "date": "2026-10-02T14:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/afternoon-tea-at-the-strand-6",
-    "image": "https://www.kcl.ac.uk/newimages/new-students/begins/london/food-cake.x45f32373.jpg?w=780&h=520&crop=780,440,0,0"
-  },
-  {
     "id": "kcl:virtual-campus-tour-strand-bush-house-2-october-2026",
     "sourceEventId": "fed25ced-59ec-46e9-9d7e-897a1d54857f",
     "title": "Virtual Campus Tour: Strand & Bush House - 2 October 2026",
@@ -292,6 +124,69 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/ahscwru/swhn/events/2026/griffiths-780.x0db5e811.jpg"
   },
   {
+    "id": "kcl:american-overthrow-moscows-endgame-in-its-long-war-with-washington",
+    "sourceEventId": "58972fdc-039a-48de-81ef-b3695cd62d5d",
+    "title": "American Overthrow: Moscow’s Endgame in Its Long War with Washington",
+    "desc": "In his new book, American Overthrow, Keir Giles examines America’s political transformation through the prism of Kremlinology.",
+    "source": "KCL",
+    "date": "2026-10-05T17:00:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Public lecture",
+      "Faculty of Social Science & Public Policy",
+      "School of Politics & Economics"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/american-overthrow-moscows-endgame-in-its-long-war-with-washington",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/Russia/overthrow.xc687daa6.png?w=880&h=440&crop=780,440,50,0"
+  },
+  {
+    "id": "kcl:international-single-cell-mass-spectrometry-conference-and-bmss-single-cell-sig-meeting-2026",
+    "sourceEventId": "2887ec33-02ff-48b1-b928-f70c85b66ab8",
+    "title": "International Single Cell Mass Spectrometry Conference and BMSS single cell SIG meeting 2026",
+    "desc": "Discover the Future of Single-Cell Omics at the Joint iSCMS Conference & BMSS Single Cell MS SIG Meeting 2026 at King's College London",
+    "source": "KCL",
+    "date": "2026-10-06T08:30:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Faculty of Life Sciences & Medicine",
+      "School of Immunology & Microbial Sciences",
+      "Department of Infectious Diseases"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/international-single-cell-mass-spectrometry-conference-and-bmss-single-cell-sig-meeting-2026",
+    "image": "https://www.kcl.ac.uk/newimages/folsm/thumbnail-newsevents/sims/iscms-and-bmss-2026.xeb63c888.png"
+  },
+  {
+    "id": "kcl:morning-prayer-at-waterloo-2",
+    "sourceEventId": "6730a351-b516-46f8-89fd-c5c86b5d830a",
+    "title": "Morning Prayer at Waterloo",
+    "desc": "A simple morning prayer in the Christian tradition to start your day.",
+    "source": "KCL",
+    "date": "2026-10-06T09:30:00",
+    "durationMin": 20,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-waterloo-2",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
     "id": "kcl:future-skills-hackathon-thriving-in-the-age-of-genai",
     "sourceEventId": "0aa31ce7-2d3f-4313-8df8-59c06d949ae7",
     "title": "Future Skills Hackathon: Thriving in the Age of GenAI",
@@ -414,6 +309,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/law-undergraduate-information-session-hong-kong-3-november",
     "image": "https://www.kcl.ac.uk/newimages/law/images/somerset-house.x3e401677.jpg?w=780&h=585&crop=780,440,0,73"
+  },
+  {
+    "id": "kcl:2026-reese-lecture",
+    "sourceEventId": "ac24e3f6-8384-4ccf-a094-af2a0374a66b",
+    "title": "2026 Australia Studies Institute Reese Lecture: Vannessa Hearmann, \"In the hands of ordinary people: Australia’s changing relationship with Indonesia and Timor-Leste\"",
+    "desc": "The Australia Studies Institute is hosting Associate Professor Vannessa Hearman to deliver the 2026 Reese Memorial Lecture on her new book 'The Good Sea.'",
+    "source": "KCL",
+    "date": "2026-11-03T18:30:00",
+    "durationMin": 105,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Australia Studies Institute",
+      "King’s Global Institutes",
+      "School of Global Affairs"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/2026-reese-lecture",
+    "image": "https://www.kcl.ac.uk/newimages/sspp/Global-Institutes/tasi-diak-119-boat-naa-with-permission.x84848050.JPG?w=780&h=535&crop=780,440,0,48"
   },
   {
     "id": "kcl:mindfulness-with-jenny-online-21",
@@ -584,27 +500,6 @@
     "image": "https://www.kcl.ac.uk/newimages/ai/780x440/ai-for-ocean-exploration-ai-frontiers-eric-orenstein-780x440.xb5db2aa3.png?w=781&h=440&crop=780,440,1,0"
   },
   {
-    "id": "kcl:daniell-lecture-2026-polymer-colloids-rock",
-    "sourceEventId": "01d344ef-b228-4bb9-980e-1802cd3565c6",
-    "title": "Daniell Lecture 2026: Polymer colloids rock!",
-    "desc": "An exciting chemistry lecture for secondary students from Chemistry Professor Stefan A. F. Bon.",
-    "source": "KCL",
-    "date": "2026-11-04T16:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Public lecture",
-      "Technology & Science",
-      "Faculty of Natural, Mathematical & Engineering Sciences"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/daniell-lecture-2026-polymer-colloids-rock",
-    "image": "https://www.kcl.ac.uk/newimages/nmes/outreach/chemistry/daniell-lecture-2026-thumbnail-main-image-780-x-440-4.x6494feba.png"
-  },
-  {
     "id": "ic:212487",
     "sourceEventId": "212487",
     "title": "Discover Imperial Fair – White City",
@@ -669,27 +564,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bioeng-lecture-2026_1786483609835_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:213955",
-    "sourceEventId": "213955",
-    "title": "Geometry and Topology Seminar – Kyler Siegel (Imperial College London).",
-    "desc": "Kyler Siegel (Imperial College London): tbc\n\nMore information on the GT seminar website",
-    "source": "IC",
-    "date": "2026-10-02T13:30:00+01:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213955/geometry-and-topology-seminar-kyler-siegel-imperial-college-london/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:213295",
     "sourceEventId": "213295",
     "title": "Biomathematics Seminar – Meichen Fang (Imperial)",
@@ -708,7 +582,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213295/biomathematics-seminar-meichen-fang-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:187622",
@@ -741,7 +615,7 @@
     "source": "IC",
     "date": "2026-10-05T15:00:00+01:00",
     "durationMin": 60,
-    "venue": "539, Blackett Building, South Kensington Campus",
+    "venue": "1004, Blackett Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
@@ -862,7 +736,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213507/annual-ccmi-cdt-opening-celebrations/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213759",
@@ -883,7 +757,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213759/finance-and-stochastics-seminar-martin-herdegen/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214389",
@@ -904,7 +778,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214389/astrophysics-weekly-seminar-kai-lehman-beyond-the-explicit-likelihood-novel-methods-for-simulation-based-cosmology/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212844",
@@ -1013,7 +887,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213739/control-and-optimisation-seminar-jacco-thyssen-york/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214137",
@@ -1036,7 +910,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214137/spc-seminar-space-dr-mariana-jeunon-barros-qmul/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212725",
@@ -1059,6 +933,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212725/designing-the-sustainable-aircraft-from-high-fidelity-computational-aerodynamics-to-ai-assisted-multidisciplinary-design/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/1430-1_1788451797352_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214487",
+    "sourceEventId": "214487",
+    "title": "Number Theory Seminar – Dongryul Kim",
+    "desc": "Dongryul Kim: Deformation theory of mixed-characteristic shtukas\n\nMore information available on the Number Theory seminar website",
+    "source": "IC",
+    "date": "2026-10-07T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "139, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214487/number-theory-seminar-dongryul-kim/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212140",
@@ -1281,6 +1176,26 @@
     "image": "https://royalsociety.org/-/media/events/2026/12/crossing-barriers/aiss.jpeg"
   },
   {
+    "id": "rs:2026-12-creating-connections-inthesoutheast",
+    "sourceEventId": "2026-12-creating-connections-inthesoutheast",
+    "title": "Creating Connections in the South East 2026",
+    "desc": "The Royal Society’s Creating Connections meeting in Southampton will explore the region’s role in driving innovation and prosperity across the UK.",
+    "source": "RS",
+    "date": "2026-12-08T10:30:00+01:00",
+    "durationMin": 330,
+    "venue": "The Studio, 7 Cannon St, Birmingham B2 5EP",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Policy",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/12/creating-connections-inthesoutheast/",
+    "image": "https://royalsociety.org/-/media/policy/publications/2018/creating-connections.jpg"
+  },
+  {
     "id": "rs:2027-01-finding-earths",
     "sourceEventId": "2027-01-finding-earths",
     "title": "Developing a network of high-stability spectrographs to find Earth twins",
@@ -1374,25 +1289,6 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/03/future-of-materials-discovery/",
     "image": "https://royalsociety.org/-/media/events/2027/03/future-materials/lead-image.jpg"
-  },
-  {
-    "id": "rs:2027-04-sequences-behaviour-and-cognitive-evolution",
-    "sourceEventId": "2027-04-sequences-behaviour-and-cognitive-evolution",
-    "title": "Sequences, behaviour and cognitive evolution",
-    "desc": "Theo Murphy meeting organised by Professor Robert Barton, Professor Zanna Clay and Professor Nicky Clayton FRS",
-    "source": "RS",
-    "date": "2027-04-05T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "DoubleTree by Hilton, Bristol City Centre",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2027/04/sequences-behaviour-and-cognitive-evolution/",
-    "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
   },
   {
     "id": "rs:2026-10-francis-crick-prize-lecture",
