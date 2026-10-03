@@ -1,43 +1,33 @@
 # Signal
 
-Signal is a cross-platform event discovery app prototype.
+Event discovery for London, from many sources in one feed.
 
-It helps users discover and evaluate relevant public events across fragmented sources such as Eventbrite, Meetup, university calendars, and cultural event pages.
+**[Live demo](https://signal-app-blush.vercel.app)** · Prototype, mobile layout
 
-## Current Direction
-This project is currently focused on front-end prototype development.
+![Signal screens: home feed, search and filters, event detail, saved list with calendar](assets/screenshot-home.webp)
 
-The current UI baseline comes from an exported standalone HTML prototype.
+## Why I built it
 
-The goal is to:
-1. preserve the current visual prototype,
-2. refactor it into a cleaner front-end structure,
-3. and then gradually add interaction and logic.
+Public events in London are spread across university pages, research institutions and community groups. Signal brings them into one feed, with search, filters and a saved list, so a person can decide quickly what is worth going to. I also built it to practise taking a design prototype to a working app with real data.
 
-## Core Screens
-The prototype currently includes 5 screens:
-- Onboarding
-- Home feed
-- Search & filters
-- Event detail
-- Saved
+## What it does
 
-## Product Positioning
-Signal is:
-- an event discovery app
-- a cross-platform aggregator
-- a filtering and decision-support tool
+- Home feed, search and filters, event detail, and a saved list with a calendar view that shows clashes
+- Real events from King's College London, Imperial, LSE, UCL, the Royal Society, the Alan Turing Institute and the Wellcome Collection. Meetup can be added with credentials
+- Each source has its own connector. Records are turned into one data format and every ID carries its source name, so each source can be refreshed on its own
+- A GitHub Actions workflow refreshes the data twice a day (03:00 and 15:00 UTC) and commits the update
 
-Signal is not:
-- a ticketing platform
-- a payment platform
-- a full event publishing system
+## How I built it
 
-## Current Priorities
-- inspect and clean the standalone HTML prototype
-- split into maintainable files
-- preserve visual quality
-- add interaction gradually
+I built Signal with Claude Code. The project rules are in `CLAUDE.md` and the design brief is in `brief.md`. I started from an exported standalone HTML prototype (`signal-standalone.html`), split it into `index.html`, `styles.css` and `script.js`, and then added the data connectors.
+
+## Status
+
+A working prototype, not a finished product. It does not sell tickets or take payments.
+
+---
+
+## Developer notes
 
 ## Running locally
 The front-end uses `fetch('data/events.json')`, so it must be served over HTTP — opening `index.html` via `file://` will fail CORS.
@@ -130,8 +120,13 @@ signal-app/
 │   │   ├── kcl.mjs
 │   │   ├── lse.mjs
 │   │   ├── ucl.mjs
+│   │   ├── royal-society.mjs
+│   │   ├── turing.mjs
+│   │   ├── wellcome.mjs
 │   │   └── meetup.mjs
 │   └── lib/
 │       ├── meetup-auth.mjs
 │       └── duration.mjs
-└── assets/
+├── assets/
+│   └── screenshot-home.webp
+└── .github/workflows/update-events.yml
