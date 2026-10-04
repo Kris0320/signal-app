@@ -290,27 +290,6 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Global-Institutes/tasi-diak-119-boat-naa-with-permission.x84848050.JPG?w=780&h=535&crop=780,440,0,48"
   },
   {
-    "id": "kcl:joint-rd-office-wednesday-walk-in-november",
-    "sourceEventId": "5431c597-8382-4e00-bcc5-6719b3c932fe",
-    "title": "Joint R&D Office Wednesday Walk-In",
-    "desc": "Drop in and discuss your questions with the Joint R&D Office on the first Wednesday of every month.",
-    "source": "KCL",
-    "date": "2026-11-04T10:00:00",
-    "durationMin": 300,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Health",
-      "NIHR Biomedical Research Centre: Maudsley",
-      "Institute of Psychiatry, Psychology & Neuroscience"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/joint-rd-office-wednesday-walk-in-november",
-    "image": "https://www.kcl.ac.uk/newimages/ioppn/research-and-development/joint-rd-office-drop-in-session.xf23d189a.png"
-  },
-  {
     "id": "kcl:mindfulness-with-jenny-online-21",
     "sourceEventId": "ee63f6c7-aeb1-478f-8677-d6bc14f95a44",
     "title": "Mindfulness with Jenny - Online",
@@ -330,6 +309,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-21",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/winter-path.x8d8d756b.jpg?w=837&h=558&crop=780,440,0,118"
+  },
+  {
+    "id": "kcl:joint-rd-office-wednesday-walk-in-november",
+    "sourceEventId": "5431c597-8382-4e00-bcc5-6719b3c932fe",
+    "title": "Joint R&D Office Wednesday Walk-In",
+    "desc": "Drop in and discuss your questions with the Joint R&D Office on the first Wednesday of every month.",
+    "source": "KCL",
+    "date": "2026-11-04T10:00:00",
+    "durationMin": 300,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Health",
+      "NIHR Biomedical Research Centre: Maudsley",
+      "Institute of Psychiatry, Psychology & Neuroscience"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/joint-rd-office-wednesday-walk-in-november",
+    "image": "https://www.kcl.ac.uk/newimages/ioppn/research-and-development/joint-rd-office-drop-in-session.xf23d189a.png"
   },
   {
     "id": "kcl:praying-the-holy-rosary-at-guys-9",
@@ -540,7 +540,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213295/biomathematics-seminar-meichen-fang-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:187622",
@@ -673,7 +673,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214159/dynamical-systems-seminar-tommaso-cornelis-rosati/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213507",
@@ -694,7 +694,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213507/annual-ccmi-cdt-opening-celebrations/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213759",
@@ -715,7 +715,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213759/finance-and-stochastics-seminar-martin-herdegen/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214389",
@@ -736,7 +736,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214389/astrophysics-weekly-seminar-kai-lehman-beyond-the-explicit-likelihood-novel-methods-for-simulation-based-cosmology/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212844",
@@ -845,7 +845,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213739/control-and-optimisation-seminar-jacco-thyssen-york/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214137",
@@ -911,7 +911,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214487/number-theory-seminar-dongryul-kim/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212140",
