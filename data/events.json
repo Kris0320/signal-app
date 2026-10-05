@@ -1,26 +1,5 @@
 [
   {
-    "id": "kcl:morning-prayer-online-13",
-    "sourceEventId": "4c61a67f-f068-4de8-9d09-4ed5b5d5c69f",
-    "title": "Morning Prayer - Online",
-    "desc": "A short, simple online prayer service at the start of the week.",
-    "source": "KCL",
-    "date": "2026-10-05T09:30:00",
-    "durationMin": 30,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-online-13",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
     "id": "kcl:book-talk-negotiating-with-the-enemy-the-case-of-the-helsinki-final-act-1975",
     "sourceEventId": "fbca2eb4-153a-42a5-86da-f869525c7099",
     "title": "Book Talk: Negotiating With The Enemy: The Case Of The Helsinki Final Act (1975)",
@@ -143,6 +122,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/morning-prayer-at-denmark-hill-6",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
+  },
+  {
+    "id": "kcl:lunch-at-denmark-hill-1",
+    "sourceEventId": "c5501805-e2b4-460f-acb1-eb99adfb17e0",
+    "title": "Lunch at Denmark Hill",
+    "desc": "Meet with other staff & students & enjoy a (free!) vegetarian light lunch in the Denmark Hill Chaplaincy.",
+    "source": "KCL",
+    "date": "2026-10-06T12:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/lunch-at-denmark-hill-1",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/lunch.x1b70b288.jpg?w=871&h=581&crop=780,440,0,88"
   },
   {
     "id": "kcl:future-skills-hackathon-thriving-in-the-age-of-genai",
@@ -458,6 +458,28 @@
     "image": "https://www.kcl.ac.uk/newimages/ai/780x440/ai-for-ocean-exploration-ai-frontiers-eric-orenstein-780x440.xb5db2aa3.png?w=781&h=440&crop=780,440,1,0"
   },
   {
+    "id": "ic:212140",
+    "sourceEventId": "212140",
+    "title": "World Space Week 2026 – panel and networking",
+    "desc": "Join Imperial’s School of Convergence Science and the London Space Network for a World Space Week panel discussion and networking event.\n\nThe discussion, ‘Sovereign capability: innovation and access’ will explore the UK’s reliance on other nations’ capabilities and how sovereign capability will transform the UK and shape our future.\n\nA drinks reception will follow the panel discussion.\n\nAgenda\n\n5:30pm – Arrivals and registration\n\n6:00pm – Welcome from Professor Nigel Brandon, Vice-President (Corporate Engagement), Imperial College London\n\n6:10pm – Panel discussion\n\n7:00pm – Q&A\n\n7:20pm – Networking drinks reception\n\n8:30pm – Event ends\n\nThe panel:\n\nAnushka Sharma, Founder, London Space Network (moderator)\n\nAlice Bunn, Co-Director, UK Space Agency\n\nProfessor Jonathan Eastwood, Convening…",
+    "source": "IC",
+    "date": "2026-10-07T17:30:00+01:00",
+    "durationMin": 180,
+    "venue": "Queen's Tower Rooms, Sherfield Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Space",
+      "Institutional Event",
+      "Postgraduate students"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212140/world-space-week-2026/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-418189603_1787047204215_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:212487",
     "sourceEventId": "212487",
     "title": "Discover Imperial Fair – White City",
@@ -478,6 +500,29 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212487/discover-imperial-fair-white-city-2/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/210917-north-site-white-city-053_1723561716135_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212233",
+    "sourceEventId": "212233",
+    "title": "Sculpting light in space and time with metamaterials",
+    "desc": "What happens when we manipulate light not just in space, but in time? Discover how light waves from the past and future can interact with Professor Riccardo Sapienza, Professor of Physics.\n\nPlease register to attend in person. A live stream link for online attendance is available here.\n\nWe look forward to seeing you on Wednesday 7 October!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nLight powers the global internet, enables deep-space and medical imaging, and sustains life on Earth. But how do we actually control the flow of something so fast and intangible? For centuries, traditional optics relied on the simple curved surfaces of glass lenses. Today, the modern science of…",
+    "source": "IC",
+    "date": "2026-10-07T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Lecture theatre 1, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Institutional Event",
+      "Imperial Inaugurals",
+      "Physics",
+      "Centre for plasmonics and metamaterials"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212233/sculpting-light-in-space-and-time-with-metamaterials/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-whats-on-banner-riccardo-sapienza_1787227402941_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212436",
@@ -540,7 +585,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213295/biomathematics-seminar-meichen-fang-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:187622",
@@ -673,7 +718,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214159/dynamical-systems-seminar-tommaso-cornelis-rosati/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213507",
@@ -694,7 +739,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213507/annual-ccmi-cdt-opening-celebrations/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213759",
@@ -715,7 +760,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213759/finance-and-stochastics-seminar-martin-herdegen/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214389",
@@ -736,7 +781,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214389/astrophysics-weekly-seminar-kai-lehman-beyond-the-explicit-likelihood-novel-methods-for-simulation-based-cosmology/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212844",
@@ -845,7 +890,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213739/control-and-optimisation-seminar-jacco-thyssen-york/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214137",
@@ -868,7 +913,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214137/spc-seminar-space-dr-mariana-jeunon-barros-qmul/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212725",
@@ -912,29 +957,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214487/number-theory-seminar-dongryul-kim/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:212140",
-    "sourceEventId": "212140",
-    "title": "World Space Week 2026 – panel and networking",
-    "desc": "Join Imperial’s School of Convergence Science and the London Space Network for a World Space Week panel discussion and networking event.\n\nThe discussion, ‘Sovereign capability: innovation and access’ will explore the UK’s reliance on other nations’ capabilities and how sovereign capability will transform the UK and shape our future.\n\nA drinks reception will follow the panel discussion.\n\nAgenda\n\n5:30pm – Arrivals and registration\n\n6:00pm – Welcome from Professor Nigel Brandon, Vice-President (Corporate Engagement), Imperial College London\n\n6:10pm – Panel discussion\n\n7:00pm – Q&A\n\n7:20pm – Networking drinks reception\n\n8:30pm – Event ends\n\nThe panel:\n\nAnushka Sharma, Founder, London Space Network (moderator)\n\nAlice Bunn, Co-Director, UK Space Agency\n\nProfessor Jonathan Eastwood, Convening…",
-    "source": "IC",
-    "date": "2026-10-07T17:30:00+01:00",
-    "durationMin": 180,
-    "venue": "Queen's Tower Rooms, Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Space",
-      "Institutional Event",
-      "Event",
-      "Postgraduate students"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212140/world-space-week-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-418189603_1787047204215_eventfeatured2018_x1.jpg"
   },
   {
     "id": "lse:ai-socialism",
