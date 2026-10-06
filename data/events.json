@@ -1,66 +1,5 @@
 [
   {
-    "id": "kcl:book-talk-negotiating-with-the-enemy-the-case-of-the-helsinki-final-act-1975",
-    "sourceEventId": "fbca2eb4-153a-42a5-86da-f869525c7099",
-    "title": "Book Talk: Negotiating With The Enemy: The Case Of The Helsinki Final Act (1975)",
-    "desc": "This seminar will examine how the Final Act was negotiated, why the talks succeeded, and what its lessons are for today’s international conflicts.",
-    "source": "KCL",
-    "date": "2026-10-05T12:30:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "International",
-      "Society"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/book-talk-negotiating-with-the-enemy-the-case-of-the-helsinki-final-act-1975",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/ws/negotiating-with-the-enemy-book-talk-k-banner.x5276dada.png"
-  },
-  {
-    "id": "kcl:griffiths-report",
-    "sourceEventId": "dcba5c49-5647-43c0-b06b-6b878e5605f1",
-    "title": "Agenda for Action – digging deep on the origins and impact of the Griffiths’ Community Care report for social work",
-    "desc": "Robin Means, Jon Glasby, Jill Manthorpe",
-    "source": "KCL",
-    "date": "2026-10-05T13:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Health and Social Care Workforce Research Unit"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/griffiths-report",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/ahscwru/swhn/events/2026/griffiths-780.x0db5e811.jpg"
-  },
-  {
-    "id": "kcl:american-overthrow-moscows-endgame-in-its-long-war-with-washington",
-    "sourceEventId": "58972fdc-039a-48de-81ef-b3695cd62d5d",
-    "title": "American Overthrow: Moscow’s Endgame in Its Long War with Washington",
-    "desc": "In his new book, American Overthrow, Keir Giles examines America’s political transformation through the prism of Kremlinology.",
-    "source": "KCL",
-    "date": "2026-10-05T17:00:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Public lecture",
-      "Faculty of Social Science & Public Policy",
-      "School of Politics & Economics"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/american-overthrow-moscows-endgame-in-its-long-war-with-washington",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/Russia/overthrow.xc687daa6.png?w=880&h=440&crop=780,440,50,0"
-  },
-  {
     "id": "kcl:international-single-cell-mass-spectrometry-conference-and-bmss-single-cell-sig-meeting-2026",
     "sourceEventId": "2887ec33-02ff-48b1-b928-f70c85b66ab8",
     "title": "International Single Cell Mass Spectrometry Conference and BMSS single cell SIG meeting 2026",
@@ -82,34 +21,13 @@
     "image": "https://www.kcl.ac.uk/newimages/folsm/thumbnail-newsevents/sims/iscms-and-bmss-2026.xeb63c888.png"
   },
   {
-    "id": "kcl:lunch-at-denmark-hill-1",
-    "sourceEventId": "c5501805-e2b4-460f-acb1-eb99adfb17e0",
-    "title": "Lunch at Denmark Hill",
-    "desc": "Meet with other staff & students & enjoy a (free!) vegetarian light lunch in the Denmark Hill Chaplaincy.",
+    "id": "kcl:funder-expectations-for-pis-managers-takeover-1",
+    "sourceEventId": "f3dc5cbc-b6c2-4e5b-822b-f91387d3a983",
+    "title": "Funder Expectations for PIs: Manager's Takeover",
+    "desc": "Hear from key funders (UKRI and Wellcome) about their expectations of Principal Investigators in supporting the career development, wellbeing, and progression of research staff through grant funding.",
     "source": "KCL",
-    "date": "2026-10-06T12:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/lunch-at-denmark-hill-1",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/lunch.x1b70b288.jpg?w=871&h=581&crop=780,440,0,88"
-  },
-  {
-    "id": "kcl:making-time-for-what-matters",
-    "sourceEventId": "89ce60c0-bf05-4bff-8d82-59ca9eb0e2c6",
-    "title": "Making Time for What Matters",
-    "desc": "Learn how to prioritise with confidence, protect your time, and progress your most important goals.",
-    "source": "KCL",
-    "date": "2026-10-06T12:00:00",
-    "durationMin": 60,
+    "date": "2026-10-06T13:30:00",
+    "durationMin": 45,
     "venue": "Online",
     "area": "Online",
     "price": 0,
@@ -119,29 +37,50 @@
     ],
     "format": "Online",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/making-time-for-what-matters",
+    "url": "https://www.kcl.ac.uk/events/funder-expectations-for-pis-managers-takeover-1",
     "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
   },
   {
-    "id": "kcl:international-lunch-at-waterloo-7",
-    "sourceEventId": "fbbfc4a1-2e33-43e1-9582-c4e6d75c5235",
-    "title": "International Lunch at Waterloo",
-    "desc": "Meet other members of the King's community and enjoy a (free!) lunch.",
+    "id": "kcl:virtual-campus-tour-guys-6-october-2026",
+    "sourceEventId": "2b91cd60-461a-4f3f-ad10-3d493ec6efd9",
+    "title": "Virtual Campus Tour: Guy's - 6 October 2026",
+    "desc": "Take a virtual tour of our Guy's campus",
     "source": "KCL",
-    "date": "2026-10-06T12:00:00",
-    "durationMin": 90,
+    "date": "2026-10-06T16:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Prospective students",
+      "Student",
+      "University"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/virtual-campus-tour-guys-6-october-2026",
+    "image": "https://www.kcl.ac.uk/newimages/study/undergraduate/guys-campus.x68cdcedb.jpg?w=780&h=521&crop=780,440,0,41"
+  },
+  {
+    "id": "kcl:kings-population-health-institute-vanguard-series-professor-steven-hoffman",
+    "sourceEventId": "a270939e-50f5-4e1e-a4c9-fd89fe98a91b",
+    "title": "King's Population Health Institute Vanguard Series: In Conversation with Professor Steven Hoffman",
+    "desc": "King's Population Health Institute Vanguard Series: Professor Steven Hoffman",
+    "source": "KCL",
+    "date": "2026-10-06T17:30:00",
+    "durationMin": 60,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
     "tags": [
-      "Student",
-      "International",
-      "University"
+      "Public lecture",
+      "Health",
+      "International"
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/international-lunch-at-waterloo-7",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/lunch-2.x5ac34aef.jpg?w=860&h=573&crop=780,440,0,50"
+    "url": "https://www.kcl.ac.uk/events/kings-population-health-institute-vanguard-series-professor-steven-hoffman",
+    "image": "https://www.kcl.ac.uk/newimages/hero/hero-feature/2020/kcl-kphi-visualidentity-finalconceptv02-main-visual.x91ed9ece.png?w=782&h=440&crop=780,440,1,0"
   },
   {
     "id": "kcl:future-skills-hackathon-thriving-in-the-age-of-genai",
@@ -565,134 +504,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/single-speaker-image-1_1786958186800_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212939",
-    "sourceEventId": "212939",
-    "title": "Navigating IP in the world of AI",
-    "desc": "Join our IP experts as they cover key points that researchers in applied AI need to know about protecting AI-related research\n\nWhat’s the key information?\n\nEvent format: Panel discussion with audience Q&A followed by a networking lunch\n\nEvent date: Tuesday 6 October 2026\n\nEvent time: 12:00 pm – 1:15 pm (Networking lunch: 1:15 pm – 2:00 pm)\n\nEvent location: The Arena, Scale Space , White City\n\nWho should attend?\n\nAcademics and early-career researchers from Imperial College London with an interest in commercialising their research through spinouts or licensing and startups and early-stage spinouts in Imperial’s ecosystem.\n\nPlease note: Attendance at this event is reserved for Imperial College London staff and staff at companies in Imperial’s ecosystem.\n\nWhat will we cover?\n\nWhatever your…",
-    "source": "IC",
-    "date": "2026-10-06T12:00:00+01:00",
-    "durationMin": 120,
-    "venue": "The Area, Scale Space, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "enterprise",
-      "Institutional Event",
-      "Event",
-      "Staff"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212939/navigating-ip-in-the-world-of-ai/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/vs-ip-event-oct26-ds_1788869531779_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:209807",
-    "sourceEventId": "209807",
-    "title": "DoID Seminar Series: Dr George Chamilos – Novel immunometabolic mechanisms regulating fungal phagosome biogenesis in health and disease",
-    "desc": "DoID seminar series (hybrid)\n\njoin us for our next seminar\n\nBiography: Dr George Chamilos\n\nGeorgios Chamilos, MD, is Professor and Head of the Laboratory of Clinical Microbiology and Microbial Pathogenesis at the School of Medicine, University of Crete. He is also an affiliated Professor of Internal Medicine and Infectious Diseases and a Group Leader at the Institute of Molecular Biology and Biotechnology of the Foundation for Research and Technology–Hellas (IMBB-FORTH).\n\nDr Chamilos is a physician-scientist specializing in the immunobiology of invasive fungal infections. His research investigates how professional phagocytes recognize and eliminate fungal pathogens, with particular emphasis on Aspergillus and Mucorales. His laboratory employs comparative experimental models, ranging from…",
-    "source": "IC",
-    "date": "2026-10-06T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "SAFB 120, Sir Alexander Fleming Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/209807/doid-seminar-series-dr-george-chamilos-university-of-crete/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/georgis-chamilos-photo_1789130128404_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:214159",
-    "sourceEventId": "214159",
-    "title": "Dynamical Systems Seminar – Tommaso Cornelis Rosati",
-    "desc": "Speaker : Tommaso Cornelis Rosati\n\nTitle : Lyapunov exponents for linear cocycles driven by stochastic Navier-Stokes\n\nAbstract : We provide the first convergence result for finite time Lyapunov exponents of Passive Scalar Advection and Linearized Stochastic Navier-Stokes (two linear cocycles driven by the stochastic Navier-Stokes equations). The proof is based on establishing unique ergodicity for a Markov process with values in an infinite-dimensional projective space. Uniqueness of the invariant measures requires an extension of asymptotic coupling tools, and proving a generic non-collinearity for passive scalar advection. Joint work with Sam Punshon-Smith.",
-    "source": "IC",
-    "date": "2026-10-06T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "145, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214159/dynamical-systems-seminar-tommaso-cornelis-rosati/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:213507",
-    "sourceEventId": "213507",
-    "title": "Annual CCMI CDT Opening Celebrations",
-    "desc": "Speaker: Prof Anna-Karin Tornberg\n\nWe would love for you to join us for our Annual CCMI CDT Opening Celebrations on Tuesday 6 October from 2pm onwards in 90 High Holborn.\n\nWe are going to have an amazing seminar by Prof Anna-Karin Tornberg from KTH Stockholm followed by drinks and nibbles to celebrate with our existing and new PhD students.\n\nYou can sign up at\n\nhttps://www.eventbrite.com/e/ccmi-cdt-start-of-year-celebrations-tickets-2000965939991?aff=oddtdtcreator\n\nHoping to see you there.\n\nBest wishes\n\nColin Cotter",
-    "source": "IC",
-    "date": "2026-10-06T14:00:00+01:00",
-    "durationMin": 120,
-    "venue": "UCL",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213507/annual-ccmi-cdt-opening-celebrations/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:213759",
-    "sourceEventId": "213759",
-    "title": "Finance and Stochastics Seminar – Martin Herdegen",
-    "desc": "Speaker : Martin Herdegen\n\nTitle : Optimal Investment and Consumption in a Stochastic Factor Model\n\nAbstract : In this talk, we study optimal investment and consumption in an incomplete stochastic factor model for a power utility investor on the infinite horizon.When the state space of the stochastic factor is finite, we give a complete characterisation of the well-posedness of the problem, and provide an efficient numerical algorithm for computing the value function. When the state space is a (possibly infinite) open interval and the stochastic factor is represented by an Itô diffusion, we develop a general theory of sub- and supersolutions for second-order ordinary differential equations on open domains without boundary values to prove existence of the solution to the…",
-    "source": "IC",
-    "date": "2026-10-06T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213759/finance-and-stochastics-seminar-martin-herdegen/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:214389",
-    "sourceEventId": "214389",
-    "title": "Astrophysics Weekly Seminar: Kai Lehman – Beyond the Explicit Likelihood: Novel Methods for Simulation-Based Cosmology",
-    "desc": "Astrophysics Weekly Seminar: Kai Lehman - Beyond the Explicit Likelihood: Novel Methods for Simulation-Based Cosmology",
-    "source": "IC",
-    "date": "2026-10-06T14:30:00+01:00",
-    "durationMin": 60,
-    "venue": "711C, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214389/astrophysics-weekly-seminar-kai-lehman-beyond-the-explicit-likelihood-novel-methods-for-simulation-based-cosmology/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:212844",
     "sourceEventId": "212844",
     "title": "Entrepreneur Masterclass: From Lab Demo to Product Portfolio",
@@ -799,7 +610,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213739/control-and-optimisation-seminar-jacco-thyssen-york/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214137",
@@ -865,13 +676,13 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214487/number-theory-seminar-dongryul-kim/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212140",
     "sourceEventId": "212140",
     "title": "World Space Week 2026 – panel and networking",
-    "desc": "Join Imperial’s School of Convergence Science and the London Space Network for a World Space Week panel discussion and networking event.\n\nThe discussion, ‘Sovereign capability: innovation and access’ will explore the UK’s reliance on other nations’ capabilities and how sovereign capability will transform the UK and shape our future.\n\nA drinks reception will follow the panel discussion.\n\nAgenda\n\n5:30pm – Arrivals and registration\n\n6:00pm – Welcome from Professor Nigel Brandon, Vice-President (Corporate Engagement), Imperial College London\n\n6:10pm – Panel discussion\n\n7:00pm – Q&A\n\n7:20pm – Networking drinks reception\n\n8:30pm – Event ends\n\nThe panel:\n\nAnushka Sharma, Founder, London Space Network (moderator)\n\nAlice Bunn, Co-Director, UK Space Agency\n\nProfessor Jonathan Eastwood, Convening…",
+    "desc": "*Please not that this event has now sold out and registration is closed*\n\nJoin Imperial’s School of Convergence Science and the London Space Network for a World Space Week panel discussion and networking event.\n\nThe discussion, ‘Sovereign capability: innovation and access’ will explore the UK’s reliance on other nations’ capabilities and how sovereign capability will transform the UK and shape our future.\n\nA drinks reception will follow the panel discussion.\n\nAgenda\n\n5:30pm – Arrivals and registration\n\n6:00pm – Welcome from Professor Nigel Brandon, Vice-President (Corporate Engagement), Imperial College London\n\n6:10pm – Panel discussion\n\n7:00pm – Q&A\n\n7:20pm – Networking drinks reception\n\n8:30pm – Event ends\n\nThe panel:\n\nAnushka Sharma, Founder, London Space Network (moderator)\n\nAlice…",
     "source": "IC",
     "date": "2026-10-07T17:30:00+01:00",
     "durationMin": 180,
@@ -975,6 +786,111 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214481/algebra-colloquium-marina-anagnostopoulou-merkouri-bristol/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:214162",
+    "sourceEventId": "214162",
+    "title": "Junior Dynamics Seminar – Kelan Gray (Imperial)",
+    "desc": "Koopman Operator Learning for Nonlinear PDEs\n\nAbstract : Koopman operators globally linearize nonlinear dynamical systems, and their spectral information provides a powerful tool for understanding the underlying system. Data-driven methods such as Dynamic Mode Decomposition (DMD) have exploited this idea and are widely used on nonlinear PDEs. Yet the supporting theory is almost entirely restricted to finite-dimensional dynamical systems. This talk takes the first steps towards a rigorous framework for learning Koopman operators of infinite-dimensional dynamical systems. In infinite dimensions, one must tread carefully: even the existence of a Koopman operator for simple PDEs is not guaranteed. For nonlinear Hamiltonian PDEs, however, significant progress is possible. We prove that, for…",
+    "source": "IC",
+    "date": "2026-10-08T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "642, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214162/junior-dynamics-seminar-amir-khodaeian-karim-imperial/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211812",
+    "sourceEventId": "211812",
+    "title": "John Mumford Research to Impact Seminar",
+    "desc": "Widespread electrification is crucial to combatting the climate crisis. As part of decarbonising transport, electric vehicles (EVs) are being rapidly deployed as a critical technological solution. The mineral extraction feeding EV battery production can, however, cause serious harm to local people and ecosystems, a topic often left out of the energy transition discourse.\n\nThis seminar explores the interconnection between EVs and the natural world, and why decarbonization is increasingly putting climate action and biodiversity protection at odds with each other. Shyam Sharma shares the models he has developed for anticipating and articulating the impact of mining for battery minerals (such as lithium, nickel, and cobalt) on threatened and endemic species around the world. This research is…",
+    "source": "IC",
+    "date": "2026-10-08T17:00:00+01:00",
+    "durationMin": 60,
+    "venue": "G34, Sir Alexander Fleming Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211812/john-mumford-research-to-impact-seminar-3/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/untitled-august-17-2026-at-123451_1786966801785_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213641",
+    "sourceEventId": "213641",
+    "title": "Mathematician, Engineer and Suffragette: The Extraordinary Life of Hertha Ayrton",
+    "desc": "Mathematician, Engineer and Suffragette: The Extraordinary Life of Hertha Ayrton\n\nMathematician, Engineer and Suffragette: The Extraordinary Life of Hertha Ayrton is a surprising talk about Hertha Ayrton. Hertha, born in Portsmouth in 1854 in a lower middle class Jewish family put herself through university (whilst there she formed the first all women fire brigade in the world) and then became a leading UK mathematician and engineer. Hertha’s good friend was Marie Curie, but despite being well connected scientifically was turned down for Fellowship of the Royal Society as being a married woman she was not a ‘legal entity’. Hertha was also an incredibly famous suffragette, so prominent that when three suffragettes were chosen to meet the Prime Minister, she was one of the three. The talk…",
+    "source": "IC",
+    "date": "2026-10-08T18:30:00+01:00",
+    "durationMin": 120,
+    "venue": "HXLY340, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213641/mathematician-engineer-and-suffragette-the-extraordinary-life-of-hertha-ayrton/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213957",
+    "sourceEventId": "213957",
+    "title": "Geometry and Topology Seminar – Warren Li (Imperial College London)",
+    "desc": "Warren Li (Imperial College London): tbc\n\nMore information on the GT seminar website",
+    "source": "IC",
+    "date": "2026-10-09T13:30:00+01:00",
+    "durationMin": 60,
+    "venue": "642, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213957/geometry-and-topology-seminar-warren-li-imperial-college-london/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213715",
+    "sourceEventId": "213715",
+    "title": "Fluid Dynamics Seminar: Yuri Muzychka (Memorial University)",
+    "desc": "Scaling, Asymptotes, and Modelling in Transport Phenomena",
+    "source": "IC",
+    "date": "2026-10-09T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "139, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213715/fluid-dynamics-seminar-yuri-muzychka-memorial-university/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:elders-2046-for-living-and-dying-otherwise",
