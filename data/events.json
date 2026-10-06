@@ -82,13 +82,13 @@
     "image": "https://www.kcl.ac.uk/newimages/folsm/thumbnail-newsevents/sims/iscms-and-bmss-2026.xeb63c888.png"
   },
   {
-    "id": "kcl:morning-prayer-at-waterloo-2",
-    "sourceEventId": "6730a351-b516-46f8-89fd-c5c86b5d830a",
-    "title": "Morning Prayer at Waterloo",
-    "desc": "A simple morning prayer in the Christian tradition to start your day.",
+    "id": "kcl:lunch-at-denmark-hill-1",
+    "sourceEventId": "c5501805-e2b4-460f-acb1-eb99adfb17e0",
+    "title": "Lunch at Denmark Hill",
+    "desc": "Meet with other staff & students & enjoy a (free!) vegetarian light lunch in the Denmark Hill Chaplaincy.",
     "source": "KCL",
-    "date": "2026-10-06T09:30:00",
-    "durationMin": 20,
+    "date": "2026-10-06T12:00:00",
+    "durationMin": 120,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
@@ -99,29 +99,8 @@
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-waterloo-2",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
-  },
-  {
-    "id": "kcl:morning-prayer-at-denmark-hill-6",
-    "sourceEventId": "ebffaf3c-6108-46fe-af09-7a0af55d1e4b",
-    "title": "Morning Prayer at Denmark Hill",
-    "desc": "A Morning Prayer service every Tuesday morning in term time.",
-    "source": "KCL",
-    "date": "2026-10-06T09:30:00",
-    "durationMin": 20,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-denmark-hill-6",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/chaplaincy-root-images/Garden.x27ab7841.jpg?w=780&h=520&crop=780,440,0,40"
+    "url": "https://www.kcl.ac.uk/events/lunch-at-denmark-hill-1",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/lunch.x1b70b288.jpg?w=871&h=581&crop=780,440,0,88"
   },
   {
     "id": "kcl:making-time-for-what-matters",
@@ -142,6 +121,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/making-time-for-what-matters",
     "image": "https://www.kcl.ac.uk/newimages/research/hero/crsd-staff-development-festival-2026.x67b3f6d9.jpg?w=780&h=452&crop=780,440,0,6"
+  },
+  {
+    "id": "kcl:international-lunch-at-waterloo-7",
+    "sourceEventId": "fbbfc4a1-2e33-43e1-9582-c4e6d75c5235",
+    "title": "International Lunch at Waterloo",
+    "desc": "Meet other members of the King's community and enjoy a (free!) lunch.",
+    "source": "KCL",
+    "date": "2026-10-06T12:00:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/international-lunch-at-waterloo-7",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/lunch-2.x5ac34aef.jpg?w=860&h=573&crop=780,440,0,50"
   },
   {
     "id": "kcl:future-skills-hackathon-thriving-in-the-age-of-genai",
@@ -543,6 +543,28 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bioeng-lecture-2026_1786483609835_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:211921",
+    "sourceEventId": "211921",
+    "title": "CIVENG Black History Month: Breaking Barriers: inspiring future engineers. Dr. Roni Savage, OBE FREng",
+    "desc": "Abstract\n\nBlack History Month provides an opportunity to celebrate the achievements, contributions and lasting impact of Black leaders who continue to shape society and inspire future generations.\n\nDr Roni Savage OBE FREng is one of the UK’s most influential engineers, entrepreneurs and advocates for diversity in STEM. From founding and leading a successful engineering and environmental consultancy to advising government and championing social mobility, her journey demonstrates the power of determination, resilience and leadership.\n\nIn her talk at Imperial College London, Dr Savage will reflect on her personal and professional journey, exploring the challenges and opportunities she has encountered. She will discuss the importance of representation, entrepreneurship, innovation and…",
+    "source": "IC",
+    "date": "2026-10-14T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Room 427, Skempton Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Civil engineering",
+      "Black History Month",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211921/civeng-black-history-month-dr-roni-savage-obe-freng/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/single-speaker-image-1_1786958186800_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:212939",
     "sourceEventId": "212939",
     "title": "Navigating IP in the world of AI",
@@ -605,7 +627,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214159/dynamical-systems-seminar-tommaso-cornelis-rosati/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213507",
@@ -626,7 +648,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213507/annual-ccmi-cdt-opening-celebrations/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213759",
@@ -668,7 +690,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214389/astrophysics-weekly-seminar-kai-lehman-beyond-the-explicit-likelihood-novel-methods-for-simulation-based-cosmology/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212844",
@@ -777,7 +799,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213739/control-and-optimisation-seminar-jacco-thyssen-york/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214137",
@@ -800,7 +822,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214137/spc-seminar-space-dr-mariana-jeunon-barros-qmul/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212725",
@@ -931,7 +953,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214475/analysis-and-probability-seminar-patrick-gerard-paris-and-jonathan-luk-stanford/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:214481",
@@ -994,25 +1016,6 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/pure-poison",
     "image": "https://images.prismic.io/wellcomecollection/Z8hiEhsAHJWomJTn_EP_002619_014-full.jpg?auto=format%2Ccompress&rect=0%2C417%2C4000%2C2250&w=3200&h=1800"
-  },
-  {
-    "id": "rs:2026-10-safeguarding-anthropocene-tropical-forests",
-    "sourceEventId": "2026-10-safeguarding-anthropocene-tropical-forests",
-    "title": "Safeguarding Anthropocene tropical forests",
-    "desc": "Science+ meeting organised by Professor Jane Hill OBE FRS, Datuk Dr Glen Reynolds MBE, Dr Lindsay Banin, Dr Ophelia Wang, Professor John Pyle FRS",
-    "source": "RS",
-    "date": "2026-10-05T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/safeguarding-anthropocene-tropical-forests/",
-    "image": "https://royalsociety.org/-/media/events/2026/10/tropical-forests/tropical-forests.jpg"
   },
   {
     "id": "rs:2026-10-immunology-of-the-exposome",
