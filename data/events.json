@@ -1,26 +1,5 @@
 [
   {
-    "id": "kcl:international-single-cell-mass-spectrometry-conference-and-bmss-single-cell-sig-meeting-2026",
-    "sourceEventId": "2887ec33-02ff-48b1-b928-f70c85b66ab8",
-    "title": "International Single Cell Mass Spectrometry Conference and BMSS single cell SIG meeting 2026",
-    "desc": "Discover the Future of Single-Cell Omics at the Joint iSCMS Conference & BMSS Single Cell MS SIG Meeting 2026 at King's College London",
-    "source": "KCL",
-    "date": "2026-10-06T08:30:00",
-    "durationMin": 480,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Faculty of Life Sciences & Medicine",
-      "School of Immunology & Microbial Sciences",
-      "Department of Infectious Diseases"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/international-single-cell-mass-spectrometry-conference-and-bmss-single-cell-sig-meeting-2026",
-    "image": "https://www.kcl.ac.uk/newimages/folsm/thumbnail-newsevents/sims/iscms-and-bmss-2026.xeb63c888.png"
-  },
-  {
     "id": "kcl:funder-expectations-for-pis-managers-takeover-1",
     "sourceEventId": "f3dc5cbc-b6c2-4e5b-822b-f91387d3a983",
     "title": "Funder Expectations for PIs: Manager's Takeover",
@@ -249,27 +228,6 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Global-Institutes/tasi-diak-119-boat-naa-with-permission.x84848050.JPG?w=780&h=535&crop=780,440,0,48"
   },
   {
-    "id": "kcl:joint-rd-office-wednesday-walk-in-november",
-    "sourceEventId": "5431c597-8382-4e00-bcc5-6719b3c932fe",
-    "title": "Joint R&D Office Wednesday Walk-In",
-    "desc": "Drop in and discuss your questions with the Joint R&D Office on the first Wednesday of every month.",
-    "source": "KCL",
-    "date": "2026-11-04T10:00:00",
-    "durationMin": 300,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Health",
-      "NIHR Biomedical Research Centre: Maudsley",
-      "Institute of Psychiatry, Psychology & Neuroscience"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/joint-rd-office-wednesday-walk-in-november",
-    "image": "https://www.kcl.ac.uk/newimages/ioppn/research-and-development/joint-rd-office-drop-in-session.xf23d189a.png"
-  },
-  {
     "id": "kcl:mindfulness-with-jenny-online-21",
     "sourceEventId": "ee63f6c7-aeb1-478f-8677-d6bc14f95a44",
     "title": "Mindfulness with Jenny - Online",
@@ -289,6 +247,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-21",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/winter-path.x8d8d756b.jpg?w=837&h=558&crop=780,440,0,118"
+  },
+  {
+    "id": "kcl:joint-rd-office-wednesday-walk-in-november",
+    "sourceEventId": "5431c597-8382-4e00-bcc5-6719b3c932fe",
+    "title": "Joint R&D Office Wednesday Walk-In",
+    "desc": "Drop in and discuss your questions with the Joint R&D Office on the first Wednesday of every month.",
+    "source": "KCL",
+    "date": "2026-11-04T10:00:00",
+    "durationMin": 300,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Health",
+      "NIHR Biomedical Research Centre: Maudsley",
+      "Institute of Psychiatry, Psychology & Neuroscience"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/joint-rd-office-wednesday-walk-in-november",
+    "image": "https://www.kcl.ac.uk/newimages/ioppn/research-and-development/joint-rd-office-drop-in-session.xf23d189a.png"
   },
   {
     "id": "kcl:praying-the-holy-rosary-at-guys-9",
@@ -504,29 +483,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/single-speaker-image-1_1786958186800_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212844",
-    "sourceEventId": "212844",
-    "title": "Entrepreneur Masterclass: From Lab Demo to Product Portfolio",
-    "desc": "The Entrepreneur Masterclass series of events in the Department of Physics showcases the commercial journeys of successful physics-based innovators.\n\nEach session will bring a leading entrepreneur to campus to share insights into a key aspect of taking deep-tech ideas from labs to market.\n\nThe next event will be on Tuesday 6th October at 5:30 pm in the Physics Level 8 Common Room. Refreshments will be provided.\n\nThe event is aimed at all staff, post-docs, and PhD and Masters students.\n\nDuring this event, Dr Craig Tombling will take the audience on a journey from the lab to the marketplace and along the way discuss key steps and decision including:\n\nFinding focus – Evolving teams – Putting in process – Consultancy perils – Prototype staircase – Make or buy\n\nSpeaker\n\nDr Tombling is…",
-    "source": "IC",
-    "date": "2026-10-06T17:30:00+01:00",
-    "durationMin": 120,
-    "venue": "Level 8 Common Room, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Departmental event",
-      "Physics",
-      "Entrepreneurship",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212844/entrepreneur-masterclass-from-lab-demo-to-product-portfolio/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/img-20260904-wa0005_1788775701268_eventportrait2018_x1.jpg"
-  },
-  {
     "id": "ic:210460",
     "sourceEventId": "210460",
     "title": "Open Themed Art Class [1]",
@@ -610,7 +566,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213739/control-and-optimisation-seminar-jacco-thyssen-york/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214137",
@@ -633,7 +589,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214137/spc-seminar-space-dr-mariana-jeunon-barros-qmul/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212725",
@@ -676,7 +632,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214487/number-theory-seminar-dongryul-kim/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212140",
@@ -785,7 +741,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214481/algebra-colloquium-marina-anagnostopoulou-merkouri-bristol/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:214162",
@@ -806,7 +762,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214162/junior-dynamics-seminar-amir-khodaeian-karim-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211812",
@@ -848,7 +804,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213641/mathematician-engineer-and-suffragette-the-extraordinary-life-of-hertha-ayrton/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213957",
@@ -891,6 +847,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213715/fluid-dynamics-seminar-yuri-muzychka-memorial-university/",
     "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214638",
+    "sourceEventId": "214638",
+    "title": "Junior Geometry Seminar – Edward Young",
+    "desc": "Title: What they don’t tell you about schemes\n\nSpeaker: Edward Young\n\nAbstract: I will give an introduction to scheme theory. We will see that the Zariski topology, very natural to an algebraist, has some rather counterintuitive quirks: open sets are dense and compact, nothing is Hausdorff, and there are more points and data than we know what to do with. In a series of examples, we will see how to tame some of these difficulties to produce a rich geometric theory.\n\nSome snacks will be provided before and after the talk.\n\nGo to the seminar main page.\n\nSubscribe to the mailing list.",
+    "source": "IC",
+    "date": "2026-10-09T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Room 140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214638/junior-geometry-seminar-edward-young/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
   },
   {
     "id": "wc:elders-2046-for-living-and-dying-otherwise",
@@ -1144,6 +1121,25 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/03/future-of-materials-discovery/",
     "image": "https://royalsociety.org/-/media/events/2027/03/future-materials/lead-image.jpg"
+  },
+  {
+    "id": "rs:2027-04-sequences-behaviour-and-cognitive-evolution",
+    "sourceEventId": "2027-04-sequences-behaviour-and-cognitive-evolution",
+    "title": "Sequences, behaviour and cognitive evolution",
+    "desc": "Theo Murphy meeting organised by Professor Robert Barton, Professor Zanna Clay and Professor Nicky Clayton FRS",
+    "source": "RS",
+    "date": "2027-04-05T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "DoubleTree by Hilton, Bristol City Centre",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/04/sequences-behaviour-and-cognitive-evolution/",
+    "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
   },
   {
     "id": "rs:2026-10-francis-crick-prize-lecture",
