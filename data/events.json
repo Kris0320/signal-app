@@ -398,29 +398,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/single-speaker-image-1_1786958186800_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212140",
-    "sourceEventId": "212140",
-    "title": "World Space Week 2026 – panel and networking",
-    "desc": "*Please not that this event has now sold out and registration is closed*\n\nJoin Imperial’s School of Convergence Science and the London Space Network for a World Space Week panel discussion and networking event.\n\nThe discussion, ‘Sovereign capability: innovation and access’ will explore the UK’s reliance on other nations’ capabilities and how sovereign capability will transform the UK and shape our future.\n\nA drinks reception will follow the panel discussion.\n\nAgenda\n\n5:30pm – Arrivals and registration\n\n6:00pm – Welcome from Professor Nigel Brandon, Vice-President (Corporate Engagement), Imperial College London\n\n6:10pm – Panel discussion\n\n7:00pm – Q&A\n\n7:20pm – Networking drinks reception\n\n8:30pm – Event ends\n\nThe panel:\n\nAnushka Sharma, Founder, London Space Network (moderator)\n\nAlice…",
-    "source": "IC",
-    "date": "2026-10-07T17:30:00+01:00",
-    "durationMin": 180,
-    "venue": "Queen's Tower Rooms, Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Space",
-      "Institutional Event",
-      "Event",
-      "Postgraduate students"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212140/world-space-week-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/adobestock-418189603_1787047204215_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:212759",
     "sourceEventId": "212759",
     "title": "Lunchtime Concert – Rossetti Ensemble",
@@ -483,7 +460,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214475/analysis-and-probability-seminar-patrick-gerard-paris-and-jonathan-luk-stanford/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:214481",
@@ -504,7 +481,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214481/algebra-colloquium-marina-anagnostopoulou-merkouri-bristol/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:214162",
@@ -525,7 +502,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214162/junior-dynamics-seminar-amir-khodaeian-karim-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211812",
@@ -567,7 +544,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213641/mathematician-engineer-and-suffragette-the-extraordinary-life-of-hertha-ayrton/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213957",
@@ -609,7 +586,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213715/fluid-dynamics-seminar-yuri-muzychka-memorial-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214638",
@@ -742,7 +719,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214713/dynamical-systems-seminar-giuseppe-tenaglia/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213941",
@@ -763,7 +740,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213941/finance-and-stochastics-seminar-shijia-jin/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211299",
