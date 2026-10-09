@@ -400,46 +400,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/open-house-final-page-1-1_1790778045510_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:213641",
-    "sourceEventId": "213641",
-    "title": "Mathematician, Engineer and Suffragette: The Extraordinary Life of Hertha Ayrton",
-    "desc": "Mathematician, Engineer and Suffragette: The Extraordinary Life of Hertha Ayrton\n\nMathematician, Engineer and Suffragette: The Extraordinary Life of Hertha Ayrton is a surprising talk about Hertha Ayrton. Hertha, born in Portsmouth in 1854 in a lower middle class Jewish family put herself through university (whilst there she formed the first all women fire brigade in the world) and then became a leading UK mathematician and engineer. Hertha’s good friend was Marie Curie, but despite being well connected scientifically was turned down for Fellowship of the Royal Society as being a married woman she was not a ‘legal entity’. Hertha was also an incredibly famous suffragette, so prominent that when three suffragettes were chosen to meet the Prime Minister, she was one of the three. The talk…",
+    "id": "ic:212238",
+    "sourceEventId": "212238",
+    "title": "The look of why: causality matters in medical imaging AI",
+    "desc": "Join Professor Ben Glocker, Professor in Machine Learning for Imaging, to discover how causality could help make medical imaging AI safer, fairer and more reliable.\n\nPlease register to attend in person. A live stream link for online attendance is available here.\n\nWe look forward to seeing you on Wednesday 14 October!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nArtificial intelligence is transforming medical imaging, promising more accurate diagnosis, earlier detection of disease, and better clinical decision-making. But the path from research prototype to trusted clinical tool remains difficult. AI systems can silently fail when new data differs from the data on which they…",
     "source": "IC",
-    "date": "2026-10-08T18:30:00+01:00",
-    "durationMin": 120,
-    "venue": "HXLY340, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213641/mathematician-engineer-and-suffragette-the-extraordinary-life-of-hertha-ayrton/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212436",
-    "sourceEventId": "212436",
-    "title": "Dyson School of Design Engineering Commencement Lecture 2026",
-    "desc": "For this year’s Commencement Lecture, Dyson School of Design Engineering is excited to welcome John Maeda – one of the most influential voices at the intersection of design and technology – who will give a talk titled “Design and Engineering Are the Same Job Now” .\n\nProgramme\n\n18.30 – Arrivals and registration\n\n19.00 – Welcome Address\n\n19.10 – Commencement Lecture\n\n19.55 – Q&A Session\n\n20.15 – Drinks Reception\n\nAbout the Talk\n\nDesign and Engineering Are the Same Job Now\n\nFor most of the last century, someone drew the thing and someone else made it work. That division of labor produced much of the world around us. But the era of the creative genius up front and the engineers in the back is coming to an end.\n\nI’ve spent thirty years working on both sides of that divide, first writing about…",
-    "source": "IC",
-    "date": "2026-10-08T19:00:00+01:00",
-    "durationMin": 75,
-    "venue": "LT200, City and Guilds Building, South Kensington Campus",
+    "date": "2026-10-14T17:30:00+01:00",
+    "durationMin": 60,
+    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
       "Lecture",
-      "Event",
+      "Institutional Event",
+      "Imperial Inaugurals",
+      "Artificial intelligence",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212436/dyson-school-of-design-engineering-commencement-lecture-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/csep-seminar-event-card-2_1787844079460_eventfeatured2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/212238/the-look-of-why-causality-matters-in-medical-imaging-ai/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-whats-on-bannerben-glocker_1787232279675_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213957",
@@ -460,7 +441,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213957/geometry-and-topology-seminar-warren-li-imperial-college-london/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213715",
@@ -481,7 +462,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213715/fluid-dynamics-seminar-yuri-muzychka-memorial-university/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214638",
@@ -573,6 +554,27 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/earthscale-notts-event_1789746232069_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:214862",
+    "sourceEventId": "214862",
+    "title": "GATP Seminar – Florian Zeiser (Imperial): Local normal forms in Poisson geometry",
+    "desc": "Poisson geometry provides a natural framework for Hamiltonian systems with symmetries and constraints. Understanding the behaviour of such systems near singularities naturally leads to local normal form problems. In particular, a central question is whether a Poisson structure can be linearized near",
+    "source": "IC",
+    "date": "2026-10-13T11:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Huxley 658, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214862/gatp-seminar-florian-zeiser-normal-forms/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:214381",
     "sourceEventId": "214381",
     "title": "IDE Seminar Series – Professor Priscilla Reddy",
@@ -614,7 +616,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214713/dynamical-systems-seminar-giuseppe-tenaglia/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213941",
@@ -635,7 +637,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213941/finance-and-stochastics-seminar-shijia-jin/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214808",
@@ -677,7 +679,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214818/stochastic-analysis-seminar-zhongmin-qian-university-of-oxford/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211299",
@@ -764,6 +766,28 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213949/healthbridge-new-phd-studentships-at-imperial-college-london-funded-by-the-medical-research-council/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-advancement-division-case-studies-14th-november-2024-brendan-foster-photography-115-32_1790254065767_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212176",
+    "sourceEventId": "212176",
+    "title": "HEP seminar: Caterina Vernieri (SLAC) – Di-Higgs at colliders",
+    "desc": "Higgs analysis in ATLAS, discussing recent Higgs results from the LHC and prospects at future e+e- colliders.",
+    "source": "IC",
+    "date": "2026-10-14T15:00:00+01:00",
+    "durationMin": 60,
+    "venue": "630, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Physics of Particles",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212176/hep-seminar-caterina-vernieri-slac-delving-into-the-unknown-the-higgs-boson-at-particle-colliders/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bebc_1697635355708_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:elders-2046-for-living-and-dying-otherwise",
