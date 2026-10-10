@@ -464,7 +464,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214914/biomathematics-seminar-roman-belevkin/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212953",
@@ -530,7 +530,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214862/gatp-seminar-florian-zeiser-normal-forms/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214381",
@@ -574,7 +574,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214713/dynamical-systems-seminar-giuseppe-tenaglia/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213941",
@@ -595,7 +595,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213941/finance-and-stochastics-seminar-shijia-jin/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214808",
@@ -788,27 +788,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214684/spc-seminar-plasma-andrew-lanzrath-mit/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "wc:elders-2046-for-living-and-dying-otherwise",
-    "sourceEventId": "elders-2046-for-living-and-dying-otherwise",
-    "title": "Elders, 2046: For Living and Dying Otherwise",
-    "desc": "Join us for a performance where you’ll go behind the scenes of a fictionalised radio soap opera set in a trans care home of the future.",
-    "source": "WC",
-    "date": "2026-10-09T18:00:00+00:00",
-    "durationMin": 600,
-    "venue": "The Forum",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Performance",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/elders-2046-for-living-and-dying-otherwise",
-    "image": "https://images.prismic.io/wellcomecollection/lFezoR-1Vl3HwH8Y_SDP_EP003644_260814_1625_v2.jpg?auto=format%2Ccompress&rect=0%2C476%2C4000%2C2250&w=3200&h=1800"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:pure-poison",
