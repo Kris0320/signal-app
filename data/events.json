@@ -334,28 +334,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/jpeglates2627-launch-final_1790070007762_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211811",
-    "sourceEventId": "211811",
-    "title": "The Bioengineering Lecture 2026",
-    "desc": "About the Bioengineering Lecture\n\nThe Bioengineering Lecture is the Department of Bioengineering’s flagship lecture, bringing our community together to hear from a leading international researcher working at the forefront of their field.\n\nThis year, we welcome Professor Julia Vorholt , Professor of Microbiology at ETH Zurich, whose laboratory studies plant microbiomes, one-carbon metabolism, and endosymbioses.\n\nThe lecture will be followed by a drinks reception, giving attendees the opportunity to meet Professor Vorholt and continue the conversation with colleagues from the university.\n\nEngineering Endosymbioses Through Single-Cell Implantation\n\nAbstract\n\nEndosymbiosis, in which one organism lives inside another, has profoundly shaped the evolution of complex life forms. By intimately…",
-    "source": "IC",
-    "date": "2026-10-12T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Lecture Theatre B10, Molecular Sciences Research Hub (MSRH), White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Institutional Event",
-      "Women in STEM",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211811/the-bioengineering-lecture-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bioeng-lecture-2026_1786483609835_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:211921",
     "sourceEventId": "211921",
     "title": "CIVENG Black History Month: Breaking Barriers: inspiring future engineers. Dr. Roni Savage, OBE FREng",
@@ -423,73 +401,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-whats-on-bannerben-glocker_1787232279675_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212872",
-    "sourceEventId": "212872",
-    "title": "Bioengineering Research Showcase 2026",
-    "desc": "Bioengineering Research Showcase 2026\n\nDiscover some of the newest research coming out of Imperial’s Department of Bioengineering at our 2026 Research Showcase.\n\nFor one afternoon, PhD students and postdoctoral researchers from the department will take over The Arena at Scale Space to share their research through short talks and a poster exhibition.\n\nAlongside the talks, the poster exhibition will give you the chance to explore even more Bioengineering research, speak directly with the researchers behind it and discover work outside your own area.\n\nThe Showcase will also welcome Professor Julia Vorholt of ETH Zürich , speaker for the 2026 Bioengineering Lecture, and will include the presentation of the Michael Uren Award.\n\nJoin us for the chance to see the breadth of research being led…",
-    "source": "IC",
-    "date": "2026-10-12T11:00:00+01:00",
-    "durationMin": 180,
-    "venue": "The Arena, Scale Space, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Exhibition",
-      "Institutional Event",
-      "PhD Research",
-      "Postdoctoral researchers",
-      "Engineering"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212872/bioengineering-research-showcase-2026/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/event-banner-image-1_1788788068703_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:214914",
-    "sourceEventId": "214914",
-    "title": "Biomathematics Seminar (Roman Belevkin)",
-    "desc": "Abstract: Mutation and recombination of DNA strings are two most important mechanisms used by biological organisms during replication that allow them to inherit old and evolve new traits. Mutation is a random substitution of some letters in the parent string by any other letters from the alphabet. Recombination, on the other hand, is a substitution of some letters in one parent string by the letters from another string. Inspired by Fisher’s geometric approach to study beneficial mutations, we have analysed probabilities of beneficial mutation and crossover recombination. We consider mutations and recombinations that reduce the distance to an optimum as beneficial. Geometric and combinatorial analysis has revealed new interesting differences and properties of these probabilities. While…",
-    "source": "IC",
-    "date": "2026-10-12T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214914/biomathematics-seminar-roman-belevkin/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212953",
-    "sourceEventId": "212953",
-    "title": "Christian Meditation: Online and In-person",
-    "desc": "Format: In person and Online (hybrid)\n\nIn Person: Chaplaincy, 15 Prince’s Gardens, South Kensington Campus, SW7 1NA (Drop-in)\n\nOnline via private Zoom Meeting invite . You can subscribe to our weekly mailing list to get the weekly Zoom Link.\n\nAnyone outside the Colleges of South Kensington who would like to attend online please contact Andrew Willson a.willson@imperial.ac.uk\n\nFacilitator: The Christian Meditation sessions are led by Andrew Willson, College Chaplain.\n\nAbout Christian Meditation\n\nChristianity has a long and rich history of meditation and contemplative prayer. These ancient Christian traditions have their roots in the monasteries of the desert hermits of the second century. Jesus himself often prayed in times of stillness and solitude. Many of these long established…",
-    "source": "IC",
-    "date": "2026-10-12T13:10:00+01:00",
-    "durationMin": 30,
-    "venue": "Chaplaincy Multi-Faith Centre, 15 Prince's Gardens, South Kensington, SW7 1NA",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "mental health",
-      "Education",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212953/weekly-christian-meditation-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/christian-meditation-2-1086-x-307-1642077206866-x4-ezgifcom-webp-to-jpg-converter_1717097303804_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:213573",
     "sourceEventId": "213573",
     "title": "EarthScale in Nottingham: Accelerating Climate Tech Across the Midlands",
@@ -530,7 +441,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214862/gatp-seminar-florian-zeiser-normal-forms/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214381",
@@ -574,7 +485,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214713/dynamical-systems-seminar-giuseppe-tenaglia/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213941",
@@ -595,7 +506,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213941/finance-and-stochastics-seminar-shijia-jin/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214808",
@@ -616,7 +527,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214808/astrophysics-weekly-seminar-sam-cabot-x-ray-emission-from-an-interstellar-comet/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214818",
@@ -788,7 +699,50 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214684/spc-seminar-plasma-andrew-lanzrath-mit/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214489",
+    "sourceEventId": "214489",
+    "title": "Number Theory Seminar – Sean Cotner",
+    "desc": "Sean Cotner: On the Fargues–Scholze local Langlands correspondence for Yu’s supercuspidals\n\nMore information available on the Number Theory seminar website",
+    "source": "IC",
+    "date": "2026-10-14T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "139, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214489/number-theory-seminar-sean-cotner/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:214866",
+    "sourceEventId": "214866",
+    "title": "Alumni of Dallas, TX – Social Gathering",
+    "desc": "An event by Imperial College alumni for Imperial College alumni.\n\nJoin fellow Imperial alumni in Dallas for a relaxed fall get-together at Ida Claire in Addison!\n\nPart of our Campus to City series, this informal gathering is a chance to welcome recent graduates and alumni new to the Dallas area, reconnect with old friends, and meet others in the local Imperial community.\n\nThere’s no formal program, just an evening of good conversation, new connections, and Southern-inspired food and drinks.\n\nFood and drinks will be available for individual purchase.\n\nWe hope to see you there!",
+    "source": "IC",
+    "date": "2026-10-14T17:00:00-07:00",
+    "durationMin": 180,
+    "venue": "Ida Claire",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "International",
+      "Alumni",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214866/alumni-of-dallas-tx-social-gathering/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:pure-poison",
@@ -1020,7 +974,7 @@
     "tags": [
       "Open to all"
     ],
-    "format": "In person",
+    "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/03/plasticity-after-visual-damage/",
     "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
