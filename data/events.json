@@ -147,25 +147,6 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/261103-mainimage-updated.xd11d4030.png?w=782&h=440&crop=780,440,1,0"
   },
   {
-    "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
-    "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
-    "title": "Law undergraduate information session: Hong Kong - 3 November",
-    "desc": "Join us at our Law info session in Hong Kong.",
-    "source": "KCL",
-    "date": "2026-11-03T18:00:00",
-    "durationMin": 150,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "The Dickson Poon School of Law"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/law-undergraduate-information-session-hong-kong-3-november",
-    "image": "https://www.kcl.ac.uk/newimages/law/images/somerset-house.x3e401677.jpg?w=780&h=585&crop=780,440,0,73"
-  },
-  {
     "id": "kcl:school-of-the-sacraments-at-guys-3",
     "sourceEventId": "078802fa-2807-409e-bfc6-af30542e8d7f",
     "title": "School of the Sacraments at Guy's",
@@ -185,6 +166,25 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-3",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/stained-glass-window-canterbury-cathedral.x56a6eac5.jpg?w=793&h=527&crop=780,440,13,0"
+  },
+  {
+    "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
+    "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
+    "title": "Law undergraduate information session: Hong Kong - 3 November",
+    "desc": "Join us at our Law info session in Hong Kong.",
+    "source": "KCL",
+    "date": "2026-11-03T18:00:00",
+    "durationMin": 150,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "The Dickson Poon School of Law"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/law-undergraduate-information-session-hong-kong-3-november",
+    "image": "https://www.kcl.ac.uk/newimages/law/images/somerset-house.x3e401677.jpg?w=780&h=585&crop=780,440,0,73"
   },
   {
     "id": "kcl:2026-reese-lecture",
@@ -208,6 +208,27 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Global-Institutes/tasi-diak-119-boat-naa-with-permission.x84848050.JPG?w=780&h=535&crop=780,440,0,48"
   },
   {
+    "id": "kcl:mindfulness-with-jenny-online-21",
+    "sourceEventId": "ee63f6c7-aeb1-478f-8677-d6bc14f95a44",
+    "title": "Mindfulness with Jenny - Online",
+    "desc": "A session to explore mindfulness and how to be mindful.",
+    "source": "KCL",
+    "date": "2026-11-04T10:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Student",
+      "International"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-21",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/winter-path.x8d8d756b.jpg?w=837&h=558&crop=780,440,0,118"
+  },
+  {
     "id": "kcl:joint-rd-office-wednesday-walk-in-november",
     "sourceEventId": "5431c597-8382-4e00-bcc5-6719b3c932fe",
     "title": "Joint R&D Office Wednesday Walk-In",
@@ -229,25 +250,23 @@
     "image": "https://www.kcl.ac.uk/newimages/ioppn/research-and-development/joint-rd-office-drop-in-session.xf23d189a.png"
   },
   {
-    "id": "kcl:mindfulness-with-jenny-online-21",
-    "sourceEventId": "ee63f6c7-aeb1-478f-8677-d6bc14f95a44",
-    "title": "Mindfulness with Jenny - Online",
-    "desc": "A session to explore mindfulness and how to be mindful.",
+    "id": "kcl:nmes-doctoral-school-open-event-2026",
+    "sourceEventId": "573e52de-de5a-4602-8b7c-a20b176bc3d6",
+    "title": "NMES Doctoral School Open Event 2026",
+    "desc": "Join us online at the NMES Doctoral School Online Open Event to find out about PhD opportunities available",
     "source": "KCL",
     "date": "2026-11-04T10:00:00",
-    "durationMin": 60,
+    "durationMin": 120,
     "venue": "Online",
     "area": "Online",
     "price": 0,
     "tags": [
-      "University",
-      "Student",
-      "International"
+      "Faculty of Natural, Mathematical & Engineering Sciences"
     ],
     "format": "Online",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-21",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/winter-path.x8d8d756b.jpg?w=837&h=558&crop=780,440,0,118"
+    "url": "https://www.kcl.ac.uk/events/nmes-doctoral-school-open-event-2026",
+    "image": "https://www.kcl.ac.uk/newimages/nmes/collaborate/discover-our-industry-thumbnails-368x208/kcl-nmes-digital-assets-faculty-aw-thumbnail-368-x-208.x4978b311.png?w=780&h=441&crop=780,440,0,1"
   },
   {
     "id": "kcl:praying-the-holy-rosary-at-guys-9",
@@ -290,27 +309,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/sacrament-of-confession-at-guys-8",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/Prayer.x2a2d8268.JPG?w=780&h=505&crop=780,440,0,33"
-  },
-  {
-    "id": "kcl:carbon-literacy-training-november-2026",
-    "sourceEventId": "e7c0e91b-eb02-476c-bcba-5e201dfd561c",
-    "title": "Carbon Literacy Training - November 2026",
-    "desc": "Join us for a 2 half day Carbon Literacy Training to develop your knowledge of the climate crisis",
-    "source": "KCL",
-    "date": "2026-11-04T13:00:00",
-    "durationMin": 480,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "University",
-      "King's Sustainability",
-      "Faculty of Arts & Humanities"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/carbon-literacy-training-november-2026",
-    "image": "https://www.kcl.ac.uk/newimages/sustainabilty/New-Carbon-Literacy-Training-thumbnail.x68b657fb.png?w=780&h=440"
   },
   {
     "id": "ic:213763",
@@ -401,6 +399,28 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-whats-on-bannerben-glocker_1787232279675_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:212402",
+    "sourceEventId": "212402",
+    "title": "Technology Leader Speaker Series with Omar Mir | How to succeed in the messy world of AI",
+    "desc": "Join us for a conversation with Omar Mir, Baron of Thorntoun, a leading figure in artificial intelligence and advanced technologies\n\nProfessor Peter Todd, Dean of Imperial Business School, is delighted to welcome Omar Mir, Advisory Board member and Visiting Professor of Practice at Imperial Business School and King’s Trust International Advisor on AI and Advanced Technology, to the first event in our Technology Leader Speaker Series.\n\nAbout the event\n\nOmar Mir, Principal Benefactor and Founding Principal of the King’s Trust International Campaign “Generation Potential” and International Board Member at World Wide Technology, will join Peter Todd, Dean of the Business School, to explore the keys to success when faced with the reality of artificial intelligence in the boardroom.\n\nYou might…",
+    "source": "IC",
+    "date": "2026-10-20T17:30:00+01:00",
+    "durationMin": 210,
+    "venue": "Business School, Imperial Business School, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Artificial intelligence",
+      "Institutional Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212402/technology-leader-speaker-series-with-omar-mir-how-to-succeed-in-the-messy-world-of-ai/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/omar-mir_1787672843507_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "ic:213573",
     "sourceEventId": "213573",
     "title": "EarthScale in Nottingham: Accelerating Climate Tech Across the Midlands",
@@ -441,7 +461,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214862/gatp-seminar-florian-zeiser-normal-forms/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214381",
@@ -506,7 +526,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213941/finance-and-stochastics-seminar-shijia-jin/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214808",
@@ -527,7 +547,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214808/astrophysics-weekly-seminar-sam-cabot-x-ray-emission-from-an-interstellar-comet/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214818",
@@ -548,7 +568,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214818/stochastic-analysis-seminar-zhongmin-qian-university-of-oxford/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211299",
@@ -699,7 +719,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214684/spc-seminar-plasma-andrew-lanzrath-mit/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214489",
@@ -720,7 +740,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214489/number-theory-seminar-sean-cotner/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:214866",
@@ -742,7 +762,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214866/alumni-of-dallas-tx-social-gathering/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:pure-poison",
@@ -785,26 +805,6 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/an-artist-in-everyday-life",
     "image": "https://images.prismic.io/wellcomecollection/aO46BJ5xUNkB175r_MAINIMAGEAndreaMindel020722_Credit-RosiePowell.jpg?auto=format%2Ccompress&rect=0%2C562%2C6496%2C3654&w=3200&h=1800"
-  },
-  {
-    "id": "rs:2026-10-immunology-of-the-exposome",
-    "sourceEventId": "2026-10-immunology-of-the-exposome",
-    "title": "Immunology of the exposome: addressing the crisis in chronic inflammatory disease",
-    "desc": "Discussion meeting organised by Professor Judith Allen FMedSci FRS and Dame Fiona Powrie DBE FMedSci FRS",
-    "source": "RS",
-    "date": "2026-10-12T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Healthcare",
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/immunology-of-the-exposome/",
-    "image": "https://royalsociety.org/-/media/events/2026/10/immunology-of-the-exposome/lead-image.jpg"
   },
   {
     "id": "rs:2026-11-ecological-dynamics",
