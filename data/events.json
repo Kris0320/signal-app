@@ -147,6 +147,25 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/261103-mainimage-updated.xd11d4030.png?w=782&h=440&crop=780,440,1,0"
   },
   {
+    "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
+    "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
+    "title": "Law undergraduate information session: Hong Kong - 3 November",
+    "desc": "Join us at our Law info session in Hong Kong.",
+    "source": "KCL",
+    "date": "2026-11-03T18:00:00",
+    "durationMin": 150,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "The Dickson Poon School of Law"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/law-undergraduate-information-session-hong-kong-3-november",
+    "image": "https://www.kcl.ac.uk/newimages/law/images/somerset-house.x3e401677.jpg?w=780&h=585&crop=780,440,0,73"
+  },
+  {
     "id": "kcl:school-of-the-sacraments-at-guys-3",
     "sourceEventId": "078802fa-2807-409e-bfc6-af30542e8d7f",
     "title": "School of the Sacraments at Guy's",
@@ -166,25 +185,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-3",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/stained-glass-window-canterbury-cathedral.x56a6eac5.jpg?w=793&h=527&crop=780,440,13,0"
-  },
-  {
-    "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
-    "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
-    "title": "Law undergraduate information session: Hong Kong - 3 November",
-    "desc": "Join us at our Law info session in Hong Kong.",
-    "source": "KCL",
-    "date": "2026-11-03T18:00:00",
-    "durationMin": 150,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "The Dickson Poon School of Law"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/law-undergraduate-information-session-hong-kong-3-november",
-    "image": "https://www.kcl.ac.uk/newimages/law/images/somerset-house.x3e401677.jpg?w=780&h=585&crop=780,440,0,73"
   },
   {
     "id": "kcl:engelsberg-annual-lecture-in-applied-history-2026",
@@ -229,27 +229,6 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Global-Institutes/tasi-diak-119-boat-naa-with-permission.x84848050.JPG?w=780&h=535&crop=780,440,0,48"
   },
   {
-    "id": "kcl:mindfulness-with-jenny-online-21",
-    "sourceEventId": "ee63f6c7-aeb1-478f-8677-d6bc14f95a44",
-    "title": "Mindfulness with Jenny - Online",
-    "desc": "A session to explore mindfulness and how to be mindful.",
-    "source": "KCL",
-    "date": "2026-11-04T10:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "University",
-      "Student",
-      "International"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-21",
-    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/winter-path.x8d8d756b.jpg?w=837&h=558&crop=780,440,0,118"
-  },
-  {
     "id": "kcl:joint-rd-office-wednesday-walk-in-november",
     "sourceEventId": "5431c597-8382-4e00-bcc5-6719b3c932fe",
     "title": "Joint R&D Office Wednesday Walk-In",
@@ -269,6 +248,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/joint-rd-office-wednesday-walk-in-november",
     "image": "https://www.kcl.ac.uk/newimages/ioppn/research-and-development/joint-rd-office-drop-in-session.xf23d189a.png"
+  },
+  {
+    "id": "kcl:mindfulness-with-jenny-online-21",
+    "sourceEventId": "ee63f6c7-aeb1-478f-8677-d6bc14f95a44",
+    "title": "Mindfulness with Jenny - Online",
+    "desc": "A session to explore mindfulness and how to be mindful.",
+    "source": "KCL",
+    "date": "2026-11-04T10:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Student",
+      "International"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-21",
+    "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/winter-path.x8d8d756b.jpg?w=837&h=558&crop=780,440,0,118"
   },
   {
     "id": "kcl:nmes-doctoral-school-open-event-2026",
@@ -332,73 +332,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/jpeglates2627-launch-final_1790070007762_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211921",
-    "sourceEventId": "211921",
-    "title": "CIVENG Black History Month: Breaking Barriers: inspiring future engineers. Dr. Roni Savage, OBE FREng",
-    "desc": "Abstract\n\nBlack History Month provides an opportunity to celebrate the achievements, contributions and lasting impact of Black leaders who continue to shape society and inspire future generations.\n\nDr Roni Savage OBE FREng is one of the UK’s most influential engineers, entrepreneurs and advocates for diversity in STEM. From founding and leading a successful engineering and environmental consultancy to advising government and championing social mobility, her journey demonstrates the power of determination, resilience and leadership.\n\nIn her talk at Imperial College London, Dr Savage will reflect on her personal and professional journey, exploring the challenges and opportunities she has encountered. She will discuss the importance of representation, entrepreneurship, innovation and…",
-    "source": "IC",
-    "date": "2026-10-14T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Room 427, Skempton Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Civil engineering",
-      "Black History Month",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211921/civeng-black-history-month-dr-roni-savage-obe-freng/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/single-speaker-image-1_1786958186800_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:214160",
-    "sourceEventId": "214160",
-    "title": "Centre for AI‑Driven Innovation Open House",
-    "desc": "Join Imperial’s new Centre for AI-Driven Innovation (CADI) for an Open House drinks reception on 14 October and learn how you can get involved. CADI is a new capability established in partnership with the World Economic Forum and the UK Government to accelerate the diffusion of high impact AI across the UK economy, bringing together frontier research with industry data, compute and real-world scaling experience. CADI aims to provide a platform for researchers developing novel AI applications to partner with industry and government to test and scale their ideas. Colleagues interested in collaborating or learning more are warmly invited to attend the reception in the South Kensington main entrance. The reception will begin at 4:30pm, with brief remarks from President Hugh Brady, the Centre…",
-    "source": "IC",
-    "date": "2026-10-14T16:30:00+01:00",
-    "durationMin": 120,
-    "venue": "College Main Entrance, Main Entrance, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Artificial intelligence",
-      "Institutional Event",
-      "Staff"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214160/centre-for-ai-driven-innovation-open-house/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/open-house-final-page-1-1_1790778045510_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212238",
-    "sourceEventId": "212238",
-    "title": "The look of why: causality matters in medical imaging AI",
-    "desc": "Join Professor Ben Glocker, Professor in Machine Learning for Imaging, to discover how causality could help make medical imaging AI safer, fairer and more reliable.\n\nPlease register to attend in person. A live stream link for online attendance is available here.\n\nWe look forward to seeing you on Wednesday 14 October!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nArtificial intelligence is transforming medical imaging, promising more accurate diagnosis, earlier detection of disease, and better clinical decision-making. But the path from research prototype to trusted clinical tool remains difficult. AI systems can silently fail when new data differs from the data on which they…",
-    "source": "IC",
-    "date": "2026-10-14T17:30:00+01:00",
-    "durationMin": 60,
-    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Institutional Event",
-      "Imperial Inaugurals",
-      "Artificial intelligence",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212238/the-look-of-why-causality-matters-in-medical-imaging-ai/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-whats-on-bannerben-glocker_1787232279675_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:212402",
     "sourceEventId": "212402",
     "title": "Technology Leader Speaker Series with Omar Mir | How to succeed in the messy world of AI",
@@ -421,176 +354,26 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/omar-mir_1787672843507_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:211299",
-    "sourceEventId": "211299",
-    "title": "Water based oil painting Art Class",
-    "desc": "This art class is open to everyone working and studying at Imperial College.\n\nIt is free and open to all levels and abilities, so whether you are an absolute beginner or an experienced artist you will find the tutor has something special to offer you. Come and explore.\n\nPlease feel free to join and leave at any point during the session.\n\nThese sessions are responsive to you , providing an invaluable opportunity for you to create whatever you like with free materials and mentoring support with professional artist Mindy Lee.\n\nSpaces are limited to 10 per session\n\nTickets will be released 8 days in advance of the class. Please book a ticket from your COLLEGE EMAIL ADDRESS only. Tickets booked from external emails will be deleted. Please cancel your ticket if you can no longer attend.\n\nHow…",
+    "id": "ic:211117",
+    "sourceEventId": "211117",
+    "title": "Frontiers in Natural Sciences: Dean’s Annual Lecture – AI and the Long Conversation of Mathematics",
+    "desc": "Join us for the Frontiers in Natural Sciences: The Dean’s Annual Lecture 2026, delivered by Geordie Williamson on the subject of ‘AI and the long conversation of mathematics’.\n\nThe lecture will be followed by a panel discussion titled ‘AI in Mathematics: What next?’. Professor Williamson will be joined on the panel by Ulrike Tillmann, Professor of Mathematics at the University of Oxford, Director of the Isaac Newton Institute at the University of Cambridge, former President of LMS, and President-Elect of the International Mathematical Union.; Ana Caraiani, Royal Society University Research Fellow; and Kevin Buzzard, Professor of Pure Mathematics at Imperial College London.\n\nThe in-person event is now fully booked, however you can sign up to watch the Livestream using the ‘Register now’…",
     "source": "IC",
-    "date": "2026-10-14T13:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Blyth Art Studio, Room RODH 319, LEVEL 3, Roderic Hill, Roderic Hill Building, South Kensington Campus",
+    "date": "2026-10-20T17:00:00+01:00",
+    "durationMin": 90,
+    "venue": "Royal College of Music",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Workshop",
-      "Arts",
-      "Education",
-      "Student experience",
-      "Staff experience"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211299/water-based-oil-painting-art-class/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/lesleybunch-shadowsculpture25-oilonaluminium-40cmx40cm-2025_1765459797082_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:214068",
-    "sourceEventId": "214068",
-    "title": "Community Garden Action Days",
-    "desc": "Drop-in sessions from 13:00–16:00 on Wednesdays.\n\nJoin the student organisers and volunteers in the Community Garden at the Chaplaincy Centre. A chance to get outside, and be involved in growing plants, sowing seeds, clearing new ground, or pruning bushes. If this is your first session of gardening or if you have plenty of experience, all are welcome.\n\nOpen to students and staff. Drop-in during the afternoon and stay for as long as you like. Gloves, protective gear and tools provided, with wet weather options in needed.\n\nThe Community Garden at the Chaplaincy, accessed through the Multi-Faith Centre at 15 Princes Gardens, or via the side gate of the Weeks Building at 16 Princes Gardens (all ID cards have swipe access to both doors).\n\nIf you’d like to know more, feel free to email us at…",
-    "source": "IC",
-    "date": "2026-10-14T13:00:00+01:00",
-    "durationMin": 180,
-    "venue": "Chaplaincy Multi-Faith Centre",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
+      "Lecture",
+      "maths",
+      "Artificial intelligence",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214068/community-garden-action-days-4/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/gardening-banner_1714416170181_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:214084",
-    "sourceEventId": "214084",
-    "title": "Communion Service",
-    "desc": "A reflective service of communion (sharing bread and wine) in the middle of the working week.\n\nA chance to pause and stand back from the activities of work, to reflect on our lives, and to pray for peace and justice and for people we know.\n\nJoin the people of Holy Trinity Church, and staff and students from other colleges and local institutions.\n\nService open to all, using an order from the Church of England.\n\nSubscribe to Mailing list for more information and weekly reminder delivered at your inbox.\n\nHow to find us: Holy Trinity Church, Prince Consort Rd, SW7 2BA (next to Beit Quadrangle, South Kensington)",
-    "source": "IC",
-    "date": "2026-10-14T13:05:00+01:00",
-    "durationMin": 35,
-    "venue": "Holy Trinity Church, Prince Consort Rd, SW7 2BA",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214084/communion-service-and-weekly-prayers-2/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/communion-service-banner_1650018964277_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:213949",
-    "sourceEventId": "213949",
-    "title": "HealthBRIDGE: New PhD Studentships at Imperial College London funded by the Medical Research Council",
-    "desc": "This event aims to provide information about HealthBRIDGE, an exciting and innovative new 1+3-year PhD training initiative at Imperial College London funded by the Medical Research Council (MRC) through its Doctoral Landscape Award (DLA) scheme. This virtual event will provide an opportunity for prospective applicants to find out about the structure of HealthBRIDGE, as well as the opportunities and support that we provide to students on this programme.\n\nThe webinar is open to anyone with an interest in undertaking a cohort-based PhD in biomedical research at Imperial aligned with one or more of the Medical Research Council’s research priorities .\n\nThere will be a presentation about HealthBRIDGE, followed by a Q&A session.\n\nPlease register here to receive the meeting link. You will be…",
-    "source": "IC",
-    "date": "2026-10-14T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213949/healthbridge-new-phd-studentships-at-imperial-college-london-funded-by-the-medical-research-council/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-advancement-division-case-studies-14th-november-2024-brendan-foster-photography-115-32_1790254065767_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:214960",
-    "sourceEventId": "214960",
-    "title": "Junior Analysis Seminar – Oliver Gough (Bath)",
-    "desc": "Title\n\nAbstract\n\nI will discuss two results on stable finite-time blow-up for semilinear wave equations with quadratic derivative nonlinearities. In one dimension, both the time-derivative and spatial-derivative nonlinearities admit “generalised self-similar” blow-up solutions. I will begin by briefly reviewing a result on the construction and asymptotic stability of such solutions in the time-derivative case.\n\nThe main focus of the talk will be recent joint work with Manuel del Pino and Monica Musso extending this picture to the spatial-derivative nonlinearity in all dimensions n \\geq 2. Under radial symmetry, we construct solutions that blow up on a sphere and establish their stability under radial perturbations. I will explain how the one-dimensional analysis enters both the…",
-    "source": "IC",
-    "date": "2026-10-14T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214960/junior-analysis-seminar-oliver-gough-bath/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/seminar-picture_1599821877881_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:212176",
-    "sourceEventId": "212176",
-    "title": "HEP seminar: Caterina Vernieri (SLAC) – Di-Higgs at colliders",
-    "desc": "Higgs analysis in ATLAS, discussing recent Higgs results from the LHC and prospects at future e+e- colliders.",
-    "source": "IC",
-    "date": "2026-10-14T15:00:00+01:00",
-    "durationMin": 60,
-    "venue": "630, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Physics of Particles",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212176/hep-seminar-caterina-vernieri-slac-delving-into-the-unknown-the-higgs-boson-at-particle-colliders/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/bebc_1697635355708_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:214684",
-    "sourceEventId": "214684",
-    "title": "SPC Seminar – Plasma – Andrew Lanzrath (MIT)",
-    "desc": "Speaker: Andrew Lanzrath (MIT)\n\nTitle: Probing light-ion nuclear reactions relevant to astrophysics in high-energy-density plasmas\n\nAbstract: High-quality nuclear data is needed to inform models of big bang and stellar nucleosynthesis. Historically, nuclear reactions have been studied at accelerator facilities where an ion beam impinges upon a cold target. However, in astrophysical environments, these reactions take place in high-energy-density (HED) plasmas. Beam-target fusion reactions in a cold target with bound electrons are not physically comparable to the thermal distributions of reacting ions and free electrons in HED plasmas, which motivated the development of a platform to study nuclear reactions at laser-driven inertial confinement fusion facilities. HED plasmas provide a…",
-    "source": "IC",
-    "date": "2026-10-14T15:00:00+01:00",
-    "durationMin": 60,
-    "venue": "741, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214684/spc-seminar-plasma-andrew-lanzrath-mit/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:214489",
-    "sourceEventId": "214489",
-    "title": "Number Theory Seminar – Sean Cotner",
-    "desc": "Speaker: Sean Cotner\n\nTitle: On the Fargues–Scholze local Langlands correspondence for Yu’s supercuspidals\n\nMore information available on the Number Theory seminar website",
-    "source": "IC",
-    "date": "2026-10-14T16:00:00+01:00",
-    "durationMin": 60,
-    "venue": "139, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214489/number-theory-seminar-sean-cotner/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
+    "url": "https://www.imperial.ac.uk/events/211117/frontiers-in-natural-sciences-deans-annual-lecture-ai-and-the-long-conversation-of-mathematics/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/deans-annual-lecture-2026-1880x240_1782465403826_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214866",
@@ -612,7 +395,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214866/alumni-of-dallas-tx-social-gathering/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214720",
@@ -721,7 +504,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214483/algebra-colloquium-sean-eberhard-warwick/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:213161",
@@ -767,6 +550,265 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213531/whats-the-question-deciding-what-you-really-want-to-know-by-professor-david-j-hand/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/whats-the-question-cover-page-0001_1789737455957_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214783",
+    "sourceEventId": "214783",
+    "title": "Junior Dynamics Seminar – Ross Ah-Weng",
+    "desc": "Statistical Degradation of Chaotic Dynamical Systems on Computers\n\nSpeaker: Ross Ah-Weng\n\nAbstract : Many chaotic physical systems are forecasted using Birkhoff averages of observables along numerically simulated trajectories. However, when any dynamical system is simulated in floating-point arithmetic, the continuum is replaced by a finite discrete domain. The new dynamics are substantially different: every trajectory is eventually periodic, sufficiently close trajectories become indistinguishable after roundoff, and any invariant measure is supported on a finite set of disjoint periodic orbits. We identify a generic mechanism in which non-injectivity from rounding causes statistics inferred from any simulated trajectory to continually and irreversibly degrade. We develop this framework…",
+    "source": "IC",
+    "date": "2026-10-15T16:00:00+01:00",
+    "durationMin": 60,
+    "venue": "642, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214783/junior-dynamics-seminar-ross-ah-weng/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:211823",
+    "sourceEventId": "211823",
+    "title": "Tackling paediatric asthma",
+    "desc": "Asthma is the most common long-term illness in children, affecting their daily lives and placing a significant burden on young people, their families and healthcare services.\n\nChildhood asthma is shaped by both biology and environment. As researchers develop more targeted treatments for severe asthma, there is also growing recognition of the impact that environmental exposures can have on children’s lung health.\n\nIn this seminar, two experts will talk about their research on preventing and treating paediatric asthma and answer your questions:\n\nProfessor Frank Kelly CBE holds the inaugural Humphrey Battcock Chair in Community Health and Policy, within Imperial’s School of Public Health and is Director of Imperial’s Environmental Research Group. Professor Kelly will talk about his research…",
+    "source": "IC",
+    "date": "2026-10-16T13:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Medicine",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211823/tackling-paediatric-asthma/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/paediatric-asthma-webinar-image_1786365212813_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213691",
+    "sourceEventId": "213691",
+    "title": "44th STUOD Sandbox Workshop – Michael Ghil (Ecole Normale Supérieure / University of California / Imperial College London)",
+    "desc": "The 44th meeting of the Sandbox Series will be held online and in-person:\n\nTo join in-person (first come, first served):\n\nPlease register using the link: https://imperial.eu.qualtrics.com/jfe/form/SV_eG5GeZ53J2e0SLc\n\nTo join remotely via Webex:\n\nGlobal warming & global weirding: A nonautonomous dynamical systems perspective\n\nAbstract:\n\nThe phenomenon of global warming is by now scientifically well established. The important aspects of “how, how much and when” are being explored quantitatively, as well as qualitatively, and extra-scientific objections persist.\n\nThis aspect of the climate sciences refers, however, mostly if not exclusively, to mean global near-surface atmospheric temperatures and to those other climatic and environmental phenomena that can be linked in a more-or-less…",
+    "source": "IC",
+    "date": "2026-10-16T13:00:00+01:00",
+    "durationMin": 150,
+    "venue": "747, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "CNRS-Imperial Abraham de Moivre",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213691/44th-stuod-sandbox-workshop-michael-ghil-ecole-normale-superieure-university-of-california-imperial-college-london/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214496",
+    "sourceEventId": "214496",
+    "title": "Geometry and Topology Seminar – Fabian Haiden (Syddansk Universitet)",
+    "desc": "Fabian Haiden (Syddansk Universitet) : Categorical Kähler Geometry\n\nMore information on the GT seminar website",
+    "source": "IC",
+    "date": "2026-10-16T13:30:00+01:00",
+    "durationMin": 60,
+    "venue": "642, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214496/geometry-and-topology-seminar-fabian-haiden-syddansk-universitet/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:208621",
+    "sourceEventId": "208621",
+    "title": "Statistics Seminar: Vidhi Lalchand (Chapman Fellow)",
+    "desc": "14:00 – 15:00 – Vidhi Lalchand (Chapman Fellow)\n\nTitle: TBA\n\nAbstract: TBA",
+    "source": "IC",
+    "date": "2026-10-16T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "HXLY139, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/208621/statistics-seminar-giuseppe-cavaliere-bologna-and-exeter-co-editor-in-chief-of-journal-of-econometrics/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213717",
+    "sourceEventId": "213717",
+    "title": "Fluid Dynamics Seminar: Kyle McKee (ETH)",
+    "desc": "Metric geometry governs optimal control in driven Stokes flows: magnetic driving and beyond",
+    "source": "IC",
+    "date": "2026-10-16T14:00:00+01:00",
+    "durationMin": 60,
+    "venue": "139, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213717/fluid-dynamics-seminar-kyle-mckee-eth/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214458",
+    "sourceEventId": "214458",
+    "title": "SIAM Junior Applied Mathematics Seminar (JAMS) – Pablo Zurita Soler & Kamaljit Singh",
+    "desc": "Modelling active fluid-structure interaction in the microscale through Lagrangian mechanics\n\nSpeaker : Pablo Zurita Soler\n\nAbstract: When observing biological fluids, it is common to find flows that arise as a direct result of the motion of solids in contact with them. Biological and biomedical solids are said to be active when they themselves generate their own motion, typically by creating stress via internal mechanisms. Modelling such mechanisms presents a number of challenges, even more so when considering the hydrodynamic coupling present via the fluid-structure interaction.\n\nIn this talk, I will present our efforts to build upon previous Lagrangian mechanics approaches to model such active fluid-structure interactions in the microscale, when the fluid obeys the Stokes equation. The…",
+    "source": "IC",
+    "date": "2026-10-16T17:00:00+01:00",
+    "durationMin": 60,
+    "venue": "144, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214458/siam-junior-applied-mathematics-seminar-jams-pablo-zurita-soler-kamaljit-singh/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:215078",
+    "sourceEventId": "215078",
+    "title": "MAGIC Seminar – Bogdan Simeonov (Imperial)",
+    "desc": "Bogdan Simeonov (Imperial): Periodic structures on the symplectic cohomology of orbifold divisor complements\n\nMore details can be found on https://www.imperial.ac.uk/geometry/seminars/magic-seminar/",
+    "source": "IC",
+    "date": "2026-10-19T13:00:00+01:00",
+    "durationMin": 90,
+    "venue": "658, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215078/magic-seminar-bogdan-simeonov-imperial/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:212954",
+    "sourceEventId": "212954",
+    "title": "Christian Meditation: Online and In-person",
+    "desc": "Format: In person and Online (hybrid)\n\nIn Person: Chaplaincy, 15 Prince’s Gardens, South Kensington Campus, SW7 1NA (Drop-in)\n\nOnline via private Zoom Meeting invite . You can subscribe to our weekly mailing list to get the weekly Zoom Link.\n\nAnyone outside the Colleges of South Kensington who would like to attend online please contact Andrew Willson a.willson@imperial.ac.uk\n\nFacilitator: The Christian Meditation sessions are led by Andrew Willson, College Chaplain.\n\nAbout Christian Meditation\n\nChristianity has a long and rich history of meditation and contemplative prayer. These ancient Christian traditions have their roots in the monasteries of the desert hermits of the second century. Jesus himself often prayed in times of stillness and solitude. Many of these long established…",
+    "source": "IC",
+    "date": "2026-10-19T13:10:00+01:00",
+    "durationMin": 30,
+    "venue": "Chaplaincy Multi-Faith Centre, 15 Prince's Gardens, South Kensington, SW7 1NA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "mental health",
+      "Education",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212954/weekly-christian-meditation-3/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/christian-meditation-2-1086-x-307-1642077206866-x4-ezgifcom-webp-to-jpg-converter_1717097303804_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213705",
+    "sourceEventId": "213705",
+    "title": "Countdown to COP31: Accelerating Action in a World of Extremes",
+    "desc": "Countdown to COP31: Accelerating Action in a World of Extremes\n\nCo-hosted by the Grantham Institute – Climate Change and the Environment and the Delegation of the European Union to the UK\n\nIn a world facing intensifying climate impacts, geopolitical uncertainty, and growing pressures on energy systems and economies, the need for collective action on climate change is more pressing now than ever. Devastating wildfires, droughts, and other extreme weather events are putting the spotlight on the need for stronger adaptation action and efforts to limit global temperature rise, while there is growing recognition of the opportunities that a clean economy can offer in terms of enhanced energy security and prosperity. Yet, action to date falls short.\n\n​Against this backdrop, COP31 provides a…",
+    "source": "IC",
+    "date": "2026-10-19T17:00:00+01:00",
+    "durationMin": 180,
+    "venue": "Location shared after registration",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Climate change",
+      "Environment",
+      "events",
+      "Natural Sciences"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213705/countdown-to-cop31/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/countdown-to-cop31-1-1_1790003856318_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214877",
+    "sourceEventId": "214877",
+    "title": "GATP Seminar – Geordie Williamson (Sydney)",
+    "desc": "Intersection (co)homology is a beautiful invariant of singular spaces, e.g. singular complex algebraic varieties. Over the rationals it satisfies a raft of strong properties (e.g. Poincaré duality, hard Lefschetz, pure Hodge structure,…) which still seem like a miracle. In their paper introducing these groups, Goresky and MacPherson point out that (unlike the integral cohomology of smooth manifolds) it fails to satisfy Poincaré duality over the integers. Subsequent sheaf theoretic approaches have clarified the situation, and in fact one can prove that there is no reasonable theory over the integers which satisfies Poincaré duality. I will discuss intersection cohomology, given several simple examples that illustrate the theory. Then I will discuss work in progress with F. Klein and T.…",
+    "source": "IC",
+    "date": "2026-10-20T11:00:00+01:00",
+    "durationMin": 90,
+    "venue": "Huxley 658, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214877/gatp-seminar-geordie-williamson-sydney-intersection-homology-over-rings/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214608",
+    "sourceEventId": "214608",
+    "title": "SPC Seminar – Climate – Joshua Duffield (Imperial)",
+    "desc": "Title: Seasonal cycle of surface temperature: insights from simple models\n\nSpeaker: Joshua Duffield (Imperial)\n\nAbstract: From the perspective of the annual harmonic, the role of surface heat capacity in controlling the seasonal cycle of surface temperature is readily apparent: a larger heat capacity leads to a greater lag (i.e., the time delay between peak incoming solar radiation and the hottest day of the year), as well as a reduced seasonal amplitude (i.e., the difference between summer and winter temperatures). Over the ocean, changes in heat capacity in response to global warming can therefore drive opposing amplitude trends. At high latitudes, sea-ice melt increases heat capacity and reduces seasonal amplitude, whereas elsewhere, a reduction in mixed-layer depth associated with…",
+    "source": "IC",
+    "date": "2026-10-20T11:30:00+01:00",
+    "durationMin": 60,
+    "venue": "711c, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214608/spc-seminar-climate-joshua-duffield-imperial/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:pure-poison",
