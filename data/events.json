@@ -376,28 +376,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/deans-annual-lecture-2026-1880x240_1782465403826_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:214866",
-    "sourceEventId": "214866",
-    "title": "Alumni of Dallas, TX – Social Gathering",
-    "desc": "An event by Imperial College alumni for Imperial College alumni.\n\nJoin fellow Imperial alumni in Dallas for a relaxed fall get-together at Ida Claire in Addison!\n\nPart of our Campus to City series, this informal gathering is a chance to welcome recent graduates and alumni new to the Dallas area, reconnect with old friends, and meet others in the local Imperial community.\n\nThere’s no formal program, just an evening of good conversation, new connections, and Southern-inspired food and drinks.\n\nFood and drinks will be available for individual purchase.\n\nWe hope to see you there!",
-    "source": "IC",
-    "date": "2026-10-14T17:00:00-07:00",
-    "durationMin": 180,
-    "venue": "Ida Claire",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "International",
-      "Alumni",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214866/alumni-of-dallas-tx-social-gathering/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:214720",
     "sourceEventId": "214720",
     "title": "Electricity infrastructure and planning in the energy transition",
@@ -504,7 +482,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214483/algebra-colloquium-sean-eberhard-warwick/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:213161",
@@ -570,7 +548,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214783/junior-dynamics-seminar-ross-ah-weng/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211823",
@@ -635,7 +613,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214496/geometry-and-topology-seminar-fabian-haiden-syddansk-universitet/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:208621",
@@ -677,7 +655,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213717/fluid-dynamics-seminar-kyle-mckee-eth/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214458",
@@ -698,7 +676,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214458/siam-junior-applied-mathematics-seminar-jams-pablo-zurita-soler-kamaljit-singh/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:215078",
@@ -719,7 +697,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215078/magic-seminar-bogdan-simeonov-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212954",
@@ -786,7 +764,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214877/gatp-seminar-geordie-williamson-sydney-intersection-homology-over-rings/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214608",
@@ -808,7 +786,49 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214608/spc-seminar-climate-joshua-duffield-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213150",
+    "sourceEventId": "213150",
+    "title": "Speak like a researcher 1: making connections visible",
+    "desc": "Do you want to improve your academic speaking?\n\nSave this placeholder as a reminder of the Speak like a researcher workshops. The appointment is for the all of the sessions below so delete the occurrences of any sessions you do not wish to attend.\n\nSpeak like a researcher (SLAR) is a three-part, on-campus workshop series designed to help you communicate your research confidently in the situations that matter. You will learn how to build purposeful professional relationships, explain complex ideas clearly to different audiences, and respond credibly when your claims are questioned. Through practical activities, guided reflection and realistic speaking tasks, you will develop strategies for listening, questioning, structuring explanations and handling uncertainty. Each worksho p focuses on…",
+    "source": "IC",
+    "date": "2026-10-20T12:00:00+01:00",
+    "durationMin": 60,
+    "venue": "ASL-315 - Access through the SHERFIELD building, Sherfield Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Practice session",
+      "CfAE speaking and listening practice sessions",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213150/speak-like-a-researcher-1-making-connections-visible/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/slar-1-image_1789378008298_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "lse:economic-perspective-on-ai",
+    "sourceEventId": "economic-perspective-on-ai",
+    "title": "A collectivist, economic perspective on AI",
+    "desc": "A collectivist, economic perspective on AI",
+    "source": "LSE",
+    "date": "2026-10-21T18:30:00+01:00",
+    "durationMin": 75,
+    "venue": "In-person and online public event (Old Theatre, Old Building)",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/events/economic-perspective-on-ai",
+    "image": null
   },
   {
     "id": "wc:pure-poison",
