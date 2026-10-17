@@ -42,23 +42,6 @@
     "image": "https://www.kcl.ac.uk/newimages/nmpc/events/audience-sitting-in-chairs.x31401bcd.png?w=780&h=445&crop=780,440,0,3"
   },
   {
-    "id": "kcl:undergraduate-taster-ioppn-2-november-2026",
-    "sourceEventId": "54d39d80-bbbb-4901-99c9-2e50b02fff8d",
-    "title": "IoPPN Undergraduate On-Campus Taster Afternoon - 2 November 2026",
-    "desc": "Get a taste of what it's like to study Psychology, Psychology & Criminology or Neuroscience & Psychology at King's College London",
-    "source": "KCL",
-    "date": "2026-11-02T12:00:00",
-    "durationMin": 240,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-taster-ioppn-2-november-2026",
-    "image": "https://www.kcl.ac.uk/newimages/university-students.x3489f981.png"
-  },
-  {
     "id": "kcl:law-with-criminology-online-information-session-2-november-2026",
     "sourceEventId": "0ede6e77-9a09-405a-8a3f-97c14cb047d2",
     "title": "Law with Criminology online information session - 2 November 2026",
@@ -74,6 +57,23 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/law-with-criminology-online-information-session-2-november-2026",
     "image": "https://www.kcl.ac.uk/newimages/student-life/somerset-house.xee140710.png?w=782&h=440&crop=780,440,1,0"
+  },
+  {
+    "id": "kcl:undergraduate-taster-ioppn-2-november-2026",
+    "sourceEventId": "54d39d80-bbbb-4901-99c9-2e50b02fff8d",
+    "title": "IoPPN Undergraduate On-Campus Taster Afternoon - 2 November 2026",
+    "desc": "Get a taste of what it's like to study Psychology, Psychology & Criminology or Neuroscience & Psychology at King's College London",
+    "source": "KCL",
+    "date": "2026-11-02T12:00:00",
+    "durationMin": 240,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/undergraduate-taster-ioppn-2-november-2026",
+    "image": "https://www.kcl.ac.uk/newimages/university-students.x3489f981.png"
   },
   {
     "id": "kcl:morning-prayer-at-waterloo-6",
@@ -243,6 +243,25 @@
     "image": "https://www.kcl.ac.uk/newimages/sspp/Lau-China/events/china-shipping-port.x9daa243b.jpg?w=780&h=519&crop=780,440,0,40"
   },
   {
+    "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
+    "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
+    "title": "Law undergraduate information session: Hong Kong - 3 November",
+    "desc": "Join us at our Law info session in Hong Kong.",
+    "source": "KCL",
+    "date": "2026-11-03T18:00:00",
+    "durationMin": 150,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "The Dickson Poon School of Law"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/law-undergraduate-information-session-hong-kong-3-november",
+    "image": "https://www.kcl.ac.uk/newimages/law/images/somerset-house.x3e401677.jpg?w=780&h=585&crop=780,440,0,73"
+  },
+  {
     "id": "kcl:school-of-the-sacraments-at-guys-3",
     "sourceEventId": "078802fa-2807-409e-bfc6-af30542e8d7f",
     "title": "School of the Sacraments at Guy's",
@@ -262,25 +281,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-3",
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/stained-glass-window-canterbury-cathedral.x56a6eac5.jpg?w=793&h=527&crop=780,440,13,0"
-  },
-  {
-    "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
-    "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
-    "title": "Law undergraduate information session: Hong Kong - 3 November",
-    "desc": "Join us at our Law info session in Hong Kong.",
-    "source": "KCL",
-    "date": "2026-11-03T18:00:00",
-    "durationMin": 150,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "The Dickson Poon School of Law"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/law-undergraduate-information-session-hong-kong-3-november",
-    "image": "https://www.kcl.ac.uk/newimages/law/images/somerset-house.x3e401677.jpg?w=780&h=585&crop=780,440,0,73"
   },
   {
     "id": "kcl:engelsberg-annual-lecture-in-applied-history-2026",
@@ -431,7 +431,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215078/magic-seminar-bogdan-simeonov-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:212954",
@@ -520,7 +520,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214608/spc-seminar-climate-joshua-duffield-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213150",
@@ -607,7 +607,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215148/dynamical-systems-seminar-arthur-limoge/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213984",
@@ -628,7 +628,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213984/finance-and-stochastics-seminar-tom-hadfield/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214613",
@@ -649,7 +649,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214613/ccmi-seminar-george-stepaniants-university-of-cambridge/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214731",
@@ -691,7 +691,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214826/stochastic-analysis-seminar-laurent-miclo-cnrs/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:207411",
