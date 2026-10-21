@@ -411,50 +411,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-whats-on-banner-goedele-maertens_1787305812279_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212402",
-    "sourceEventId": "212402",
-    "title": "Technology Leader Speaker Series with Omar Mir | How to succeed in the messy world of AI",
-    "desc": "Join us for a conversation with Omar Mir, Baron of Thorntoun, a leading figure in artificial intelligence and advanced technologies\n\nProfessor Peter Todd, Dean of Imperial Business School, is delighted to welcome Omar Mir, Advisory Board member and Visiting Professor of Practice at Imperial Business School and King’s Trust International Advisor on AI and Advanced Technology, to the first event in our Technology Leader Speaker Series.\n\nAbout the event\n\nOmar Mir, Principal Benefactor and Founding Principal of the King’s Trust International Campaign “Generation Potential” and International Board Member at World Wide Technology, will join Peter Todd, Dean of the Business School, to explore the keys to success when faced with the reality of artificial intelligence in the boardroom.\n\nYou might…",
-    "source": "IC",
-    "date": "2026-10-20T17:30:00+01:00",
-    "durationMin": 210,
-    "venue": "Business School, Imperial Business School, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Artificial intelligence",
-      "Institutional Event",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212402/technology-leader-speaker-series-with-omar-mir-how-to-succeed-in-the-messy-world-of-ai/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/omar-mir_1787672843507_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:207411",
-    "sourceEventId": "207411",
-    "title": "RSM175 Evening Lecture Series: Planetary Science",
-    "desc": "Featuring Prof Sanjeev Gupta",
-    "source": "IC",
-    "date": "2026-10-20T18:00:00+01:00",
-    "durationMin": 90,
-    "venue": "G.41, Royal School Of Mines, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Departmental event",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/207411/ese-evening-lecture-series-life-and-health-3/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ese-lectures-planetary-science_1773661851383_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:214611",
     "sourceEventId": "214611",
     "title": "Imperial Grand Rounds: ‘Brain surgery without a scalpel: focussed ultrasound and the future of functional neurosurgery’ – Dipankar Nandi, Professor of Practice (Neurosurgery)",
@@ -559,7 +515,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213741/control-and-optimisation-seminar-lei-zhang-birmingham/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214963",
@@ -603,7 +559,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214976/spc-seminar-space-dr-dikshita-meggi-leicester/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:215470",
@@ -624,7 +580,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215470/statistic-seminar-martin-wainwright-mit/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:212622",
@@ -667,7 +623,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214491/number-theory-seminar-simon-cooper/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventportrait2018_x1.jpg"
   },
   {
     "id": "ic:214980",
@@ -754,7 +710,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213867/analysis-and-dynamics-seminar-9/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:211613",
@@ -818,7 +774,49 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214699/mind-the-gap-topological-quantum-blind-spots/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214477",
+    "sourceEventId": "214477",
+    "title": "Analysis and Probability Seminar – Barbara Nelli (L’Aquila)",
+    "desc": "Barbara Nelli (L’Aquila): The Jenkins-Serrin theorem reloaded: minimal graphs in Killing submersions\n\nMore details on the website",
+    "source": "IC",
+    "date": "2026-10-22T15:00:00+01:00",
+    "durationMin": 60,
+    "venue": "UCL",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214477/analysis-and-probability-seminar-barbara-nelli-laquila-and-qing-han-university-of-notre-dame/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:214485",
+    "sourceEventId": "214485",
+    "title": "Algebra Colloquium – Stacey Law (Birmingham)",
+    "desc": "Stacey Law (Birmingham): tba\n\nMore details available on Algebra Colloquium website .",
+    "source": "IC",
+    "date": "2026-10-22T15:00:00+01:00",
+    "durationMin": 60,
+    "venue": "642, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Colloquium",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214485/algebra-colloquium-stacey-law-birmingham/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
   },
   {
     "id": "lse:economic-perspective-on-ai",
