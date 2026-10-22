@@ -283,25 +283,24 @@
     "image": "https://www.kcl.ac.uk/newimages/dean-images/chaplaincy-images/stained-glass-window-canterbury-cathedral.x56a6eac5.jpg?w=793&h=527&crop=780,440,13,0"
   },
   {
-    "id": "kcl:engelsberg-annual-lecture-in-applied-history-2026",
-    "sourceEventId": "ee9f5e64-f37c-476c-889e-686496dcd179",
-    "title": "'Engelsberg Annual Lecture in Applied History' with Prof Bruce Hoffman",
-    "desc": "This year’s lecture will be delivered by Professor Bruce Hoffman of Georgetown University. He will examine the immediate consequences and ongoing repercussions of the 9/11 attacks and the U.S.- led global war on terror that followed.",
+    "id": "kcl:the-future-of-ai-in-the-justice-system-1",
+    "sourceEventId": "ea901982-c517-4695-ad0d-cd6feeea7d78",
+    "title": "The Future of AI in the Justice System",
+    "desc": "The Future of AI in the Justice System: Building Fair Practices and Public Trust",
     "source": "KCL",
     "date": "2026-11-03T18:00:00",
-    "durationMin": 90,
+    "durationMin": 180,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
     "tags": [
-      "Public lecture",
-      "International",
-      "Faculty of Social Science & Public Policy"
+      "The Dickson Poon School of Law",
+      "King’s Institute for Artificial Intelligence"
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/engelsberg-annual-lecture-in-applied-history-2026",
-    "image": "https://www.kcl.ac.uk/newimages/sspp/Security/research-centres-groups/applied-history-bruce-hoffman.x568a5c4f.png?w=782&h=440&crop=780,440,1,0"
+    "url": "https://www.kcl.ac.uk/events/the-future-of-ai-in-the-justice-system-1",
+    "image": "https://www.kcl.ac.uk/newimages/law/event-promos-780x440/the-future-of-ai-in-the-justice-system-hero-image-1.xa12f6338.png"
   },
   {
     "id": "ic:213763",
@@ -411,198 +410,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-whats-on-banner-goedele-maertens_1787305812279_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:212781",
-    "sourceEventId": "212781",
-    "title": "Lunchtime Concert – Gareth Brynmor John and William Vann",
-    "desc": "Long Time Ago explores the progress of grief through a selection of English, French, German, and Russian song including Copland , Rachmaninoff , and Brahms Four Serous Songs Op 121\n\nGareth Brynmor John (baritone)\n\nWilliam Vann (piano)",
-    "source": "IC",
-    "date": "2026-10-22T13:00:00+01:00",
-    "durationMin": 45,
-    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Arts",
-      "Creative",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212781/lunchtime-concert-gareth-brynmor-john-and-william-vann/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/sheet-music1_1788513756680_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:213867",
-    "sourceEventId": "213867",
-    "title": "Analysis and Dynamics seminar: Fernando Argentieri (IMPA)",
-    "desc": "Speaker: Fernando Argentieri (IMPA, Brasil)\n\nTitle: TBA\n\nAbstract: TBA",
-    "source": "IC",
-    "date": "2026-10-22T13:00:00+01:00",
-    "durationMin": 60,
-    "venue": "410, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213867/analysis-and-dynamics-seminar-9/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:211613",
-    "sourceEventId": "211613",
-    "title": "Jump Jet Book Launch",
-    "desc": "This is the story of how one man flew free of digital limits.\n\nFor an aircraft designer, taking your own concept from an idea to widespread, global operations is a rare achievement. Jump Jet tells the story of how Ralph Hooper did it with the Harrier, by side-stepping the emerging digital world.\n\nWith the creation of jet aircraft, nuclear weapons, and digital computers in the 1940s, the design of fighter aircraft was transformed. The analytical approach to design, where optimization ruled, was created. The only problem was that, for one key type of aircraft, it did not work.\n\nVertical take-off and landing aircraft, jump jets, were seen as essential to survive the opening salvoes of World War Three. Despite the need for them, almost every concept or prototype tried around the world…",
-    "source": "IC",
-    "date": "2026-10-22T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "ASL S303A, (Access via Sherfield Level 3), Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211613/jump-jet/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/jump-jet-cover_1784547075188_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:213360",
-    "sourceEventId": "213360",
-    "title": "PDEs Seminar – Warren Li (Imperial College London)",
-    "desc": "tba",
-    "source": "IC",
-    "date": "2026-10-22T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Huxley 130, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213360/pdes-seminar-warren-li-imperial-college-london/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/apdescritta_1610543878723_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:214699",
-    "sourceEventId": "214699",
-    "title": "Mind the Gap: Topological Quantum Blind Spots",
-    "desc": "Speaker: Dr Henry Legg (St Andrews)\n\nAbstract:\n\nRecently, significant attention has been focused on realising a topological qubit based on Majorana zero modes, driven in particular by claims from Microsoft Quantum. Here, I critically examine the Topological Gap Protocol (TGP) and demonstrate its fundamental Blind Spots. I show that the TGP is unreliable both as a diagnostic tool for topological superconductivity and associated Majorana zero modes, and as a method for verifying a bulk superconducting gap — a prerequisite for parity readout and qubit operation. Based on these insights, I will conclude that claims to have already realised topological qubits are not reliable and should be revisited.\n\nReferences:\n\n[1] Hess, Legg, Loss, Klinovaja Phys. Rev. Lett. 130, 207001 (2023)\n\n[2] Legg,…",
-    "source": "IC",
-    "date": "2026-10-22T14:00:00+01:00",
-    "durationMin": 60,
-    "venue": "H503-level 5 , Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Matter Community",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214699/mind-the-gap-topological-quantum-blind-spots/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:214477",
-    "sourceEventId": "214477",
-    "title": "Analysis and Probability Seminar – Barbara Nelli (L’Aquila)",
-    "desc": "Barbara Nelli (L’Aquila): The Jenkins-Serrin theorem reloaded: minimal graphs in Killing submersions\n\nMore details on the website",
-    "source": "IC",
-    "date": "2026-10-22T15:00:00+01:00",
-    "durationMin": 60,
-    "venue": "UCL",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214477/analysis-and-probability-seminar-barbara-nelli-laquila-and-qing-han-university-of-notre-dame/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:214485",
-    "sourceEventId": "214485",
-    "title": "Algebra Colloquium – Stacey Law (Birmingham)",
-    "desc": "Stacey Law (Birmingham): tba\n\nMore details available on Algebra Colloquium website .",
-    "source": "IC",
-    "date": "2026-10-22T15:00:00+01:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Colloquium",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214485/algebra-colloquium-stacey-law-birmingham/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
-  },
-  {
-    "id": "ic:214603",
-    "sourceEventId": "214603",
-    "title": "Junior Dynamics Seminar – Evangelos Kotzafilios (Imperial)",
-    "desc": "Introduction to holomorphic dynamics\n\nAbstract: 1D holomorphic dynamics focuses on the study of the dynamics of holomorphic functions in the plane. The main protagonist in these studies is the Julia set, which represents the chaotic part of the system. First we are going to present a general introduction to the topic and later talk about the dynamics of quadratic polynomials, which have fueled much of the contemporary advancements in the field. If time permits we will also try to explore the connection with hyperbolic geometry in the plane and hyperbolic 3-manifolds.",
-    "source": "IC",
-    "date": "2026-10-22T16:00:00+01:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214603/junior-dynamics-seminar-evangelos-kotzafilios-imperial/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
-  },
-  {
-    "id": "ic:215069",
-    "sourceEventId": "215069",
-    "title": "Analysis and Probability Seminar – Qing Han (University of Notre Dame)",
-    "desc": "Qing Han (University of Notre Dame): Exterior Solutions to the Minimal Surface Equation\n\nMore details on the website",
-    "source": "IC",
-    "date": "2026-10-22T16:30:00+01:00",
-    "durationMin": 60,
-    "venue": "UCL",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215069/analysis-and-probability-seminar-qing-han-university-of-notre-dame/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventportrait2018_x1.jpg"
-  },
-  {
     "id": "ic:213786",
     "sourceEventId": "213786",
     "title": "Fireside Chat – Can London become a Hub for Commercial Robotics?",
@@ -623,6 +430,29 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213786/fireside-chat-can-london-become-a-hub-for-commercial-robotics/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/cover2-2_1790159027688_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:215685",
+    "sourceEventId": "215685",
+    "title": "Imperial & Universiti Teknologi Malaysia – Research Collaboration Workshop [Coastal and Ocean Engineering Meeting]",
+    "desc": "P R O G R A M M E 9:00am Arrival and Registration\n\n9:15am Welcome and Opening Remarks Welcome from the hosts and introductions of the Imperial and UTM delegations\n\n9:30am Introducing Imperial College London An overview of Imperial’s academic, research and innovation ecosystem\n\n10am Introducing Universiti Teknologi Malaysia An overview of UTM and its strategic areas of academic and research interest\n\n12:15pm Research Centre and Laboratory Tours Guided visits to research centres and laboratory facilities\n\n13:00pm Shaping the Imperial–UTM Partnership Joint discussion on research collaboration, postgraduate education and joint supervision, staff and student mobility, knowledge exchange, and international funding opportunities\n\n14:15pm Closing Remarks and Next Steps Summary of key outcomes…",
+    "source": "IC",
+    "date": "2026-10-23T09:00:00+01:00",
+    "durationMin": 360,
+    "venue": "601, Skempton Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Civil engineering",
+      "Fluid mechanics",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215685/imperial-universiti-teknologi-malaysia-research-collaboration-workshop-coastal-and-ocean-engineering-meeting/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/240830-dg-hydrodynamics-laboratory-wave-tanks-026-b_1792678065919_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214701",
@@ -666,7 +496,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215075/structures-seminar-controlling-fracture-in-topological-maxwell-lattices-dr-leo-de-waal/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213722",
@@ -687,7 +517,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213722/fluid-dynamics-seminar-jacob-page-edinburgh-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213890",
@@ -708,7 +538,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213890/statistics-seminar-harita-dellaporta-chapman-fellow/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:215591",
@@ -730,6 +560,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215591/junior-geometry-seminar-patrick-luo-2/",
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/algebra-geometry-vector-269401_1706103833621_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:215649",
+    "sourceEventId": "215649",
+    "title": "NEXUS Non-Exhaust Emissions Science and Impact",
+    "desc": "This full-day event will bring together researchers, policymakers, funders, patient representatives and other stakeholders to explore the future of non-exhaust emissions research and its role in shaping healthier, cleaner environments.\n\nThe meeting has four key aims:\n\nShare progress from the first year of the NEXUS programme and strengthen our growing international network.\n\nShape the future direction of NEXUS, co-producing priorities that maximise scientific, policy and societal impact.\n\nExplore the latest advances in modelling, monitoring and source apportionment, and how these can be better integrated into health research.\n\nBuild new collaborations across research, policy, funding and public engagement to accelerate progress in understanding the health impacts of non-exhaust…",
+    "source": "IC",
+    "date": "2026-10-26T08:30:00+00:00",
+    "durationMin": 480,
+    "venue": "Lecture Theatre, Lower Ground Floor, Molecular Sciences Research Hub (MSRH), White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Meeting",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215649/nexus-non-exhaust-emissions-science-impact/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/nexus-logo-only_1792660034516_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214629",
@@ -822,6 +673,135 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ide-seminar-templates_1792589553156_eventfeatured2018_x1.jpg"
   },
   {
+    "id": "ic:215496",
+    "sourceEventId": "215496",
+    "title": "Dynamical Systems Seminar – George Stepaniants",
+    "desc": "Speaker : George Stepaniants\n\nTitle : Volterra Integral Equations and Memory Dependent Constitutive Laws\n\nAbstract : We will discuss how Volterra integral equations arise naturally in partially observed dynamical systems with specific applications to multiscale materials. This will motivate the construction of surrogate machine learning operators for the time-dependent simulation of multiscale materials. Finally, we will explore new developments in the theory of Volterra integral equations and the insights they gives us into the nonlinear operators that these surrogates approximate.",
+    "source": "IC",
+    "date": "2026-10-27T13:00:00+00:00",
+    "durationMin": 60,
+    "venue": "145, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215496/dynamical-systems-seminar-george-stepaniants/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:213987",
+    "sourceEventId": "213987",
+    "title": "Finance and Stochastics Seminar – Emilio Barucci",
+    "desc": "Speaker : Emilio Barucci\n\nTitle : Trading and optimal execution in futures and spot markets with cross impacts\n\nAbstract : We study the inventory management of a trader operating in spot and futures markets when the futures basis vanishes at maturity and exhibits mean-reversion. The model distinguishes between the primary market, where new information is incorporated into prices, from the secondary market whose price contains a mean reverting basis component. We characterize the optimal trading strategy under both cash settlement and physical delivery. We show that access to the secondary market creates a statistical-arbitrage opportunity starting from zero initial wealth by allowing the trader to exploit the intertemporal mean reversion of the basis. Trading mostly occurs in the…",
+    "source": "IC",
+    "date": "2026-10-27T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213987/finance-and-stochastics-seminar-emilio-barucci/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:214742",
+    "sourceEventId": "214742",
+    "title": "Nelder Fellow lecture series – Prof Ed Bueler (University of Alaska Fairbanks)",
+    "desc": "Prof Ed Bueler (University of Alaska Fairbanks) : New solver approaches for variational inequalities\n\nLectures will be held on Tuesdays: 20 Oct, 27 Oct, 3 Nov, 17 Nov, at 15:00.\n\nAbstract: This four-lecture series introduces variational inequalities to a general applied mathematical audience, pursues their finite element solution, and applies them to a geophysical problem. Variational inequalities are partial differential equation weak forms, but subject to bounds on their solution(s). They reformulate how one might pose boundary conditions at a free location; where the conditions apply is now determined simultaneously along with the solution. Certain variational inequalities state the KKT conditions of optimization problems in function spaces, and in all cases these continuum models…",
+    "source": "IC",
+    "date": "2026-10-27T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "658, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214742/nelder-fellow-lecture-series-prof-ed-bueler-2/",
+    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/ed-bueler-prof-big_1791374822196_eventportrait2018_x1.jpg"
+  },
+  {
+    "id": "ic:215510",
+    "sourceEventId": "215510",
+    "title": "SPC Seminar – Plasma – Farhat Beg (UCSD)",
+    "desc": "Speaker: Farhat Beg (UCSD)\n\nTitle: Proton Heating in Integrated Proton Fast Ignition Experiments\n\nAbstract: Proton fast ignition (PFI) is an alternative inertial confinement fusion (ICF) concept that promises high gain suitable for inertial fusion energy applications. In this concept, a short-pulse, high-intensity laser is used to generate an energetic proton beam that efficiently couples’ energy into a pre-compressed fuel assembly. This enables ignition conditions to be reached with less stringent symmetry and driver energy requirements than in the conventional hot-spot approach.\n\nWe report on the first integrated PFI campaign at the Omega Laser Facility that included both the compression and ignition phases to measure the temperature increase in the compressed core due to proton…",
+    "source": "IC",
+    "date": "2026-10-27T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "630, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215510/spc-seminar-plasma-farhat-beg-ucsd/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:215529",
+    "sourceEventId": "215529",
+    "title": "Stochastic Analysis Seminar – Tobias Grafke (University of Warwick)",
+    "desc": "Tobias Grafke\n\nTitle: Sharp rare-event asymptotics and fluctuations around instantons\n\nAbstract",
+    "source": "IC",
+    "date": "2026-10-27T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215529/stochastic-analysis-seminar-tobias-grafke/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+  },
+  {
+    "id": "ic:212829",
+    "sourceEventId": "212829",
+    "title": "RUSH HOUR RECITAL Siglo de Oro",
+    "desc": "RUSH HOUR RECITAL\n\nSiglo de Oro",
+    "source": "IC",
+    "date": "2026-10-27T17:45:00+00:00",
+    "durationMin": 60,
+    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
+    "area": "Off",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Concerts",
+      "Arts",
+      "Creative",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212829/rush-hour-recital-siglo-de-oro-2/",
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+  },
+  {
     "id": "wc:pure-poison",
     "sourceEventId": "pure-poison",
     "title": "Pure Poison",
@@ -882,6 +862,26 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/handle-with-care-conversations-through-objects-november-2026",
     "image": "https://images.prismic.io/wellcomecollection/ZtmF1bzzk9ZrXB24_EP_002108_037.jpg?auto=format%2Ccompress&rect=446%2C527%2C3540%2C1991&w=3200&h=1800"
+  },
+  {
+    "id": "wc:discovering-our-collections-through-ephemera",
+    "sourceEventId": "discovering-our-collections-through-ephemera",
+    "title": "Discovering our Collections through Ephemera",
+    "desc": "Join us for an interactive workshop about ephemera in our collections and take part in an activity to create your own.",
+    "source": "WC",
+    "date": "2026-11-24T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Viewing Room",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/discovering-our-collections-through-ephemera",
+    "image": "https://images.prismic.io/wellcomecollection/aFQEynfc4bHWiieO_EP_000737_029.jpg?auto=format%2Ccompress&rect=0%2C176%2C4000%2C2250&w=3200&h=1800"
   },
   {
     "id": "wc:wellcome-collection-lates-not-done-yet",
@@ -979,26 +979,6 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/12/crossing-barriers/",
     "image": "https://royalsociety.org/-/media/events/2026/12/crossing-barriers/aiss.jpeg"
-  },
-  {
-    "id": "rs:2026-12-creating-connections-inthesoutheast",
-    "sourceEventId": "2026-12-creating-connections-inthesoutheast",
-    "title": "Creating Connections in the South East 2026",
-    "desc": "The Royal Society’s Creating Connections meeting in Southampton will explore the region’s role in driving innovation and prosperity across the UK.",
-    "source": "RS",
-    "date": "2026-12-08T10:30:00+01:00",
-    "durationMin": 330,
-    "venue": "National Oceanography Centre, Southampton, SO14 3ZH",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/12/creating-connections-inthesoutheast/",
-    "image": "https://royalsociety.org/-/media/policy/publications/2018/creating-connections.jpg"
   },
   {
     "id": "rs:2027-01-finding-earths",
@@ -1134,6 +1114,25 @@
     "image": "https://royalsociety.org/-/media/events/scientific-meetings-placeholder.jpg"
   },
   {
+    "id": "rs:2027-04-neuropeptide-connectome",
+    "sourceEventId": "2027-04-neuropeptide-connectome",
+    "title": "The neuropeptide connectome: Unlocking secrets of the brain’s dark matter",
+    "desc": "Discussion meeting organised by Professor Isabel Beets, Professor Christine Li, Professor William R Schafer FRS FMedSci and Emeritus Professor John G White FRS",
+    "source": "RS",
+    "date": "2027-04-12T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/04/neuropeptide-connectome/",
+    "image": "https://royalsociety.org/-/media/events/2027/04/neuropeptide-connectome/lead-image.jpg"
+  },
+  {
     "id": "rs:2026-10-see-buildings-differently",
     "sourceEventId": "2026-10-see-buildings-differently",
     "title": "See Buildings Differently",
@@ -1230,6 +1229,26 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/11/milner-prize-lecture/",
     "image": "https://royalsociety.org/-/media/events/2026/11/milner-prize-lecture/milneristock-1090964280.jpg"
+  },
+  {
+    "id": "rs:2026-11-celebrating-25-years-of-wikipedia",
+    "sourceEventId": "2026-11-celebrating-25-years-of-wikipedia",
+    "title": "Celebrating 25 years of Wikipedia",
+    "desc": "An event to mark the milestone, Professor Dame Wendy Hall FRS, Director of the Web Science Institute at the University of Southampton, and Jimmy Wales, co-founder of Wikipedia, bring together leaders from technology, policy, research, media and the open knowledge community to ask what comes next for the open web.",
+    "source": "RS",
+    "date": "2026-11-16T13:00:00+01:00",
+    "durationMin": 330,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Policy",
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 76,
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/celebrating-25-years-of-wikipedia/",
+    "image": "https://royalsociety.org/-/media/events/2026/11/wikipedia-25-years/wikipedia-25-years.jpg"
   },
   {
     "id": "rs:2026-11-lost-women-of-science-conversations",
