@@ -39,7 +39,8 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          if git diff --quiet data/events.json; then
+          git add -A data/images
+          if git diff --quiet data/events.json && git diff --cached --quiet -- data/images; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
@@ -50,7 +51,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/events.json
+          git add data/events.json data/images
           git commit -m "Auto-refresh events data [skip ci]"
 
       - name: Push changes

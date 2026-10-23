@@ -7,7 +7,9 @@
 //   3. For each enabled connector, fetch + normalize
 //   4. Drop any existing entries whose id matches the connector's prefix
 //      (e.g. "mu:*" for meetup), then append the freshly normalized ones
-//   5. Write data/events.json back, pretty-printed
+//   5. Download thumbnails into data/images/ and rewrite event.image to the
+//      local path (so the app works where UK sites are slow or blocked)
+//   6. Write data/events.json back, pretty-printed
 //
 // Run anytime:
 //
@@ -24,6 +26,7 @@ import { fetchUclEvents } from "./connectors/ucl.mjs";
 import { fetchTuringEvents } from "./connectors/turing.mjs";
 import { fetchWellcomeEvents } from "./connectors/wellcome.mjs";
 import { fetchRoyalSocietyEvents } from "./connectors/royal-society.mjs";
+import { localizeImages } from "./lib/localize-images.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, "..");
@@ -160,6 +163,13 @@ async function main() {
       (result.errors.length ? ` (${result.errors.length} errors)` : "")
     );
   }
+
+  const img = await localizeImages(merged, { root: ROOT });
+  summaries.push(
+    `images: ${img.downloaded} downloaded, ${img.reused} cached, ${img.pruned} pruned` +
+    (img.failed.length ? `, ${img.failed.length} kept remote` : "")
+  );
+  for (const f of img.failed) console.warn(`  image not saved: ${f}`);
 
   await writeFile(EVENTS_PATH, JSON.stringify(merged, null, 2) + "\n", "utf8");
 
