@@ -410,28 +410,6 @@
     "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/imperial-inaugural-whats-on-banner-goedele-maertens_1787305812279_eventfeatured2018_x1.jpg"
   },
   {
-    "id": "ic:213786",
-    "sourceEventId": "213786",
-    "title": "Fireside Chat – Can London become a Hub for Commercial Robotics?",
-    "desc": "​London is globally recognised as an international financial powerhouse and center for innovative design but, can the capital translate that momentum into physical hardware and compete directly with hubs like San Francisco?\n\n​Join us for an insightful fireside chat featuring Professor Nick Munro , Professor of Design at Imperial College London and renowned entrepreneur, alongside Professor Thrishantha Nanayakkara , Professor of Robotics and Director of the Morph Lab at the Dyson School of Design Engineering.\n\n​This event offers a rare opportunity to hear from researchers and innovators working to change the course of technology in the UK as well as a chance to get involved in the conversation yourself.\n\n​Whether you are a founder, researcher, investor, or student, this event is open to…",
-    "source": "IC",
-    "date": "2026-10-22T18:00:00+01:00",
-    "durationMin": 90,
-    "venue": "Dyson Library, Dyson Building of Design Engineering, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Robotics",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213786/fireside-chat-can-london-become-a-hub-for-commercial-robotics/",
-    "image": "https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/cover2-2_1790159027688_eventfeatured2018_x1.jpg"
-  },
-  {
     "id": "ic:215685",
     "sourceEventId": "215685",
     "title": "Imperial & Universiti Teknologi Malaysia – Research Collaboration Workshop [Coastal and Ocean Engineering Meeting]",
@@ -474,7 +452,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214701/an-ocean-without-a-sea-interacting-planetary-edge-currents-in-the-absence-of-a-chiral-anomaly/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:215075",
@@ -496,7 +474,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215075/structures-seminar-controlling-fracture-in-topological-maxwell-lattices-dr-leo-de-waal/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213722",
@@ -517,7 +495,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213722/fluid-dynamics-seminar-jacob-page-edinburgh-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_5_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213890",
@@ -538,7 +516,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213890/statistics-seminar-harita-dellaporta-chapman-fellow/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:215591",
@@ -691,7 +669,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215496/dynamical-systems-seminar-george-stepaniants/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:213987",
@@ -712,7 +690,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213987/finance-and-stochastics-seminar-emilio-barucci/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_1_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_3_eventfeatured2018_x1.jpg"
   },
   {
     "id": "ic:214742",
@@ -799,7 +777,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212829/rush-hour-recital-siglo-de-oro-2/",
-    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_2_eventfeatured2018_x1.jpg"
+    "image": "https://www.imperial.ac.uk/assets/website/images/placeholder/events/events-placeholder_4_eventfeatured2018_x1.jpg"
   },
   {
     "id": "wc:pure-poison",
