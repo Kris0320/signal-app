@@ -539,7 +539,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215496/dynamical-systems-seminar-george-stepaniants/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:213987",
@@ -560,7 +560,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213987/finance-and-stochastics-seminar-emilio-barucci/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:214742",
@@ -624,7 +624,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215529/stochastic-analysis-seminar-tobias-grafke/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:212829",
@@ -733,7 +733,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213894/statistics-seminar-massimo-franchi-sapienza/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:214966",
@@ -775,28 +775,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215640/mathematical-physics-seminar-october-28th-ginestra-bianconi-qmul-gravity-from-entropy/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "wc:pure-poison",
-    "sourceEventId": "pure-poison",
-    "title": "Pure Poison",
-    "desc": "Join Sarah and Grace from the Visitor Experience and Engagement team for a display inspired by the use of poisons in medicine, culture and fashion.",
-    "source": "WC",
-    "date": "2026-10-24T11:00:00+00:00",
-    "durationMin": 240,
-    "venue": "The Forum",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Session",
-      "Healthcare",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/pure-poison",
-    "image": "data/images/e353cdff8a099b61.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "wc:an-artist-in-everyday-life",
