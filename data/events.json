@@ -563,6 +563,27 @@
     "image": "data/images/5f47d88be043d445.jpg"
   },
   {
+    "id": "ic:215755",
+    "sourceEventId": "215755",
+    "title": "Astrophysics Weekly Seminar: Prof. Ludovic van Waerbeke – Can dark energy emerge from the standard model of particle physics?",
+    "desc": "Title\n\nCan dark energy emerge from the standard model of particle physics?\n\nAbstract\n\nThe discovery of cosmic acceleration established dark energy as one of the central problems in cosmology. In the standard cosmological model, dark energy is described by a cosmological constant, yet its extremely small value remains difficult to reconcile with expectations from quantum field theory. Recent DESI results, combined with other cosmological probes, suggest that dark energy may evolve with cosmic time. In this talk, I will first review the observational evidence for dark energy, what current data tell us about its properties, and why evolving dark energy is theoretically challenging. I will then discuss the possibility that dark energy may not require a new particle or field, but could…",
+    "source": "IC",
+    "date": "2026-10-27T14:30:00+00:00",
+    "durationMin": 60,
+    "venue": "711C, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215755/astrophysics-weekly-seminar-prof-ludovic-van-waerbeke-can-dark-energy-emerge-from-the-standard-model-of-particle-physics/",
+    "image": "data/images/b86d11f01e230b11.jpg"
+  },
+  {
     "id": "ic:214742",
     "sourceEventId": "214742",
     "title": "Nelder Fellow lecture series – Prof Ed Bueler (University of Alaska Fairbanks)",
@@ -624,7 +645,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215529/stochastic-analysis-seminar-tobias-grafke/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:212829",
@@ -647,7 +668,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212829/rush-hour-recital-siglo-de-oro-2/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:215574",
@@ -733,7 +754,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213894/statistics-seminar-massimo-franchi-sapienza/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:214966",
@@ -755,27 +776,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214966/junior-analysis-seminar-monica-tapia-del-moral-cambridge/",
     "image": "data/images/f307df66c1f6d553.jpg"
-  },
-  {
-    "id": "ic:215640",
-    "sourceEventId": "215640",
-    "title": "Mathematical Physics Seminar (October 28th) – Ginestra Bianconi (QMUL) – Gravity from Entropy",
-    "desc": "Abstract: Gravity from Entropy (GfE) is a recently proposed theory deriving gravity from the GfE action coupling matter fields and spacetime geometry [1]. The fundamental idea is to associate the Lorentzian treat the spacetime metrics as quantum operators. The GfE Lagrangian is given by a novel Geometric Quantum Relative Entropy (GQRE) between the spacetime metric and the metric induced by matter fields and curvature. In doing so the GfE theory elevates the interplay between matter and geometry as the fundamental aspect of gravity to be reflected in its statistical mechanics and information theory action (the GfE action).\n\nLocation : Huxley 130, 15.00-16.00.",
-    "source": "IC",
-    "date": "2026-10-28T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Huxley 130, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215640/mathematical-physics-seminar-october-28th-ginestra-bianconi-qmul-gravity-from-entropy/",
-    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "wc:an-artist-in-everyday-life",
