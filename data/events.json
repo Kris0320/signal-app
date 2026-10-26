@@ -42,23 +42,6 @@
     "image": "data/images/31fef0218368e771.png"
   },
   {
-    "id": "kcl:undergraduate-taster-ioppn-2-november-2026",
-    "sourceEventId": "54d39d80-bbbb-4901-99c9-2e50b02fff8d",
-    "title": "IoPPN Undergraduate On-Campus Taster Afternoon - 2 November 2026",
-    "desc": "Get a taste of what it's like to study Psychology, Psychology & Criminology or Neuroscience & Psychology at King's College London",
-    "source": "KCL",
-    "date": "2026-11-02T12:00:00",
-    "durationMin": 240,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-taster-ioppn-2-november-2026",
-    "image": "data/images/cd35892fdf1d4f30.png"
-  },
-  {
     "id": "kcl:law-with-criminology-online-information-session-2-november-2026",
     "sourceEventId": "0ede6e77-9a09-405a-8a3f-97c14cb047d2",
     "title": "Law with Criminology online information session - 2 November 2026",
@@ -74,6 +57,23 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/law-with-criminology-online-information-session-2-november-2026",
     "image": "data/images/33c3b9515b971081.png"
+  },
+  {
+    "id": "kcl:undergraduate-taster-ioppn-2-november-2026",
+    "sourceEventId": "54d39d80-bbbb-4901-99c9-2e50b02fff8d",
+    "title": "IoPPN Undergraduate On-Campus Taster Afternoon - 2 November 2026",
+    "desc": "Get a taste of what it's like to study Psychology, Psychology & Criminology or Neuroscience & Psychology at King's College London",
+    "source": "KCL",
+    "date": "2026-11-02T12:00:00",
+    "durationMin": 240,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/undergraduate-taster-ioppn-2-november-2026",
+    "image": "data/images/cd35892fdf1d4f30.png"
   },
   {
     "id": "kcl:morning-prayer-at-waterloo-6",
@@ -243,25 +243,6 @@
     "image": "data/images/28c0a22e6249d722.jpg"
   },
   {
-    "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
-    "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
-    "title": "Law undergraduate information session: Hong Kong - 3 November",
-    "desc": "Join us at our Law info session in Hong Kong.",
-    "source": "KCL",
-    "date": "2026-11-03T18:00:00",
-    "durationMin": 150,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "The Dickson Poon School of Law"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/law-undergraduate-information-session-hong-kong-3-november",
-    "image": "data/images/e9201cbe1fdc7ab5.jpg"
-  },
-  {
     "id": "kcl:school-of-the-sacraments-at-guys-3",
     "sourceEventId": "078802fa-2807-409e-bfc6-af30542e8d7f",
     "title": "School of the Sacraments at Guy's",
@@ -281,6 +262,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-3",
     "image": "data/images/d9cf36757a289b06.jpg"
+  },
+  {
+    "id": "kcl:engelsberg-annual-lecture-in-applied-history-2026",
+    "sourceEventId": "ee9f5e64-f37c-476c-889e-686496dcd179",
+    "title": "'Engelsberg Annual Lecture in Applied History' with Prof Bruce Hoffman",
+    "desc": "This year’s lecture will be delivered by Professor Bruce Hoffman of Georgetown University. He will examine the immediate consequences and ongoing repercussions of the 9/11 attacks and the U.S.- led global war on terror that followed.",
+    "source": "KCL",
+    "date": "2026-11-03T18:00:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Public lecture",
+      "International",
+      "Faculty of Social Science & Public Policy"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/engelsberg-annual-lecture-in-applied-history-2026",
+    "image": "data/images/bdb5211b7ce62576.png"
   },
   {
     "id": "kcl:the-future-of-ai-in-the-justice-system-1",
@@ -410,72 +412,6 @@
     "image": "data/images/a51725c346633d00.jpg"
   },
   {
-    "id": "ic:215649",
-    "sourceEventId": "215649",
-    "title": "NEXUS Non-Exhaust Emissions Science and Impact",
-    "desc": "This full-day event will bring together researchers, policymakers, funders, patient representatives and other stakeholders to explore the future of non-exhaust emissions research and its role in shaping healthier, cleaner environments.\n\nThe meeting has four key aims:\n\nShare progress from the first year of the NEXUS programme and strengthen our growing international network.\n\nShape the future direction of NEXUS, co-producing priorities that maximise scientific, policy and societal impact.\n\nExplore the latest advances in modelling, monitoring and source apportionment, and how these can be better integrated into health research.\n\nBuild new collaborations across research, policy, funding and public engagement to accelerate progress in understanding the health impacts of non-exhaust…",
-    "source": "IC",
-    "date": "2026-10-26T08:30:00+00:00",
-    "durationMin": 480,
-    "venue": "Lecture Theatre, Lower Ground Floor, Molecular Sciences Research Hub (MSRH), White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Meeting",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215649/nexus-non-exhaust-emissions-science-impact/",
-    "image": "data/images/2aba851b2b78310b.jpg"
-  },
-  {
-    "id": "ic:214629",
-    "sourceEventId": "214629",
-    "title": "Navigating your career as a Black professional",
-    "desc": "A panel event for Black History Month 2026, chaired by an EDI professional, featuring a panel of Black professionals from academia, industry and professional services to discuss how they navigate their careers. The event will be chaired by Anna Sirmoglou, who is an Equality, Diversity and Inclusion (EDI) Manager from Mott MacDonald. Panel members consist of:\n\nProfessor Washington Ochieng – Head of Department Civil Engineering\n\nMaryane Mwaniki – Co-Founder, Counsellor, Coach & Public Speaker\n\nEbenezer Adenmosun – Director and Chartered Civil Engineer\n\nThis is an in person event taking place in CAGB 500",
-    "source": "IC",
-    "date": "2026-10-26T12:00:00+00:00",
-    "durationMin": 90,
-    "venue": "CAGB 500, City and Guilds Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Black History Month",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214629/navigating-your-career-as-a-black-professional/",
-    "image": "data/images/61e840fdbb93486b.jpg"
-  },
-  {
-    "id": "ic:212955",
-    "sourceEventId": "212955",
-    "title": "Christian Meditation: Online and In-person",
-    "desc": "Format: In person and Online (hybrid)\n\nIn Person: Chaplaincy, 15 Prince’s Gardens, South Kensington Campus, SW7 1NA (Drop-in)\n\nOnline via private Zoom Meeting invite . You can subscribe to our weekly mailing list to get the weekly Zoom Link.\n\nAnyone outside the Colleges of South Kensington who would like to attend online please contact Andrew Willson a.willson@imperial.ac.uk\n\nFacilitator: The Christian Meditation sessions are led by Andrew Willson, College Chaplain.\n\nAbout Christian Meditation\n\nChristianity has a long and rich history of meditation and contemplative prayer. These ancient Christian traditions have their roots in the monasteries of the desert hermits of the second century. Jesus himself often prayed in times of stillness and solitude. Many of these long established…",
-    "source": "IC",
-    "date": "2026-10-26T13:10:00+00:00",
-    "durationMin": 30,
-    "venue": "Chaplaincy Multi-Faith Centre, 15 Prince's Gardens, South Kensington, SW7 1NA",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "mental health",
-      "Education",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212955/weekly-christian-meditation-4/",
-    "image": "data/images/3664c76b77dd16c7.jpg"
-  },
-  {
     "id": "ic:213152",
     "sourceEventId": "213152",
     "title": "Speak like a researcher 2: making complexity visible",
@@ -539,7 +475,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215496/dynamical-systems-seminar-george-stepaniants/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:213987",
@@ -560,7 +496,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213987/finance-and-stochastics-seminar-emilio-barucci/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:215755",
@@ -624,7 +560,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215510/spc-seminar-plasma-farhat-beg-ucsd/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:215529",
@@ -645,7 +581,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215529/stochastic-analysis-seminar-tobias-grafke/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:212829",
@@ -668,7 +604,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212829/rush-hour-recital-siglo-de-oro-2/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:215574",
@@ -739,7 +675,7 @@
     "id": "ic:213894",
     "sourceEventId": "213894",
     "title": "Statistics Seminar: Massimo Franchi (Sapienza)",
-    "desc": "14:00 – 15:00 – Massimo Franchi\n\nTitle: TBA\n\nAbstract: TBA",
+    "desc": "14:00 – 15:00 – Massimo Franchi\n\nTitle: Canonical correlation analysis of stochastic trends via functional approximation\n\nAbstract: This paper proposes a novel approach for semiparametric inference on the number s of common trends and their loading matrix ψ in I(1)/I(0) systems. It combines functional approximation of limits of random walks and canonical correlations analysis, performed between the p observed time series of length T and the first K discretized elements of an L2 basis. Tests and selection criteria on s, and estimators and tests on ψ are proposed; their properties are discussed as T and K diverge sequentially for fixed p and s. It is found that tests on s are asymptotically pivotal, selection criteria of s are consistent, estimators of ψ are T -consistent, mixed-Gaussian…",
     "source": "IC",
     "date": "2026-10-28T14:00:00+00:00",
     "durationMin": 60,
@@ -754,7 +690,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213894/statistics-seminar-massimo-franchi-sapienza/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:214966",
@@ -776,6 +712,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214966/junior-analysis-seminar-monica-tapia-del-moral-cambridge/",
     "image": "data/images/f307df66c1f6d553.jpg"
+  },
+  {
+    "id": "ic:215640",
+    "sourceEventId": "215640",
+    "title": "Mathematical Physics Seminar (October 28th) – Ginestra Bianconi (QMUL) – Gravity from Entropy",
+    "desc": "Abstract: Gravity from Entropy (GfE) is a recently proposed theory deriving gravity from the GfE action coupling matter fields and spacetime geometry [1]. The fundamental idea is to associate the Lorentzian treat the spacetime metrics as quantum operators. The GfE Lagrangian is given by a novel Geometric Quantum Relative Entropy (GQRE) between the spacetime metric and the metric induced by matter fields and curvature. In doing so the GfE theory elevates the interplay between matter and geometry as the fundamental aspect of gravity to be reflected in its statistical mechanics and information theory action (the GfE action).\n\nLocation : Huxley 130, 15.00-16.00.",
+    "source": "IC",
+    "date": "2026-10-28T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Huxley 130, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215640/mathematical-physics-seminar-october-28th-ginestra-bianconi-qmul-gravity-from-entropy/",
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "wc:an-artist-in-everyday-life",
@@ -1047,7 +1004,7 @@
     "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/03/origins-of-land-plants/",
-    "image": "data/images/678fb46c963a2204.jpg"
+    "image": "data/images/b8a8e8c9e91fe278.jpg"
   },
   {
     "id": "rs:2027-04-sequences-behaviour-and-cognitive-evolution",
