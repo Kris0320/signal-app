@@ -243,27 +243,6 @@
     "image": "data/images/28c0a22e6249d722.jpg"
   },
   {
-    "id": "kcl:school-of-the-sacraments-at-guys-3",
-    "sourceEventId": "078802fa-2807-409e-bfc6-af30542e8d7f",
-    "title": "School of the Sacraments at Guy's",
-    "desc": "A group for students interested in the liturgy and sacraments of the Catholic Church.",
-    "source": "KCL",
-    "date": "2026-11-03T18:00:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-3",
-    "image": "data/images/d9cf36757a289b06.jpg"
-  },
-  {
     "id": "kcl:engelsberg-annual-lecture-in-applied-history-2026",
     "sourceEventId": "ee9f5e64-f37c-476c-889e-686496dcd179",
     "title": "'Engelsberg Annual Lecture in Applied History' with Prof Bruce Hoffman",
@@ -283,6 +262,25 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/engelsberg-annual-lecture-in-applied-history-2026",
     "image": "data/images/bdb5211b7ce62576.png"
+  },
+  {
+    "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
+    "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
+    "title": "Law undergraduate information session: Hong Kong - 3 November",
+    "desc": "Join us at our Law info session in Hong Kong.",
+    "source": "KCL",
+    "date": "2026-11-03T18:00:00",
+    "durationMin": 150,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "The Dickson Poon School of Law"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/law-undergraduate-information-session-hong-kong-3-november",
+    "image": "data/images/e9201cbe1fdc7ab5.jpg"
   },
   {
     "id": "kcl:the-future-of-ai-in-the-justice-system-1",
@@ -329,7 +327,7 @@
     "id": "ic:213510",
     "sourceEventId": "213510",
     "title": "Grantham Institute Annual Lecture 2026 with Anne Hidalgo",
-    "desc": "Progress in the face of pushback\n\n​Around the world, the leaders driving the most ambitious climate action are increasingly finding themselves at the centre of political polarisation, misinformation campaigns, and public backlash. Yet history shows that transformative change has rarely been achieved by following the path of least resistance. From redesigning cities and defending climate science to challenging vested interests, bold leadership often demands the willingness to go against the grain and withstand intense scrutiny.\n\n​In this keynote address, Anne Hidalgo, former Mayor of Paris, Global Ambassador for the Global Covenant of Mayors and one of Europe’s most influential urban climate leaders, will reflect on her experience leading the transformation of one of the world’s largest…",
+    "desc": "Progress in the face of pushback\n\nWatch online\n\n​Around the world, the leaders driving the most ambitious climate action are increasingly finding themselves at the centre of political polarisation, misinformation campaigns, and public backlash. Yet history shows that transformative change has rarely been achieved by following the path of least resistance. From redesigning cities and defending climate science to challenging vested interests, bold leadership often demands the willingness to go against the grain and withstand intense scrutiny.\n\n​In this keynote address, Anne Hidalgo, former Mayor of Paris, Global Ambassador for the Global Covenant of Mayors and one of Europe’s most influential urban climate leaders, will reflect on her experience leading the transformation of one of the…",
     "source": "IC",
     "date": "2026-10-27T17:30:00+00:00",
     "durationMin": 180,
@@ -410,201 +408,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212264/cracking-the-code-targeting-htlv-integration-to-eradicate-infection/",
     "image": "data/images/a51725c346633d00.jpg"
-  },
-  {
-    "id": "ic:213152",
-    "sourceEventId": "213152",
-    "title": "Speak like a researcher 2: making complexity visible",
-    "desc": "Do you want to improve your academic speaking?\n\nSave this placeholder as a reminder of the Speak like a researcher workshops. The appointment is for the all of the sessions below so delete the occurrences of any sessions you do not wish to attend.\n\nSpeak like a researcher (SLAR) is a three-part, on-campus workshop series designed to help you communicate your research confidently in the situations that matter. You will learn how to build purposeful professional relationships, explain complex ideas clearly to different audiences, and respond credibly when your claims are questioned. Through practical activities, guided reflection and realistic speaking tasks, you will develop strategies for listening, questioning, structuring explanations and handling uncertainty. Each worksho p focuses on…",
-    "source": "IC",
-    "date": "2026-10-27T12:00:00+00:00",
-    "durationMin": 60,
-    "venue": "ASL-315 - Access through the SHERFIELD building, Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Practice session",
-      "CfAE speaking and listening practice sessions",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213152/speak-like-a-researcher-2-making-complexity-visible/",
-    "image": "data/images/97eb39b4cfa88e4b.jpg"
-  },
-  {
-    "id": "ic:215620",
-    "sourceEventId": "215620",
-    "title": "IDE Seminar Series – Dr Ben Singer",
-    "desc": "Although many viruses can cause seasonally-recurring respiratory disease outbreaks with distinct epidemiological features, we lack full comparative understanding of the factors determining these features. Multiple dynamical regimes can permit endemic seasonal outbreaks of respiratory viruses, so characteristics such as transmission intensity, sensitivity to seasonal forcing, and the role of age and prior exposure in immunity can be challenging to resolve. We used time series data including the disruption to viral circulation during the COVID-19 pandemic to investigate transmission dynamics of 6 viruses, revealing differential buffering of virus re-emergence by population immunity persisting from prior endemic transmission. Calibrated models capture virus-specific re-emergence dynamics…",
-    "source": "IC",
-    "date": "2026-10-27T12:30:00+00:00",
-    "durationMin": 60,
-    "venue": "202, School of Public Health, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Infectious diseases",
-      "MRC Centre for Global Infectious Disease Analysis",
-      "Modelling",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215620/ide-seminar-series-dr-ben-singer/",
-    "image": "data/images/f06027a898c7bf9e.jpg"
-  },
-  {
-    "id": "ic:215496",
-    "sourceEventId": "215496",
-    "title": "Dynamical Systems Seminar – George Stepaniants",
-    "desc": "Speaker : George Stepaniants\n\nTitle : Volterra Integral Equations and Memory Dependent Constitutive Laws\n\nAbstract : We will discuss how Volterra integral equations arise naturally in partially observed dynamical systems with specific applications to multiscale materials. This will motivate the construction of surrogate machine learning operators for the time-dependent simulation of multiscale materials. Finally, we will explore new developments in the theory of Volterra integral equations and the insights they gives us into the nonlinear operators that these surrogates approximate.",
-    "source": "IC",
-    "date": "2026-10-27T13:00:00+00:00",
-    "durationMin": 60,
-    "venue": "145, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215496/dynamical-systems-seminar-george-stepaniants/",
-    "image": "data/images/b86d11f01e230b11.jpg"
-  },
-  {
-    "id": "ic:213987",
-    "sourceEventId": "213987",
-    "title": "Finance and Stochastics Seminar – Emilio Barucci",
-    "desc": "Speaker : Emilio Barucci\n\nTitle : Trading and optimal execution in futures and spot markets with cross impacts\n\nAbstract : We study the inventory management of a trader operating in spot and futures markets when the futures basis vanishes at maturity and exhibits mean-reversion. The model distinguishes between the primary market, where new information is incorporated into prices, from the secondary market whose price contains a mean reverting basis component. We characterize the optimal trading strategy under both cash settlement and physical delivery. We show that access to the secondary market creates a statistical-arbitrage opportunity starting from zero initial wealth by allowing the trader to exploit the intertemporal mean reversion of the basis. Trading mostly occurs in the…",
-    "source": "IC",
-    "date": "2026-10-27T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213987/finance-and-stochastics-seminar-emilio-barucci/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:215755",
-    "sourceEventId": "215755",
-    "title": "Astrophysics Weekly Seminar: Prof. Ludovic van Waerbeke – Can dark energy emerge from the standard model of particle physics?",
-    "desc": "Title\n\nCan dark energy emerge from the standard model of particle physics?\n\nAbstract\n\nThe discovery of cosmic acceleration established dark energy as one of the central problems in cosmology. In the standard cosmological model, dark energy is described by a cosmological constant, yet its extremely small value remains difficult to reconcile with expectations from quantum field theory. Recent DESI results, combined with other cosmological probes, suggest that dark energy may evolve with cosmic time. In this talk, I will first review the observational evidence for dark energy, what current data tell us about its properties, and why evolving dark energy is theoretically challenging. I will then discuss the possibility that dark energy may not require a new particle or field, but could…",
-    "source": "IC",
-    "date": "2026-10-27T14:30:00+00:00",
-    "durationMin": 60,
-    "venue": "711C, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215755/astrophysics-weekly-seminar-prof-ludovic-van-waerbeke-can-dark-energy-emerge-from-the-standard-model-of-particle-physics/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:214742",
-    "sourceEventId": "214742",
-    "title": "Nelder Fellow lecture series – Prof Ed Bueler (University of Alaska Fairbanks)",
-    "desc": "Prof Ed Bueler (University of Alaska Fairbanks) : New solver approaches for variational inequalities\n\nLectures will be held on Tuesdays: 20 Oct, 27 Oct, 3 Nov, 17 Nov, at 15:00.\n\nAbstract: This four-lecture series introduces variational inequalities to a general applied mathematical audience, pursues their finite element solution, and applies them to a geophysical problem. Variational inequalities are partial differential equation weak forms, but subject to bounds on their solution(s). They reformulate how one might pose boundary conditions at a free location; where the conditions apply is now determined simultaneously along with the solution. Certain variational inequalities state the KKT conditions of optimization problems in function spaces, and in all cases these continuum models…",
-    "source": "IC",
-    "date": "2026-10-27T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "658, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214742/nelder-fellow-lecture-series-prof-ed-bueler-2/",
-    "image": "data/images/7e42d4913a394593.jpg"
-  },
-  {
-    "id": "ic:215510",
-    "sourceEventId": "215510",
-    "title": "SPC Seminar – Plasma – Farhat Beg (UCSD)",
-    "desc": "Speaker: Farhat Beg (UCSD)\n\nTitle: Proton Heating in Integrated Proton Fast Ignition Experiments\n\nAbstract: Proton fast ignition (PFI) is an alternative inertial confinement fusion (ICF) concept that promises high gain suitable for inertial fusion energy applications. In this concept, a short-pulse, high-intensity laser is used to generate an energetic proton beam that efficiently couples’ energy into a pre-compressed fuel assembly. This enables ignition conditions to be reached with less stringent symmetry and driver energy requirements than in the conventional hot-spot approach.\n\nWe report on the first integrated PFI campaign at the Omega Laser Facility that included both the compression and ignition phases to measure the temperature increase in the compressed core due to proton…",
-    "source": "IC",
-    "date": "2026-10-27T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "630, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215510/spc-seminar-plasma-farhat-beg-ucsd/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:215529",
-    "sourceEventId": "215529",
-    "title": "Stochastic Analysis Seminar – Tobias Grafke (University of Warwick)",
-    "desc": "Tobias Grafke\n\nTitle: Sharp rare-event asymptotics and fluctuations around instantons\n\nAbstract",
-    "source": "IC",
-    "date": "2026-10-27T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "410, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215529/stochastic-analysis-seminar-tobias-grafke/",
-    "image": "data/images/cdec15043aac087d.jpg"
-  },
-  {
-    "id": "ic:212829",
-    "sourceEventId": "212829",
-    "title": "RUSH HOUR RECITAL Siglo de Oro",
-    "desc": "RUSH HOUR RECITAL\n\nSiglo de Oro",
-    "source": "IC",
-    "date": "2026-10-27T17:45:00+00:00",
-    "durationMin": 60,
-    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Arts",
-      "Creative",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212829/rush-hour-recital-siglo-de-oro-2/",
-    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:215574",
@@ -690,7 +493,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213894/statistics-seminar-massimo-franchi-sapienza/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:214966",
@@ -732,7 +535,228 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215640/mathematical-physics-seminar-october-28th-ginestra-bianconi-qmul-gravity-from-entropy/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
+  },
+  {
+    "id": "ic:214121",
+    "sourceEventId": "214121",
+    "title": "Bioengineering Black History Month Seminar 2026",
+    "desc": "The Department of Bioengineering is honoured to welcome Dr Calvin Tiengwe, Assistant Professor in Imperial’s Department of Life Sciences , for our first Black History Month Department Seminar.\n\nThis is a special addition to our Department Seminar series and an opportunity to hear from an exceptional Imperial researcher working at the intersection of molecular parasitology, host–pathogen biology and global health.\n\nRefreshments and networking will take place after this seminar in RSM 3.24\n\nHow does a cell count to one? Mechanisms of immune evasion in African trypanosomes\n\nI will describe two recent discoveries in this area. First, I will discuss the identification of ESBX, a key molecule required for full activation of the active VSG expression site and repression of silent sites,…",
+    "source": "IC",
+    "date": "2026-10-28T16:00:00+00:00",
+    "durationMin": 60,
+    "venue": "RSM 2.28, Second Floor, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "life sciences",
+      "Black History Month",
+      "Global health",
+      "Institutional Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214121/bioengineering-black-history-month-seminar-2026/",
+    "image": "data/images/83ee8ae794334289.jpg"
+  },
+  {
+    "id": "ic:214493",
+    "sourceEventId": "214493",
+    "title": "Number Theory Seminar – Jelena Ivančić",
+    "desc": "Jelena Ivančić : tbc\n\nMore information available on the Number Theory seminar website",
+    "source": "IC",
+    "date": "2026-10-28T16:00:00+00:00",
+    "durationMin": 60,
+    "venue": "139, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214493/number-theory-seminar-jelena-ivancic/",
+    "image": "data/images/512d103d5423a9c7.jpg"
+  },
+  {
+    "id": "ic:214987",
+    "sourceEventId": "214987",
+    "title": "Meet the author: The Black PhD Experience",
+    "desc": "Dr William Ackah, a Senior Lecturer at Birbeck University, will present the book entitled The Black PhD Experience which exposes the experiences faced of Black PhD students in the UK and make recommendations for change to overcome the challenges faced by Black PGR students.",
+    "source": "IC",
+    "date": "2026-10-28T16:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Room 202, School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Black History Month",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214987/meet-the-author-the-black-phd-experience/",
+    "image": "data/images/cdec15043aac087d.jpg"
+  },
+  {
+    "id": "ic:214870",
+    "sourceEventId": "214870",
+    "title": "San Francisco/South Bay Alumni Gathering",
+    "desc": "Calling Alumni in San Francisco!\n\nJoin fellow Imperial alumni and members of the wider UK university alumni community for a relaxed South Bay happy hour!\n\nWhether you’re new to the area, looking to expand your network, or simply hoping to reconnect with fellow alumni, this informal gathering is a great opportunity to meet new people and strengthen connections across the UK alumni community.\n\nThere’s no formal program, just an enjoyable evening of conversation, networking, and community in a welcoming atmosphere.\n\nFood and drinks will be available for individual purchase. No registration is required, so feel free to stop by whenever you can.\n\nWe look forward to seeing you there!",
+    "source": "IC",
+    "date": "2026-10-28T17:00:00-07:00",
+    "durationMin": 180,
+    "venue": "Barebottle Brewery - Menlo Park ",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "International",
+      "Alumni",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214870/san-francisco-south-bay-alumni-gathering/",
+    "image": "data/images/cdec15043aac087d.jpg"
+  },
+  {
+    "id": "ic:215570",
+    "sourceEventId": "215570",
+    "title": "From Campus to Madrid: The Next Chapter",
+    "desc": "Overview\n\nJoin fellow Imperial alumni in Madrid for an evening of networking and career conversations across generations. Hosted by Imperial alumna Marina Moncayola, the event is a chance to meet alumni in the city and make new connections.",
+    "source": "IC",
+    "date": "2026-10-28T19:45:00+01:00",
+    "durationMin": 105,
+    "venue": "La Musa Chamberí",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "International",
+      "Alumni",
+      "From Campus to City 2026",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215570/from-campus-to-madrid-the-next-chapter/",
+    "image": "data/images/922e85bfc480594e.jpg"
+  },
+  {
+    "id": "ic:212770",
+    "sourceEventId": "212770",
+    "title": "Lunchtime Concert – Florilegium",
+    "desc": "Annual Malcolm Haines Memorial Concert\n\nFather, Son and Godfather\n\nRenowned early music ensemble Florliegium present a programme of trio sonatas by Telemann, CPE Bach and JS Bach",
+    "source": "IC",
+    "date": "2026-10-29T13:00:00+00:00",
+    "durationMin": 45,
+    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
+    "area": "Off",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Concerts",
+      "Arts",
+      "Creative",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212770/lunchtime-concert-florilegium-7/",
+    "image": "data/images/e6ab040295cd6e53.jpg"
+  },
+  {
+    "id": "ic:213375",
+    "sourceEventId": "213375",
+    "title": "Greenhouse ClimateTech Demo Day – Cohort 9",
+    "desc": "Imperial’s climate innovation community will come together on 29 October to celebrate the ninth cohort of cleantech startups coming to the end of their time on our unique accelerator, The Greenhouse .\n\nCohort 9 brings together 19 early-stage deeptech ventures tackling climate change across energy, infrastructure, materials, biotech, and nature. Demo Day sees the founders pour what they’ve learnt over the past 12 months into impressive pitches to investors on the historic stage at The Royal Institution.\n\nIf you’re an investor or supporter of climate innovation, it’s a fantastic opportunity to tap into next-gen ideas and technologies at the forefront of tackling climate change.\n\nTo register your place, and view an up-to-date schedule for the day, visit our regsitration page .",
+    "source": "IC",
+    "date": "2026-10-29T13:00:00+00:00",
+    "durationMin": 300,
+    "venue": "The Royal Institution ",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Climate change",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213375/greenhouse-climatetech-demo-day-cohort-9/",
+    "image": "data/images/245705253acd5b8d.jpg"
+  },
+  {
+    "id": "ic:214479",
+    "sourceEventId": "214479",
+    "title": "COW Seminar",
+    "desc": "Schedule\n\nAlessio Cela (Cambridge)\n\nAnne-Sophie Kaloghiros (Brunel)\n\nTimothy Logvinenko (Cardiff)\n\nMore information available on https://cow.alggeo.xyz/",
+    "source": "IC",
+    "date": "2026-10-29T13:00:00+00:00",
+    "durationMin": 60,
+    "venue": "University of Oxford",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214479/cow-seminar-9/",
+    "image": "data/images/b4f3c036c0b69eb4.jpg"
+  },
+  {
+    "id": "ic:212855",
+    "sourceEventId": "212855",
+    "title": "PDEs Seminar – Annalaura Rebucci (MPI MiS Leipzig)",
+    "desc": "TBA",
+    "source": "IC",
+    "date": "2026-10-29T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Huxley 130, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212855/pdes-seminar-annalaura-rebucci-mpi-mis-leipzig/",
+    "image": "data/images/030edec8db1523e2.jpg"
+  },
+  {
+    "id": "ic:213212",
+    "sourceEventId": "213212",
+    "title": "Physics Colloquium: How many new particles remain to be discovered?",
+    "desc": "Join us for a Department of Physics colloquium entitled “ How many new particles remain to be discovered? ” with Professor Mikhail Shaposhnikov, École Polytechnique Fédérale de Lausanne (EPFL)\n\nPlease note – The lecture will run from 16:00-17:00 , followed by refreshments from 17:00-18:00 in the Level 8 Common Room of the Blackett Building.\n\nAbstract\n\nNature contains several seemingly unrelated mass scales, ranging from neutrino masses to the Planck scale associated with gravity. At the same time, the Standard Model of particle physics and Einstein’s general theory of relativity provide a remarkably successful description of almost all phenomena observed in Nature, with only a few notable exceptions. In this presentation, Professor Shaposhnikov will discuss whether the existence of these…",
+    "source": "IC",
+    "date": "2026-10-29T16:00:00+00:00",
+    "durationMin": 120,
+    "venue": "Lecture Theatre 3, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Colloquium",
+      "Physics",
+      "Departmental event",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213212/physics-colloquium-professor-mikhail-shaposhnikov-how-many-new-particles-remain-to-be-discovered/",
+    "image": "data/images/e8d15b8d03013cb7.jpg"
   },
   {
     "id": "wc:an-artist-in-everyday-life",
