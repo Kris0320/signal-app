@@ -243,27 +243,6 @@
     "image": "data/images/28c0a22e6249d722.jpg"
   },
   {
-    "id": "kcl:engelsberg-annual-lecture-in-applied-history-2026",
-    "sourceEventId": "ee9f5e64-f37c-476c-889e-686496dcd179",
-    "title": "'Engelsberg Annual Lecture in Applied History' with Prof Bruce Hoffman",
-    "desc": "This year’s lecture will be delivered by Professor Bruce Hoffman of Georgetown University. He will examine the immediate consequences and ongoing repercussions of the 9/11 attacks and the U.S.- led global war on terror that followed.",
-    "source": "KCL",
-    "date": "2026-11-03T18:00:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Public lecture",
-      "International",
-      "Faculty of Social Science & Public Policy"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/engelsberg-annual-lecture-in-applied-history-2026",
-    "image": "data/images/bdb5211b7ce62576.png"
-  },
-  {
     "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
     "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
     "title": "Law undergraduate information session: Hong Kong - 3 November",
@@ -301,6 +280,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/the-future-of-ai-in-the-justice-system-1",
     "image": "data/images/dc44dbbbbedadd8a.png"
+  },
+  {
+    "id": "kcl:engelsberg-annual-lecture-in-applied-history-2026",
+    "sourceEventId": "ee9f5e64-f37c-476c-889e-686496dcd179",
+    "title": "'Engelsberg Annual Lecture in Applied History' with Prof Bruce Hoffman",
+    "desc": "This year’s lecture will be delivered by Professor Bruce Hoffman of Georgetown University. He will examine the immediate consequences and ongoing repercussions of the 9/11 attacks and the U.S.- led global war on terror that followed.",
+    "source": "KCL",
+    "date": "2026-11-03T18:00:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Public lecture",
+      "International",
+      "Faculty of Social Science & Public Policy"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/engelsberg-annual-lecture-in-applied-history-2026",
+    "image": "data/images/bdb5211b7ce62576.png"
   },
   {
     "id": "ic:213763",
@@ -373,7 +373,7 @@
     "id": "ic:215954",
     "sourceEventId": "215954",
     "title": "Metabolism across scales: AI and the future of global health",
-    "desc": "Join Professor Hugh Brady, President of Imperial, and Professor Thierry Dauxois, Chairman and CEO of CNRS, to celebrate the launch of the CNRS-Imperial “Antoine Lavoisier” International Research Lab on Multiscale Metabolism .\n\nThis UK-France conversation and celebration marks the opening of our third International Research Lab, part of the CNRS-Imperial International Research Centre for Transformational Science and Technology.\n\nThe day begins with a scientific workshop, followed by a launch event featuring remarks from M. Sébastien Bidaud, Chargé d’Affaires at the French Embassy, and a panel discussion exploring the future of AI-driven health research and innovation in the UK and France.\n\nPanellists\n\nChair: Professor Graham Cooke , Deputy Dean, Faculty of Medicine, and Vice-Dean…",
+    "desc": "Join Professor Hugh Brady, President of Imperial, and Professor Thierry Dauxois, Chairman and CEO of CNRS, to celebrate the launch of the CNRS-Imperial “Antoine Lavoisier” International Research Lab on Multiscale Metabolism .\n\nThis UK-France conversation and celebration marks the opening of our third International Research Lab, part of the CNRS-Imperial International Research Centre for Transformational Science and Technology.\n\nThe day begins with a scientific workshop, followed by a launch event featuring remarks from M. Sébastien Bidaud, Chargé d’Affaires at the French Embassy, and a panel discussion exploring the future of AI-driven health research and innovation in the UK and France.\n\nGuests are welcome to register for the workshop, launch event and reception, or both.\n\nView the full…",
     "source": "IC",
     "date": "2026-11-10T09:00:00+00:00",
     "durationMin": 480,
@@ -412,138 +412,6 @@
     "image": "data/images/4de6b925b3432ef3.jpg"
   },
   {
-    "id": "ic:212770",
-    "sourceEventId": "212770",
-    "title": "Lunchtime Concert – Florilegium",
-    "desc": "Annual Malcolm Haines Memorial Concert\n\nFather, Son and Godfather\n\nRenowned early music ensemble Florliegium present a programme of trio sonatas by Telemann, CPE Bach and JS Bach",
-    "source": "IC",
-    "date": "2026-10-29T13:00:00+00:00",
-    "durationMin": 45,
-    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Arts",
-      "Creative",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212770/lunchtime-concert-florilegium-7/",
-    "image": "data/images/e6ab040295cd6e53.jpg"
-  },
-  {
-    "id": "ic:213375",
-    "sourceEventId": "213375",
-    "title": "Greenhouse ClimateTech Demo Day – Cohort 9",
-    "desc": "Imperial’s climate innovation community will come together on 29 October to celebrate the ninth cohort of cleantech startups coming to the end of their time on our unique accelerator, The Greenhouse .\n\nCohort 9 brings together 19 early-stage deeptech ventures tackling climate change across energy, infrastructure, materials, biotech, and nature. Demo Day sees the founders pour what they’ve learnt over the past 12 months into impressive pitches to investors on the historic stage at The Royal Institution.\n\nIf you’re an investor or supporter of climate innovation, it’s a fantastic opportunity to tap into next-gen ideas and technologies at the forefront of tackling climate change.\n\nTo register your place, and view an up-to-date schedule for the day, visit our regsitration page .",
-    "source": "IC",
-    "date": "2026-10-29T13:00:00+00:00",
-    "durationMin": 300,
-    "venue": "The Royal Institution ",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Climate change",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213375/greenhouse-climatetech-demo-day-cohort-9/",
-    "image": "data/images/245705253acd5b8d.jpg"
-  },
-  {
-    "id": "ic:214479",
-    "sourceEventId": "214479",
-    "title": "COW Seminar",
-    "desc": "Schedule\n\nAlessio Cela (Cambridge)\n\nAnne-Sophie Kaloghiros (Brunel)\n\nTimothy Logvinenko (Cardiff)\n\nMore information available on https://cow.alggeo.xyz/",
-    "source": "IC",
-    "date": "2026-10-29T13:00:00+00:00",
-    "durationMin": 60,
-    "venue": "University of Oxford",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214479/cow-seminar-9/",
-    "image": "data/images/512d103d5423a9c7.jpg"
-  },
-  {
-    "id": "ic:212855",
-    "sourceEventId": "212855",
-    "title": "PDEs Seminar – Annalaura Rebucci (MPI MiS Leipzig)",
-    "desc": "Title: De Giorgi methods for kinetic hypoelliptic equations\n\nAbstract: We present new results that extend the De Giorgi-Nash-Moser theory to a class of hypoelliptic equations arising in kinetic theory. These operators are mathematically characterized by two parts: a diffusion part in the velocity variables governed by the (fractional) Laplace operator, and a first order differential operator which propagates smoothness in the remaining spatial variables. A key ingredient to prove our results is a Poincaré inequality adapted to the hypoelliptic geometry. This allows us to treat equations with an arbitrary number of Hörmander commutators and with either local or nonlocal diffusion. Combined with an L² − L∞ estimate and a covering argument, this yields Harnack inequalities and Hölder…",
-    "source": "IC",
-    "date": "2026-10-29T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Huxley 130, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212855/pdes-seminar-annalaura-rebucci-mpi-mis-leipzig/",
-    "image": "data/images/030edec8db1523e2.jpg"
-  },
-  {
-    "id": "ic:213212",
-    "sourceEventId": "213212",
-    "title": "Physics Colloquium: How many new particles remain to be discovered?",
-    "desc": "Join us for a Department of Physics colloquium entitled “ How many new particles remain to be discovered? ” with Professor Mikhail Shaposhnikov, École Polytechnique Fédérale de Lausanne (EPFL)\n\nPlease note – The lecture will run from 16:00-17:00 , followed by refreshments from 17:00-18:00 in the Level 8 Common Room of the Blackett Building.\n\nAbstract\n\nNature contains several seemingly unrelated mass scales, ranging from neutrino masses to the Planck scale associated with gravity. At the same time, the Standard Model of particle physics and Einstein’s general theory of relativity provide a remarkably successful description of almost all phenomena observed in Nature, with only a few notable exceptions. In this presentation, Professor Shaposhnikov will discuss whether the existence of these…",
-    "source": "IC",
-    "date": "2026-10-29T16:00:00+00:00",
-    "durationMin": 120,
-    "venue": "Lecture Theatre 3, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Colloquium",
-      "Physics",
-      "Departmental event",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213212/physics-colloquium-professor-mikhail-shaposhnikov-how-many-new-particles-remain-to-be-discovered/",
-    "image": "data/images/e8d15b8d03013cb7.jpg"
-  },
-  {
-    "id": "ic:213967",
-    "sourceEventId": "213967",
-    "title": "The good, the bad and the ugly of battery recycling",
-    "desc": "The good, the bad and the ugly of battery recycling\n\nThe Imperial Network of Excellence in Sustainability through Life Cycle Approaches will host Dr Jacqueline Edge and Dr Evangelos Kallitsis , who will deliver a talk on battery recycling in LCA.\n\nAbstract:\n\nAs the battery industry scales up to meet Net Zero targets, a mountain of dead batteries looms, representing not only a waste of valuable resources, but also significant risks to human and environmental health. Battery materials, through production scrap and end-of-life batteries, are already being recovered through a range of methods, but there are concerns about the additional burdens that the current methods impose, through waste gases and contaminated water. The ReLiB project, funding by the Faraday Institution, is developing low…",
-    "source": "IC",
-    "date": "2026-10-29T17:30:00+00:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Sustainability",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213967/the-good-the-bad-and-the-ugly-of-battery-recycling/",
-    "image": "data/images/263a03c01b826444.jpg"
-  },
-  {
     "id": "ic:213719",
     "sourceEventId": "213719",
     "title": "Fluid Dynamics Seminar: James Maddison (Edinburgh)",
@@ -562,7 +430,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213719/fluid-dynamics-seminar-jacob-page-edinburgh/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:213906",
@@ -583,7 +451,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213906/statistics-seminar-sonia-petrone-bocconi/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:215746",
@@ -604,7 +472,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215746/junior-dynamics-seminar-chris-chalhoub/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:215758",
@@ -692,7 +560,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215786/biomathematics-seminar-david-rand-warwick-dynamic-landscape-analysis-of-cell-fate-decisions/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:212956",
@@ -779,7 +647,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215884/dynamical-systems-seminar-tresnia-berah-imperial/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:213990",
@@ -800,7 +668,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213990/finance-and-stochastics-seminar-beatrice-acciaio/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:215762",
@@ -822,6 +690,114 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215762/ccmi-seminar-boris-bonev-nvidia-zurich-ecole-polytechnique-paris/",
     "image": "data/images/b86d11f01e230b11.jpg"
+  },
+  {
+    "id": "ic:214744",
+    "sourceEventId": "214744",
+    "title": "Nelder Fellow lecture series – Prof Ed Bueler (University of Alaska Fairbanks)",
+    "desc": "Prof Ed Bueler (University of Alaska Fairbanks) : Stokes glacier models with Firedrake: A tutorial\n\nLectures will be held on Tuesdays: 20 Oct, 27 Oct, 3 Nov, 17 Nov, at 15:00.\n\nAbstract: This four-lecture series introduces variational inequalities to a general applied mathematical audience, pursues their finite element solution, and applies them to a geophysical problem. Variational inequalities are partial differential equation weak forms, but subject to bounds on their solution(s). They reformulate how one might pose boundary conditions at a free location; where the conditions apply is now determined simultaneously along with the solution. Certain variational inequalities state the KKT conditions of optimization problems in function spaces, and in all cases these continuum models…",
+    "source": "IC",
+    "date": "2026-11-03T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "658, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214744/nelder-fellow-lecture-series-prof-ed-bueler-3/",
+    "image": "data/images/7e42d4913a394593.jpg"
+  },
+  {
+    "id": "ic:215834",
+    "sourceEventId": "215834",
+    "title": "Stochastic Analysis Seminar – Matthias Erbar (Universität Bielefeld)",
+    "desc": "Matthias Erbar\n\nTitle:\n\nOptimal transport and gradient flows for point processes\n\nAbstract",
+    "source": "IC",
+    "date": "2026-11-03T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215834/stochastic-analysis-seminar-matthias-erbar-universitat-bielefeld/",
+    "image": "data/images/5378b299790f4be0.jpg"
+  },
+  {
+    "id": "ic:215054",
+    "sourceEventId": "215054",
+    "title": "Electrocatalysis at Imperial Materials: From Fundamental Understanding to Sustainable Technologies",
+    "desc": "Electrocatalysis plays a central role in the transition towards sustainable energy and chemical production, enabling the conversion of renewable electricity into fuels and valuable chemicals. Translating fundamental advances into practical technologies requires a deeper understanding of electrochemical interfaces, catalyst activity and stability, and the factors governing performance under realistic operating conditions.\n\nAs part of the Royal School of Mines’ 175th anniversary celebrations, this symposium will showcase research in the Department of Materials at Imperial College London, alongside contributions from leading researchers in academia and industry. The focus will be on low-temperature electrocatalysis (below 100 °C), spanning fundamental understanding, materials development…",
+    "source": "IC",
+    "date": "2026-11-04T10:00:00+00:00",
+    "durationMin": 480,
+    "venue": "RSM G01 and G20, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "materials",
+      "Departmental event",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215054/electrocatalysis-at-imperial-materials/",
+    "image": "data/images/af8ce598ee6d3159.jpg"
+  },
+  {
+    "id": "ic:214614",
+    "sourceEventId": "214614",
+    "title": "Imperial Grand Rounds: ‘Should we screen men for prostate cancer? TRANSFORM: building the trial that could answer the question’ – Professor Hashim Ahmed, Dr Nikhil Mayor, Ms Francesca Rawlins",
+    "desc": "The Imperial Grand Round series brings together academics and clinicians across the University and our NHS partners to explore and showcase how engagement with patients and treating clinical cases leads to scientific research which can benefit patients and populations.\n\nChair:\n\nProfessor Raymond Anakwe\n\nSpeaker details:\n\n12.30 to 13.30\n\nThis is an internal only event . On-campus venues and online streaming details for this session can be found on the FoM Staff Round webpage (requires log-in): https://www.imperial.ac.uk/medicine/fom-staff/staff-rounds/",
+    "source": "IC",
+    "date": "2026-11-04T12:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Cancer",
+      "Event",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214614/04-nov-2026/",
+    "image": "data/images/7fd534f9225338cf.jpg"
+  },
+  {
+    "id": "ic:214071",
+    "sourceEventId": "214071",
+    "title": "Community Garden Action Days",
+    "desc": "Drop-in sessions from 13:00–16:00 on Wednesdays.\n\nJoin the student organisers and volunteers in the Community Garden at the Chaplaincy Centre. A chance to get outside, and be involved in growing plants, sowing seeds, clearing new ground, or pruning bushes. If this is your first session of gardening or if you have plenty of experience, all are welcome.\n\nOpen to students and staff. Drop-in during the afternoon and stay for as long as you like. Gloves, protective gear and tools provided, with wet weather options in needed.\n\nThe Community Garden at the Chaplaincy, accessed through the Multi-Faith Centre at 15 Princes Gardens, or via the side gate of the Weeks Building at 16 Princes Gardens (all ID cards have swipe access to both doors).\n\nIf you’d like to know more, feel free to email us at…",
+    "source": "IC",
+    "date": "2026-11-04T13:00:00+00:00",
+    "durationMin": 180,
+    "venue": "Chaplaincy Multi-Faith Centre",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214071/community-garden-action-days-7/",
+    "image": "data/images/c4794a3ededdee00.jpg"
   },
   {
     "id": "wc:an-artist-in-everyday-life",
@@ -903,6 +879,26 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/wellcome-collection-lates-not-done-yet",
     "image": "data/images/3d108a684fa83d60.jpg"
+  },
+  {
+    "id": "wc:world-aids-day-connecting-threads",
+    "sourceEventId": "world-aids-day-connecting-threads",
+    "title": "World AIDS Day: Connected Threads",
+    "desc": "Come along to a morning of activities marking World AIDS Day to discover more about care, connection and resistance among communities affected by HIV.",
+    "source": "WC",
+    "date": "2026-12-01T10:00:00+00:00",
+    "durationMin": 120,
+    "venue": "Throughout our building",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Session",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/world-aids-day-connecting-threads",
+    "image": "data/images/264a64880da91a6c.avif"
   },
   {
     "id": "rs:2026-11-ecological-dynamics",
@@ -1134,12 +1130,12 @@
     "image": "data/images/5ce5bfe03537df8c.jpg"
   },
   {
-    "id": "rs:2026-10-see-buildings-differently",
-    "sourceEventId": "2026-10-see-buildings-differently",
-    "title": "See Buildings Differently",
-    "desc": "In this panel discussion, we gather some of the UK's brightest minds to see if they can See Buildings Differently.",
+    "id": "rs:2026-11-croonian-prize-lecture",
+    "sourceEventId": "2026-11-croonian-prize-lecture",
+    "title": "Croonian Prize Lecture: Advances in computational protein design",
+    "desc": "Join us for the Croonian Prize Lecture delivered by Dr David Baker",
     "source": "RS",
-    "date": "2026-10-28T18:30:00+01:00",
+    "date": "2026-11-03T18:30:00+01:00",
     "durationMin": 60,
     "venue": "The Royal Society",
     "area": "Mayfair",
@@ -1147,10 +1143,10 @@
     "tags": [
       "Open to all"
     ],
-    "format": "In person",
+    "format": "In person + online",
     "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/see-buildings-differently/",
-    "image": "data/images/eaba5b50e0c84a06.jpg"
+    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/croonian-prize-lecture/",
+    "image": "data/images/d7fa30aa96b02c14.jpg"
   },
   {
     "id": "rs:2026-10-sse-on-tour-swansea",
@@ -1171,25 +1167,6 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/10/sse-on-tour-swansea/",
     "image": "data/images/5086693bcd5efaf7.jpg"
-  },
-  {
-    "id": "rs:2026-11-croonian-prize-lecture",
-    "sourceEventId": "2026-11-croonian-prize-lecture",
-    "title": "Croonian Prize Lecture: Advances in computational protein design",
-    "desc": "Join us for the Croonian Prize Lecture delivered by Dr David Baker",
-    "source": "RS",
-    "date": "2026-11-03T18:30:00+01:00",
-    "durationMin": 60,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/croonian-prize-lecture/",
-    "image": "data/images/d7fa30aa96b02c14.jpg"
   },
   {
     "id": "rs:2026-11-faraday-prize-lecture",
