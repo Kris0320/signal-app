@@ -243,23 +243,25 @@
     "image": "data/images/28c0a22e6249d722.jpg"
   },
   {
-    "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
-    "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
-    "title": "Law undergraduate information session: Hong Kong - 3 November",
-    "desc": "Join us at our Law info session in Hong Kong.",
+    "id": "kcl:engelsberg-annual-lecture-in-applied-history-2026",
+    "sourceEventId": "ee9f5e64-f37c-476c-889e-686496dcd179",
+    "title": "'Engelsberg Annual Lecture in Applied History' with Prof Bruce Hoffman",
+    "desc": "This year’s lecture will be delivered by Professor Bruce Hoffman of Georgetown University. He will examine the immediate consequences and ongoing repercussions of the 9/11 attacks and the U.S.- led global war on terror that followed.",
     "source": "KCL",
     "date": "2026-11-03T18:00:00",
-    "durationMin": 150,
+    "durationMin": 90,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
     "tags": [
-      "The Dickson Poon School of Law"
+      "Public lecture",
+      "International",
+      "Faculty of Social Science & Public Policy"
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/law-undergraduate-information-session-hong-kong-3-november",
-    "image": "data/images/e9201cbe1fdc7ab5.jpg"
+    "url": "https://www.kcl.ac.uk/events/engelsberg-annual-lecture-in-applied-history-2026",
+    "image": "data/images/bdb5211b7ce62576.png"
   },
   {
     "id": "kcl:the-future-of-ai-in-the-justice-system-1",
@@ -282,46 +284,43 @@
     "image": "data/images/dc44dbbbbedadd8a.png"
   },
   {
-    "id": "kcl:engelsberg-annual-lecture-in-applied-history-2026",
-    "sourceEventId": "ee9f5e64-f37c-476c-889e-686496dcd179",
-    "title": "'Engelsberg Annual Lecture in Applied History' with Prof Bruce Hoffman",
-    "desc": "This year’s lecture will be delivered by Professor Bruce Hoffman of Georgetown University. He will examine the immediate consequences and ongoing repercussions of the 9/11 attacks and the U.S.- led global war on terror that followed.",
+    "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
+    "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
+    "title": "Law undergraduate information session: Hong Kong - 3 November",
+    "desc": "Join us at our Law info session in Hong Kong.",
     "source": "KCL",
     "date": "2026-11-03T18:00:00",
-    "durationMin": 90,
+    "durationMin": 150,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
     "tags": [
-      "Public lecture",
-      "International",
-      "Faculty of Social Science & Public Policy"
+      "The Dickson Poon School of Law"
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/engelsberg-annual-lecture-in-applied-history-2026",
-    "image": "data/images/bdb5211b7ce62576.png"
+    "url": "https://www.kcl.ac.uk/events/law-undergraduate-information-session-hong-kong-3-november",
+    "image": "data/images/e9201cbe1fdc7ab5.jpg"
   },
   {
-    "id": "ic:213763",
-    "sourceEventId": "213763",
-    "title": "Imperial Lates: Robots",
-    "desc": "At Imperial Lates: Robots, you can get hands-on with all things robots, tech and AI at this free evening event for adults. Where will robotics go in the next ten years, and what does intelligence mean in our ever changing world?\n\nHow would you feel about a robot doing surgery on you? Put your skills to the test by controlling a robotic arm to play our version of the classic game, Operation. Then get crafty and design your own soft, squishy body-bot to take home, inspired by flexible fibre-bots that can navigate inside the human body.\n\nSee if you or your friends are faster than a machine in a pipetting race, then watch robots play football where every pass, tackle and shot is decided in real time by AI. Check out the mini droid powered by plants, before you step behind-the-scenes in a…",
+    "id": "ic:213463",
+    "sourceEventId": "213463",
+    "title": "IGHI Special Lecture 2026: Global Challenges, Human Solutions",
+    "desc": "Join us for the Institute of Global Health Innovation’s Special Lecture online or in person.\n\nPlease do register your in person attendance by clicking the ‘Register Now’ button on the left hand side of the page.\n\nSummary\n\nDr Christos Christou, surgeon and humanitarian leader, will discuss how medicine, leadership and politics intersect in real humanitarian settings. Dr Christou will share what he has learnt from years of clinical and operational work with Médecins Sans Frontières, and where he see s opportunities academic institutions to contribute to humanitarian medicine .\n\nAbout the speaker Dr Christos Christou is a surgeon and humanitarian leader, and former International President of Médecins Sans Frontières (MSF), a role he held from 2019 to 2025.\n\nDr Chris t ou’s career is…",
     "source": "IC",
-    "date": "2026-10-29T18:00:00+00:00",
-    "durationMin": 180,
-    "venue": "College Main Entrance, Exhibition Road, Main Entrance, South Kensington Campus",
+    "date": "2026-11-11T17:00:00+00:00",
+    "durationMin": 120,
+    "venue": "Lecture Theatre G16, Sir Alexander Fleming Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Imperial Lates",
-      "public engagement",
+      "Lecture",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213763/imperial-lates-robots/",
-    "image": "data/images/dff58cea1fd75a21.jpg"
+    "url": "https://www.imperial.ac.uk/events/213463/ighi-special-lecture-2026-global-challenges-human-solutions/",
+    "image": "data/images/a2f392db010522a4.jpg"
   },
   {
     "id": "ic:212264",
@@ -451,7 +450,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213906/statistics-seminar-sonia-petrone-bocconi/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:215746",
@@ -472,7 +471,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215746/junior-dynamics-seminar-chris-chalhoub/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:215758",
@@ -560,7 +559,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215786/biomathematics-seminar-david-rand-warwick-dynamic-landscape-analysis-of-cell-fate-decisions/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:212956",
@@ -689,7 +688,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215762/ccmi-seminar-boris-bonev-nvidia-zurich-ecole-polytechnique-paris/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:214744",
@@ -731,7 +730,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215834/stochastic-analysis-seminar-matthias-erbar-universitat-bielefeld/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:215054",
@@ -798,6 +797,28 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214071/community-garden-action-days-7/",
     "image": "data/images/c4794a3ededdee00.jpg"
+  },
+  {
+    "id": "ic:215262",
+    "sourceEventId": "215262",
+    "title": "Structures Seminar: Seismic Behaviour and Design of the Linked Column Steel Frame System for Rapid Return to Occupancy",
+    "desc": "Abstract:\n\nThe Linked Column Frame (LCF) is a new brace-free lateral structural steel system intended for rapid return to occupancy performance level. LCF is more resilient under a design level earthquake than the conventional approaches. The structural system consists of moment frames for gravity that combine with closely spaced dual columns (LC) interconnected with bolted links for the lateral system. The LC links are sacrificial and intended to be replaced following a design level earthquake. The centerpiece of this work was a unique full-scale experiment using hybrid testing; a combination of physical test of a critical sub-system tied to a numerical model of the building frame. Hybrid testing allows for full scale study at the system level, accounting for the uncertainties via…",
+    "source": "IC",
+    "date": "2026-11-04T13:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Skempton Room 207, Skempton Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Civil engineering",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215262/structures-seminar-seismic-behaviour-and-design-of-the-linked-column-steel-frame-system-for-rapid-return-to-occupancy/",
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "wc:an-artist-in-everyday-life",
