@@ -411,29 +411,6 @@
     "image": "data/images/4de6b925b3432ef3.jpg"
   },
   {
-    "id": "ic:215873",
-    "sourceEventId": "215873",
-    "title": "From Campus to Hong Kong: The Next Chapter",
-    "desc": "Overview\n\nJoin the Imperial College Alumni Association of Hong Kong for an evening panel with Imperial alumni working across the digital-asset industry. Learn more about stablecoins and real-world assets — what they are, how they’re being used, and what they could mean for Hong Kong’s digital-asset market.",
-    "source": "IC",
-    "date": "2026-10-30T18:00:00+08:00",
-    "durationMin": 180,
-    "venue": "25/F, Club Lusitano",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "International",
-      "Alumni",
-      "From Campus to City 2026",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215873/from-campus-to-hong-kong-the-next-chapter/",
-    "image": "data/images/922e85bfc480594e.jpg"
-  },
-  {
     "id": "ic:215126",
     "sourceEventId": "215126",
     "title": "From Campus to Beijing: The Next Chapter",
@@ -475,7 +452,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215786/biomathematics-seminar-david-rand-warwick-dynamic-landscape-analysis-of-cell-fate-decisions/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:212956",
@@ -585,7 +562,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215884/dynamical-systems-seminar-tresnia-berah-imperial/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:213990",
@@ -606,7 +583,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213990/finance-and-stochastics-seminar-beatrice-acciaio/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:215762",
@@ -627,7 +604,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215762/ccmi-seminar-boris-bonev-nvidia-zurich-ecole-polytechnique-paris/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:214744",
@@ -799,7 +776,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213743/control-and-optimisation-seminar-gargoei-loke-durham/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:214942",
@@ -821,6 +798,28 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214942/junior-analysis-seminar-antonio-tirotta-epfl-2/",
     "image": "data/images/f307df66c1f6d553.jpg"
+  },
+  {
+    "id": "ic:212626",
+    "sourceEventId": "212626",
+    "title": "HEP seminar: Samuel Eriksen (Bristol) – Search for high-energy dark matter interactions with the LUX-ZEPLIN experiment",
+    "desc": "The LUX-ZEPLIN (LZ) dark matter search experiment, a dual-phase xenon time projection chamber operating at the Sanford Underground Research Facility in Lead, South Dakota, USA, has demonstrated the world’s leading sensitivity to searches for Weakly Interacting Massive Particles (WIMPs). LZ’s exceptional sensitivity enables this new search for dark matter interactions that can produce high-energy (O(100) keV) nuclear recoils, a region where LZ’s modelled backgrounds produce much less than one event in the investigated 2.84 tonne-years exposure. Through a model-agnostic non-relativistic effective field theory (NR-EFT) framework, signals arising from vector, axial, and dipole WIMP-nucleon couplings are probed. This seminar will describe the experiment and the results from the most recent…",
+    "source": "IC",
+    "date": "2026-11-04T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "630, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Physics of Particles",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212626/nov-4/",
+    "image": "data/images/89ae9f5af0cf5a61.jpg"
   },
   {
     "id": "wc:an-artist-in-everyday-life",
