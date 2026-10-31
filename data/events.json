@@ -42,23 +42,6 @@
     "image": "data/images/31fef0218368e771.png"
   },
   {
-    "id": "kcl:law-with-criminology-online-information-session-2-november-2026",
-    "sourceEventId": "0ede6e77-9a09-405a-8a3f-97c14cb047d2",
-    "title": "Law with Criminology online information session - 2 November 2026",
-    "desc": "Attend our online event and find out about King's Law with Criminology LLB.",
-    "source": "KCL",
-    "date": "2026-11-02T12:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/law-with-criminology-online-information-session-2-november-2026",
-    "image": "data/images/33c3b9515b971081.png"
-  },
-  {
     "id": "kcl:undergraduate-taster-ioppn-2-november-2026",
     "sourceEventId": "54d39d80-bbbb-4901-99c9-2e50b02fff8d",
     "title": "IoPPN Undergraduate On-Campus Taster Afternoon - 2 November 2026",
@@ -74,6 +57,23 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/undergraduate-taster-ioppn-2-november-2026",
     "image": "data/images/cd35892fdf1d4f30.png"
+  },
+  {
+    "id": "kcl:law-with-criminology-online-information-session-2-november-2026",
+    "sourceEventId": "0ede6e77-9a09-405a-8a3f-97c14cb047d2",
+    "title": "Law with Criminology online information session - 2 November 2026",
+    "desc": "Attend our online event and find out about King's Law with Criminology LLB.",
+    "source": "KCL",
+    "date": "2026-11-02T12:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/law-with-criminology-online-information-session-2-november-2026",
+    "image": "data/images/33c3b9515b971081.png"
   },
   {
     "id": "kcl:morning-prayer-at-waterloo-6",
@@ -243,26 +243,6 @@
     "image": "data/images/28c0a22e6249d722.jpg"
   },
   {
-    "id": "kcl:the-future-of-ai-in-the-justice-system-1",
-    "sourceEventId": "ea901982-c517-4695-ad0d-cd6feeea7d78",
-    "title": "The Future of AI in the Justice System",
-    "desc": "The Future of AI in the Justice System: Building Fair Practices and Public Trust",
-    "source": "KCL",
-    "date": "2026-11-03T18:00:00",
-    "durationMin": 180,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "The Dickson Poon School of Law",
-      "King’s Institute for Artificial Intelligence"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/the-future-of-ai-in-the-justice-system-1",
-    "image": "data/images/dc44dbbbbedadd8a.png"
-  },
-  {
     "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
     "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
     "title": "Law undergraduate information session: Hong Kong - 3 November",
@@ -301,6 +281,26 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/engelsberg-annual-lecture-in-applied-history-2026",
     "image": "data/images/bdb5211b7ce62576.png"
+  },
+  {
+    "id": "kcl:the-future-of-ai-in-the-justice-system-1",
+    "sourceEventId": "ea901982-c517-4695-ad0d-cd6feeea7d78",
+    "title": "The Future of AI in the Justice System",
+    "desc": "The Future of AI in the Justice System: Building Fair Practices and Public Trust",
+    "source": "KCL",
+    "date": "2026-11-03T18:00:00",
+    "durationMin": 180,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "The Dickson Poon School of Law",
+      "King’s Institute for Artificial Intelligence"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/the-future-of-ai-in-the-justice-system-1",
+    "image": "data/images/dc44dbbbbedadd8a.png"
   },
   {
     "id": "ic:213463",
@@ -452,7 +452,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215786/biomathematics-seminar-david-rand-warwick-dynamic-landscape-analysis-of-cell-fate-decisions/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:212956",
@@ -562,7 +562,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215884/dynamical-systems-seminar-tresnia-berah-imperial/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:213990",
@@ -583,7 +583,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213990/finance-and-stochastics-seminar-beatrice-acciaio/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:215762",
@@ -604,7 +604,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215762/ccmi-seminar-boris-bonev-nvidia-zurich-ecole-polytechnique-paris/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:214744",
@@ -646,7 +646,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215834/stochastic-analysis-seminar-matthias-erbar-universitat-bielefeld/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:215054",
@@ -734,7 +734,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215262/structures-seminar-seismic-behaviour-and-design-of-the-linked-column-steel-frame-system-for-rapid-return-to-occupancy/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:214087",
@@ -776,7 +776,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213743/control-and-optimisation-seminar-gargoei-loke-durham/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:214942",
@@ -820,6 +820,28 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212626/nov-4/",
     "image": "data/images/89ae9f5af0cf5a61.jpg"
+  },
+  {
+    "id": "ic:216045",
+    "sourceEventId": "216045",
+    "title": "Frontiers in Science Deep Dive – Large language medicine: defining a new paradigm in human health",
+    "desc": "From AI-driven molecular biology to multimodal tools for diagnosis and treatment, artificial intelligence could support care across medicine.\n\nJoin Dr Hutan Ashrafian and Dr Ahmad Guni ( Institute of Global Health Innovation ) at this Frontiers in Science Deep Dive webinar to explore AI’s expanding capabilities, from biology to bedside. They will discuss the advances and safeguards needed to translate these capabilities into improved health outcomes.\n\nRead the article the discussion is based on: Large language medicine: defining a new paradigm in human health",
+    "source": "IC",
+    "date": "2026-11-04T15:00:00+01:00",
+    "durationMin": 90,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Symposium",
+      "Artificial intelligence",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216045/frontiers-in-science-deep-dive-large-language-medicine-defining-a-new-paradigm-in-human-health/",
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "wc:an-artist-in-everyday-life",
@@ -1169,26 +1191,6 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/11/croonian-prize-lecture/",
     "image": "data/images/d7fa30aa96b02c14.jpg"
-  },
-  {
-    "id": "rs:2026-10-sse-on-tour-swansea",
-    "sourceEventId": "2026-10-sse-on-tour-swansea",
-    "title": "Summer Science Exhibits on Tour at Swansea Science Festival",
-    "desc": "Discover ground-breaking science with the Royal Society's Summer Science Exhibits on Tour at Swansea Science Festival",
-    "source": "RS",
-    "date": "2026-10-30T18:00:00+01:00",
-    "durationMin": 90,
-    "venue": "National Waterfront Museum, Swansea, SA1 3RD",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/10/sse-on-tour-swansea/",
-    "image": "data/images/5086693bcd5efaf7.jpg"
   },
   {
     "id": "rs:2026-11-faraday-prize-lecture",
