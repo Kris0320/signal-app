@@ -450,25 +450,6 @@
     "image": "data/images/10b261ece787e983.png"
   },
   {
-    "id": "kcl:undergraduate-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
-    "sourceEventId": "45638aa1-7bb0-464c-8db6-790ee0df0ccb",
-    "title": "Undergraduate Info Session: The Dentistry Pathway for Medical Graduates - 2 December 2026",
-    "desc": "Join us on campus at our first of two events for medics interested in studying dentistry: The Dentistry Pathway for Medical Graduates (DPMG)",
-    "source": "KCL",
-    "date": "2026-12-02T09:30:00",
-    "durationMin": 150,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Health"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
-    "image": "data/images/4d782de7350834ef.png"
-  },
-  {
     "id": "kcl:undergraduate-virtual-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
     "sourceEventId": "df134ee3-4d3a-4759-be26-b3946933524a",
     "title": "Undergraduate Virtual Info Session: The Dentistry Pathway for Medical Graduates - 2 December 2026",
@@ -488,24 +469,23 @@
     "image": "data/images/4d782de7350834ef.png"
   },
   {
-    "id": "kcl:solidarity-symposia-improving-outcomes-for-children-and-young-people",
-    "sourceEventId": "a79dae50-95bc-4208-8093-4af43e7ee76f",
-    "title": "Solidarity Symposia | Improving Outcomes for Children and Young People",
-    "desc": "Sharing research that advances wellbeing, education, and opportunities for the next generation",
+    "id": "kcl:undergraduate-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
+    "sourceEventId": "45638aa1-7bb0-464c-8db6-790ee0df0ccb",
+    "title": "Undergraduate Info Session: The Dentistry Pathway for Medical Graduates - 2 December 2026",
+    "desc": "Join us on campus at our first of two events for medics interested in studying dentistry: The Dentistry Pathway for Medical Graduates (DPMG)",
     "source": "KCL",
-    "date": "2026-12-02T10:00:00",
-    "durationMin": 360,
+    "date": "2026-12-02T09:30:00",
+    "durationMin": 150,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
     "tags": [
-      "School for Government",
-      "Faculty of Social Science & Public Policy"
+      "Health"
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/solidarity-symposia-improving-outcomes-for-children-and-young-people",
-    "image": "data/images/ca6cdc53bca73dd8.jpg"
+    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
+    "image": "data/images/4d782de7350834ef.png"
   },
   {
     "id": "kcl:mindfulness-with-jenny-online-25",
@@ -527,6 +507,26 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-25",
     "image": "data/images/9a428ca7444d0e16.jpg"
+  },
+  {
+    "id": "kcl:solidarity-symposia-improving-outcomes-for-children-and-young-people",
+    "sourceEventId": "a79dae50-95bc-4208-8093-4af43e7ee76f",
+    "title": "Solidarity Symposia | Improving Outcomes for Children and Young People",
+    "desc": "Sharing research that advances wellbeing, education, and opportunities for the next generation",
+    "source": "KCL",
+    "date": "2026-12-02T10:00:00",
+    "durationMin": 360,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "School for Government",
+      "Faculty of Social Science & Public Policy"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/solidarity-symposia-improving-outcomes-for-children-and-young-people",
+    "image": "data/images/ca6cdc53bca73dd8.jpg"
   },
   {
     "id": "kcl:book-launch-politics-of-the-periphery",
@@ -592,24 +592,21 @@
     "image": "data/images/58f3ebd855197b06.jpg"
   },
   {
-    "id": "kcl:executive-mba-information-session-and-alumni-panel-2-december-2026",
-    "sourceEventId": "e24e79c9-05b4-4450-8f42-230f9aff17de",
-    "title": "Executive MBA - Information Session and Alumni Panel | 2 December 2026",
-    "desc": "Join our Executive Education team for an information diving into our Executive MBA, with the chance to hear from programme alumni.",
+    "id": "kcl:undergraduate-info-session-intercalated-2-december-2026",
+    "sourceEventId": "ee777b7b-6853-430e-abb8-f29f131e039a",
+    "title": "Intercalated BSc Online Information Event - 2 December 2026",
+    "desc": "Sign up to our Online Information Event",
     "source": "KCL",
     "date": "2026-12-02T13:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
     "price": 0,
-    "tags": [
-      "Business & Finance",
-      "King’s Business School"
-    ],
-    "format": "Online",
+    "tags": [],
+    "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/executive-mba-information-session-and-alumni-panel-2-december-2026",
-    "image": "data/images/9543fb31dcd5e2ce.jpg"
+    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-intercalated-2-december-2026",
+    "image": "data/images/d401e3761d834e5b.png"
   },
   {
     "id": "ic:213463",
@@ -738,7 +735,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215786/biomathematics-seminar-david-rand-warwick-dynamic-landscape-analysis-of-cell-fate-decisions/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:212956",
@@ -869,7 +866,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213990/finance-and-stochastics-seminar-beatrice-acciaio/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:215762",
@@ -890,7 +887,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215762/ccmi-seminar-boris-bonev-nvidia-zurich-ecole-polytechnique-paris/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:214744",
@@ -932,7 +929,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215834/stochastic-analysis-seminar-matthias-erbar-universitat-bielefeld/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:215054",
@@ -1020,7 +1017,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215262/structures-seminar-seismic-behaviour-and-design-of-the-linked-column-steel-frame-system-for-rapid-return-to-occupancy/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:214087",
@@ -1062,7 +1059,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213743/control-and-optimisation-seminar-gargoei-loke-durham/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:214942",
@@ -1127,7 +1124,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216045/frontiers-in-science-deep-dive-large-language-medicine-defining-a-new-paradigm-in-human-health/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:214897",
