@@ -42,23 +42,6 @@
     "image": "data/images/31fef0218368e771.png"
   },
   {
-    "id": "kcl:undergraduate-taster-ioppn-2-november-2026",
-    "sourceEventId": "54d39d80-bbbb-4901-99c9-2e50b02fff8d",
-    "title": "IoPPN Undergraduate On-Campus Taster Afternoon - 2 November 2026",
-    "desc": "Get a taste of what it's like to study Psychology, Psychology & Criminology or Neuroscience & Psychology at King's College London",
-    "source": "KCL",
-    "date": "2026-11-02T12:00:00",
-    "durationMin": 240,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-taster-ioppn-2-november-2026",
-    "image": "data/images/cd35892fdf1d4f30.png"
-  },
-  {
     "id": "kcl:law-with-criminology-online-information-session-2-november-2026",
     "sourceEventId": "0ede6e77-9a09-405a-8a3f-97c14cb047d2",
     "title": "Law with Criminology online information session - 2 November 2026",
@@ -74,6 +57,23 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/law-with-criminology-online-information-session-2-november-2026",
     "image": "data/images/33c3b9515b971081.png"
+  },
+  {
+    "id": "kcl:undergraduate-taster-ioppn-2-november-2026",
+    "sourceEventId": "54d39d80-bbbb-4901-99c9-2e50b02fff8d",
+    "title": "IoPPN Undergraduate On-Campus Taster Afternoon - 2 November 2026",
+    "desc": "Get a taste of what it's like to study Psychology, Psychology & Criminology or Neuroscience & Psychology at King's College London",
+    "source": "KCL",
+    "date": "2026-11-02T12:00:00",
+    "durationMin": 240,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/undergraduate-taster-ioppn-2-november-2026",
+    "image": "data/images/cd35892fdf1d4f30.png"
   },
   {
     "id": "kcl:morning-prayer-at-waterloo-6",
@@ -243,6 +243,26 @@
     "image": "data/images/28c0a22e6249d722.jpg"
   },
   {
+    "id": "kcl:the-future-of-ai-in-the-justice-system-1",
+    "sourceEventId": "ea901982-c517-4695-ad0d-cd6feeea7d78",
+    "title": "The Future of AI in the Justice System",
+    "desc": "The Future of AI in the Justice System: Building Fair Practices and Public Trust",
+    "source": "KCL",
+    "date": "2026-11-03T18:00:00",
+    "durationMin": 180,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "The Dickson Poon School of Law",
+      "King’s Institute for Artificial Intelligence"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/the-future-of-ai-in-the-justice-system-1",
+    "image": "data/images/dc44dbbbbedadd8a.png"
+  },
+  {
     "id": "kcl:law-undergraduate-information-session-hong-kong-3-november",
     "sourceEventId": "5f596eeb-b566-46b3-ac54-beb2bf07822c",
     "title": "Law undergraduate information session: Hong Kong - 3 November",
@@ -283,24 +303,313 @@
     "image": "data/images/bdb5211b7ce62576.png"
   },
   {
-    "id": "kcl:the-future-of-ai-in-the-justice-system-1",
-    "sourceEventId": "ea901982-c517-4695-ad0d-cd6feeea7d78",
-    "title": "The Future of AI in the Justice System",
-    "desc": "The Future of AI in the Justice System: Building Fair Practices and Public Trust",
+    "id": "kcl:morning-prayer-at-waterloo-10",
+    "sourceEventId": "b8a2a1b5-a753-4210-8200-9cf190164a7d",
+    "title": "Morning Prayer at Waterloo",
+    "desc": "A simple morning prayer in the Christian tradition to start your day.",
     "source": "KCL",
-    "date": "2026-11-03T18:00:00",
+    "date": "2026-12-01T09:30:00",
+    "durationMin": 20,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-waterloo-10",
+    "image": "data/images/51d0f1d6416d1658.jpg"
+  },
+  {
+    "id": "kcl:morning-prayer-at-denmark-hill-14",
+    "sourceEventId": "c36f6f10-39d4-413f-be61-1a770243c324",
+    "title": "Morning Prayer at Denmark Hill",
+    "desc": "A Morning Prayer service every Tuesday morning in term time.",
+    "source": "KCL",
+    "date": "2026-12-01T09:30:00",
+    "durationMin": 20,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-denmark-hill-14",
+    "image": "data/images/51d0f1d6416d1658.jpg"
+  },
+  {
+    "id": "kcl:international-lunch-at-waterloo-15",
+    "sourceEventId": "1bd7bf57-f3ec-4780-aca0-9697dc2e73ef",
+    "title": "International Lunch at Waterloo",
+    "desc": "Meet other members of the King's community and enjoy a (free!) lunch.",
+    "source": "KCL",
+    "date": "2026-12-01T12:00:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/international-lunch-at-waterloo-15",
+    "image": "data/images/3893d758d72ca4c5.jpg"
+  },
+  {
+    "id": "kcl:deans-office-book-club-at-waterloo-14",
+    "sourceEventId": "6c3e04bb-63c0-489e-93a6-69e6a23eb95e",
+    "title": "Dean's Office Book Club at Waterloo",
+    "desc": "Read & discuss 'The Left Hand of Darkness' by Ursula K. Le Guin.",
+    "source": "KCL",
+    "date": "2026-12-01T13:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/deans-office-book-club-at-waterloo-14",
+    "image": "data/images/253213817a71e924.jpg"
+  },
+  {
+    "id": "kcl:compassionate-leadership",
+    "sourceEventId": "30aac43e-30e7-4cbb-aa3a-f7f3e36d81fe",
+    "title": "Compassionate Leadership",
+    "desc": "We're pleased to announce that Dr Rachna Chowla (Joint Director of Clinical Strategy at King's Health Partners) will deliver a department seminar in the first week of December. Rachna is based in the Dept of Primary Care & Data Science.",
+    "source": "KCL",
+    "date": "2026-12-01T14:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Health",
+      "Faculty of Life Sciences & Medicine"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/compassionate-leadership",
+    "image": "data/images/23ca3ec2528c1c2a.jpg"
+  },
+  {
+    "id": "kcl:school-of-the-sacraments-at-guys-7",
+    "sourceEventId": "cc6e5680-73a2-40ee-97b7-44c8b2f5c58d",
+    "title": "School of the Sacraments at Guy's",
+    "desc": "A group for students interested in the liturgy and sacraments of the Catholic Church.",
+    "source": "KCL",
+    "date": "2026-12-01T18:00:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-7",
+    "image": "data/images/d9cf36757a289b06.jpg"
+  },
+  {
+    "id": "kcl:kings-alumni-reception-new-york",
+    "sourceEventId": "234e5ba5-4033-4e5d-a69a-305b39603c51",
+    "title": "King's Alumni Reception – New York",
+    "desc": "Meet fellow alumni in New Yok City and hear the latest news from King's at our exclusive alumni event.",
+    "source": "KCL",
+    "date": "2026-12-01T18:30:00",
     "durationMin": 180,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
     "tags": [
-      "The Dickson Poon School of Law",
-      "King’s Institute for Artificial Intelligence"
+      "Seminar",
+      "University",
+      "King’s alumni"
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/the-future-of-ai-in-the-justice-system-1",
-    "image": "data/images/dc44dbbbbedadd8a.png"
+    "url": "https://www.kcl.ac.uk/events/kings-alumni-reception-new-york",
+    "image": "data/images/10b261ece787e983.png"
+  },
+  {
+    "id": "kcl:undergraduate-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
+    "sourceEventId": "45638aa1-7bb0-464c-8db6-790ee0df0ccb",
+    "title": "Undergraduate Info Session: The Dentistry Pathway for Medical Graduates - 2 December 2026",
+    "desc": "Join us on campus at our first of two events for medics interested in studying dentistry: The Dentistry Pathway for Medical Graduates (DPMG)",
+    "source": "KCL",
+    "date": "2026-12-02T09:30:00",
+    "durationMin": 150,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Health"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
+    "image": "data/images/4d782de7350834ef.png"
+  },
+  {
+    "id": "kcl:undergraduate-virtual-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
+    "sourceEventId": "df134ee3-4d3a-4759-be26-b3946933524a",
+    "title": "Undergraduate Virtual Info Session: The Dentistry Pathway for Medical Graduates - 2 December 2026",
+    "desc": "Join us online at our first of two events for medics interested in studying dentistry: The Dentistry Pathway for Medical Graduates (DPMG)",
+    "source": "KCL",
+    "date": "2026-12-02T09:30:00",
+    "durationMin": 150,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Health"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/undergraduate-virtual-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
+    "image": "data/images/4d782de7350834ef.png"
+  },
+  {
+    "id": "kcl:solidarity-symposia-improving-outcomes-for-children-and-young-people",
+    "sourceEventId": "a79dae50-95bc-4208-8093-4af43e7ee76f",
+    "title": "Solidarity Symposia | Improving Outcomes for Children and Young People",
+    "desc": "Sharing research that advances wellbeing, education, and opportunities for the next generation",
+    "source": "KCL",
+    "date": "2026-12-02T10:00:00",
+    "durationMin": 360,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "School for Government",
+      "Faculty of Social Science & Public Policy"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/solidarity-symposia-improving-outcomes-for-children-and-young-people",
+    "image": "data/images/ca6cdc53bca73dd8.jpg"
+  },
+  {
+    "id": "kcl:mindfulness-with-jenny-online-25",
+    "sourceEventId": "3f02d878-210c-4e70-b8e8-0032f534b4ec",
+    "title": "Mindfulness with Jenny - Online",
+    "desc": "A session to explore mindfulness and how to be mindful.",
+    "source": "KCL",
+    "date": "2026-12-02T10:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Student",
+      "International"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-25",
+    "image": "data/images/9a428ca7444d0e16.jpg"
+  },
+  {
+    "id": "kcl:book-launch-politics-of-the-periphery",
+    "sourceEventId": "d651bc16-c806-454d-9fdc-09d4c1bcec6e",
+    "title": "Book Launch: Politics of the Periphery, with Dr Martijn Koster",
+    "desc": "Based on over two decades of ethnographic engagement, \"Politics of the Periphery: Governance and Elections in Brazil's Urban Margins\" offers detailed insights into Brazil's urban margins.",
+    "source": "KCL",
+    "date": "2026-12-02T12:00:00",
+    "durationMin": 120,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "King’s Brazil Institute",
+      "School of Global Affairs",
+      "Faculty of Social Science & Public Policy"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/book-launch-politics-of-the-periphery",
+    "image": "data/images/8c7bf855cd7bad43.png"
+  },
+  {
+    "id": "kcl:praying-the-holy-rosary-at-guys-13",
+    "sourceEventId": "66fc2e99-90ac-445a-a601-e1ad9cf84fae",
+    "title": "Praying the Holy Rosary at Guy's",
+    "desc": "An opportunity to pray the Holy Rosary every Wednesday in term time in the Guy's Chapel.",
+    "source": "KCL",
+    "date": "2026-12-02T12:15:00",
+    "durationMin": 30,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/praying-the-holy-rosary-at-guys-13",
+    "image": "data/images/7f54eb4162a38a4b.jpg"
+  },
+  {
+    "id": "kcl:sacrament-of-confession-at-guys-12",
+    "sourceEventId": "178657d5-50ad-463a-8981-8d7ded90c907",
+    "title": "Sacrament of Confession at Guy's",
+    "desc": "A Catholic priest is available to hear Confessions before the celebration of Holy Mass.",
+    "source": "KCL",
+    "date": "2026-12-02T12:30:00",
+    "durationMin": 30,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "International",
+      "Student",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/sacrament-of-confession-at-guys-12",
+    "image": "data/images/58f3ebd855197b06.jpg"
+  },
+  {
+    "id": "kcl:executive-mba-information-session-and-alumni-panel-2-december-2026",
+    "sourceEventId": "e24e79c9-05b4-4450-8f42-230f9aff17de",
+    "title": "Executive MBA - Information Session and Alumni Panel | 2 December 2026",
+    "desc": "Join our Executive Education team for an information diving into our Executive MBA, with the chance to hear from programme alumni.",
+    "source": "KCL",
+    "date": "2026-12-02T13:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Business & Finance",
+      "King’s Business School"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/executive-mba-information-session-and-alumni-panel-2-december-2026",
+    "image": "data/images/9543fb31dcd5e2ce.jpg"
   },
   {
     "id": "ic:213463",
@@ -411,29 +720,6 @@
     "image": "data/images/4de6b925b3432ef3.jpg"
   },
   {
-    "id": "ic:215126",
-    "sourceEventId": "215126",
-    "title": "From Campus to Beijing: The Next Chapter",
-    "desc": "Overview\n\nFrom Campus to Bejing: The Next Chapter brings together Imperial alumni and industry leaders for an intimate afternoon of candid conversation, industry insights, and meaningful connection across generations.\n\nAgenda\n\n• 12.15: Meet at Beitucheng Station, Exit C • 12.30: Coach departure • 14.00–14.30: Arrival at Ruiyun Winery • 14.30–15.00: Winery tour, photos and registration • 15.00–15.15: Welcome remarks from the Alumni Association Committee • 15.15–16.30: Panel discussion with guest speakers • 16.30–17.00: Lucky draw, group photo and entertainment / winery activities • 17.00–18.00: Afternoon Tea & Networking • 18.00: End of the main event • 18.30: Return coach departure\n\nPlease note that address details will be shared after registration. Confirmed attendees will be invited to…",
-    "source": "IC",
-    "date": "2026-10-31T12:15:00+08:00",
-    "durationMin": 375,
-    "venue": "Beijing Huairou",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "International",
-      "Alumni",
-      "From Campus to City 2026",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215126/from-campus-to-beijing-the-next-chapter/",
-    "image": "data/images/922e85bfc480594e.jpg"
-  },
-  {
     "id": "ic:215786",
     "sourceEventId": "215786",
     "title": "Biomathematics Seminar – David Rand (Warwick) – Dynamic Landscape Analysis of Cell Fate Decisions",
@@ -452,7 +738,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215786/biomathematics-seminar-david-rand-warwick-dynamic-landscape-analysis-of-cell-fate-decisions/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:212956",
@@ -583,7 +869,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213990/finance-and-stochastics-seminar-beatrice-acciaio/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:215762",
@@ -604,7 +890,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215762/ccmi-seminar-boris-bonev-nvidia-zurich-ecole-polytechnique-paris/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:214744",
@@ -646,7 +932,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215834/stochastic-analysis-seminar-matthias-erbar-universitat-bielefeld/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:215054",
@@ -734,7 +1020,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215262/structures-seminar-seismic-behaviour-and-design-of-the-linked-column-steel-frame-system-for-rapid-return-to-occupancy/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:214087",
@@ -776,7 +1062,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213743/control-and-optimisation-seminar-gargoei-loke-durham/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:214942",
@@ -841,7 +1127,30 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216045/frontiers-in-science-deep-dive-large-language-medicine-defining-a-new-paradigm-in-human-health/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
+  },
+  {
+    "id": "ic:214897",
+    "sourceEventId": "214897",
+    "title": "Annual PaeCH Symposium “Making the Leap: From Research Idea to NIHR Funding”",
+    "desc": "This year’s symposium will celebrate the success of PaeCH members in securing National Institute for Health and Care Research (NIHR) funding and showcase the breadth of research excellence across our community.\n\nThe programme will feature:\n\nPresentations from researchers at all career stages, reflecting the breadth of expertise, experience and research leadership within the PaeCH community.\n\nAn engaging panel discussion exploring strategies for developing successful grant applications, with insights from experienced researchers and funding recipients.\n\nA keynote lecture from Professor Waljit Dhillo, former Dean of the NIHR Academy, who will share his perspectives on research funding, career development and future opportunities.\n\nThe symposium will conclude with a providing an opportunity…",
+    "source": "IC",
+    "date": "2026-11-04T16:00:00+00:00",
+    "durationMin": 120,
+    "venue": "Lecture Theatre 2 / Lecture Theatre 3, Wolfson Education Centre, Hammersmith Campus",
+    "area": "Hammersmith",
+    "price": 0,
+    "tags": [
+      "Symposium",
+      "Centre for Paediatrics and Child Health",
+      "PaeCH",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214897/annual-paech-symposium-making-the-leap-from-research-idea-to-nihr-funding/",
+    "image": "data/images/c358e2d1e05753ef.jpg"
   },
   {
     "id": "wc:an-artist-in-everyday-life",
