@@ -1,47 +1,5 @@
 [
   {
-    "id": "kcl:future-skills-hackathon-thriving-in-the-age-of-genai",
-    "sourceEventId": "0aa31ce7-2d3f-4313-8df8-59c06d949ae7",
-    "title": "Future Skills Hackathon: Thriving in the Age of GenAI",
-    "desc": "Tackle real-world business challenges alongside students from different disciplines and industry experts.",
-    "source": "KCL",
-    "date": "2026-11-02T09:00:00",
-    "durationMin": 480,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Business & Finance",
-      "Technology & Science"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/future-skills-hackathon-thriving-in-the-age-of-genai",
-    "image": "data/images/497ba11b93403e94.jpg"
-  },
-  {
-    "id": "kcl:queer-sex-now-symposium",
-    "sourceEventId": "e3eec2b1-bffa-47e8-8849-ded95978a3d3",
-    "title": "Queer Sex Now Symposium",
-    "desc": "Aiming to untangle the knotty, contradictory questions that have emerged around queer sex in the present moment.",
-    "source": "KCL",
-    "date": "2026-11-02T09:30:00",
-    "durationMin": 480,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Faculty of Arts & Humanities",
-      "Queer@King's",
-      "Global Cultures Institute"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/queer-sex-now-symposium",
-    "image": "data/images/31fef0218368e771.png"
-  },
-  {
     "id": "kcl:undergraduate-taster-ioppn-2-november-2026",
     "sourceEventId": "54d39d80-bbbb-4901-99c9-2e50b02fff8d",
     "title": "IoPPN Undergraduate On-Campus Taster Afternoon - 2 November 2026",
@@ -74,48 +32,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/law-with-criminology-online-information-session-2-november-2026",
     "image": "data/images/33c3b9515b971081.png"
-  },
-  {
-    "id": "kcl:morning-prayer-at-waterloo-6",
-    "sourceEventId": "039e8de7-c99a-4a6b-adbb-18bab615973f",
-    "title": "Morning Prayer at Waterloo",
-    "desc": "A simple morning prayer in the Christian tradition to start your day.",
-    "source": "KCL",
-    "date": "2026-11-03T09:30:00",
-    "durationMin": 20,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-waterloo-6",
-    "image": "data/images/51d0f1d6416d1658.jpg"
-  },
-  {
-    "id": "kcl:morning-prayer-at-denmark-hill-10",
-    "sourceEventId": "88879b9a-86ab-4a2a-b847-fef4222732cf",
-    "title": "Morning Prayer at Denmark Hill",
-    "desc": "A Morning Prayer service every Tuesday morning in term time.",
-    "source": "KCL",
-    "date": "2026-11-03T09:30:00",
-    "durationMin": 20,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-denmark-hill-10",
-    "image": "data/images/51d0f1d6416d1658.jpg"
   },
   {
     "id": "kcl:global-placements-employer-speed-meet-autumn-2026",
@@ -301,6 +217,48 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/law-undergraduate-information-session-hong-kong-3-november",
     "image": "data/images/e9201cbe1fdc7ab5.jpg"
+  },
+  {
+    "id": "kcl:2026-reese-lecture",
+    "sourceEventId": "ac24e3f6-8384-4ccf-a094-af2a0374a66b",
+    "title": "2026 Australia Studies Institute Reese Lecture: Vannessa Hearman, \"In the hands of ordinary people: Australia’s changing relationship with Indonesia and Timor-Leste\"",
+    "desc": "The Australia Studies Institute is hosting Associate Professor Vannessa Hearman to deliver the 2026 Reese Memorial Lecture on her new book 'The Good Sea.'",
+    "source": "KCL",
+    "date": "2026-11-03T18:30:00",
+    "durationMin": 105,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Australia Studies Institute",
+      "King’s Global Institutes",
+      "School of Global Affairs"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/2026-reese-lecture",
+    "image": "data/images/e94a520bca1a1ffc.jpg"
+  },
+  {
+    "id": "kcl:from-ideas-to-impact-kings-institute-for-human-and-synthetic-minds",
+    "sourceEventId": "7a603715-b63b-40ff-818e-44df833ff46d",
+    "title": "From Ideas to Impact: King's Institute for Human and Synthetic Minds",
+    "desc": "From Ideas to Impact",
+    "source": "KCL",
+    "date": "2026-11-04T09:00:00",
+    "durationMin": 300,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Arts & Culture",
+      "Technology & Science"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/from-ideas-to-impact-kings-institute-for-human-and-synthetic-minds",
+    "image": "data/images/ad23b4c39db41344.png"
   },
   {
     "id": "kcl:morning-prayer-at-waterloo-10",
@@ -592,21 +550,24 @@
     "image": "data/images/58f3ebd855197b06.jpg"
   },
   {
-    "id": "kcl:undergraduate-info-session-intercalated-2-december-2026",
-    "sourceEventId": "ee777b7b-6853-430e-abb8-f29f131e039a",
-    "title": "Intercalated BSc Online Information Event - 2 December 2026",
-    "desc": "Sign up to our Online Information Event",
+    "id": "kcl:executive-mba-information-session-and-alumni-panel-2-december-2026",
+    "sourceEventId": "e24e79c9-05b4-4450-8f42-230f9aff17de",
+    "title": "Executive MBA - Information Session and Alumni Panel | 2 December 2026",
+    "desc": "Join our Executive Education team for an information diving into our Executive MBA, with the chance to hear from programme alumni.",
     "source": "KCL",
     "date": "2026-12-02T13:00:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
     "price": 0,
-    "tags": [],
-    "format": "In person",
+    "tags": [
+      "Business & Finance",
+      "King’s Business School"
+    ],
+    "format": "Online",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-intercalated-2-december-2026",
-    "image": "data/images/d401e3761d834e5b.png"
+    "url": "https://www.kcl.ac.uk/events/executive-mba-information-session-and-alumni-panel-2-december-2026",
+    "image": "data/images/9543fb31dcd5e2ce.jpg"
   },
   {
     "id": "ic:213463",
@@ -735,7 +696,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216146/gatp-seminar-ed-segal-stratified-mukai/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:213154",
@@ -801,7 +762,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213990/finance-and-stochastics-seminar-beatrice-acciaio/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:215762",
@@ -822,7 +783,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215762/ccmi-seminar-boris-bonev-nvidia-zurich-ecole-polytechnique-paris/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:214744",
@@ -952,7 +913,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215262/structures-seminar-seismic-behaviour-and-design-of-the-linked-column-steel-frame-system-for-rapid-return-to-occupancy/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:214087",
@@ -994,7 +955,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213743/control-and-optimisation-seminar-gargoei-loke-durham/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:214942",
@@ -1059,7 +1020,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216045/frontiers-in-science-deep-dive-large-language-medicine-defining-a-new-paradigm-in-human-health/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:214897",
@@ -1103,7 +1064,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216011/number-theory-seminar-reinier-sorgdrager/",
-    "image": "data/images/7cd9869c3f438571.jpg"
+    "image": "data/images/512d103d5423a9c7.jpg"
   },
   {
     "id": "lse:ai-democracy",
@@ -1225,25 +1186,6 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/world-aids-day-connecting-threads",
     "image": "data/images/264a64880da91a6c.avif"
-  },
-  {
-    "id": "rs:2026-11-ecological-dynamics",
-    "sourceEventId": "2026-11-ecological-dynamics",
-    "title": "Forecasting ecological dynamics in a changing world, a critical discussion",
-    "desc": "Discussion meeting organised by Dr Emily G Simmonds",
-    "source": "RS",
-    "date": "2026-11-02T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/ecological-dynamics/",
-    "image": "data/images/41625c2025fa0a8b.jpg"
   },
   {
     "id": "rs:2026-11-low-cost-optical-sensing",
