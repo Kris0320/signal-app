@@ -1,39 +1,5 @@
 [
   {
-    "id": "kcl:undergraduate-taster-ioppn-2-november-2026",
-    "sourceEventId": "54d39d80-bbbb-4901-99c9-2e50b02fff8d",
-    "title": "IoPPN Undergraduate On-Campus Taster Afternoon - 2 November 2026",
-    "desc": "Get a taste of what it's like to study Psychology, Psychology & Criminology or Neuroscience & Psychology at King's College London",
-    "source": "KCL",
-    "date": "2026-11-02T12:00:00",
-    "durationMin": 240,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-taster-ioppn-2-november-2026",
-    "image": "data/images/cd35892fdf1d4f30.png"
-  },
-  {
-    "id": "kcl:law-with-criminology-online-information-session-2-november-2026",
-    "sourceEventId": "0ede6e77-9a09-405a-8a3f-97c14cb047d2",
-    "title": "Law with Criminology online information session - 2 November 2026",
-    "desc": "Attend our online event and find out about King's Law with Criminology LLB.",
-    "source": "KCL",
-    "date": "2026-11-02T12:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/law-with-criminology-online-information-session-2-november-2026",
-    "image": "data/images/33c3b9515b971081.png"
-  },
-  {
     "id": "kcl:global-placements-employer-speed-meet-autumn-2026",
     "sourceEventId": "d388f8f6-b202-464e-9c4e-166f4c31c615",
     "title": "Global Placements: Employer Speed Meet (Autumn 2026)",
@@ -53,27 +19,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/global-placements-employer-speed-meet-autumn-2026",
     "image": "data/images/068e4e09e19b8730.jpg"
-  },
-  {
-    "id": "kcl:international-lunch-at-waterloo-11",
-    "sourceEventId": "8ee0c2f1-f7bf-4b09-82db-8ab902b853a3",
-    "title": "International Lunch at Waterloo",
-    "desc": "Meet other members of the King's community and enjoy a (free!) lunch.",
-    "source": "KCL",
-    "date": "2026-11-03T12:00:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/international-lunch-at-waterloo-11",
-    "image": "data/images/3893d758d72ca4c5.jpg"
   },
   {
     "id": "kcl:green-disc-information-session",
@@ -259,6 +204,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/from-ideas-to-impact-kings-institute-for-human-and-synthetic-minds",
     "image": "data/images/ad23b4c39db41344.png"
+  },
+  {
+    "id": "kcl:mindfulness-with-jenny-online-21",
+    "sourceEventId": "ee63f6c7-aeb1-478f-8677-d6bc14f95a44",
+    "title": "Mindfulness with Jenny - Online",
+    "desc": "A session to explore mindfulness and how to be mindful.",
+    "source": "KCL",
+    "date": "2026-11-04T10:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Student",
+      "International"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-21",
+    "image": "data/images/9a428ca7444d0e16.jpg"
   },
   {
     "id": "kcl:morning-prayer-at-waterloo-10",
@@ -573,7 +539,7 @@
     "id": "ic:213463",
     "sourceEventId": "213463",
     "title": "IGHI Special Lecture 2026: Global Challenges, Human Solutions",
-    "desc": "Join us for the Institute of Global Health Innovation’s Special Lecture online or in person.\n\nPlease do register your in person attendance by clicking the ‘Register Now’ button on the left hand side of the page.\n\nJoining online? You can watch the lecture live on YouTube from 17:00.\n\nSummary\n\nDr Christos Christou, surgeon and humanitarian leader, will discuss how medicine, leadership and politics intersect in real humanitarian settings. Dr Christou will share what he has learnt from years of clinical and operational work with Médecins Sans Frontières, and where he see s opportunities for academic institutions to contribute to humanitarian medicine .\n\nAbout the speaker Dr Christos Christou is a surgeon and humanitarian leader, and former International President of Médecins Sans Frontières…",
+    "desc": "Join us for the Institute of Global Health Innovation’s Special Lecture online or in person.\n\nPlease do register your in-person attendance by clicking the ‘Register Now’ button on the left-hand side of the page. Joining online? You can watch the lecture live on YouTube from 17:00.\n\nSummary\n\nDr Christos Christou, surgeon and humanitarian leader, will discuss how medicine, leadership and politics intersect in real humanitarian settings. Dr Christou will share what he has learnt from years of clinical and operational work with Médecins Sans Frontières, and where he see s opportunities for academic institutions to contribute to humanitarian medicine .\n\nProgramme\n\nThe evening will feature:\n\nProfessor the Lord Ara Darzi , Director of the Institute of Global Health Innovation, delivering the…",
     "source": "IC",
     "date": "2026-11-11T17:00:00+00:00",
     "durationMin": 120,
@@ -676,156 +642,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215440/an-act-of-remembrance-imperial-college-wednesday-11th-november-2026/",
     "image": "data/images/4de6b925b3432ef3.jpg"
-  },
-  {
-    "id": "ic:216146",
-    "sourceEventId": "216146",
-    "title": "GATP Seminar – Ed Segal (UCL)",
-    "desc": "In N=(2,2) Calabi-Yau GLSMs it should be possible to transfer B-branes between different phases, or to put it another way, two CY varieties which arise as different GIT quotients of the same space should be derived equivalent. For abelian gauge groups this is well-understood but the non-abelian case is still very hard. I’ll discuss the example of stratified Mukai flops which is well-known as a difficult test case. In recent work (with Wei Tseu) we found a simple geometric construction of the Fourier-Mukai kernel for the derived equivalence in this example.",
-    "source": "IC",
-    "date": "2026-11-03T11:00:00+00:00",
-    "durationMin": 120,
-    "venue": "Huxley 658, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216146/gatp-seminar-ed-segal-stratified-mukai/",
-    "image": "data/images/5378b299790f4be0.jpg"
-  },
-  {
-    "id": "ic:213154",
-    "sourceEventId": "213154",
-    "title": "Speak like a researcher 3: making expertise visible",
-    "desc": "Do you want to improve your academic speaking?\n\nSave this placeholder as a reminder of the Speak like a researcher workshops. The appointment is for the all of the sessions below so delete the occurrences of any sessions you do not wish to attend.\n\nSpeak like a researcher (SLAR) is a three-part, on-campus workshop series designed to help you communicate your research confidently in the situations that matter. You will learn how to build purposeful professional relationships, explain complex ideas clearly to different audiences, and respond credibly when your claims are questioned. Through practical activities, guided reflection and realistic speaking tasks, you will develop strategies for listening, questioning, structuring explanations and handling uncertainty. Each worksho p focuses on…",
-    "source": "IC",
-    "date": "2026-11-03T12:00:00+00:00",
-    "durationMin": 60,
-    "venue": "ASL-315 - Access through the SHERFIELD building, Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Practice session",
-      "CfAE speaking and listening practice sessions",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213154/speak-like-a-researcher-3-making-expertise-visible/",
-    "image": "data/images/ebfd3403978e3af0.jpg"
-  },
-  {
-    "id": "ic:216092",
-    "sourceEventId": "216092",
-    "title": "IDE Seminar Series – Professor Sam Watson",
-    "desc": "Sam Watson is a Professor of Biostatistics in the Department of Applied Health Research. His interests are in evaluation of interventions for public health, health services, and policy. He leads methodological research into novel approaches to evaluation, including evaluation of interventions exhibiting spatial effects and adaptive cluster trial designs. He is also currently PI of the NIHR funded BRIDGE study evaluating virtual wards for patients with COPD in the West Midlands; and statistical lead for trials of: improving cancer referrals in primary care in Kenya and Nigeria (PRIMED; NIHR), mental wellbeing intervention for patients with type I diabetes (D-STRESS; NIHR), and, continuous monitoring for women in labour in Nigeria, Rwanda, Pakistan, and India (IMPALA-2; Gates Foundation).…",
-    "source": "IC",
-    "date": "2026-11-03T12:30:00+00:00",
-    "durationMin": 60,
-    "venue": "202, School of Public Health, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Infectious diseases",
-      "MRC Centre for Global Infectious Disease Analysis",
-      "Modelling",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216092/ide-seminar-series-professor-sam-watson/",
-    "image": "data/images/45d978ed7e389231.jpg"
-  },
-  {
-    "id": "ic:213990",
-    "sourceEventId": "213990",
-    "title": "Finance and Stochastics Seminar – Beatrice Acciaio",
-    "desc": "Speaker : Beatrice Acciaio\n\nTitle : Sensitivity of Distributionally Robust Optimization in the Adapted Bures–Wasserstein Space\n\nAbstract : The adapted Wasserstein distance provides a natural framework for comparing stochastic processes while accounting for their temporal structure and the flow of information, especially for the purpose of dynamic stochastic optimization in a context of model uncertainty. When restricted to Gaussian processes, it gives rise to the adapted Bures–Wasserstein space, an analogue of the classical Bures–Wasserstein geometry in optimal transport. In this talk, I will present a complete geometric analysis of such space, and provide an explicit characterization of the solutions to the adapted transport problem. I will then explore how this geometric structure can…",
-    "source": "IC",
-    "date": "2026-11-03T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213990/finance-and-stochastics-seminar-beatrice-acciaio/",
-    "image": "data/images/263a03c01b826444.jpg"
-  },
-  {
-    "id": "ic:215762",
-    "sourceEventId": "215762",
-    "title": "CCMI Seminar – Boris Bonev (NVIDIA Zurich, École Polytechnique Paris)",
-    "desc": "Speaker: Boris Bonev (NVIDIA Zurich, École Polytechnique Paris)\n\nTitle: Geometric Neural Operators for Machine Learning Probabilistic Weather Prediction\n\nAbstract: Machine learning has recently enabled fast and accurate surrogate models for numerical weather and climate prediction. However, many current architectures struggle on extreme events, introduce spurious artifacts or instabilities when they ignore the spherical geometry of the Earth, and are often tightly coupled to a particular input grid or resolution, limiting flexibility for downstream applications. These shortcomings highlight a mismatch between black‑box models and more traditional numerical methods, which encode underlying physical and geometric properties. Neural operators address part of this gap by learning solution…",
-    "source": "IC",
-    "date": "2026-11-03T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Function space, UCL AI Centre",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215762/ccmi-seminar-boris-bonev-nvidia-zurich-ecole-polytechnique-paris/",
-    "image": "data/images/263a03c01b826444.jpg"
-  },
-  {
-    "id": "ic:214744",
-    "sourceEventId": "214744",
-    "title": "Nelder Fellow lecture series – Prof Ed Bueler (University of Alaska Fairbanks)",
-    "desc": "Prof Ed Bueler (University of Alaska Fairbanks) : Stokes glacier models with Firedrake: A tutorial\n\nLectures will be held on Tuesdays: 20 Oct, 27 Oct, 3 Nov, 17 Nov, at 15:00.\n\nAbstract: This four-lecture series introduces variational inequalities to a general applied mathematical audience, pursues their finite element solution, and applies them to a geophysical problem. Variational inequalities are partial differential equation weak forms, but subject to bounds on their solution(s). They reformulate how one might pose boundary conditions at a free location; where the conditions apply is now determined simultaneously along with the solution. Certain variational inequalities state the KKT conditions of optimization problems in function spaces, and in all cases these continuum models…",
-    "source": "IC",
-    "date": "2026-11-03T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "658, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214744/nelder-fellow-lecture-series-prof-ed-bueler-3/",
-    "image": "data/images/7e42d4913a394593.jpg"
-  },
-  {
-    "id": "ic:215834",
-    "sourceEventId": "215834",
-    "title": "Stochastic Analysis Seminar – Matthias Erbar (Universität Bielefeld)",
-    "desc": "Matthias Erbar\n\nTitle:\n\nOptimal transport and gradient flows for point processes\n\nAbstract",
-    "source": "IC",
-    "date": "2026-11-03T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "410, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215834/stochastic-analysis-seminar-matthias-erbar-universitat-bielefeld/",
-    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:215054",
@@ -955,7 +771,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213743/control-and-optimisation-seminar-gargoei-loke-durham/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:214942",
@@ -1064,7 +880,208 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216011/number-theory-seminar-reinier-sorgdrager/",
-    "image": "data/images/512d103d5423a9c7.jpg"
+    "image": "data/images/b4f3c036c0b69eb4.jpg"
+  },
+  {
+    "id": "ic:212557",
+    "sourceEventId": "212557",
+    "title": "College Evensong: All Saints and All Souls",
+    "desc": "This week’s Evensong for All Souls is a time to remember colleagues, family and friends who have died.\n\nIf you would like someone you know to be remembered by name please send details to chaplaincy@imperial.ac.uk\n\nEvensong is open to all members of the College, the RCA and RCM, alumni, and the public. The service happens every two weeks in term-time. You can engage with the service in your own way. We know that people of different faith traditions and world views find Choral Evensong a welcoming meditative time.\n\nIf you’d like to be notified of the dates of Evensongs, please subscribe to our newsletter or follow us on Twitter .\n\nYou can visit our Events pages for details of the next Evensongs services.",
+    "source": "IC",
+    "date": "2026-11-04T17:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Holy Trinity Church",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212557/college-evensong-all-saints-and-all-souls-3/",
+    "image": "data/images/364b4d487ec17852.jpg"
+  },
+  {
+    "id": "ic:216207",
+    "sourceEventId": "216207",
+    "title": "Imperial College Chamber Choir Evensong",
+    "desc": "You are all welcome to attend Imperial College Chamber Choir’s Evensong\n\nAll Souls tide; remembering those we loved who have died\n\nProgramme to include works by\n\nDuruflé – Introit (from Requiem)\n\nTrendell – Responses\n\nWalmisley – Magnificat and Nunc Dimittis in D Minor\n\nDuruflé – In paradisum (from Requiem)",
+    "source": "IC",
+    "date": "2026-11-04T17:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Holy Trinity Church Prince Consort Road London SW7 2BA, Holy Trinity Church, Off campus",
+    "area": "Off",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Concerts",
+      "Arts",
+      "Creative",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216207/imperial-college-chamber-choir-evensong-4/",
+    "image": "data/images/fc6a5f9e88539467.jpg"
+  },
+  {
+    "id": "ic:213067",
+    "sourceEventId": "213067",
+    "title": "Virtual Open Day – MRes Experimental Neuroscience",
+    "desc": "Join us to explore how the MRes Experimental Neuroscience can prepare you for the next step in your scientific career.",
+    "source": "IC",
+    "date": "2026-11-05T10:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Open days",
+      "brain",
+      "International",
+      "Postgraduate prospective students",
+      "Postgraduate Virtual Open Days"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213067/virtual-open-day-mres-experimental-neuroscience/",
+    "image": "data/images/7103218b5654ff4d.jpg"
+  },
+  {
+    "id": "ic:215825",
+    "sourceEventId": "215825",
+    "title": "EarthScale | Cohort 3 – Applications Q&A",
+    "desc": "Join us for an informal Q&A webinar to learn more about the EarthScale programme and application process for cohort 3.\n\n​ Powered by a network of UK universities, EarthScale offers a programme supporting IP-rich climate tech startups and spinouts, helping them bridge the gap from prototype to scalable production, and develop from initial funding to commercial deployment.\n\n​ EarthScale is now open for cohort 3 applications! Join our informal Q&A webinar to give you the opportunity to learn more about the programme and application process. It’s a great opportunity to meet the team and ask any questions you may have.\n\n​ Q&A series\n\n​ Applications are open until Friday 20 November 2026. We’re running two identical Q&A sessions during the application window, taking place on the following…",
+    "source": "IC",
+    "date": "2026-11-05T11:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Climate change",
+      "enterprise",
+      "Enterprise Lab",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215825/earthscale-cohort-3-applications-qa/",
+    "image": "data/images/c62e3d4d5d18a949.jpg"
+  },
+  {
+    "id": "ic:213074",
+    "sourceEventId": "213074",
+    "title": "Virtual Open Day – MSc Translational Neuroscience",
+    "desc": "Join us to discover how the MSc Translational Neuroscience can equip you with the training needed to understand neurological and psychiatric disorders.",
+    "source": "IC",
+    "date": "2026-11-05T12:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Open days",
+      "brain",
+      "International",
+      "Postgraduate prospective students",
+      "Postgraduate Virtual Open Days"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213074/virtual-open-day-msc-translational-neuroscience/",
+    "image": "data/images/ed51f08372cac28a.jpg"
+  },
+  {
+    "id": "ic:212777",
+    "sourceEventId": "212777",
+    "title": "Lunchtime Concert – Howard – Denton Trio",
+    "desc": "Janáček Pohádka Beethoven Piano Trio in D major Op 70 No 1 ‘Ghost’",
+    "source": "IC",
+    "date": "2026-11-05T13:00:00+00:00",
+    "durationMin": 45,
+    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
+    "area": "Off",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Concerts",
+      "Arts",
+      "Creative",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212777/lunchtime-concert-howard-denton-trio/",
+    "image": "data/images/52ee1229eca144e8.jpg"
+  },
+  {
+    "id": "ic:211983",
+    "sourceEventId": "211983",
+    "title": "Metamorphic Form In Art",
+    "desc": "Although he made his name as a realist painter, in recent years the British artist Clive Head has developed an approach to figurative painting in which images resist a single, stable reading. A form that initially appears to represent one thing may, through sustained looking, reveal itself as something quite different. Figures, objects and spatial relationships can shift in meaning as the viewer moves through the image perceptually, so that the experience of looking becomes active, unstable and extended through time.\n\nIn this talk, Head will discuss how these ideas have emerged within his own painting practice and how they relate to broader questions of representation, perception and pictorial structure. He will also consider historical and contemporary artists whose work employs…",
+    "source": "IC",
+    "date": "2026-11-05T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "ASL S303A, (Access via Sherfield Level 3), Sherfield Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/211983/metamorphic-form-in-art/",
+    "image": "data/images/ecca0379b9d8dd6b.jpg"
+  },
+  {
+    "id": "lse:18-november-2026-masters-health-policy",
+    "sourceEventId": "18-november-2026-masters-health-policy",
+    "title": "Master's study in Health Policy at LSE - Virtual Graduate Open Events",
+    "desc": "Virtual Graduate Open Events, United Kingdom LSE's Department of Health Policy will be holding a live online event for prospective research students. The event will enable prospective students to find out more about the master's study opportunities offered by the department, followed by the opportunity for attendees to submit their own questions.&#8239;The event will take place online via&#8239; Zoom . This event will not address the full admissions process - please register for the Applying to LSE session or an&#8239; LSE Discovery Session &#8239;for more information about applying to LSE.",
+    "source": "LSE",
+    "date": "2026-11-18T15:00:00+01:00",
+    "durationMin": 60,
+    "venue": "Master's study in Health Policy at LSE - Virtual Graduate Open Events",
+    "area": "Holborn",
+    "price": 0,
+    "tags": [
+      "Healthcare",
+      "health",
+      "health policy",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 80,
+    "url": "https://www.lse.ac.uk/study-at-lse/meet-visit-and-discover-LSE/events/virtual-events/2026-27/virtual-graduate-open-events/18-november-2026-masters-health-policy?_gl=1*nbdmtp*_gcl_au*NzI2OTY4OTY5LjE3ODgzNDM5NTk.*_ga*Mjc1NDM0NzIzLjE3ODgzNDM5NTc.*_ga_LWTEVFESYX*czE3OTM2OTg0OTckbzE2JGcxJHQxNzkzNzAyNDQ2JGozOCRsMCRoMA..&entryId=2319c173-7bdc-45d3-9a69-d12fd54340d7&nodeId=e2e64854-5d30-44fa-a289-a5ef76104f3e",
+    "image": null
+  },
+  {
+    "id": "lse:18-november-2026-phd-health-policy",
+    "sourceEventId": "18-november-2026-phd-health-policy",
+    "title": "PhD study in Health Policy at LSE - Virtual Graduate Open Events",
+    "desc": "Virtual Graduate Open Events, United Kingdom LSE's Department of Health Policy will be holding a live online event for prospective research students. The event will enable prospective students to find out more about the research study opportunities offered by the department, followed by the opportunity for attendees to submit their own questions.&#8239;The event will take place online via&#8239; Zoom . This event will not address the full admissions process - please register for the Applying to LSE session or an&#8239; LSE Discovery Session &#8239;for more information about applying to LSE.",
+    "source": "LSE",
+    "date": "2026-11-18T16:30:00+01:00",
+    "durationMin": 60,
+    "venue": "PhD study in Health Policy at LSE - Virtual Graduate Open Events",
+    "area": "Holborn",
+    "price": 0,
+    "tags": [
+      "Healthcare",
+      "health",
+      "health policy",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 80,
+    "url": "https://www.lse.ac.uk/study-at-lse/meet-visit-and-discover-LSE/events/virtual-events/2026-27/virtual-graduate-open-events/18-november-2026-phd-health-policy?_gl=1*16m6pqy*_gcl_au*NzI2OTY4OTY5LjE3ODgzNDM5NTk.*_ga*Mjc1NDM0NzIzLjE3ODgzNDM5NTc.*_ga_LWTEVFESYX*czE3OTM2OTg0OTckbzE2JGcxJHQxNzkzNzAyNDU5JGoyNSRsMCRoMA..&entryId=2319c173-7bdc-45d3-9a69-d12fd54340d7&nodeId=e2e64854-5d30-44fa-a289-a5ef76104f3e",
+    "image": null
   },
   {
     "id": "lse:ai-democracy",
