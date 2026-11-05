@@ -1,45 +1,22 @@
 [
   {
-    "id": "kcl:from-ideas-to-impact-kings-institute-for-human-and-synthetic-minds",
-    "sourceEventId": "7a603715-b63b-40ff-818e-44df833ff46d",
-    "title": "From Ideas to Impact: King's Institute for Human and Synthetic Minds",
-    "desc": "From Ideas to Impact",
-    "source": "KCL",
-    "date": "2026-11-04T09:00:00",
-    "durationMin": 300,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Arts & Culture",
-      "Technology & Science"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/from-ideas-to-impact-kings-institute-for-human-and-synthetic-minds",
-    "image": "data/images/ad23b4c39db41344.png"
-  },
-  {
-    "id": "kcl:joint-rd-office-wednesday-walk-in-november",
-    "sourceEventId": "5431c597-8382-4e00-bcc5-6719b3c932fe",
-    "title": "Joint R&D Office Wednesday Walk-In",
-    "desc": "Drop in and discuss your questions with the Joint R&D Office on the first Wednesday of every month.",
+    "id": "kcl:nmes-doctoral-school-open-event-2026",
+    "sourceEventId": "573e52de-de5a-4602-8b7c-a20b176bc3d6",
+    "title": "NMES Doctoral School Open Event 2026",
+    "desc": "Join us online at the NMES Doctoral School Online Open Event to find out about PhD opportunities available",
     "source": "KCL",
     "date": "2026-11-04T10:00:00",
-    "durationMin": 300,
-    "venue": "Strand",
-    "area": "Strand",
+    "durationMin": 120,
+    "venue": "Online",
+    "area": "Online",
     "price": 0,
     "tags": [
-      "Health",
-      "NIHR Biomedical Research Centre: Maudsley",
-      "Institute of Psychiatry, Psychology & Neuroscience"
+      "Faculty of Natural, Mathematical & Engineering Sciences"
     ],
-    "format": "In person",
+    "format": "Online",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/joint-rd-office-wednesday-walk-in-november",
-    "image": "data/images/a7fe1162b782ba38.png"
+    "url": "https://www.kcl.ac.uk/events/nmes-doctoral-school-open-event-2026",
+    "image": "data/images/76dd8e678e0f7299.png"
   },
   {
     "id": "kcl:morning-prayer-at-waterloo-10",
@@ -562,7 +539,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215999/analysis-and-probability-seminar-jens-marklof-university-of-bristol/",
-    "image": "data/images/7cd9869c3f438571.jpg"
+    "image": "data/images/1a84b406c80838f1.jpg"
   },
   {
     "id": "ic:216003",
@@ -583,7 +560,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216003/algebra-colloquium-jialin-wang-city/",
-    "image": "data/images/6a3c37ce4e152683.jpg"
+    "image": "data/images/7cd9869c3f438571.jpg"
   },
   {
     "id": "ic:216053",
@@ -604,7 +581,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216053/junior-dynamics-seminar-masood-ahmad/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:216001",
@@ -625,7 +602,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216001/analysis-and-probability-seminar-vasiliki-evdoridou-open-university/",
-    "image": "data/images/b4f3c036c0b69eb4.jpg"
+    "image": "data/images/7cd9869c3f438571.jpg"
   },
   {
     "id": "ic:215611",
@@ -711,7 +688,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216016/geometry-and-topology-seminar-olivier-de-gaay-fortman-imperial/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:213724",
@@ -753,7 +730,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213913/statistics-seminar-beatrice-franzolini-kings-college/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:215593",
@@ -780,7 +757,7 @@
     "id": "ic:216020",
     "sourceEventId": "216020",
     "title": "Maths Community Concert",
-    "desc": "You are very warmly invited to attend the first Maths Community Concert !\n\nDate : Friday, 6th November 2026\n\nTime : 6 pm\n\nLocation : City and Guilds building, Room 300\n\nThis concert will feature performances from students and staff from the department, with styles varying from classical to folk music. Refreshments will be provided after the performance.",
+    "desc": "You are very warmly invited to attend the first Maths Community Concert !\n\nDate : Friday, 6th November 2026\n\nTime : 6 pm\n\nLocation : City and Guilds building, Room 300\n\nProgramme\n\nEunike Setiawan (Piano)\n\nEtude-Tableaux Op. 39 No. 5\n\nSergei Rachmanino ﬀ\n\nÉvrard Schedler (Cello)\n\nCello Suite No. 1 in G major, BWV 1007\n\nJ. S. Bach\n\nLucas Moschen (Flugelhorn)\n\nOde a que Brasil? (Ode to What Brazil?)\n\nChico Buarque and Manuel Leite – Arr. by L. Moschen\n\nCarlos Doebeli (Piano)\n\nMishima (closing)\n\nPhilip Glass\n\nSkye Purchase (Tin Whitstle)\n\nA selection of English and Scottish folk tunes\n\nAnonymous\n\nSong-Yun Chen (Piano)\n\nBallade pour Adeline\n\nPaul de Senneville\n\nEvangelos Kotzaﬁlios (Piano)\n\nWaltz op. 34 No. 2\n\nFrédéric Chopin\n\nPablo Zurita Soler (Guitar) and Camilo\n\nCarvajal Reyes…",
     "source": "IC",
     "date": "2026-11-06T18:00:00+00:00",
     "durationMin": 120,
@@ -816,7 +793,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215565/turner-kirk-sprint-challenge-fund-2026-online-information-and-qa-session/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "lse:18-november-2026-masters-health-policy",
