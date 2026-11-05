@@ -1,24 +1,5 @@
 [
   {
-    "id": "kcl:nmes-doctoral-school-open-event-2026",
-    "sourceEventId": "573e52de-de5a-4602-8b7c-a20b176bc3d6",
-    "title": "NMES Doctoral School Open Event 2026",
-    "desc": "Join us online at the NMES Doctoral School Online Open Event to find out about PhD opportunities available",
-    "source": "KCL",
-    "date": "2026-11-04T10:00:00",
-    "durationMin": 120,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "Faculty of Natural, Mathematical & Engineering Sciences"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/nmes-doctoral-school-open-event-2026",
-    "image": "data/images/76dd8e678e0f7299.png"
-  },
-  {
     "id": "kcl:morning-prayer-at-waterloo-10",
     "sourceEventId": "b8a2a1b5-a753-4210-8200-9cf190164a7d",
     "title": "Morning Prayer at Waterloo",
@@ -122,6 +103,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/compassionate-leadership",
     "image": "data/images/23ca3ec2528c1c2a.jpg"
+  },
+  {
+    "id": "kcl:the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
+    "sourceEventId": "1fb8bfc8-3beb-4b14-a44c-c989e5ea09c2",
+    "title": "The Sir Michael Howard Centre for the History of War Annual Lecture - 'New Directions in the History of the Second World War in South Asia'",
+    "desc": "Professor Yasmin Khan will examine the idea of the Second World War and the Partition of 1947 as part of a historical continuum, arguing that the Second World War did not simply end at VJ day in 1945 in Asia.",
+    "source": "KCL",
+    "date": "2026-12-01T18:00:00",
+    "durationMin": 150,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Public lecture",
+      "Seminar",
+      "International"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
+    "image": "data/images/47fbe34d8efd1f28.png"
   },
   {
     "id": "kcl:school-of-the-sacraments-at-guys-7",
@@ -308,23 +310,6 @@
     "image": "data/images/58f3ebd855197b06.jpg"
   },
   {
-    "id": "kcl:undergraduate-info-session-intercalated-2-december-2026",
-    "sourceEventId": "ee777b7b-6853-430e-abb8-f29f131e039a",
-    "title": "Intercalated BSc Online Information Event - 2 December 2026",
-    "desc": "Sign up to our Online Information Event",
-    "source": "KCL",
-    "date": "2026-12-02T13:00:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-intercalated-2-december-2026",
-    "image": "data/images/d401e3761d834e5b.png"
-  },
-  {
     "id": "ic:213463",
     "sourceEventId": "213463",
     "title": "IGHI Special Lecture 2026: Global Challenges, Human Solutions",
@@ -387,224 +372,6 @@
     "image": "data/images/4de6b925b3432ef3.jpg"
   },
   {
-    "id": "ic:213067",
-    "sourceEventId": "213067",
-    "title": "Virtual Open Day – MRes Experimental Neuroscience",
-    "desc": "Join us to explore how the MRes Experimental Neuroscience can prepare you for the next step in your scientific career.",
-    "source": "IC",
-    "date": "2026-11-05T10:30:00+00:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Open days",
-      "brain",
-      "International",
-      "Postgraduate prospective students",
-      "Postgraduate Virtual Open Days"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213067/virtual-open-day-mres-experimental-neuroscience/",
-    "image": "data/images/7103218b5654ff4d.jpg"
-  },
-  {
-    "id": "ic:215825",
-    "sourceEventId": "215825",
-    "title": "EarthScale | Cohort 3 – Applications Q&A",
-    "desc": "Join us for an informal Q&A webinar to learn more about the EarthScale programme and application process for cohort 3.\n\n​ Powered by a network of UK universities, EarthScale offers a programme supporting IP-rich climate tech startups and spinouts, helping them bridge the gap from prototype to scalable production, and develop from initial funding to commercial deployment.\n\n​ EarthScale is now open for cohort 3 applications! Join our informal Q&A webinar to give you the opportunity to learn more about the programme and application process. It’s a great opportunity to meet the team and ask any questions you may have.\n\n​ Q&A series\n\n​ Applications are open until Friday 20 November 2026. We’re running two identical Q&A sessions during the application window, taking place on the following…",
-    "source": "IC",
-    "date": "2026-11-05T11:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Climate change",
-      "enterprise",
-      "Enterprise Lab",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215825/earthscale-cohort-3-applications-qa/",
-    "image": "data/images/c62e3d4d5d18a949.jpg"
-  },
-  {
-    "id": "ic:213074",
-    "sourceEventId": "213074",
-    "title": "Virtual Open Day – MSc Translational Neuroscience",
-    "desc": "Join us to discover how the MSc Translational Neuroscience can equip you with the training needed to understand neurological and psychiatric disorders.",
-    "source": "IC",
-    "date": "2026-11-05T12:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Open days",
-      "brain",
-      "International",
-      "Postgraduate prospective students",
-      "Postgraduate Virtual Open Days"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213074/virtual-open-day-msc-translational-neuroscience/",
-    "image": "data/images/ed51f08372cac28a.jpg"
-  },
-  {
-    "id": "ic:212777",
-    "sourceEventId": "212777",
-    "title": "Lunchtime Concert – Howard – Denton Trio",
-    "desc": "Janáček Pohádka Beethoven Piano Trio in D major Op 70 No 1 ‘Ghost’",
-    "source": "IC",
-    "date": "2026-11-05T13:00:00+00:00",
-    "durationMin": 45,
-    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Arts",
-      "Creative",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212777/lunchtime-concert-howard-denton-trio/",
-    "image": "data/images/52ee1229eca144e8.jpg"
-  },
-  {
-    "id": "ic:211983",
-    "sourceEventId": "211983",
-    "title": "Metamorphic Form In Art",
-    "desc": "Although he made his name as a realist painter, in recent years the British artist Clive Head has developed an approach to figurative painting in which images resist a single, stable reading. A form that initially appears to represent one thing may, through sustained looking, reveal itself as something quite different. Figures, objects and spatial relationships can shift in meaning as the viewer moves through the image perceptually, so that the experience of looking becomes active, unstable and extended through time.\n\nIn this talk, Head will discuss how these ideas have emerged within his own painting practice and how they relate to broader questions of representation, perception and pictorial structure. He will also consider historical and contemporary artists whose work employs…",
-    "source": "IC",
-    "date": "2026-11-05T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "ASL S303A, (Access via Sherfield Level 3), Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211983/metamorphic-form-in-art/",
-    "image": "data/images/ecca0379b9d8dd6b.jpg"
-  },
-  {
-    "id": "ic:213395",
-    "sourceEventId": "213395",
-    "title": "PDEs Seminar – Anna Broms (Imperial College London)",
-    "desc": "tba",
-    "source": "IC",
-    "date": "2026-11-05T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Huxley 130, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213395/pdes-seminar-anna-broms-imperial-college-london/",
-    "image": "data/images/030edec8db1523e2.jpg"
-  },
-  {
-    "id": "ic:215999",
-    "sourceEventId": "215999",
-    "title": "Analysis and Probability Seminar – Jens Marklof (University of Bristol)",
-    "desc": "Jens Marklof (University of Bristol): tbc\n\nMore details on the website",
-    "source": "IC",
-    "date": "2026-11-05T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "UCL",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215999/analysis-and-probability-seminar-jens-marklof-university-of-bristol/",
-    "image": "data/images/1a84b406c80838f1.jpg"
-  },
-  {
-    "id": "ic:216003",
-    "sourceEventId": "216003",
-    "title": "Algebra Colloquium – Jialin Wang (City)",
-    "desc": "Jialin Wang (City): tba\n\nMore details available on Algebra Colloquium website .",
-    "source": "IC",
-    "date": "2026-11-05T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Colloquium",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216003/algebra-colloquium-jialin-wang-city/",
-    "image": "data/images/7cd9869c3f438571.jpg"
-  },
-  {
-    "id": "ic:216053",
-    "sourceEventId": "216053",
-    "title": "Junior Dynamics Seminar – Masood Ahmad",
-    "desc": "Observable Lyapunov Exponents for Globally Coupled Maps in the Mean-Field Limit\n\nSpeaker: Masood Ahmad\n\nAbstract : Large coupled systems can exhibit microscopic chaos alongside stable macroscopic behaviour. We introduce observable Lyapunov exponents to quantify this distinction. For globally coupled maps, we show that these exponents are determined by the linearisation of the self-consistent transfer operator. Applying this result to weakly coupled uniformly expanding maps, we prove that macroscopic perturbations decay near a stationary mean-field state, despite microscopic chaos. Our findings provide a rigorous framework for distinguishing microscopic and macroscopic chaos.",
-    "source": "IC",
-    "date": "2026-11-05T16:00:00+00:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216053/junior-dynamics-seminar-masood-ahmad/",
-    "image": "data/images/263a03c01b826444.jpg"
-  },
-  {
-    "id": "ic:216001",
-    "sourceEventId": "216001",
-    "title": "Analysis and Probability Seminar – Vasiliki Evdoridou (Open University)",
-    "desc": "Vasiliki Evdoridou (Open University): tbc\n\nMore details on the website",
-    "source": "IC",
-    "date": "2026-11-05T16:30:00+00:00",
-    "durationMin": 60,
-    "venue": "UCL",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216001/analysis-and-probability-seminar-vasiliki-evdoridou-open-university/",
-    "image": "data/images/7cd9869c3f438571.jpg"
-  },
-  {
     "id": "ic:215611",
     "sourceEventId": "215611",
     "title": "5 aside Tournament West Way – Movember",
@@ -624,27 +391,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215611/5-aside-tournament-west-way-movember/",
     "image": "data/images/672c4de23d5ab299.jpg"
-  },
-  {
-    "id": "ic:205171",
-    "sourceEventId": "205171",
-    "title": "Compline – a musical meditation for night fall",
-    "desc": "Thursday, 5th Nov 2026\n\nHoly Trinity Church\n\nJoin us for Compline, a time for reflection for the evening, with music from the 16th century to the present day. Sung by a quintet of undergraduate and research students who are current or recent members of Imperial Chamber Choir.\n\nThis traditional service features twenty five minutes of music focusing on the closing of the day.\n\nWe hope that people of all backgrounds will find this a meditative and relaxing way to conclude the week.",
-    "source": "IC",
-    "date": "2026-11-05T18:30:00+00:00",
-    "durationMin": 30,
-    "venue": "Holy Trinity Church, next to Beit Quad",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/205171/compline-a-musical-meditation-for-night-fall/",
-    "image": "data/images/364b4d487ec17852.jpg"
   },
   {
     "id": "ic:212716",
@@ -688,7 +434,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216016/geometry-and-topology-seminar-olivier-de-gaay-fortman-imperial/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:213724",
@@ -709,7 +455,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213724/fluid-dynamics-seminar-jacob-jepson-ucl/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:213913",
@@ -730,7 +476,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213913/statistics-seminar-beatrice-franzolini-kings-college/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:215593",
@@ -793,7 +539,207 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215565/turner-kirk-sprint-challenge-fund-2026-online-information-and-qa-session/",
+    "image": "data/images/263a03c01b826444.jpg"
+  },
+  {
+    "id": "ic:215819",
+    "sourceEventId": "215819",
+    "title": "EarthScale Summit",
+    "desc": "​ Join us at the EarthScale Summit 2026\n\n​ Join us for an afternoon of inspiring conversations, venture showcases, and networking focused on accelerating the growth of climate innovation across the UK. Bringing together founders, investors, industry leaders, universities, and ecosystem partners, the event will explore the opportunities and challenges of scaling impactful ventures, fostering collaboration, and driving sustainable economic growth.\n\n​ The programme will feature panel discussions on regional innovation, the role of universities in supporting climate tech, EarthScale Cohort 1 pitches highlighting opportunities for collaboration, and an EarthScale awards ceremony recognising outstanding ventures and partnerships. The afternoon will conclude with a showcase and networking…",
+    "source": "IC",
+    "date": "2026-11-09T13:00:00+00:00",
+    "durationMin": 240,
+    "venue": "Barbican Conservatory",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Climate change",
+      "enterprise",
+      "Enterprise Lab",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215819/earthscale-summit/",
+    "image": "data/images/e6d407b95e76e121.jpg"
+  },
+  {
+    "id": "ic:216139",
+    "sourceEventId": "216139",
+    "title": "Biomathematics seminar – Alejandro Torres-Sánchez (EMBL-Barcelona)",
+    "desc": "Biomathematics seminar - Alejandro Torres-Sánchez (EMBL-Barcelona)",
+    "source": "IC",
+    "date": "2026-11-09T13:00:00+00:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216139/biomathematics-seminar-alejandro-torres-sanchez-embl-barcelona/",
+    "image": "data/images/5f47d88be043d445.jpg"
+  },
+  {
+    "id": "ic:212957",
+    "sourceEventId": "212957",
+    "title": "Christian Meditation: Online and In-person",
+    "desc": "Format: In person and Online (hybrid)\n\nIn Person: Chaplaincy, 15 Prince’s Gardens, South Kensington Campus, SW7 1NA (Drop-in)\n\nOnline via private Zoom Meeting invite . You can subscribe to our weekly mailing list to get the weekly Zoom Link.\n\nAnyone outside the Colleges of South Kensington who would like to attend online please contact Andrew Willson a.willson@imperial.ac.uk\n\nFacilitator: The Christian Meditation sessions are led by Andrew Willson, College Chaplain.\n\nAbout Christian Meditation\n\nChristianity has a long and rich history of meditation and contemplative prayer. These ancient Christian traditions have their roots in the monasteries of the desert hermits of the second century. Jesus himself often prayed in times of stillness and solitude. Many of these long established…",
+    "source": "IC",
+    "date": "2026-11-09T13:10:00+00:00",
+    "durationMin": 30,
+    "venue": "Chaplaincy Multi-Faith Centre, 15 Prince's Gardens, South Kensington, SW7 1NA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "mental health",
+      "Education",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212957/weekly-christian-meditation-6/",
+    "image": "data/images/3664c76b77dd16c7.jpg"
+  },
+  {
+    "id": "ic:215847",
+    "sourceEventId": "215847",
+    "title": "SPC Seminar – Space – Domenico Trotta (ESA)",
+    "desc": "Title: Particle acceleration in the Heliosphere, from its most extreme shocks to its quietest times\n\nSpeaker: Domenico Trotta\n\nAbstract: Energetic particles pervade the heliosphere, from violent solar eruptions to the quietest solar wind, making it a unique in situ laboratory for processes that operate in distant astrophysical accelerators. Yet a fundamental question remains open: how does particle acceleration start in the first place? With this injection problem as a common thread, I will show examples that address it by leveraging new missions such as Solar Orbiter, from the most extreme acceleration events to the quietest background.\n\nI will first present Solar Orbiter observations of more than 170 interplanetary shocks, stressing key aspects of how shocks energise protons, from…",
+    "source": "IC",
+    "date": "2026-11-09T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "741, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Space",
+      "The Space, Plasma and Climate Community",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215847/spc-seminar-space-domenico-trotta-esa/",
+    "image": "data/images/b86d11f01e230b11.jpg"
+  },
+  {
+    "id": "ic:216233",
+    "sourceEventId": "216233",
+    "title": "SPC Seminar – Climate – Andrew Chingos (St Andrews)",
+    "desc": "Speaker: Andrew Chingos (St Andrews)\n\nTitle: Amplified decreases in relative humidity over tropical land constrained by physical theory\n\nAbstract: Near-surface relative humidity is a fundamental metric of land climate modulating temperature, precipitation, evapotranspiration, wildfires, and heat stress in a warming world. The response of land relative humidity to climate change is substantial but uncertain, with models projecting a wide range of future changes. Previous work showed that models fail to reproduce observed historical decreases in land relative humidity, raising doubts about future projections. Here, to constrain projections of land humidity in the tropics, we derive a simple physical theory — grounded in an ocean‐influence perspective on moisture over land — that links…",
+    "source": "IC",
+    "date": "2026-11-10T11:30:00+00:00",
+    "durationMin": 60,
+    "venue": "711c, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216233/spc-seminar-climate-andrew-chingos-st-andrews/",
+    "image": "data/images/5f47d88be043d445.jpg"
+  },
+  {
+    "id": "ic:216120",
+    "sourceEventId": "216120",
+    "title": "IDE Seminar Series – Dr QinQin Yu",
+    "desc": "QinQin is a researcher in the Section of Viral Genomics at Statens Serum Institut in Denmark, where she develops methods for viral genomic surveillance and uses linked genomic and registry data to study viral transmission and evolution. A physicist by training, she holds a PhD in biophysics from UC Berkeley and was a postdoctoral researcher at the Harvard T. H. Chan School of Public Health.\n\nAbstract : Genomics tools can improve our understanding of pathogen transmission and evolution. However, large dataset sizes and sampling biases can be a challenge for conventional methods. In this talk, I will discuss potential biases in the subset of the population captured by wastewater surveillance, share a new method for estimating pathogen effective population size using genomics data that…",
+    "source": "IC",
+    "date": "2026-11-10T12:30:00+00:00",
+    "durationMin": 60,
+    "venue": "202, School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Infectious diseases",
+      "MRC Centre for Global Infectious Disease Analysis",
+      "Modelling",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216120/ide-seminar-series-dr-qinqin-yu/",
+    "image": "data/images/3d7d84138f0e3e29.jpg"
+  },
+  {
+    "id": "ic:216273",
+    "sourceEventId": "216273",
+    "title": "Astrophysics Weekly Seminar: Mari-Liis Aru – Under UV Pressure: Imprints of external photoevaporation on protoplanetary disks",
+    "desc": "The evolution of protoplanetary disks is influenced by a combination of internal processes linked to the central star, and external influences from the surrounding environment. Both pathways produce photoevaporative winds that drive disk dispersal from opposite directions. In star clusters, the UV radiation from massive OB stars irradiates disks externally, strongly affecting disk sizes, masses, and survival timescales. Until recently, the same emission lines were used for studying both internally and externally driven photoevaporative winds. However, disentangling the winds is essential for interpreting spectroscopic observations and completing models of disk evolution. In this talk, I will give an overview of the recent studies on externally irradiated disks—proplyds, in the Orion…",
+    "source": "IC",
+    "date": "2026-11-10T14:15:00+00:00",
+    "durationMin": 60,
+    "venue": "711C, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216273/astrophysics-weekly-seminar-mari-liis-aru-under-uv-pressure-imprints-of-external-photoevaporation-on-protoplanetary-disks/",
+    "image": "data/images/cdec15043aac087d.jpg"
+  },
+  {
+    "id": "ic:216058",
+    "sourceEventId": "216058",
+    "title": "Stochastic Analysis Seminar – Horatio Boedihardjo (University of Warwick)",
+    "desc": "Horatio Boedihardjo\n\nTitle:\n\nTail probability for differential equations driven by fractional Brownian motion\n\nAbstract",
+    "source": "IC",
+    "date": "2026-11-10T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216058/stochastic-analysis-seminar-horatio-boedihardjo-university-of-warwick/",
     "image": "data/images/5378b299790f4be0.jpg"
+  },
+  {
+    "id": "ic:214590",
+    "sourceEventId": "214590",
+    "title": "Hear Me, See Me, Support Me: Building Neuroinclusive Workplaces",
+    "desc": "This three part webinar series will use lived experiences, interactive activities, open discussions, and collaborative problem-solving to gain practical tools and insights to support inclusion in everyday practice. You are welcome to join for one, two or all three sessions.\n\nThis series is organised and presented by Lillie Pakzad-Shahabi, Neuro-oncology Clinical Research Practitioner (Computational Oncology Lab) and Interim Co-chair of Able.\n\nRather than focusing on specific diagnoses or labels, this series will explore the barriers neurodivergent colleagues may experience and identify practical steps we can all take to create workplaces where people can thrive. We hope that though learning directly through the lived experience perspective we can create meaningful and impactful…",
+    "source": "IC",
+    "date": "2026-11-10T16:00:00+00:00",
+    "durationMin": 480,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Equality",
+      "Diversity",
+      "Disability support",
+      "Disability History Month"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214590/building-neuroinclusive-workplaces/",
+    "image": "data/images/96ff311aa8351d58.jpg"
   },
   {
     "id": "lse:18-november-2026-masters-health-policy",
@@ -837,6 +783,27 @@
     "format": "In person",
     "match": 80,
     "url": "https://www.lse.ac.uk/study-at-lse/meet-visit-and-discover-LSE/events/virtual-events/2026-27/virtual-graduate-open-events/18-november-2026-phd-health-policy?_gl=1*16m6pqy*_gcl_au*NzI2OTY4OTY5LjE3ODgzNDM5NTk.*_ga*Mjc1NDM0NzIzLjE3ODgzNDM5NTc.*_ga_LWTEVFESYX*czE3OTM2OTg0OTckbzE2JGcxJHQxNzkzNzAyNDU5JGoyNSRsMCRoMA..&entryId=2319c173-7bdc-45d3-9a69-d12fd54340d7&nodeId=e2e64854-5d30-44fa-a289-a5ef76104f3e",
+    "image": null
+  },
+  {
+    "id": "lse:18-11-26-detecting-ai-generated",
+    "sourceEventId": "18-11-26-detecting-ai-generated",
+    "title": "Detecting AI-Generated Responses in Outsourced Survey Data Collection",
+    "desc": "Detecting AI-Generated Responses in Outsourced Survey Data Collection",
+    "source": "LSE",
+    "date": "2026-11-18T12:30:00+01:00",
+    "durationMin": 45,
+    "venue": "In-person and online event (LSE campus, venue tbc to ticketholders)",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "AI",
+      "Data science",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/dsi/events/2026-27/18-11-26-detecting-ai-generated",
     "image": null
   },
   {
@@ -959,6 +926,26 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/world-aids-day-connecting-threads",
     "image": "data/images/264a64880da91a6c.avif"
+  },
+  {
+    "id": "wc:these-dreams-are-made-of-blue",
+    "sourceEventId": "these-dreams-are-made-of-blue",
+    "title": "These Dreams Are Made of Blue",
+    "desc": "Explore dreams and create your own dreamscape using cyanotype printing.",
+    "source": "WC",
+    "date": "2026-12-05T14:00:00+00:00",
+    "durationMin": 180,
+    "venue": "The Studio and Studio Breakout Room",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/these-dreams-are-made-of-blue",
+    "image": "data/images/cf728641e15727d0.avif"
   },
   {
     "id": "rs:2026-11-low-cost-optical-sensing",
