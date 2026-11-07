@@ -434,7 +434,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216139/biomathematics-seminar-alejandro-torres-sanchez-embl-barcelona/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:216460",
@@ -523,7 +523,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216233/spc-seminar-climate-andrew-chingos-st-andrews/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:216120",
@@ -567,7 +567,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216497/dynamical-systems-seminar-george-stepaniants-2/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:216273",
@@ -588,7 +588,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216273/astrophysics-weekly-seminar-mari-liis-aru-under-uv-pressure-imprints-of-external-photoevaporation-on-protoplanetary-disks/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:216058",
@@ -609,7 +609,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216058/stochastic-analysis-seminar-horatio-boedihardjo-university-of-warwick/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:214590",
@@ -654,7 +654,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215820/structures-seminar-towards-reliable-self-generating-digital-twins-through-ai-enabled-reconstruction-of-missing-structural-monitoring-data/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:210465",
@@ -740,7 +740,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216244/special-biomathematics-seminar-yasmine-meroz-tau/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:214088",
@@ -847,27 +847,6 @@
     "match": 74,
     "url": "https://www.lse.ac.uk/events/ai-democracy",
     "image": null
-  },
-  {
-    "id": "wc:an-artist-in-everyday-life",
-    "sourceEventId": "an-artist-in-everyday-life",
-    "title": "An Artist in Everyday Life",
-    "desc": "Join artist Andrea Mindel for a hands-on workshop exploring creativity, mental health and everyday materials.",
-    "source": "WC",
-    "date": "2026-11-07T13:00:00+00:00",
-    "durationMin": 180,
-    "venue": "The Forum",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Healthcare",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/an-artist-in-everyday-life",
-    "image": "data/images/0851e0baa67353ce.jpg"
   },
   {
     "id": "wc:handle-with-care-conversations-through-objects-november-2026",
