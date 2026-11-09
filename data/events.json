@@ -372,136 +372,50 @@
     "image": "data/images/4de6b925b3432ef3.jpg"
   },
   {
-    "id": "ic:215565",
-    "sourceEventId": "215565",
-    "title": "Turner Kirk Sprint Challenge Fund 2026 – Online Information and Q&A Session",
-    "desc": "Interested in applying mathematical approaches to challenges in biodiversity and climate?\n\nJoin this online information and Q&A session to learn more about the Turner Kirk Sprint Challenge Fund 2026, which brings together researchers from Imperial’s Department of Mathematics, Department of Life Sciences and Centre for Environmental Policy.\n\nThe session will introduce the aims of the Challenge, the funding available, the application process and key dates. There will also be an opportunity to ask questions and explore how to get involved ahead of the in-person workshop in January.\n\nThe Challenge will provide £40,000 in seed funding to support two or three interdisciplinary teams developing innovative approaches to biodiversity and climate challenges.\n\nWe welcome researchers interested in…",
+    "id": "ic:212280",
+    "sourceEventId": "212280",
+    "title": "Beyond bits: information theory in the age of intelligent machines",
+    "desc": "The ‘bit’ transformed how we compress, transmit and store information. But as more information is produced by machines, for machines, do the same rules still apply?\n\nProfessor Deniz Gündüz, Professor in Information Processing, explores how information theory can help answer questions emerging in the age of intelligent machines.\n\nPlease register to attend in person. A live stream link for online attendance is available here.\n\nWe look forward to seeing you on Wednesday 11 November!\n\nImperial Inaugurals are term-time lectures that celebrate our newest professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nIn 1948, Claude Shannon established a mathematical theory for modelling and quantifying information: how much a source can be compressed, and how much of…",
     "source": "IC",
-    "date": "2026-11-09T12:00:00+00:00",
+    "date": "2026-11-11T17:30:00+00:00",
     "durationMin": 60,
-    "venue": "Imperial College London",
+    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "General",
-      "Event",
+      "Lecture",
+      "Institutional Event",
+      "Imperial Inaugurals",
+      "Department of Electrical and Electronic Engineering",
+      "Artificial intelligence"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212280/beyond-bits-information-theory-in-the-age-of-intelligent-machines/",
+    "image": "data/images/3140159b6409cd49.jpg"
+  },
+  {
+    "id": "ic:212275",
+    "sourceEventId": "212275",
+    "title": "Sir Geoffrey Wilkinson Lecture 2026 – Towards Solar Fuels and Fertilisers",
+    "desc": "Towards Solar Fuels and Fertilisers: Managing Proton and Electron Currency through Molecular Design\n\nLife runs on electrons and protons. Together, or as hydrogen-atom equivalents, they allow plants to store solar energy, underpin the fuels that power society, and help make the fertilisers needed to sustain life.\n\nSimply put, hydrogen atoms decorate many of the key molecular building blocks of our world. Chemists would like to harness this same basic currency to make fuels, fertilisers, and other useful molecules using renewable electricity or light.\n\nThe challenge is control. Protons and electrons readily combine to make hydrogen gas, often more easily than they can be directed toward other molecules. Learning how to steer them selectively is therefore a central problem in modern…",
+    "source": "IC",
+    "date": "2026-11-18T17:00:00+00:00",
+    "durationMin": 150,
+    "venue": "B10, Lecture Theatre, Molecular Sciences Research Hub (MSRH), White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Chemistry",
+      "Outreach",
+      "Molecular sciences",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215565/turner-kirk-sprint-challenge-fund-2026-online-information-and-qa-session/",
-    "image": "data/images/cdec15043aac087d.jpg"
-  },
-  {
-    "id": "ic:215819",
-    "sourceEventId": "215819",
-    "title": "EarthScale Summit",
-    "desc": "​ Join us at the EarthScale Summit 2026\n\n​ Join us for an afternoon of inspiring conversations, venture showcases, and networking focused on accelerating the growth of climate innovation across the UK. Bringing together founders, investors, industry leaders, universities, and ecosystem partners, the event will explore the opportunities and challenges of scaling impactful ventures, fostering collaboration, and driving sustainable economic growth.\n\n​ The programme will feature panel discussions on regional innovation, the role of universities in supporting climate tech, EarthScale Cohort 1 pitches highlighting opportunities for collaboration, and an EarthScale awards ceremony recognising outstanding ventures and partnerships. The afternoon will conclude with a showcase and networking…",
-    "source": "IC",
-    "date": "2026-11-09T13:00:00+00:00",
-    "durationMin": 240,
-    "venue": "Barbican Conservatory",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Climate change",
-      "enterprise",
-      "Enterprise Lab",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215819/earthscale-summit/",
-    "image": "data/images/e6d407b95e76e121.jpg"
-  },
-  {
-    "id": "ic:216139",
-    "sourceEventId": "216139",
-    "title": "Biomathematics seminar – Alejandro Torres-Sánchez (EMBL-Barcelona)",
-    "desc": "Biomathematics seminar - Alejandro Torres-Sánchez (EMBL-Barcelona)",
-    "source": "IC",
-    "date": "2026-11-09T13:00:00+00:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216139/biomathematics-seminar-alejandro-torres-sanchez-embl-barcelona/",
-    "image": "data/images/5378b299790f4be0.jpg"
-  },
-  {
-    "id": "ic:216460",
-    "sourceEventId": "216460",
-    "title": "MAGIC Seminar – Kyungmin Rho (Max Planck Institute, Bonn)",
-    "desc": "Kyungmin Rho (Max Planck Institute, Bonn): Homological mirror symmetry via tensor-triangular geometry\n\nMore details can be found on https://www.imperial.ac.uk/geometry/seminars/magic-seminar/",
-    "source": "IC",
-    "date": "2026-11-09T13:00:00+00:00",
-    "durationMin": 90,
-    "venue": "658, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216460/magic-seminar-kyungmin-rho-max-planck-institute-bonn/",
-    "image": "data/images/1a84b406c80838f1.jpg"
-  },
-  {
-    "id": "ic:212957",
-    "sourceEventId": "212957",
-    "title": "Christian Meditation: Online and In-person",
-    "desc": "Format: In person and Online (hybrid)\n\nIn Person: Chaplaincy, 15 Prince’s Gardens, South Kensington Campus, SW7 1NA (Drop-in)\n\nOnline via private Zoom Meeting invite . You can subscribe to our weekly mailing list to get the weekly Zoom Link.\n\nAnyone outside the Colleges of South Kensington who would like to attend online please contact Andrew Willson a.willson@imperial.ac.uk\n\nFacilitator: The Christian Meditation sessions are led by Andrew Willson, College Chaplain.\n\nAbout Christian Meditation\n\nChristianity has a long and rich history of meditation and contemplative prayer. These ancient Christian traditions have their roots in the monasteries of the desert hermits of the second century. Jesus himself often prayed in times of stillness and solitude. Many of these long established…",
-    "source": "IC",
-    "date": "2026-11-09T13:10:00+00:00",
-    "durationMin": 30,
-    "venue": "Chaplaincy Multi-Faith Centre, 15 Prince's Gardens, South Kensington, SW7 1NA",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "mental health",
-      "Education",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212957/weekly-christian-meditation-6/",
-    "image": "data/images/3664c76b77dd16c7.jpg"
-  },
-  {
-    "id": "ic:215847",
-    "sourceEventId": "215847",
-    "title": "SPC Seminar – Space – Domenico Trotta (ESA)",
-    "desc": "Title: Particle acceleration in the Heliosphere, from its most extreme shocks to its quietest times\n\nSpeaker: Domenico Trotta\n\nAbstract: Energetic particles pervade the heliosphere, from violent solar eruptions to the quietest solar wind, making it a unique in situ laboratory for processes that operate in distant astrophysical accelerators. Yet a fundamental question remains open: how does particle acceleration start in the first place? With this injection problem as a common thread, I will show examples that address it by leveraging new missions such as Solar Orbiter, from the most extreme acceleration events to the quietest background.\n\nI will first present Solar Orbiter observations of more than 170 interplanetary shocks, stressing key aspects of how shocks energise protons, from…",
-    "source": "IC",
-    "date": "2026-11-09T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "741, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Space",
-      "The Space, Plasma and Climate Community",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215847/spc-seminar-space-domenico-trotta-esa/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "url": "https://www.imperial.ac.uk/events/212275/sir-geoffrey-wilkinson-lecture-2026/",
+    "image": "data/images/281e9c2c1019e0b3.jpg"
   },
   {
     "id": "ic:216233",
@@ -523,7 +437,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216233/spc-seminar-climate-andrew-chingos-st-andrews/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:216120",
@@ -588,7 +502,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216273/astrophysics-weekly-seminar-mari-liis-aru-under-uv-pressure-imprints-of-external-photoevaporation-on-protoplanetary-disks/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:216058",
@@ -609,7 +523,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216058/stochastic-analysis-seminar-horatio-boedihardjo-university-of-warwick/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:214590",
@@ -654,7 +568,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215820/structures-seminar-towards-reliable-self-generating-digital-twins-through-ai-enabled-reconstruction-of-missing-structural-monitoring-data/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:210465",
@@ -740,7 +654,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216244/special-biomathematics-seminar-yasmine-meroz-tau/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:216526",
@@ -761,7 +675,113 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216526/mathematical-physics-seminar-november-11th-marzena-h-szymanska-ucl-tbd/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
+  },
+  {
+    "id": "ic:214088",
+    "sourceEventId": "214088",
+    "title": "Communion Service",
+    "desc": "A reflective service of communion (sharing bread and wine) in the middle of the working week.\n\nA chance to pause and stand back from the activities of work, to reflect on our lives, and to pray for peace and justice and for people we know.\n\nJoin the people of Holy Trinity Church, and staff and students from other colleges and local institutions.\n\nService open to all, using an order from the Church of England.\n\nSubscribe to Mailing list for more information and weekly reminder delivered at your inbox.\n\nHow to find us: Holy Trinity Church, Prince Consort Rd, SW7 2BA (next to Beit Quadrangle, South Kensington)",
+    "source": "IC",
+    "date": "2026-11-11T13:05:00+00:00",
+    "durationMin": 35,
+    "venue": "Holy Trinity Church, Prince Consort Rd, SW7 2BA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214088/communion-service-and-weekly-prayers-6/",
+    "image": "data/images/af9b490ac7fdb97b.jpg"
+  },
+  {
+    "id": "ic:213746",
+    "sourceEventId": "213746",
+    "title": "Control and Optimisation seminar – Eugene Feinberg (Stony Brook University)",
+    "desc": "Title\n\nDynamically Augmented CVaR for Markov Decision Processes\n\nAbstract\n\nThis talk describes a new approach to optimization of Conditional Value-at-Risk (CVaR) for Markov Decision Processes (MDPs) with finite state and action sets. It introduces the Dynamically augmented CVaR (DCVaR) risk objective function and provides an algorithm for its optimization. CVaR optimization for MDPs is relevant to a specially defined Robust MDP (RMDP), in which the state space is augmented with the tail risk level. This RMDP, which we call the Dynamically augmented RMDP (DRMDP), was introduced to the literature for calculations of optimal CVaR values by value iteration more than ten years ago, but, as was understood later, these value iterations compute lower bounds of minimal static CVaRs. DCVaR is…",
+    "source": "IC",
+    "date": "2026-11-11T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213746/control-and-optimisation-seminar-eugene-feinberg-stony-brook-university/",
+    "image": "data/images/5f47d88be043d445.jpg"
+  },
+  {
+    "id": "ic:214945",
+    "sourceEventId": "214945",
+    "title": "Junior Analysis Seminar – Carl JP Johansson (EPFL)",
+    "desc": "Title\n\nAbstract\n\nPlease note that the seminar will take place in person in room 140 of Huxley Building .\n\nClick here to get to the Junior Analysis Seminar webpage .",
+    "source": "IC",
+    "date": "2026-11-11T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214945/junior-analysis-seminar-carl-jp-johansson-epfl/",
+    "image": "data/images/f307df66c1f6d553.jpg"
+  },
+  {
+    "id": "ic:212628",
+    "sourceEventId": "212628",
+    "title": "HEP seminar: Michael Revering (Cambridge) – Extending the LHC reach to very long lifetimes: the design concept and current status of the ANUBIS experiment",
+    "desc": "Many beyond-the-standard model theories propose the existence of new ‘long-lived’ particles (LLPs) with macroscopic decay lengths that may be produced in high energy collisions at the LHC. While extensive searches for LLPs have been performed by existing LHC experiments such as ATLAS, CMS, and LHCb, their sensitivity to very long-lived models (ct>~10 m) is constrained by the physical size of the detectors. The proposed ANUBIS experiment is designed to significantly extend experimental sensitivity to these very long-lived models by instrumenting the ceiling of the ATLAS detector cavern with RPC detectors. In addition to extending the decay volume, the transverse positioning provides sensitivity to LLP models with high-mass mediators, complementing the sensitivity of existing forward…",
+    "source": "IC",
+    "date": "2026-11-11T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "630, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Physics of Particles",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212628/nov-11/",
+    "image": "data/images/89ae9f5af0cf5a61.jpg"
+  },
+  {
+    "id": "ic:216013",
+    "sourceEventId": "216013",
+    "title": "Number Theory Seminar – Alice Pozzi",
+    "desc": "Alice Pozzi: tba\n\nMore information available on the Number Theory seminar website",
+    "source": "IC",
+    "date": "2026-11-11T16:00:00+00:00",
+    "durationMin": 60,
+    "venue": "139, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216013/number-theory-seminar-alice-pozzi/",
+    "image": "data/images/512d103d5423a9c7.jpg"
   },
   {
     "id": "lse:18-november-2026-masters-health-policy",
