@@ -434,7 +434,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216139/biomathematics-seminar-alejandro-torres-sanchez-embl-barcelona/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:216460",
@@ -455,7 +455,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216460/magic-seminar-kyungmin-rho-max-planck-institute-bonn/",
-    "image": "data/images/7cd9869c3f438571.jpg"
+    "image": "data/images/1a84b406c80838f1.jpg"
   },
   {
     "id": "ic:212957",
@@ -501,7 +501,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215847/spc-seminar-space-domenico-trotta-esa/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:216233",
@@ -523,7 +523,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216233/spc-seminar-climate-andrew-chingos-st-andrews/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:216120",
@@ -567,7 +567,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216497/dynamical-systems-seminar-george-stepaniants-2/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:216273",
@@ -588,7 +588,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216273/astrophysics-weekly-seminar-mari-liis-aru-under-uv-pressure-imprints-of-external-photoevaporation-on-protoplanetary-disks/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:216058",
@@ -609,7 +609,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216058/stochastic-analysis-seminar-horatio-boedihardjo-university-of-warwick/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:214590",
@@ -654,7 +654,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215820/structures-seminar-towards-reliable-self-generating-digital-twins-through-ai-enabled-reconstruction-of-missing-structural-monitoring-data/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:210465",
@@ -743,25 +743,25 @@
     "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
-    "id": "ic:214088",
-    "sourceEventId": "214088",
-    "title": "Communion Service",
-    "desc": "A reflective service of communion (sharing bread and wine) in the middle of the working week.\n\nA chance to pause and stand back from the activities of work, to reflect on our lives, and to pray for peace and justice and for people we know.\n\nJoin the people of Holy Trinity Church, and staff and students from other colleges and local institutions.\n\nService open to all, using an order from the Church of England.\n\nSubscribe to Mailing list for more information and weekly reminder delivered at your inbox.\n\nHow to find us: Holy Trinity Church, Prince Consort Rd, SW7 2BA (next to Beit Quadrangle, South Kensington)",
+    "id": "ic:216526",
+    "sourceEventId": "216526",
+    "title": "Mathematical Physics Seminar (November 11th) – Marzena H Szymańska (UCL) – Universal phase dynamics in fluids of light and living matter",
+    "desc": "Abstract:\n\nLocation : Huxley 145, 13.00-14.00.",
     "source": "IC",
-    "date": "2026-11-11T13:05:00+00:00",
-    "durationMin": 35,
-    "venue": "Holy Trinity Church, Prince Consort Rd, SW7 2BA",
+    "date": "2026-11-11T13:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Huxley 145, Huxley Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "General",
+      "Seminar",
       "Event",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214088/communion-service-and-weekly-prayers-6/",
-    "image": "data/images/af9b490ac7fdb97b.jpg"
+    "url": "https://www.imperial.ac.uk/events/216526/mathematical-physics-seminar-november-11th-marzena-h-szymanska-ucl-tbd/",
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "lse:18-november-2026-masters-health-policy",
