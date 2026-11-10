@@ -330,28 +330,6 @@
     "image": "data/images/a2f392db010522a4.jpg"
   },
   {
-    "id": "ic:215954",
-    "sourceEventId": "215954",
-    "title": "Metabolism across scales: AI and the future of global health",
-    "desc": "Join Professor Hugh Brady, President of Imperial, and Professor Thierry Dauxois, Chairman and CEO of CNRS, to celebrate the launch of the CNRS-Imperial “Antoine Lavoisier” International Research Lab on Multiscale Metabolism .\n\nThis UK-France conversation and celebration marks the opening of our third International Research Lab, part of the CNRS-Imperial International Research Centre for Transformational Science and Technology.\n\nThe day begins with a scientific workshop, followed by a launch event featuring remarks from M. Sébastien Bidaud, Chargé d’Affaires at the French Embassy, and a panel discussion exploring the future of AI-driven health research and innovation in the UK and France.\n\nGuests are welcome to register for the workshop, launch event and reception, or both.\n\nView the full…",
-    "source": "IC",
-    "date": "2026-11-10T09:00:00+00:00",
-    "durationMin": 480,
-    "venue": "Queen's Tower Rooms, Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "International",
-      "Institutional Event",
-      "Staff"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215954/metabolism-across-scales-ai-and-the-future-of-global-health/",
-    "image": "data/images/1d645557bebc406e.jpg"
-  },
-  {
     "id": "ic:215440",
     "sourceEventId": "215440",
     "title": "An Act of Remembrance",
@@ -416,135 +394,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212275/sir-geoffrey-wilkinson-lecture-2026/",
     "image": "data/images/281e9c2c1019e0b3.jpg"
-  },
-  {
-    "id": "ic:216591",
-    "sourceEventId": "216591",
-    "title": "GATP Seminar – Stephane Geudens (IMPAN Warsaw)",
-    "desc": "We call a foliation F on a compact manifold infinitesimally rigid if its deformation cohomology H^1(F,NF) vanishes. My talk will be about infinitesimal rigidity for a distinguished class of Riemannian foliations, namely Lie foliations with dense leaves. I will outline a construction of infinitesimally rigid Lie foliations with dense leaves, modeled on any compact semisimple Lie algebra with simple ideals different from so(3). To our knowledge, these are the first examples of infinitesimally rigid Riemannian foliations that are not Hausdorff. This talk is based on joint work with Florian Zeiser.",
-    "source": "IC",
-    "date": "2026-11-10T11:00:00+00:00",
-    "durationMin": 120,
-    "venue": "Huxley 658, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216591/gatp-seminar-stephane-geudens-impan/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:216233",
-    "sourceEventId": "216233",
-    "title": "SPC Seminar – Climate – Andrew Chingos (St Andrews)",
-    "desc": "Speaker: Andrew Chingos (St Andrews)\n\nTitle: Amplified decreases in relative humidity over tropical land constrained by physical theory\n\nAbstract: Near-surface relative humidity is a fundamental metric of land climate modulating temperature, precipitation, evapotranspiration, wildfires, and heat stress in a warming world. The response of land relative humidity to climate change is substantial but uncertain, with models projecting a wide range of future changes. Previous work showed that models fail to reproduce observed historical decreases in land relative humidity, raising doubts about future projections. Here, to constrain projections of land humidity in the tropics, we derive a simple physical theory — grounded in an ocean‐influence perspective on moisture over land — that links…",
-    "source": "IC",
-    "date": "2026-11-10T11:30:00+00:00",
-    "durationMin": 60,
-    "venue": "711c, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216233/spc-seminar-climate-andrew-chingos-st-andrews/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:216120",
-    "sourceEventId": "216120",
-    "title": "IDE Seminar Series – Dr QinQin Yu",
-    "desc": "QinQin is a researcher in the Section of Viral Genomics at Statens Serum Institut in Denmark, where she develops methods for viral genomic surveillance and uses linked genomic and registry data to study viral transmission and evolution. A physicist by training, she holds a PhD in biophysics from UC Berkeley and was a postdoctoral researcher at the Harvard T. H. Chan School of Public Health.\n\nAbstract : Genomics tools can improve our understanding of pathogen transmission and evolution. However, large dataset sizes and sampling biases can be a challenge for conventional methods. In this talk, I will discuss potential biases in the subset of the population captured by wastewater surveillance, share a new method for estimating pathogen effective population size using genomics data that…",
-    "source": "IC",
-    "date": "2026-11-10T12:30:00+00:00",
-    "durationMin": 60,
-    "venue": "202, School of Public Health, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Infectious diseases",
-      "MRC Centre for Global Infectious Disease Analysis",
-      "Modelling",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216120/ide-seminar-series-dr-qinqin-yu/",
-    "image": "data/images/3d7d84138f0e3e29.jpg"
-  },
-  {
-    "id": "ic:216497",
-    "sourceEventId": "216497",
-    "title": "Dynamical Systems Seminar – Nicolas Boulle",
-    "desc": "Speaker : Nicolas Boulle\n\nTitle : A zero-one law for one-shot system identification\n\nAbstract : Can a model be identified from one experiment? We study analytic systems that are linearly parameterized by a combination of prescribed dictionary terms, such as partial differential operators and dynamical systems. For a single input-response pair, recovery is possible exactly when the evaluated dictionary terms are linearly independent. We prove a sharp zero-one law: either no input uniquely determines the coefficients, or almost every random input sampled from a nondegenerate Gaussian measure does. This dichotomy reduces one-shot system identification to a question about degenerate inputs and provides an a posteriori certificate for any recovered model. Numerical examples recover dynamical…",
-    "source": "IC",
-    "date": "2026-11-10T13:00:00+00:00",
-    "durationMin": 60,
-    "venue": "145, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216497/dynamical-systems-seminar-george-stepaniants-2/",
-    "image": "data/images/263a03c01b826444.jpg"
-  },
-  {
-    "id": "ic:216273",
-    "sourceEventId": "216273",
-    "title": "Astrophysics Weekly Seminar: Mari-Liis Aru – Under UV Pressure: Imprints of external photoevaporation on protoplanetary disks",
-    "desc": "The evolution of protoplanetary disks is influenced by a combination of internal processes linked to the central star, and external influences from the surrounding environment. Both pathways produce photoevaporative winds that drive disk dispersal from opposite directions. In star clusters, the UV radiation from massive OB stars irradiates disks externally, strongly affecting disk sizes, masses, and survival timescales. Until recently, the same emission lines were used for studying both internally and externally driven photoevaporative winds. However, disentangling the winds is essential for interpreting spectroscopic observations and completing models of disk evolution. In this talk, I will give an overview of the recent studies on externally irradiated disks—proplyds, in the Orion…",
-    "source": "IC",
-    "date": "2026-11-10T14:15:00+00:00",
-    "durationMin": 60,
-    "venue": "711C, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216273/astrophysics-weekly-seminar-mari-liis-aru-under-uv-pressure-imprints-of-external-photoevaporation-on-protoplanetary-disks/",
-    "image": "data/images/cdec15043aac087d.jpg"
-  },
-  {
-    "id": "ic:216058",
-    "sourceEventId": "216058",
-    "title": "Stochastic Analysis Seminar – Horatio Boedihardjo (University of Warwick)",
-    "desc": "Horatio Boedihardjo\n\nTitle:\n\nTail probability for differential equations driven by fractional Brownian motion\n\nAbstract",
-    "source": "IC",
-    "date": "2026-11-10T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "410, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216058/stochastic-analysis-seminar-horatio-boedihardjo-university-of-warwick/",
-    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:214590",
@@ -675,7 +524,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216244/special-biomathematics-seminar-yasmine-meroz-tau/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:216526",
@@ -696,7 +545,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216526/mathematical-physics-seminar-november-11th-marzena-h-szymanska-ucl-tbd/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:214088",
@@ -738,7 +587,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213746/control-and-optimisation-seminar-eugene-feinberg-stony-brook-university/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:214945",
@@ -802,7 +651,116 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216013/number-theory-seminar-alice-pozzi/",
-    "image": "data/images/6a3c37ce4e152683.jpg"
+    "image": "data/images/512d103d5423a9c7.jpg"
+  },
+  {
+    "id": "ic:216199",
+    "sourceEventId": "216199",
+    "title": "SPC Seminar – Climate – Tom Goren (BIU)",
+    "desc": "Speaker: Tom Goren (BIU)\n\nTitle: A Ternary Framework for Marine Stratocumulus Morphology and Aerosol-Cloud Interactions\n\nAbstract: Marine low-level clouds span a continuum of morphologies but are often classified into discrete regimes. I will present a new ternary framework that captures this continuum and provides insights into cloud morphological evolution and the underlying physical processes. The framework also allows us to better characterize how cloud responses to changes in droplet number concentration depend on morphology. The results reveal considerable variability in the contributions of liquid water path, cloud cover, and the Twomey effect to the overall cloud albedo response, with these contributions either offsetting or amplifying one another. These findings also have…",
+    "source": "IC",
+    "date": "2026-11-12T11:30:00+00:00",
+    "durationMin": 60,
+    "venue": "711c, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216199/spc-seminar-climate-tom-goren-biu/",
+    "image": "data/images/b86d11f01e230b11.jpg"
+  },
+  {
+    "id": "ic:212768",
+    "sourceEventId": "212768",
+    "title": "Lunchtime Concert – Ash Scholars",
+    "desc": "Eric Ash joined the Department of Electronic and Electrical Engineering at University College in 1963, and became a full professor in 1967. He was appointed Head of Department and holder of the Pender Chair in 1980. He was elected a Fellow of the Royal Society on 17 March 1977, and was awarded its Clifford Paterson Medal shortly afterwards. He was elected a Fellow of the Royal Academy of Engineering in 1978 and became Rector of Imperial College (1985-1993). On the retirement of Professor Sir Eric Ash FRS, Imperial College Trust, who fund the scheme, decided to change the name of the scholarships to Ash Music Scholarships to mark Sir Eric’s profound interest in and support of music at Imperial College. Each year the top scholar is awarded the Coldstream Guards’ Scholarship. Imperial…",
+    "source": "IC",
+    "date": "2026-11-12T13:00:00+00:00",
+    "durationMin": 45,
+    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
+    "area": "Off",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Concerts",
+      "Arts",
+      "Creative",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212768/lunchtime-concert-ash-scholars-4/",
+    "image": "data/images/a3cd107702c93370.jpg"
+  },
+  {
+    "id": "ic:213384",
+    "sourceEventId": "213384",
+    "title": "Teaching Seminar: Dr Cordelia Webb (Imperial College London)",
+    "desc": "Speaker: Dr Cordelia Webb\n\nTalk Title: Digital Accessibility of Mathematics.\n\nAbstract: TBC…",
+    "source": "IC",
+    "date": "2026-11-12T13:00:00+00:00",
+    "durationMin": 60,
+    "venue": "341, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Accessibility",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213384/teaching-seminar-dr-cordelia-webb-imperial-college-london/",
+    "image": "data/images/5f47d88be043d445.jpg"
+  },
+  {
+    "id": "ic:215185",
+    "sourceEventId": "215185",
+    "title": "Analysis and Dynamics seminar: Raz Slutsky (University of Oxford)",
+    "desc": "Speaker: Raz Slutsky (Oxford) Title: Random sparsification, torsion in homology, and fixed price\n\nAbstract: Given a complicated geometric object, we often want to simplify it without losing information about the structure we are interested in. In this talk, I will describe a method for doing this by combining a random sparse set with a deterministic one, gaining some of the advantages of both. We will then see how this idea can be used to show that torsion in the first homology of higher-rank lattices grows subexponentially, answering a question of Abért, Gelander, and Nikolov and confirming the degree-one case of several conjectures. We will also use the same principle to give a new general criterion for a dynamical property known as fixed price one, which applies to a broad class of…",
+    "source": "IC",
+    "date": "2026-11-12T13:00:00+00:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215185/analysis-and-dynamics-seminar-raz-slutsky-university-of-oxford/",
+    "image": "data/images/b86d11f01e230b11.jpg"
+  },
+  {
+    "id": "ic:215253",
+    "sourceEventId": "215253",
+    "title": "PDEs Seminar – Răzvan-Octavian Radu (Imperial College London)",
+    "desc": "TBA",
+    "source": "IC",
+    "date": "2026-11-12T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Huxley 130, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215253/pdes-seminar-razvan-octavian-radu-imperial-college-london/",
+    "image": "data/images/030edec8db1523e2.jpg"
   },
   {
     "id": "lse:18-november-2026-masters-health-policy",
