@@ -418,6 +418,27 @@
     "image": "data/images/281e9c2c1019e0b3.jpg"
   },
   {
+    "id": "ic:216591",
+    "sourceEventId": "216591",
+    "title": "GATP Seminar – Stephane Geudens (IMPAN Warsaw)",
+    "desc": "We call a foliation F on a compact manifold infinitesimally rigid if its deformation cohomology H^1(F,NF) vanishes. My talk will be about infinitesimal rigidity for a distinguished class of Riemannian foliations, namely Lie foliations with dense leaves. I will outline a construction of infinitesimally rigid Lie foliations with dense leaves, modeled on any compact semisimple Lie algebra with simple ideals different from so(3). To our knowledge, these are the first examples of infinitesimally rigid Riemannian foliations that are not Hausdorff. This talk is based on joint work with Florian Zeiser.",
+    "source": "IC",
+    "date": "2026-11-10T11:00:00+00:00",
+    "durationMin": 120,
+    "venue": "Huxley 658, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216591/gatp-seminar-stephane-geudens-impan/",
+    "image": "data/images/5f47d88be043d445.jpg"
+  },
+  {
     "id": "ic:216233",
     "sourceEventId": "216233",
     "title": "SPC Seminar – Climate – Andrew Chingos (St Andrews)",
@@ -437,7 +458,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216233/spc-seminar-climate-andrew-chingos-st-andrews/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:216120",
@@ -502,7 +523,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216273/astrophysics-weekly-seminar-mari-liis-aru-under-uv-pressure-imprints-of-external-photoevaporation-on-protoplanetary-disks/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:216058",
@@ -523,7 +544,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216058/stochastic-analysis-seminar-horatio-boedihardjo-university-of-warwick/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:214590",
@@ -568,7 +589,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215820/structures-seminar-towards-reliable-self-generating-digital-twins-through-ai-enabled-reconstruction-of-missing-structural-monitoring-data/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:210465",
@@ -654,7 +675,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216244/special-biomathematics-seminar-yasmine-meroz-tau/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:216526",
@@ -675,7 +696,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216526/mathematical-physics-seminar-november-11th-marzena-h-szymanska-ucl-tbd/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:214088",
@@ -781,7 +802,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216013/number-theory-seminar-alice-pozzi/",
-    "image": "data/images/512d103d5423a9c7.jpg"
+    "image": "data/images/6a3c37ce4e152683.jpg"
   },
   {
     "id": "lse:18-november-2026-masters-health-policy",
@@ -830,8 +851,8 @@
   {
     "id": "lse:18-11-26-detecting-ai-generated",
     "sourceEventId": "18-11-26-detecting-ai-generated",
-    "title": "Detecting AI-Generated Responses in Outsourced Survey Data Collection",
-    "desc": "Detecting AI-Generated Responses in Outsourced Survey Data Collection",
+    "title": "Detecting AI-generated responses in outsourced survey data collection",
+    "desc": "Detecting AI-generated responses in outsourced survey data collection",
     "source": "LSE",
     "date": "2026-11-18T12:30:00+01:00",
     "durationMin": 45,
@@ -967,26 +988,6 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/these-dreams-are-made-of-blue",
     "image": "data/images/cf728641e15727d0.avif"
-  },
-  {
-    "id": "rs:2026-11-low-cost-optical-sensing",
-    "sourceEventId": "2026-11-low-cost-optical-sensing",
-    "title": "Low-cost optical sensing for healthcare",
-    "desc": "Discussion meeting organised by Professor Jeremy J Baumberg FRS, FRSC and Professor Duncan Graham FRSC",
-    "source": "RS",
-    "date": "2026-11-09T09:00:00+01:00",
-    "durationMin": 480,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Healthcare",
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 82,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/low-cost-optical-sensing/",
-    "image": "data/images/e793438c96977717.jpg"
   },
   {
     "id": "rs:2026-11-neuromorphic-computing",
