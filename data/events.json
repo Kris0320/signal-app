@@ -438,7 +438,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215820/structures-seminar-towards-reliable-self-generating-digital-twins-through-ai-enabled-reconstruction-of-missing-structural-monitoring-data/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:210465",
@@ -524,7 +524,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216244/special-biomathematics-seminar-yasmine-meroz-tau/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:216526",
@@ -545,7 +545,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216526/mathematical-physics-seminar-november-11th-marzena-h-szymanska-ucl-tbd/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:214088",
@@ -587,7 +587,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213746/control-and-optimisation-seminar-eugene-feinberg-stony-brook-university/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:214945",
@@ -651,7 +651,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216013/number-theory-seminar-alice-pozzi/",
-    "image": "data/images/512d103d5423a9c7.jpg"
+    "image": "data/images/1a84b406c80838f1.jpg"
   },
   {
     "id": "ic:216199",
@@ -673,7 +673,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216199/spc-seminar-climate-tom-goren-biu/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:212768",
@@ -718,7 +718,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213384/teaching-seminar-dr-cordelia-webb-imperial-college-london/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:215185",
@@ -739,7 +739,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215185/analysis-and-dynamics-seminar-raz-slutsky-university-of-oxford/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:215253",
@@ -1158,24 +1158,23 @@
     "image": "data/images/5ce5bfe03537df8c.jpg"
   },
   {
-    "id": "rs:2026-11-faraday-prize-lecture",
-    "sourceEventId": "2026-11-faraday-prize-lecture",
-    "title": "Michael Faraday Prize Lecture: Life in the fast lane — What the past tells us about evolution under pressure",
-    "desc": "Join us for the Royal Society Michael Faraday Prize Lecture delivered by 2026 winner Professor Anjali Goswami FRS.",
+    "id": "rs:2027-04-recombinant-genealogies",
+    "sourceEventId": "2027-04-recombinant-genealogies",
+    "title": "Recombinant genealogies: genetics is history",
+    "desc": "Theo Murphy meeting organised Dr Yan Wong and Professoe Anastasia Ignatieva",
     "source": "RS",
-    "date": "2026-11-10T18:30:00+01:00",
-    "durationMin": 60,
-    "venue": "The Royal Society",
+    "date": "2027-04-19T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Apex Grassmarket Hotel, Edinburgh",
     "area": "Mayfair",
     "price": 0,
     "tags": [
-      "Policy",
       "Open to all"
     ],
-    "format": "In person + online",
+    "format": "In person",
     "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/faraday-prize-lecture/",
-    "image": "data/images/9318bea6b1aa4fc0.jpg"
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/04/recombinant-genealogies/",
+    "image": "data/images/b6d4a4028a4de58e.jpg"
   },
   {
     "id": "rs:2026-11-milner-prize-lecture",
