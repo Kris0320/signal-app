@@ -310,6 +310,49 @@
     "image": "data/images/7f54eb4162a38a4b.jpg"
   },
   {
+    "id": "ic:215848",
+    "sourceEventId": "215848",
+    "title": "Imperial Lates: Science Across Africa",
+    "desc": "Join us for a night of bold ideas, big questions, and unexpected discoveries as this free Imperial Lates evening explores how researchers, communities and innovators at Imperial College London and across the African continent are working together to tackle shared challenges and change the future of science.\n\nWhat can we learn from malaria outbreaks in East Africa? Step into a live theatre experience where you’ll debate whether genetically modified mosquitoes should be used to eradicate malaria . Get creative with a Kente cloth workshop, t hen talk to Imperial teams doing research in, from and with Africa and Africans , as you find out how these collaborations are leading to new ways of sharing knowledge across borders.\n\nD iscover how solar-powered mini-grids are transforming lives in…",
+    "source": "IC",
+    "date": "2026-12-03T18:00:00+00:00",
+    "durationMin": 180,
+    "venue": "College Main Entrance, Exhibition Road, Main Entrance, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Imperial Lates",
+      "public engagement",
+      "Great Exhibition Road Festival",
+      "Imperial Festival",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215848/imperial-lates-science-across-africa/",
+    "image": "data/images/a00b0ab708d48c5e.jpg"
+  },
+  {
+    "id": "ic:216791",
+    "sourceEventId": "216791",
+    "title": "Relational Leadership: Book Launch with Dr Poornima Luthra",
+    "desc": "Join us for the launch of Relational Leadership, a new book from Dr Poornima Luthra and Dr Sara Louise Muhr.\n\nImperial Business School is delighted to host Dr Poornima Luthra for the launch of her new book, Relational Leadership , co-authored with Dr Sara Louise Muhr.\n\nAbout the event\n\nRelational Leadership argues that sustained high performance comes less from a leader’s title or strategy and more from the quality of the relationships they build, nurture and repair over time. Drawing on rigorous research and real-world experience, Dr Poornima Luthra and Dr Sara Louise Muhr , authors of Leading Through Bias , explore what it takes to lead through difference, ambiguity and change. They set out the daily practices that hold high-performing teams together: trust, collaboration and honest…",
+    "source": "IC",
+    "date": "2026-11-17T17:30:00+00:00",
+    "durationMin": 180,
+    "venue": "Business School, Imperial Business School, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216791/relational-leadership-book-launch-with-dr-poornima-luthra/",
+    "image": "data/images/19320d88684c5374.jpg"
+  },
+  {
     "id": "ic:212275",
     "sourceEventId": "212275",
     "title": "Sir Geoffrey Wilkinson Lecture 2026 – Towards Solar Fuels and Fertilisers",
@@ -333,201 +376,47 @@
     "image": "data/images/281e9c2c1019e0b3.jpg"
   },
   {
-    "id": "ic:216199",
-    "sourceEventId": "216199",
-    "title": "SPC Seminar – Climate – Tom Goren (BIU)",
-    "desc": "Speaker: Tom Goren (BIU)\n\nTitle: A Ternary Framework for Marine Stratocumulus Morphology and Aerosol-Cloud Interactions\n\nAbstract: Marine low-level clouds span a continuum of morphologies but are often classified into discrete regimes. I will present a new ternary framework that captures this continuum and provides insights into cloud morphological evolution and the underlying physical processes. The framework also allows us to better characterize how cloud responses to changes in droplet number concentration depend on morphology. The results reveal considerable variability in the contributions of liquid water path, cloud cover, and the Twomey effect to the overall cloud albedo response, with these contributions either offsetting or amplifying one another. These findings also have…",
+    "id": "ic:212297",
+    "sourceEventId": "212297",
+    "title": "Seeing signalling: cells, receptors, and metabolism",
+    "desc": "Trillions of cells constantly sense and respond to the world around them, but how do we see these hidden processes in action?\n\nProfessor Alejandra Tomas Catala, Professor of Cell Biology, reveals how new technologies are helping us understand the signals that regulate metabolism, and what they could mean for tackling diseases such as diabetes.\n\nPlease register to attend in person. A live stream link for online attendance is available here.\n\nWe look forward to seeing you on Wednesday 18 November!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nEvery moment of our lives, trillions of cells are making decisions. They sense nutrients, hormones, and signals from their surroundings,…",
     "source": "IC",
-    "date": "2026-11-12T11:30:00+00:00",
+    "date": "2026-11-18T17:30:00+00:00",
     "durationMin": 60,
-    "venue": "711c, Huxley Building, South Kensington Campus",
+    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
     "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Event",
+      "Lecture",
+      "Institutional Event",
+      "Imperial Inaugurals",
+      "Women at Imperial",
+      "Diabetes"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212297/seeing-signalling-cells-receptors-and-metabolism/",
+    "image": "data/images/1fb67782329b03ab.jpg"
+  },
+  {
+    "id": "ic:213567",
+    "sourceEventId": "213567",
+    "title": "International Climate and Sustainability Youth Summit 2026",
+    "desc": "We are inviting young people aged 16–30 to join us for this youth summit in London, in the context of COP31.\n\nThe International Climate and Sustainability Youth Summit 2026 will take place to coincide with COP31 in Türkiye. Join us and share your views!\n\nThe Summit is co-hosted by the United Nations Association Climate & Oceans and the Leverhulme Centre for Wildfires, Environment and Society, Imperial College London .\n\nInspired by the global momentum surrounding COP31 , this international gathering will bring together young leaders, diplomats, academics, sustainability and geopolitics experts, policymakers and civil society to discuss the urgent climate and sustainability challenges shaping our shared future.\n\nDiscussions will focus on interconnected challenges including global water and…",
+    "source": "IC",
+    "date": "2026-11-21T14:00:00+00:00",
+    "durationMin": 240,
+    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216199/spc-seminar-climate-tom-goren-biu/",
-    "image": "data/images/263a03c01b826444.jpg"
-  },
-  {
-    "id": "ic:212768",
-    "sourceEventId": "212768",
-    "title": "Lunchtime Concert – Ash Scholars",
-    "desc": "Eric Ash joined the Department of Electronic and Electrical Engineering at University College in 1963, and became a full professor in 1967. He was appointed Head of Department and holder of the Pender Chair in 1980. He was elected a Fellow of the Royal Society on 17 March 1977, and was awarded its Clifford Paterson Medal shortly afterwards. He was elected a Fellow of the Royal Academy of Engineering in 1978 and became Rector of Imperial College (1985-1993). On the retirement of Professor Sir Eric Ash FRS, Imperial College Trust, who fund the scheme, decided to change the name of the scholarships to Ash Music Scholarships to mark Sir Eric’s profound interest in and support of music at Imperial College. Each year the top scholar is awarded the Coldstream Guards’ Scholarship. Imperial…",
-    "source": "IC",
-    "date": "2026-11-12T13:00:00+00:00",
-    "durationMin": 45,
-    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Arts",
-      "Creative",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212768/lunchtime-concert-ash-scholars-4/",
-    "image": "data/images/a3cd107702c93370.jpg"
-  },
-  {
-    "id": "ic:213384",
-    "sourceEventId": "213384",
-    "title": "Teaching Seminar: Dr Cordelia Webb (Imperial College London)",
-    "desc": "Speaker: Dr Cordelia Webb\n\nTalk Title: Digital Accessibility of Mathematics.\n\nAbstract: The last six years have seen large changes in the digital accessibility of mathematical (and more generally scientific) content from a technological, pedagogical and student point of view. Here, we will explore these changes and look forward to how they may continue to play out and develop.",
-    "source": "IC",
-    "date": "2026-11-12T13:00:00+00:00",
-    "durationMin": 60,
-    "venue": "341, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Accessibility",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213384/teaching-seminar-dr-cordelia-webb-imperial-college-london/",
-    "image": "data/images/5378b299790f4be0.jpg"
-  },
-  {
-    "id": "ic:215185",
-    "sourceEventId": "215185",
-    "title": "Analysis and Dynamics seminar: Raz Slutsky (University of Oxford)",
-    "desc": "Speaker: Raz Slutsky (Oxford) Title: Random sparsification, torsion in homology, and fixed price\n\nAbstract: Given a complicated geometric object, we often want to simplify it without losing information about the structure we are interested in. In this talk, I will describe a method for doing this by combining a random sparse set with a deterministic one, gaining some of the advantages of both. We will then see how this idea can be used to show that torsion in the first homology of higher-rank lattices grows subexponentially, answering a question of Abért, Gelander, and Nikolov and confirming the degree-one case of several conjectures. We will also use the same principle to give a new general criterion for a dynamical property known as fixed price one, which applies to a broad class of…",
-    "source": "IC",
-    "date": "2026-11-12T13:00:00+00:00",
-    "durationMin": 60,
-    "venue": "410, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215185/analysis-and-dynamics-seminar-raz-slutsky-university-of-oxford/",
-    "image": "data/images/5378b299790f4be0.jpg"
-  },
-  {
-    "id": "ic:215253",
-    "sourceEventId": "215253",
-    "title": "PDEs Seminar – Răzvan-Octavian Radu (Imperial College London)",
-    "desc": "tba",
-    "source": "IC",
-    "date": "2026-11-12T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Huxley 130, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215253/pdes-seminar-razvan-octavian-radu-imperial-college-london/",
-    "image": "data/images/030edec8db1523e2.jpg"
-  },
-  {
-    "id": "ic:216005",
-    "sourceEventId": "216005",
-    "title": "Algebra Colloquium – Patricia Medina Capilla (Warwick)",
-    "desc": "Patricia Medina Capilla (Warwick): tba\n\nMore details available on Algebra Colloquium website .",
-    "source": "IC",
-    "date": "2026-11-12T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Colloquium",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216005/algebra-colloquium-patricia-medina-capilla-warwick/",
-    "image": "data/images/512d103d5423a9c7.jpg"
-  },
-  {
-    "id": "ic:216254",
-    "sourceEventId": "216254",
-    "title": "Physics Colloquium: From Curiosity to Breakthrough: Unlocking the nano world of colloidal quantum dots",
-    "desc": "Join us for a Department of Physics colloquium entitled “From Curiosity to Breakthrough: Unlocking the nano world of colloidal quantum dots ” with Professor Moungi Bawendi, Massachusetts Institution of Technology (MIT) and winner of the 2023 Nobel Prize for chemistry.\n\nPlease note – The lecture will run from 16:00-17:00 in LT3, followed by refreshments from 17:00-18:00 in the Level 8 Common Room of the Blackett Building.\n\nAbstract\n\nThis talk will cover aspects of the discovery and early synthesis of nanocrystal quantum dots. This will be followed by a description of the path to some of their applications. The talk will then focus on recent results on light emission from single larger perovskite nanocrystals, with their potential application as sources of quantum light.\n\nBiography…",
-    "source": "IC",
-    "date": "2026-11-12T16:00:00+00:00",
-    "durationMin": 120,
-    "venue": "Lecture Theatre 3, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Colloquium",
-      "Physics",
-      "Departmental event",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216254/physics-colloquium-from-curiosity-to-breakthrough-unlocking-the-nano-world-of-colloidal-quantum-dots/",
-    "image": "data/images/a789ed9d9e212bb8.jpg"
-  },
-  {
-    "id": "ic:216516",
-    "sourceEventId": "216516",
-    "title": "Junior Dynamics Seminar – Jack Ross",
-    "desc": "Identification of Nonautonomous Dynamical Systems\n\nSpeaker: Jack Ross\n\nAbstract : TBC",
-    "source": "IC",
-    "date": "2026-11-12T16:00:00+00:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216516/junior-dynamics-seminar-jack-ross/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:216511",
-    "sourceEventId": "216511",
-    "title": "Gig a bites – Qwalia",
-    "desc": "Although improvisational at its core, the band’s fluency and innate musicality makes it hard at times to believe these pieces weren’t written and developed over weeks, rather than conjured in the moment. Qwalia’s music is an instinctive aural expression of how things seemed in the moment of creation. Drawing on folk songs and modern standards, Qwalia weaves together a series of improvisations full of life.",
-    "source": "IC",
-    "date": "2026-11-12T17:00:00+00:00",
-    "durationMin": 90,
-    "venue": "The Works Restaurant, Sir Michael Uren Hub, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Creative",
-      "Arts",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216511/gig-a-bites-qwalila/",
-    "image": "data/images/4e52feba09886f01.jpg"
+    "url": "https://www.imperial.ac.uk/events/213567/international-climate-and-sustainability-youth-summit-2026/",
+    "image": "data/images/3fa8f32d206cdc0f.jpg"
   },
   {
     "id": "ic:216534",
@@ -570,7 +459,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216018/geometry-and-topology-seminar-isaac-ren-imperial/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:213726",
@@ -591,7 +480,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213726/fluid-dynamics-seminar-john-hinch-cambridge/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:213917",
@@ -612,7 +501,28 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213917/statistics-seminar-claire-gormley-university-college-dublin/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
+  },
+  {
+    "id": "ic:216737",
+    "sourceEventId": "216737",
+    "title": "Junior Geometry Seminar – Naomi Rosenberg",
+    "desc": "Title: Symplectic Singularities\n\nSpeaker: Naomi Rosenberg\n\nAbstract: Many singular varieties arising in algebraic geometry, such as those obtained via Hamiltonian reductions, are closely related to symplectic geometry. In this talk, we will introduce Beauville’s notion of symplectic singularities, which provides a way of studying symplectic geometry in the singular setting. We will study an explicit example arising from Hamiltonian reduction and construct a symplectic resolution of it. If time permits, we will also briefly mention Coulomb branches of quiver gauge theories as another source of symplectic singularities.\n\nSome snacks will be provided before and after the talk.\n\nGo to the seminar main page.\n\nSubscribe to the mailing list.",
+    "source": "IC",
+    "date": "2026-11-13T17:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Room 140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216737/junior-geometry-seminar-naomi-rosenberg/",
+    "image": "data/images/f0ee1dbe9a1d5f2b.jpg"
   },
   {
     "id": "ic:216141",
@@ -633,7 +543,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216141/biomathematics-seminar-emilie-devijver-universite-grenoble-alpes/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:212958",
@@ -677,7 +587,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216593/gatp-seminar-du-pei-sdu-denmark/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:213196",
@@ -743,7 +653,158 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216569/dynamical-systems-seminar-ian-morris-queen-mary-university-of-london/",
+    "image": "data/images/5f47d88be043d445.jpg"
+  },
+  {
+    "id": "ic:213993",
+    "sourceEventId": "213993",
+    "title": "Finance and Stochastics Seminar – Mao Fabrice Djete",
+    "desc": "Speaker : Mao Fabrice Djete\n\nTitle : A New Notion of BSDE for Measure-Dependent Control Problems and Its Applications\n\nAbstract : I will introduce a notion of backward stochastic differential equation (BSDE) for optimization problems with measure dependence. I will begin with two examples that illustrate why a new formulation is needed: a “robust” principal–agent problem and a mean-field optimal stopping problem. I will then develop the BSDE formulation in the Markovian setting before turning to the non-Markovian case. Finally, I will discuss what well-posedness of these equations tells us about the underlying control problems, highlighting settings in which the approach works under weaker assumptions than existing methods or applies where standard techniques are not available.",
+    "source": "IC",
+    "date": "2026-11-17T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213993/finance-and-stochastics-seminar-mao-fabrice-djete/",
+    "image": "data/images/5f47d88be043d445.jpg"
+  },
+  {
+    "id": "ic:216276",
+    "sourceEventId": "216276",
+    "title": "Astrophysics Weekly Seminar: Steven Rendon Restrepo – Exploring Gravitational Instability in 2D simulations and the nature of stochastic fragmentation",
+    "desc": "Gravitational instability (GI) is a key physical process in which a disc becomes unstable to its own gravity, driving outward angular momentum transport, mass accretion onto the central star, and even the amplification of magnetic fields through a dynamo effect. Most importantly, it is a leading theory of planet formation, describing how a disc can fragment into bound clumps when cooling is efficient. Most simulations characterising GI have relied on a thin-disc (2D) approximation, employing either a zero or a finite smoothing length for the self-gravity potential. A finite smoothing length, however, suppresses the genuinely Newtonian nature of gravity and violates Newton’s third law, potentially inhibiting gravitational collapse. Conversely, a vanishing smoothing length, or solving a 2D…",
+    "source": "IC",
+    "date": "2026-11-17T14:15:00+00:00",
+    "durationMin": 60,
+    "venue": "711C, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216276/astrophysics-weekly-seminar-steven-rendon-restrepo/",
+    "image": "data/images/b86d11f01e230b11.jpg"
+  },
+  {
+    "id": "ic:213003",
+    "sourceEventId": "213003",
+    "title": "Mohn Mingle: Autism/SEND research in Children and Young People.",
+    "desc": "This series aims to bring together academics from all levels and backgrounds to discuss ideas and explore ways to improve the health and well-being of children and young people in urban environments. This session will focus on children and young people with autism and neurodevelopmental needs.\n\nThis session will focus on children and young people with autism and neurodevelopmental needs.\n\nSpeakers include:\n\nShraddha Sunil – design engineer focused on physical-digital, complex problems, and human systems .\n\nRamzi Nasir – MD MPH Consultant in Developmental Behavioural Paediatrics\n\nRakhee Shah – Consultant Paediatrician and Senior Clinical Research Fellow.\n\nPlease note this session takes place in person . WhiteCityCampus.pdf (imperial.ac.uk) – 1st Floor – Room 107.\n\nWe look forward to…",
+    "source": "IC",
+    "date": "2026-11-17T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "1st Floor, Room 107, School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Mohn Centre for Childrens Health and Wellbeing",
+      "Early Career Researcher Institute",
+      "Epidemiology",
+      "child health"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213003/mohn-mingle-autism-send-research-in-children-and-young-people/",
+    "image": "data/images/00bc88bc6f271233.jpg"
+  },
+  {
+    "id": "ic:214746",
+    "sourceEventId": "214746",
+    "title": "Nelder Fellow lecture series – Prof Ed Bueler (University of Alaska Fairbanks)",
+    "desc": "Prof Ed Bueler (University of Alaska Fairbanks) : The mathematical (and numerical) problem of glaciation\n\nLectures will be held on Tuesdays: 20 Oct, 27 Oct, 3 Nov, 17 Nov, at 15:00.\n\nAbstract: This four-lecture series introduces variational inequalities to a general applied mathematical audience, pursues their finite element solution, and applies them to a geophysical problem. Variational inequalities are partial differential equation weak forms, but subject to bounds on their solution(s). They reformulate how one might pose boundary conditions at a free location; where the conditions apply is now determined simultaneously along with the solution. Certain variational inequalities state the KKT conditions of optimization problems in function spaces, and in all cases these continuum models…",
+    "source": "IC",
+    "date": "2026-11-17T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "658, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214746/nelder-fellow-lecture-series-prof-ed-bueler-4/",
+    "image": "data/images/7e42d4913a394593.jpg"
+  },
+  {
+    "id": "ic:216193",
+    "sourceEventId": "216193",
+    "title": "Stochastic Analysis Seminar – Guillaume Barraquand (École normale supérieure)",
+    "desc": "Guillaume Barraquand\n\nTitle:\n\nRandom unitary dynamics and the KPZ equation\n\nAbstract",
+    "source": "IC",
+    "date": "2026-11-17T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216193/stochastic-analysis-seminar-guillaume-barraquand-ecole-normale-superieure/",
     "image": "data/images/cdec15043aac087d.jpg"
+  },
+  {
+    "id": "ic:215751",
+    "sourceEventId": "215751",
+    "title": "San Francisco/South Bay Alumni Gathering",
+    "desc": "South Bay Alumni Happy Hour | Menlo Park – San Francisco\n\nJoin fellow Imperial alumni and graduates from across the UK university alumni community for a relaxed evening of drinks, conversation, and networking in the South Bay!\n\nWhether you’re looking to reconnect with familiar faces, meet new people, or expand your local alumni network, everyone is welcome.\n\nEvent Details\n\nDate: Wednesday, October 28, 2026\n\nTime: 7:00–9:30 PM\n\nLocation: Barebottle Brewery\n\nAddress: 550 Oak Grove Ave, Suite B, Menlo Park, CA\n\nGetting There\n\nBarebottle Brewery is conveniently located right next to the Menlo Park Caltrain station, making it easy to reach from across the Peninsula and South Bay.\n\nNo registration required!\n\nThis is a casual, drop-in gathering. Just show up, grab a drink, and look for the…",
+    "source": "IC",
+    "date": "2026-11-18T07:00:00-08:00",
+    "durationMin": 180,
+    "venue": "Barebottle Brewery",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "International",
+      "Alumni",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215751/san-francisco-south-bay-alumni-gathering-2/",
+    "image": "data/images/b86d11f01e230b11.jpg"
+  },
+  {
+    "id": "ic:215291",
+    "sourceEventId": "215291",
+    "title": "Poly-pharmacy across the hospital-to-home transition",
+    "desc": "Webinar exploring how older people with polypharmacy self-manage their medicines across the hospital-to-home transition, with a particular focus on a qualitative study examining patients’ experiences, behaviours and medication-related interactions around discharge.",
+    "source": "IC",
+    "date": "2026-11-18T11:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Medicine",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215291/poly-pharmacy-across-the-hospital-to-home-transition/",
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "lse:18-november-2026-masters-health-policy",
@@ -929,6 +990,27 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/these-dreams-are-made-of-blue",
     "image": "data/images/cf728641e15727d0.avif"
+  },
+  {
+    "id": "wc:gazing-back-at-the-gaze",
+    "sourceEventId": "gazing-back-at-the-gaze",
+    "title": "Gazing Back at the Gaze",
+    "desc": "Join us for an afternoon exploring how the ‘colonial gaze’ and ‘medical gaze’ intersect, looking at photographs taken in China from our collection.",
+    "source": "WC",
+    "date": "2026-12-10T12:00:00+00:00",
+    "durationMin": 210,
+    "venue": "Viewing Room",
+    "area": "Euston",
+    "price": 0,
+    "tags": [
+      "Session",
+      "Healthcare",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 78,
+    "url": "https://wellcomecollection.org/events/gazing-back-at-the-gaze",
+    "image": "data/images/0170d39b82f9cd55.avif"
   },
   {
     "id": "rs:2026-11-neuromorphic-computing",
