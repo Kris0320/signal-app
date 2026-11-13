@@ -419,112 +419,6 @@
     "image": "data/images/3fa8f32d206cdc0f.jpg"
   },
   {
-    "id": "ic:216534",
-    "sourceEventId": "216534",
-    "title": "LC2 Seminar – Adriano Festa (Politecnico di Torino)",
-    "desc": "Title: A Mean Field Games Perspective on Evolutionary Clustering\n\nAbstract :",
-    "source": "IC",
-    "date": "2026-11-13T10:00:00+00:00",
-    "durationMin": 60,
-    "venue": "SALC 10 (enter via Sherfield), Abdus Salam Library, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "maths",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216534/lc2-seminar-adriano-festa-politecnico-di-torino/",
-    "image": "data/images/7660740d3d54962c.jpg"
-  },
-  {
-    "id": "ic:216018",
-    "sourceEventId": "216018",
-    "title": "Geometry and Topology Seminar – Isaac Ren (Imperial)",
-    "desc": "Isaac Ren (Imperial): tba\n\nMore information on the GT seminar website",
-    "source": "IC",
-    "date": "2026-11-13T13:30:00+00:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216018/geometry-and-topology-seminar-isaac-ren-imperial/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:213726",
-    "sourceEventId": "213726",
-    "title": "Fluid Dynamics Seminar: John Hinch (Cambridge)",
-    "desc": "Viscoelastic flow through a contraction: progress, problems, and a suggestion",
-    "source": "IC",
-    "date": "2026-11-13T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "139, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213726/fluid-dynamics-seminar-john-hinch-cambridge/",
-    "image": "data/images/cdec15043aac087d.jpg"
-  },
-  {
-    "id": "ic:213917",
-    "sourceEventId": "213917",
-    "title": "Statistics Seminar: Claire Gormley (University College Dublin)",
-    "desc": "14:00 – 15:00 – Claire Gormley (Dublin)\n\nTitle: TBA\n\nAbstract: TBA",
-    "source": "IC",
-    "date": "2026-11-13T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "HXLY139, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213917/statistics-seminar-claire-gormley-university-college-dublin/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:216737",
-    "sourceEventId": "216737",
-    "title": "Junior Geometry Seminar – Naomi Rosenberg",
-    "desc": "Title: Symplectic Singularities\n\nSpeaker: Naomi Rosenberg\n\nAbstract: Many singular varieties arising in algebraic geometry, such as those obtained via Hamiltonian reductions, are closely related to symplectic geometry. In this talk, we will introduce Beauville’s notion of symplectic singularities, which provides a way of studying symplectic geometry in the singular setting. We will study an explicit example arising from Hamiltonian reduction and construct a symplectic resolution of it. If time permits, we will also briefly mention Coulomb branches of quiver gauge theories as another source of symplectic singularities.\n\nSome snacks will be provided before and after the talk.\n\nGo to the seminar main page.\n\nSubscribe to the mailing list.",
-    "source": "IC",
-    "date": "2026-11-13T17:30:00+00:00",
-    "durationMin": 60,
-    "venue": "Room 140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216737/junior-geometry-seminar-naomi-rosenberg/",
-    "image": "data/images/f0ee1dbe9a1d5f2b.jpg"
-  },
-  {
     "id": "ic:216141",
     "sourceEventId": "216141",
     "title": "Biomathematics Seminar – Emilie Devijver (Université Grenoble Alpes)",
@@ -543,7 +437,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216141/biomathematics-seminar-emilie-devijver-universite-grenoble-alpes/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:212958",
@@ -587,7 +481,29 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216593/gatp-seminar-du-pei-sdu-denmark/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
+  },
+  {
+    "id": "ic:216847",
+    "sourceEventId": "216847",
+    "title": "SPC Seminar – Climate – Sanjeevani Panditharatne (ECMWF)",
+    "desc": "Title: Exploiting new observations of the sub-millimetre region to improve the forecast at ECMWF\n\nSpeaker: Sanjeevani Panditharatne (ECMWF)\n\nAbstract: Ice clouds remain one of the largest sources of uncertainty in weather forecasting and climate modelling due to their complex formation and evolution mechanisms. Within the ECMWF’s Integrated Forecasting System, we currently assimilate a limited number of satellite observations sensitive to thinner ice clouds in all-sky conditions. However, as of July 2025, the first passive observations of the sub-millimetre region (frequency >300 GHz and wavelengths< 1mm) have been included in the all-sky system. These frequencies are significantly more sensitive to scattering from ice clouds and snow than the traditional microwave frequencies and are…",
+    "source": "IC",
+    "date": "2026-11-17T11:30:00+00:00",
+    "durationMin": 60,
+    "venue": "711c, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216847/spc-seminar-climate-sanjeevani-panditharatne-ecmwf/",
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:213196",
@@ -653,7 +569,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216569/dynamical-systems-seminar-ian-morris-queen-mary-university-of-london/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:213993",
@@ -674,7 +590,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213993/finance-and-stochastics-seminar-mao-fabrice-djete/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:216276",
@@ -695,7 +611,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216276/astrophysics-weekly-seminar-steven-rendon-restrepo/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:213003",
@@ -760,7 +676,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216193/stochastic-analysis-seminar-guillaume-barraquand-ecole-normale-superieure/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:215751",
@@ -804,7 +720,93 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215291/poly-pharmacy-across-the-hospital-to-home-transition/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
+  },
+  {
+    "id": "ic:214618",
+    "sourceEventId": "214618",
+    "title": "Imperial Grand Rounds: ‘Can cell therapy reset the immune system in lupus?’ – Dr Chiara Giacomassi, Consultant Rheumatologist and Professor Matthew Pickering, Professor of Rheumatology",
+    "desc": "The Imperial Grand Rounds bring together academics and clinicians across the University and our NHS partners to explore and showcase how engagement with patients and treating clinical cases leads to scientific research which can benefit patients and populations.\n\nChair:\n\nProfessor David Owen\n\nSpeaker details:\n\n12.30 to 13.30\n\nThis is an internal only event . On-campus venues and online streaming details for this session can be found on the Imperial Grand Round webpage (requires log-in).",
+    "source": "IC",
+    "date": "2026-11-18T12:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Immune system",
+      "Event",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214618/18-nov-2026/",
+    "image": "data/images/ccdb617c877ceb5e.jpg"
+  },
+  {
+    "id": "ic:214073",
+    "sourceEventId": "214073",
+    "title": "Community Garden Action Days",
+    "desc": "Drop-in sessions from 13:00–16:00 on Wednesdays.\n\nJoin the student organisers and volunteers in the Community Garden at the Chaplaincy Centre. A chance to get outside, and be involved in growing plants, sowing seeds, clearing new ground, or pruning bushes. If this is your first session of gardening or if you have plenty of experience, all are welcome.\n\nOpen to students and staff. Drop-in during the afternoon and stay for as long as you like. Gloves, protective gear and tools provided, with wet weather options in needed.\n\nThe Community Garden at the Chaplaincy, accessed through the Multi-Faith Centre at 15 Princes Gardens, or via the side gate of the Weeks Building at 16 Princes Gardens (all ID cards have swipe access to both doors).\n\nIf you’d like to know more, feel free to email us at…",
+    "source": "IC",
+    "date": "2026-11-18T13:00:00+00:00",
+    "durationMin": 180,
+    "venue": "Chaplaincy Multi-Faith Centre",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214073/community-garden-action-days-9/",
+    "image": "data/images/c4794a3ededdee00.jpg"
+  },
+  {
+    "id": "ic:216184",
+    "sourceEventId": "216184",
+    "title": "Great Service Lunch and Learn: the Establishment",
+    "desc": "Atlas will replace ICIS and some other systems (including Teamseer and Talentlink). This means everyone in Imperial will use Atlas in the future.\n\nOur Lunch and Learn sessions provide an opportunity for everyone across Imperial to see the new system. These sessions are designed to help you understand what the new system will mean for you.\n\nThe next session will take place on Wednesday 18 November and will showcase the new Establishment within Atlas.\n\nThe Establishment is the organisational home for Imperial’s people data. It enables the system to structure and organise people data, including an individual’s relationship to, and position within, Imperial and enhances the ability to report on this information. The establishment is foundational and impacts many downstream activities such as…",
+    "source": "IC",
+    "date": "2026-11-18T13:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Institutional Event",
+      "Event",
+      "Staff"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216184/great-service-lunch-and-learn-establishment/",
+    "image": "data/images/a870e65c6c665287.jpg"
+  },
+  {
+    "id": "ic:214089",
+    "sourceEventId": "214089",
+    "title": "Communion Service",
+    "desc": "A reflective service of communion (sharing bread and wine) in the middle of the working week.\n\nA chance to pause and stand back from the activities of work, to reflect on our lives, and to pray for peace and justice and for people we know.\n\nJoin the people of Holy Trinity Church, and staff and students from other colleges and local institutions.\n\nService open to all, using an order from the Church of England.\n\nSubscribe to Mailing list for more information and weekly reminder delivered at your inbox.\n\nHow to find us: Holy Trinity Church, Prince Consort Rd, SW7 2BA (next to Beit Quadrangle, South Kensington)",
+    "source": "IC",
+    "date": "2026-11-18T13:05:00+00:00",
+    "durationMin": 35,
+    "venue": "Holy Trinity Church, Prince Consort Rd, SW7 2BA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214089/communion-service-and-weekly-prayers-7/",
+    "image": "data/images/af9b490ac7fdb97b.jpg"
   },
   {
     "id": "lse:18-november-2026-masters-health-policy",
