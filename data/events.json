@@ -437,7 +437,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216141/biomathematics-seminar-emilie-devijver-universite-grenoble-alpes/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:212958",
@@ -481,7 +481,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216593/gatp-seminar-du-pei-sdu-denmark/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:216847",
@@ -503,7 +503,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216847/spc-seminar-climate-sanjeevani-panditharatne-ecmwf/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:213196",
@@ -590,7 +590,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213993/finance-and-stochastics-seminar-mao-fabrice-djete/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:216276",
@@ -720,7 +720,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215291/poly-pharmacy-across-the-hospital-to-home-transition/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:214618",
@@ -1320,5 +1320,140 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/12/see-christmas-differently/",
     "image": "data/images/b0e415b892e229de.jpg"
+  },
+  {
+    "id": "rs:2027-02-ferrier-prize-lecture",
+    "sourceEventId": "2027-02-ferrier-prize-lecture",
+    "title": "Ferrier Prize Lecture delivered by Professor Kenneth Harris",
+    "desc": "Join us for the Ferrier Prize Lecture delivered by Professor Kenneth Harris",
+    "source": "RS",
+    "date": "2027-02-03T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/02/ferrier-prize-lecture/",
+    "image": "data/images/678fb46c963a2204.jpg"
+  },
+  {
+    "id": "rs:2027-03-africa-prize-lecture",
+    "sourceEventId": "2027-03-africa-prize-lecture",
+    "title": "Royal Society Africa Prize Lecture delivered by Professor Clive Gray",
+    "desc": "Join us for the Royal Society Africa Prize Lecture delivered by Professor Clive Gray",
+    "source": "RS",
+    "date": "2027-03-02T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Policy",
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/03/africa-prize-lecture/",
+    "image": "data/images/678fb46c963a2204.jpg"
+  },
+  {
+    "id": "rs:2027-04-croonian-prize-lecture",
+    "sourceEventId": "2027-04-croonian-prize-lecture",
+    "title": "Croonian Prize Lecture delivered by Dame Janet Thornton",
+    "desc": "Join us for the Croonian Prize Lecture delivered by Dame Janet Thornton DBE FMedSci FRS",
+    "source": "RS",
+    "date": "2027-04-29T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/04/croonian-prize-lecture/",
+    "image": "data/images/678fb46c963a2204.jpg"
+  },
+  {
+    "id": "rs:2027-05-bakerian-prize-lecture",
+    "sourceEventId": "2027-05-bakerian-prize-lecture",
+    "title": "Bakerian Prize Lecture delivered by Professor Karen Heywood",
+    "desc": "Join us for the Bakerian Prize Lecture delivered by Professor Karen Heywood OBE FRS",
+    "source": "RS",
+    "date": "2027-05-13T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/05/bakerian-prize-lecture/",
+    "image": "data/images/678fb46c963a2204.jpg"
+  },
+  {
+    "id": "rs:2027-06-environment-prize-lecture",
+    "sourceEventId": "2027-06-environment-prize-lecture",
+    "title": "Environment Prize Lecture delivered by Professor Paul Bates",
+    "desc": "Join us for the Environment Prize Lecture delivered by Professor Paul Bates CBE FRS",
+    "source": "RS",
+    "date": "2027-06-02T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Climate",
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/06/environment-prize-lecture/",
+    "image": "data/images/678fb46c963a2204.jpg"
+  },
+  {
+    "id": "rs:2027-10-francis-crick-prize-lecture",
+    "sourceEventId": "2027-10-francis-crick-prize-lecture",
+    "title": "Francis Crick Prize Lecture delivered by Dr Kelly Nguyen",
+    "desc": "Join us for the Francis Crick Prize Lecture delivered by Dr Kelly Nguyen",
+    "source": "RS",
+    "date": "2027-10-13T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/10/francis-crick-prize-lecture/",
+    "image": "data/images/678fb46c963a2204.jpg"
+  },
+  {
+    "id": "rs:2027-11-milner-prize-lecture",
+    "sourceEventId": "2027-11-milner-prize-lecture",
+    "title": "Milner Prize Lecture delivered by Professor Monika Henzinger",
+    "desc": "Join us for the Milner Prize Lecture delivered by Professor Monika Henzinger",
+    "source": "RS",
+    "date": "2027-11-04T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/11/milner-prize-lecture/",
+    "image": "data/images/678fb46c963a2204.jpg"
   }
 ]
