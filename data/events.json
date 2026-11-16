@@ -419,50 +419,6 @@
     "image": "data/images/3fa8f32d206cdc0f.jpg"
   },
   {
-    "id": "ic:216141",
-    "sourceEventId": "216141",
-    "title": "Biomathematics Seminar – Emilie Devijver (Université Grenoble Alpes)",
-    "desc": "Biomathematics Seminar - Emilie Devijver (Université Grenoble Alpes)",
-    "source": "IC",
-    "date": "2026-11-16T13:00:00+00:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216141/biomathematics-seminar-emilie-devijver-universite-grenoble-alpes/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:212958",
-    "sourceEventId": "212958",
-    "title": "Christian Meditation: Online and In-person",
-    "desc": "Format: In person and Online (hybrid)\n\nIn Person: Chaplaincy, 15 Prince’s Gardens, South Kensington Campus, SW7 1NA (Drop-in)\n\nOnline via private Zoom Meeting invite . You can subscribe to our weekly mailing list to get the weekly Zoom Link.\n\nAnyone outside the Colleges of South Kensington who would like to attend online please contact Andrew Willson a.willson@imperial.ac.uk\n\nFacilitator: The Christian Meditation sessions are led by Andrew Willson, College Chaplain.\n\nAbout Christian Meditation\n\nChristianity has a long and rich history of meditation and contemplative prayer. These ancient Christian traditions have their roots in the monasteries of the desert hermits of the second century. Jesus himself often prayed in times of stillness and solitude. Many of these long established…",
-    "source": "IC",
-    "date": "2026-11-16T13:10:00+00:00",
-    "durationMin": 30,
-    "venue": "Chaplaincy Multi-Faith Centre, 15 Prince's Gardens, South Kensington, SW7 1NA",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "mental health",
-      "Education",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212958/weekly-christian-meditation-7/",
-    "image": "data/images/3664c76b77dd16c7.jpg"
-  },
-  {
     "id": "ic:216593",
     "sourceEventId": "216593",
     "title": "GATP Seminar – Du Pei (SDU Denmark)",
@@ -503,7 +459,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216847/spc-seminar-climate-sanjeevani-panditharatne-ecmwf/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:213196",
@@ -569,7 +525,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216569/dynamical-systems-seminar-ian-morris-queen-mary-university-of-london/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:213993",
@@ -590,7 +546,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213993/finance-and-stochastics-seminar-mao-fabrice-djete/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:216276",
@@ -611,7 +567,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216276/astrophysics-weekly-seminar-steven-rendon-restrepo/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:213003",
@@ -676,7 +632,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216193/stochastic-analysis-seminar-guillaume-barraquand-ecole-normale-superieure/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:215751",
@@ -698,7 +654,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215751/san-francisco-south-bay-alumni-gathering-2/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:215291",
@@ -720,7 +676,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215291/poly-pharmacy-across-the-hospital-to-home-transition/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:214618",
@@ -807,6 +763,48 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214089/communion-service-and-weekly-prayers-7/",
     "image": "data/images/af9b490ac7fdb97b.jpg"
+  },
+  {
+    "id": "ic:213748",
+    "sourceEventId": "213748",
+    "title": "Control and Optimisation seminar – Dario Paccagnan (IC Computing)",
+    "desc": "Title\n\nPick to Learn: state-of-the-art safety guarantees for machine learning and control\n\nAbstract\n\nAI models are increasingly embedded in scientific research and industrial production, where they inform predictions and drive decisions. Yet, in safety-critical settings including autonomous driving and medical diagnostics, deploying these models requires rigorous safety and performance guarantees — a need that has motivated much recent work at the interface of statistical learning, optimization, and control. However, existing approaches, including conformal prediction, test-set methods, and PAC-Bayes bounds, face two major limitations: they either require setting aside part of the dataset to generate guarantees — possibly degrading the quality of the learned model — or they produce…",
+    "source": "IC",
+    "date": "2026-11-18T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213748/control-and-optimisation-seminar-dario-paccagnan-ic-computing/",
+    "image": "data/images/5f47d88be043d445.jpg"
+  },
+  {
+    "id": "ic:214950",
+    "sourceEventId": "214950",
+    "title": "Junior Analysis Seminar – Matt Smith (Cambridge)",
+    "desc": "Title\n\nAbstract\n\nPlease note that the seminar will take place in person in room 140 of Huxley Building .\n\nClick here to get to the Junior Analysis Seminar webpage .",
+    "source": "IC",
+    "date": "2026-11-18T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214950/junior-analysis-seminar-matt-smith-cambridge/",
+    "image": "data/images/f307df66c1f6d553.jpg"
   },
   {
     "id": "lse:18-november-2026-masters-health-policy",
@@ -1183,7 +1181,7 @@
     "format": "In person",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/04/sequences-behaviour-and-cognitive-evolution/",
-    "image": "data/images/b6d4a4028a4de58e.jpg"
+    "image": "data/images/fd4ed29375ce2a2d.jpg"
   },
   {
     "id": "rs:2027-04-neuropeptide-connectome",
