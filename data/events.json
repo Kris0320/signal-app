@@ -126,6 +126,26 @@
     "image": "data/images/7a40854441362e24.png"
   },
   {
+    "id": "kcl:kings-law-technology-guest-lecture-generative-ai-and-the-gdprs-household-exemption",
+    "sourceEventId": "edf7d5c0-6d96-4235-824e-2e9bc9e78c6a",
+    "title": "King’s Law & Technology Guest Lecture: Generative AI and the GDPR’s Household Exemption",
+    "desc": "Join us for a guest lecture by Dr Henry Pearce, Senior Lecturer in Internet Law at Queen Mary University of London, exploring the data protection implications of individuals sharing other people’s personal data with generative AI systems.",
+    "source": "KCL",
+    "date": "2026-12-01T16:30:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Law",
+      "The Dickson Poon School of Law"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/kings-law-technology-guest-lecture-generative-ai-and-the-gdprs-household-exemption",
+    "image": "data/images/5da5c2c117afef2a.png"
+  },
+  {
     "id": "kcl:school-of-the-sacraments-at-guys-7",
     "sourceEventId": "cc6e5680-73a2-40ee-97b7-44c8b2f5c58d",
     "title": "School of the Sacraments at Guy's",
@@ -289,27 +309,6 @@
     "image": "data/images/8c7bf855cd7bad43.png"
   },
   {
-    "id": "kcl:praying-the-holy-rosary-at-guys-13",
-    "sourceEventId": "66fc2e99-90ac-445a-a601-e1ad9cf84fae",
-    "title": "Praying the Holy Rosary at Guy's",
-    "desc": "An opportunity to pray the Holy Rosary every Wednesday in term time in the Guy's Chapel.",
-    "source": "KCL",
-    "date": "2026-12-02T12:15:00",
-    "durationMin": 30,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/praying-the-holy-rosary-at-guys-13",
-    "image": "data/images/7f54eb4162a38a4b.jpg"
-  },
-  {
     "id": "ic:215848",
     "sourceEventId": "215848",
     "title": "Imperial Lates: Science Across Africa",
@@ -331,26 +330,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215848/imperial-lates-science-across-africa/",
     "image": "data/images/a00b0ab708d48c5e.jpg"
-  },
-  {
-    "id": "ic:216791",
-    "sourceEventId": "216791",
-    "title": "Relational Leadership: Book Launch with Dr Poornima Luthra",
-    "desc": "Join us for the launch of Relational Leadership, a new book from Dr Poornima Luthra and Dr Sara Louise Muhr.\n\nImperial Business School is delighted to host Dr Poornima Luthra for the launch of her new book, Relational Leadership , co-authored with Dr Sara Louise Muhr.\n\nAbout the event\n\nRelational Leadership argues that sustained high performance comes less from a leader’s title or strategy and more from the quality of the relationships they build, nurture and repair over time. Drawing on rigorous research and real-world experience, Dr Poornima Luthra and Dr Sara Louise Muhr , authors of Leading Through Bias , explore what it takes to lead through difference, ambiguity and change. They set out the daily practices that hold high-performing teams together: trust, collaboration and honest…",
-    "source": "IC",
-    "date": "2026-11-17T17:30:00+00:00",
-    "durationMin": 180,
-    "venue": "Business School, Imperial Business School, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216791/relational-leadership-book-launch-with-dr-poornima-luthra/",
-    "image": "data/images/19320d88684c5374.jpg"
   },
   {
     "id": "ic:212275",
@@ -419,220 +398,6 @@
     "image": "data/images/3fa8f32d206cdc0f.jpg"
   },
   {
-    "id": "ic:216593",
-    "sourceEventId": "216593",
-    "title": "GATP Seminar – Du Pei (SDU Denmark)",
-    "desc": "In this talk, I will outline an approach to studying skein modules of 3-manifolds by embedding them into the Hilbert spaces of four-dimensional supersymmetric gauge theories. When the 3-manifold has reduced holonomy, this approach leads to an algorithm for the dimension of the skein module for a general gauge group, expressed as a sum over nilpotent orbits. Surprisingly, the dimensions obtained in this way often differ between Langlands-dual pairs.",
-    "source": "IC",
-    "date": "2026-11-17T11:00:00+00:00",
-    "durationMin": 120,
-    "venue": "Huxley 658, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216593/gatp-seminar-du-pei-sdu-denmark/",
-    "image": "data/images/5378b299790f4be0.jpg"
-  },
-  {
-    "id": "ic:216847",
-    "sourceEventId": "216847",
-    "title": "SPC Seminar – Climate – Sanjeevani Panditharatne (ECMWF)",
-    "desc": "Title: Exploiting new observations of the sub-millimetre region to improve the forecast at ECMWF\n\nSpeaker: Sanjeevani Panditharatne (ECMWF)\n\nAbstract: Ice clouds remain one of the largest sources of uncertainty in weather forecasting and climate modelling due to their complex formation and evolution mechanisms. Within the ECMWF’s Integrated Forecasting System, we currently assimilate a limited number of satellite observations sensitive to thinner ice clouds in all-sky conditions. However, as of July 2025, the first passive observations of the sub-millimetre region (frequency >300 GHz and wavelengths< 1mm) have been included in the all-sky system. These frequencies are significantly more sensitive to scattering from ice clouds and snow than the traditional microwave frequencies and are…",
-    "source": "IC",
-    "date": "2026-11-17T11:30:00+00:00",
-    "durationMin": 60,
-    "venue": "711c, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216847/spc-seminar-climate-sanjeevani-panditharatne-ecmwf/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:213196",
-    "sourceEventId": "213196",
-    "title": "SLaR 1 - cycle A",
-    "desc": "SLaR 1 - cycle A",
-    "source": "IC",
-    "date": "2026-11-17T12:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Event",
-      "Practice session"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213196/speak-like-a-researcher-1-making-connections-visible-2/",
-    "image": "data/images/1eebb6c742e8f5c6.jpg"
-  },
-  {
-    "id": "ic:216547",
-    "sourceEventId": "216547",
-    "title": "IDE Seminar Series – Professor Oliver Brady",
-    "desc": "Oliver Brady is Professor of Spatial Epidemiology at the London School of Hygiene & Tropical Medicine (LSHTM), where he leads the Dengue Mapping and Modelling Group and is Head of the Department of Infectious Disease Epidemiology and Dynamics. His research uses statistical models to understand the geographic spread of mosquito-borne viruses and optimise their control. This includes mapping the global burden of dengue, chikungunya and Zika, predicting the spread of dengue and Zika to help contain pandemics, and developing new approaches to dengue control such as real-time outbreak forecasting and Wolbachia. He applies Bayesian statistical and mechanistic models to high-resolution climate, demographic and socioeconomic data, and works closely with ministries of health and WHO to develop…",
-    "source": "IC",
-    "date": "2026-11-17T12:30:00+00:00",
-    "durationMin": 60,
-    "venue": "202, School of Public Health, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Infectious diseases",
-      "MRC Centre for Global Infectious Disease Analysis",
-      "Modelling",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216547/ide-seminar-series-professor-oliver-brady/",
-    "image": "data/images/c333bc3ed178b3c4.jpg"
-  },
-  {
-    "id": "ic:216569",
-    "sourceEventId": "216569",
-    "title": "Dynamical Systems Seminar – Ian Morris (Queen Mary University of London)",
-    "desc": "Speaker : Ian Morris\n\nTitle : Stability of linear switched systems under periodic inputs\n\nAbstract : Consider a pair of matrices A and B acting on R^d. At each time n we apply either the matrix A or the matrix B, according to some predetermined sequence called the switching law. We would like to know whether or not every trajectory of the resulting system converges to the origin. A landmark result of Bousch and Mairesse in 2002 showed that if the system is stable for all periodic switching laws, it does not follow that it is stable for arbitrary switching laws. In this talk I will discuss continuous-time analogues of this problem, showing that stability with respect to periodic switching laws implies stability under arbitrary switching laws precisely when d \\leq 3. This is joint work…",
-    "source": "IC",
-    "date": "2026-11-17T13:00:00+00:00",
-    "durationMin": 60,
-    "venue": "145, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216569/dynamical-systems-seminar-ian-morris-queen-mary-university-of-london/",
-    "image": "data/images/cdec15043aac087d.jpg"
-  },
-  {
-    "id": "ic:213993",
-    "sourceEventId": "213993",
-    "title": "Finance and Stochastics Seminar – Mao Fabrice Djete",
-    "desc": "Speaker : Mao Fabrice Djete\n\nTitle : A New Notion of BSDE for Measure-Dependent Control Problems and Its Applications\n\nAbstract : I will introduce a notion of backward stochastic differential equation (BSDE) for optimization problems with measure dependence. I will begin with two examples that illustrate why a new formulation is needed: a “robust” principal–agent problem and a mean-field optimal stopping problem. I will then develop the BSDE formulation in the Markovian setting before turning to the non-Markovian case. Finally, I will discuss what well-posedness of these equations tells us about the underlying control problems, highlighting settings in which the approach works under weaker assumptions than existing methods or applies where standard techniques are not available.",
-    "source": "IC",
-    "date": "2026-11-17T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213993/finance-and-stochastics-seminar-mao-fabrice-djete/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:216276",
-    "sourceEventId": "216276",
-    "title": "Astrophysics Weekly Seminar: Steven Rendon Restrepo – Exploring Gravitational Instability in 2D simulations and the nature of stochastic fragmentation",
-    "desc": "Gravitational instability (GI) is a key physical process in which a disc becomes unstable to its own gravity, driving outward angular momentum transport, mass accretion onto the central star, and even the amplification of magnetic fields through a dynamo effect. Most importantly, it is a leading theory of planet formation, describing how a disc can fragment into bound clumps when cooling is efficient. Most simulations characterising GI have relied on a thin-disc (2D) approximation, employing either a zero or a finite smoothing length for the self-gravity potential. A finite smoothing length, however, suppresses the genuinely Newtonian nature of gravity and violates Newton’s third law, potentially inhibiting gravitational collapse. Conversely, a vanishing smoothing length, or solving a 2D…",
-    "source": "IC",
-    "date": "2026-11-17T14:15:00+00:00",
-    "durationMin": 60,
-    "venue": "711C, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216276/astrophysics-weekly-seminar-steven-rendon-restrepo/",
-    "image": "data/images/263a03c01b826444.jpg"
-  },
-  {
-    "id": "ic:213003",
-    "sourceEventId": "213003",
-    "title": "Mohn Mingle: Autism/SEND research in Children and Young People.",
-    "desc": "This series aims to bring together academics from all levels and backgrounds to discuss ideas and explore ways to improve the health and well-being of children and young people in urban environments. This session will focus on children and young people with autism and neurodevelopmental needs.\n\nThis session will focus on children and young people with autism and neurodevelopmental needs.\n\nSpeakers include:\n\nShraddha Sunil – design engineer focused on physical-digital, complex problems, and human systems .\n\nRamzi Nasir – MD MPH Consultant in Developmental Behavioural Paediatrics\n\nRakhee Shah – Consultant Paediatrician and Senior Clinical Research Fellow.\n\nPlease note this session takes place in person . WhiteCityCampus.pdf (imperial.ac.uk) – 1st Floor – Room 107.\n\nWe look forward to…",
-    "source": "IC",
-    "date": "2026-11-17T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "1st Floor, Room 107, School of Public Health, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Mohn Centre for Childrens Health and Wellbeing",
-      "Early Career Researcher Institute",
-      "Epidemiology",
-      "child health"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213003/mohn-mingle-autism-send-research-in-children-and-young-people/",
-    "image": "data/images/00bc88bc6f271233.jpg"
-  },
-  {
-    "id": "ic:214746",
-    "sourceEventId": "214746",
-    "title": "Nelder Fellow lecture series – Prof Ed Bueler (University of Alaska Fairbanks)",
-    "desc": "Prof Ed Bueler (University of Alaska Fairbanks) : The mathematical (and numerical) problem of glaciation\n\nLectures will be held on Tuesdays: 20 Oct, 27 Oct, 3 Nov, 17 Nov, at 15:00.\n\nAbstract: This four-lecture series introduces variational inequalities to a general applied mathematical audience, pursues their finite element solution, and applies them to a geophysical problem. Variational inequalities are partial differential equation weak forms, but subject to bounds on their solution(s). They reformulate how one might pose boundary conditions at a free location; where the conditions apply is now determined simultaneously along with the solution. Certain variational inequalities state the KKT conditions of optimization problems in function spaces, and in all cases these continuum models…",
-    "source": "IC",
-    "date": "2026-11-17T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "658, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214746/nelder-fellow-lecture-series-prof-ed-bueler-4/",
-    "image": "data/images/7e42d4913a394593.jpg"
-  },
-  {
-    "id": "ic:216193",
-    "sourceEventId": "216193",
-    "title": "Stochastic Analysis Seminar – Guillaume Barraquand (École normale supérieure)",
-    "desc": "Guillaume Barraquand\n\nTitle:\n\nRandom unitary dynamics and the KPZ equation\n\nAbstract",
-    "source": "IC",
-    "date": "2026-11-17T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "410, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216193/stochastic-analysis-seminar-guillaume-barraquand-ecole-normale-superieure/",
-    "image": "data/images/263a03c01b826444.jpg"
-  },
-  {
     "id": "ic:215751",
     "sourceEventId": "215751",
     "title": "San Francisco/South Bay Alumni Gathering",
@@ -652,7 +417,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215751/san-francisco-south-bay-alumni-gathering-2/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:215291",
@@ -674,7 +439,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215291/poly-pharmacy-across-the-hospital-to-home-transition/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:214618",
@@ -781,7 +546,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213748/control-and-optimisation-seminar-dario-paccagnan-ic-computing/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:214950",
@@ -803,6 +568,205 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214950/junior-analysis-seminar-matt-smith-cambridge/",
     "image": "data/images/f307df66c1f6d553.jpg"
+  },
+  {
+    "id": "ic:216456",
+    "sourceEventId": "216456",
+    "title": "Solving crystal structures with femtosecond time resolution for solid state physics research (LUXD)",
+    "desc": "Abstract:\n\nSpeaker: Jasper van Thor\n\nComing soon to the department of physics: LUXD is a world unique instrument currently being commissioned in Blackett 009B. LUXD has been designed for femtosecond time resolved chemical crystallography and ultrafast solid state physics. Rather than probing single reflections in Bragg diffraction geometry, which seems to be the predominant method in both UED and time resolved X-ray diffraction in solid state physics, we are pursuing full molecular structure determination by recording all the reflections. For example a 10 Angstrom sized cell will, depending on space group symmetry, yield up to a thousand unique reflections to 1 Angstrom resolution, all of which need to be captured, scaled and merged for structure determination. LUXD is a femtosecond…",
+    "source": "IC",
+    "date": "2026-11-18T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "HUXLEY H711c, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Physics",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216456/solving-crystal-structures-with-femtosecond-time-resolution-for-solid-state-physics-research-luxd/",
+    "image": "data/images/b86d11f01e230b11.jpg"
+  },
+  {
+    "id": "ic:216852",
+    "sourceEventId": "216852",
+    "title": "SPC Seminar – Space – Laura Vuorinen (QMUL)",
+    "desc": "Title: Interaction of collisionless shocks and pre-existing plasma turbulence in hybrid simulations\n\nSpeaker: Laura Vuorinen (QMUL)\n\nAbstract: Collisionless shocks and plasma turbulence play key roles in particle acceleration and energy dissipation in space plasmas. Shock waves within the heliosphere, such as planetary bow shocks and interplanetary shocks, interact with the inherently turbulent solar wind. However, historically this pre-existing turbulence has been largely neglected in plasma simulations of collisionless shocks. We present a novel modelling setup in which we generate turbulent fields in MHD simulations and dynamically input them into hybrid shock simulations, enabling us to investigate the prolonged interaction between MHD- to ion-scale plasma turbulence and a shock…",
+    "source": "IC",
+    "date": "2026-11-18T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "741, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Space",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216852/spc-seminar-space-laura-vuorinen-qmul/",
+    "image": "data/images/b86d11f01e230b11.jpg"
+  },
+  {
+    "id": "ic:212630",
+    "sourceEventId": "212630",
+    "title": "HEP seminar: Angela Romano (Warwick) – Recent results from the NA62 experiment at CERN",
+    "desc": "The NA62 experiment at CERN investigates rare kaon decays and searches for physics beyond the Standard Model. A major milestone is the first observation of the ultra-rare decay K + →π + νν̄, with a significance exceeding 5σ and a measured branching ratio of (13.0 +3.3 −3.0 )×10 −11 . New results from the 2023–2024 dataset, which doubles the effective sample size, provide an updated measurement with improved precision.\n\nNA62 has also produced new preliminary results on rare and radiative kaon decays, including the first observation of K + →μ + νμ + μ − and precision measurements of K + →e + νγ and K + →π + π + π − γ.\n\nThe experiment’s broad physics programme includes searches for hidden-sector particles, such as dark photons, scalars and axion-like particles, through K + →π + X, as well…",
+    "source": "IC",
+    "date": "2026-11-18T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "630, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Physics of Particles",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212630/hep-seminar-angela-romano-warwick-na62/",
+    "image": "data/images/89ae9f5af0cf5a61.jpg"
+  },
+  {
+    "id": "ic:214455",
+    "sourceEventId": "214455",
+    "title": "The Dennis Gabor Lecture 2026: A collectivist, economic perspective on AI – with Professor Michael I Jordan",
+    "desc": "About the Dennis Gabor Lecture\n\nThe Dennis Gabor Lecture is a Department of Electrical and Electronic Engineering flagship event, honouring Dennis Gabor, the inventor of holography. The lecture series focuses on the impact of science and engineering on society.\n\nThis year, we welcome Professor Michael I. Jordan, Inria Paris and the University of California, Berkeley. Professor Jordan has been a leading researcher in computer science and statistics for over four decades. He is a member of the US National Academy of Sciences, a Foreign Member of the Royal Society and a Foreign Member of the Chinese Academy of Sciences.\n\nAgenda:\n\n15:30 Research Poster Session with Refreshments\n\n16:30 Lecture\n\n17:15 Question and Answer Session\n\n17:45 Further Refreshments and Posters\n\n19:00 Close\n\nThe 2026…",
+    "source": "IC",
+    "date": "2026-11-18T16:30:00+00:00",
+    "durationMin": 75,
+    "venue": "G16 , Sir Alexander Fleming Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Artificial intelligence",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214455/gabor2026/",
+    "image": "data/images/3cc4c85bb2ef660c.jpg"
+  },
+  {
+    "id": "ic:215616",
+    "sourceEventId": "215616",
+    "title": "Run Club – Movember",
+    "desc": "Beginner welcome run club lead by England Athletics runner up Coach of the Year, Charlie. This session will meet outside ethos at 17:15.",
+    "source": "IC",
+    "date": "2026-11-18T17:15:00+00:00",
+    "durationMin": 60,
+    "venue": "Outside Ethos , Ethos Sports Centre, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215616/run-club-movember/",
+    "image": "data/images/a5c27c4bf9e82001.jpg"
+  },
+  {
+    "id": "ic:212563",
+    "sourceEventId": "212563",
+    "title": "College Evensong",
+    "desc": "Evensong is open to all members of the College, the RCA and RCM, alumni, and the public. The service happens every two weeks in term-time. You can engage with the service in your own way. We know that people of different faith traditions and world views find Choral Evensong a welcoming meditative time.\n\nIf you’d like to be notified of the dates of Evensongs, please subscribe to our newsletter or follow us on Twitter .\n\nYou can visit our Events pages for details of the next Evensongs services.",
+    "source": "IC",
+    "date": "2026-11-18T17:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Holy Trinity Church, Prince Consort Rd, SW7 2BA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212563/college-evensong-the-choir-november/",
+    "image": "data/images/364b4d487ec17852.jpg"
+  },
+  {
+    "id": "ic:216212",
+    "sourceEventId": "216212",
+    "title": "Imperial College Chamber Choir Evensong",
+    "desc": "You are all welcome to attend Imperial College Chamber Choir’s Evensong\n\nProgramme to include works by\n\nWood – Hail, Gladdening Light\n\nTomkins – Responses\n\nMagnificat and Nunc Dimittis – Ruth Gipps\n\nFauré – Cantique de Jean Racine",
+    "source": "IC",
+    "date": "2026-11-18T17:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Holy Trinity Church Prince Consort Road London SW7 2BA, Holy Trinity Church, Off campus",
+    "area": "Off",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Concerts",
+      "Arts",
+      "Creative",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216212/imperial-college-chamber-choir-evensong-5/",
+    "image": "data/images/d2d01171a1a939bb.jpg"
+  },
+  {
+    "id": "ic:212786",
+    "sourceEventId": "212786",
+    "title": "Imperial Fungal Science Network | Seminar Series | ECR Talks",
+    "desc": "The Imperial Fungal Science Network is a hub for the mycology community, providing a leadership, advocacy and communications platform for mycologists and a developmental framework for future leaders in fungal research. We welcome you to the Imperial Fungal Science Network – Seminar Series 2026 for a seminar programme highlighting the work of Early Career Researchers.\n\nSeminar | ECR Talks | 12:00– 13:00 | Thursday 19th November 📍 G47, Flowers Building, South Kensington Campus, London SW7 2AZ find us at Map/3A\n\nIn-person & online (via Teams, click ‘Livestream’ button on LHS )\n\nNo registration required\n\nThis is a hybrid event to ensure that our non-London members/audience can join for the talks remotely; if you are joining us via the Teams link, please be aware that your email contact may…",
+    "source": "IC",
+    "date": "2026-11-19T12:00:00+00:00",
+    "durationMin": 60,
+    "venue": "G47A (ground floor), Flowers Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "events",
+      "Infectious diseases",
+      "Postdoctoral researchers",
+      "School of Public Health"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212786/imperial-fungal-science-network-seminar-series-ecr-talks-4/",
+    "image": "data/images/50568538d214626f.jpg"
+  },
+  {
+    "id": "ic:215961",
+    "sourceEventId": "215961",
+    "title": "Sustainable Festive Fair",
+    "desc": "Get ready for the holidays with our Sustainable Festive Fair. Come make eco-friendly gifts, decorations, and learn ideas for a greener festive season!\n\nThere will also be a book swap at the fair so do bring a book to give and help yourself to a new read!",
+    "source": "IC",
+    "date": "2026-11-19T12:00:00+00:00",
+    "durationMin": 120,
+    "venue": "Main Entrance Foyer, Main Entrance, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Sustainability",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215961/sustainable-festive-fair-2026/",
+    "image": "data/images/c3a9713de4679a4b.jpg"
   },
   {
     "id": "lse:18-november-2026-masters-health-policy",
@@ -887,6 +851,27 @@
     "format": "Online",
     "match": 74,
     "url": "https://www.lse.ac.uk/events/ai-democracy",
+    "image": null
+  },
+  {
+    "id": "lse:general-artificial-intelligence",
+    "sourceEventId": "general-artificial-intelligence",
+    "title": "From AlphaGo to general reasoning: the future of artificial intelligence and what it means",
+    "desc": "From AlphaGo to general reasoning: the future of artificial intelligence and what it means",
+    "source": "LSE",
+    "date": "2026-11-24T18:30:00+01:00",
+    "durationMin": 90,
+    "venue": "In-person and online public event (Sheikh Zayed Theatre, Cheng Kin Ku Building)",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "AI",
+      "artificial intelligence",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/events/general-artificial-intelligence",
     "image": null
   },
   {
