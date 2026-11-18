@@ -378,6 +378,27 @@
     "image": "data/images/1fb67782329b03ab.jpg"
   },
   {
+    "id": "ic:215961",
+    "sourceEventId": "215961",
+    "title": "Sustainable Festive Fair",
+    "desc": "Get ready for the holidays with our Sustainable Festive Fair. Come make eco-friendly gifts, decorations, and learn ideas for a greener festive season!\n\nThere will also be a book swap at the fair so do bring a book to give and help yourself to a new read!",
+    "source": "IC",
+    "date": "2026-11-19T12:00:00+00:00",
+    "durationMin": 120,
+    "venue": "Main Entrance Foyer, Main Entrance, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Sustainability",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215961/sustainable-festive-fair-2026/",
+    "image": "data/images/c3a9713de4679a4b.jpg"
+  },
+  {
     "id": "ic:213567",
     "sourceEventId": "213567",
     "title": "International Climate and Sustainability Youth Summit 2026",
@@ -417,7 +438,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215751/san-francisco-south-bay-alumni-gathering-2/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:215291",
@@ -439,7 +460,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215291/poly-pharmacy-across-the-hospital-to-home-transition/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:214618",
@@ -546,7 +567,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213748/control-and-optimisation-seminar-dario-paccagnan-ic-computing/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:214950",
@@ -589,7 +610,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216456/solving-crystal-structures-with-femtosecond-time-resolution-for-solid-state-physics-research-luxd/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:216852",
@@ -612,7 +633,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216852/spc-seminar-space-laura-vuorinen-qmul/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:212630",
@@ -745,28 +766,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212786/imperial-fungal-science-network-seminar-series-ecr-talks-4/",
     "image": "data/images/50568538d214626f.jpg"
-  },
-  {
-    "id": "ic:215961",
-    "sourceEventId": "215961",
-    "title": "Sustainable Festive Fair",
-    "desc": "Get ready for the holidays with our Sustainable Festive Fair. Come make eco-friendly gifts, decorations, and learn ideas for a greener festive season!\n\nThere will also be a book swap at the fair so do bring a book to give and help yourself to a new read!",
-    "source": "IC",
-    "date": "2026-11-19T12:00:00+00:00",
-    "durationMin": 120,
-    "venue": "Main Entrance Foyer, Main Entrance, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Sustainability",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215961/sustainable-festive-fair-2026/",
-    "image": "data/images/c3a9713de4679a4b.jpg"
   },
   {
     "id": "lse:18-november-2026-masters-health-policy",
