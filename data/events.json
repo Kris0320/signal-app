@@ -353,24 +353,72 @@
     "image": "data/images/c3a9713de4679a4b.jpg"
   },
   {
-    "id": "ic:213567",
-    "sourceEventId": "213567",
-    "title": "International Climate and Sustainability Youth Summit 2026",
-    "desc": "We are inviting young people aged 16–30 to join us for this youth summit in London, in the context of COP31.\n\nThe International Climate and Sustainability Youth Summit 2026 will take place to coincide with COP31 in Türkiye. Join us and share your views!\n\nThe Summit is co-hosted by the United Nations Association Climate & Oceans and the Leverhulme Centre for Wildfires, Environment and Society, Imperial College London .\n\nInspired by the global momentum surrounding COP31 , this international gathering will bring together young leaders, diplomats, academics, sustainability and geopolitics experts, policymakers and civil society to discuss the urgent climate and sustainability challenges shaping our shared future.\n\nDiscussions will focus on interconnected challenges including global water and…",
+    "id": "ic:213883",
+    "sourceEventId": "213883",
+    "title": "Breaking Topics in AI Conference 2026",
+    "desc": "We are excited to invite you to the fourth annual Breaking Topics in AI Conference 2026, supported by the I-X Centre for AI in Science.\n\nThe conference, this year bringing together speakers from Oxford, UCL, Cambridge and Imperial, will serve as a platform for sharing cutting-edge knowledge, discussing emerging trends, and fostering collaborative efforts to advance the field further.\n\nPlenary speakers will give overview talks outlining what they consider to be the exciting breakthroughs and future challenges in their area. The conference will also feature Paper Talks from authors of recent standout ICML and NeurIPS papers.\n\nDon’t miss this opportunity to connect with leading experts in the field and expand your knowledge on AI technologies shaping the future.\n\nConfirmed speakers so far:…",
     "source": "IC",
-    "date": "2026-11-21T14:00:00+00:00",
-    "durationMin": 240,
-    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
-    "area": "South Kensington",
+    "date": "2026-11-25T09:00:00+00:00",
+    "durationMin": 480,
+    "venue": "LRT 608 A+B, Level 6, Translation and Innovation Hub (I-HUB), White City Campus",
+    "area": "White City",
     "price": 0,
     "tags": [
       "Conference",
+      "Artificial intelligence",
+      "life sciences",
+      "maths",
       "Open to all"
     ],
     "format": "In person",
     "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213567/international-climate-and-sustainability-youth-summit-2026/",
-    "image": "data/images/3fa8f32d206cdc0f.jpg"
+    "url": "https://www.imperial.ac.uk/events/213883/breaking-topics-in-ai-conference-2026/",
+    "image": "data/images/00c795653f0c2344.jpg"
+  },
+  {
+    "id": "ic:212320",
+    "sourceEventId": "212320",
+    "title": "Numerics for finance: from stochastics to quantum",
+    "desc": "How are financial models built from complex and uncertain data, and what tools do we need to make sense of them?\n\nProfessor Jack Jacquier, Professor of Mathematics, brings together the theory and application of mathematical finance, from stochastic analysis and numerical modelling to the potential of quantum computing.\n\nPlease register to attend in person. A live stream link for online attendance is available here.\n\nWe look forward to seeing you on Wednesday 25 November!\n\nImperial Inaugurals are term-time lectures that celebrate our newest professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nMathematical Finance deals with providing rigorous theoretical foundations and numerical tools to understand and manage financial data. In this sense, it is both…",
+    "source": "IC",
+    "date": "2026-11-25T17:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Institutional Event",
+      "Imperial Inaugurals",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212320/numerics-for-finance-from-stochastics-to-quantum/",
+    "image": "data/images/4962253a3fc210f6.jpg"
+  },
+  {
+    "id": "ic:213405",
+    "sourceEventId": "213405",
+    "title": "RSM175: Day of Celebration",
+    "desc": "In celebration of this year’s 175th anniversary of the Royal School of Mines ( RSM175 ), the Department of Earth Science and Engineering and Department of Materials are holding a special flagship event celebrating this important milestone.\n\nEstablished in 1851, the RSM was one of the three founding colleges of Imperial College London. Since then, it has nurtured generations of students, staff, researchers and educators, building a legacy of discovery and innovation across materials science and earth science.\n\nTaking place throughout the RSM building on Friday 27th November , this all-day ‘Day of Celebration’ event will bring together alumni, students, staff, industry partners and friends for a day of discovery, celebration and connection, showcasing the people, research, teaching,…",
+    "source": "IC",
+    "date": "2026-11-27T10:00:00+00:00",
+    "durationMin": 420,
+    "venue": "Multiple rooms, Royal School Of Mines, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Departmental event",
+      "Alumni",
+      "Faculty staff",
+      "Students",
+      "Engineering"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213405/rsm175-day-of-celebration/",
+    "image": "data/images/0bad00d38a08b9af.jpg"
   },
   {
     "id": "ic:212786",
@@ -500,7 +548,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216007/algebra-colloquium-thomas-peirce-warwick/",
-    "image": "data/images/1a84b406c80838f1.jpg"
+    "image": "data/images/7cd9869c3f438571.jpg"
   },
   {
     "id": "ic:216730",
@@ -544,7 +592,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216602/junior-dynamics-seminar-fraser-sanders-university-of-manchester/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:217153",
@@ -630,7 +678,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216891/geometry-and-topology-seminar-kyler-siegel-imperial/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:213921",
@@ -651,7 +699,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213921/statistics-seminar-laura-forastiere-yale/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:216077",
@@ -672,13 +720,13 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216077/siam-junior-applied-mathematics-seminar-jams-philipp-plank-dr-samantha-linn/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:216739",
     "sourceEventId": "216739",
     "title": "Junior Geometry Seminar – Siliva Gangeri",
-    "desc": "Title: Introduction to the dynamics of circle homeomorphisms\n\nSpeaker: Silvia Gangeri\n\nAbstract: TBC\n\nSome snacks will be provided before and after the talk.\n\nGo to the seminar main page.\n\nSubscribe to the mailing list.",
+    "desc": "Title: Introduction to the dynamics of circle homeomorphisms\n\nSpeaker: Silvia Gangeri\n\nAbstract: Dynamics is known to be a very rich field of mathematics, mostly because it has connections with virtually any area of mathematics. The reason is that the leading questions in the filed can be applied to almost literally anything. A dynamical system is defined just by a map acting on a space but the specific system can come for weirdest places: maps can emerge from the real world (here dynamics becomes much more applied), a lot of dynamics is motived by number theory (especially unidimensional problems, which we explore in this talk) and more often than not manifolds come endowed with a very natural dynamical system (a great example of this is Morse Theory). What brings these different…",
     "source": "IC",
     "date": "2026-11-20T17:30:00+00:00",
     "durationMin": 60,
@@ -694,6 +742,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216739/junior-geometry-seminar-siliva-gangeri/",
     "image": "data/images/f0ee1dbe9a1d5f2b.jpg"
+  },
+  {
+    "id": "ic:213567",
+    "sourceEventId": "213567",
+    "title": "International Climate and Sustainability Youth Summit 2026",
+    "desc": "We are inviting young people aged 16–30 to join us for this youth summit in London, in the context of COP31.\n\nThe International Climate and Sustainability Youth Summit 2026 will take place to coincide with COP31 in Türkiye. Join us and share your views!\n\nThe Summit is co-hosted by the United Nations Association Climate & Oceans and the Leverhulme Centre for Wildfires, Environment and Society, Imperial College London .\n\nInspired by the global momentum surrounding COP31 , this international gathering will bring together young leaders, diplomats, academics, sustainability and geopolitics experts, policymakers and civil society to discuss the urgent climate and sustainability challenges shaping our shared future.\n\nDiscussions will focus on interconnected challenges including global water and…",
+    "source": "IC",
+    "date": "2026-11-21T14:00:00+00:00",
+    "durationMin": 240,
+    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Conference",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213567/international-climate-and-sustainability-youth-summit-2026/",
+    "image": "data/images/3fa8f32d206cdc0f.jpg"
   },
   {
     "id": "ic:212959",
