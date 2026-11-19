@@ -332,27 +332,6 @@
     "image": "data/images/a00b0ab708d48c5e.jpg"
   },
   {
-    "id": "ic:215961",
-    "sourceEventId": "215961",
-    "title": "Sustainable Festive Fair",
-    "desc": "Get ready for the holidays with our Sustainable Festive Fair. Come make eco-friendly gifts, decorations, and learn ideas for a greener festive season!\n\nThere will also be a book swap at the fair so do bring a book to give and help yourself to a new read!",
-    "source": "IC",
-    "date": "2026-11-19T12:00:00+00:00",
-    "durationMin": 120,
-    "venue": "Main Entrance Foyer, Main Entrance, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Sustainability",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215961/sustainable-festive-fair-2026/",
-    "image": "data/images/c3a9713de4679a4b.jpg"
-  },
-  {
     "id": "ic:213883",
     "sourceEventId": "213883",
     "title": "Breaking Topics in AI Conference 2026",
@@ -421,52 +400,6 @@
     "image": "data/images/0bad00d38a08b9af.jpg"
   },
   {
-    "id": "ic:212786",
-    "sourceEventId": "212786",
-    "title": "Imperial Fungal Science Network | Seminar Series | ECR Talks",
-    "desc": "The Imperial Fungal Science Network is a hub for the mycology community, providing a leadership, advocacy and communications platform for mycologists and a developmental framework for future leaders in fungal research. We welcome you to the Imperial Fungal Science Network – Seminar Series 2026 for a seminar programme highlighting the work of Early Career Researchers.\n\nSeminar | ECR Talks | 12:00– 13:00 | Thursday 19th November 📍 G47, Flowers Building, South Kensington Campus, London SW7 2AZ find us at Map/3A\n\nIn-person & online (via Teams, click ‘Livestream’ button on LHS )\n\nNo registration required\n\nThis is a hybrid event to ensure that our non-London members/audience can join for the talks remotely; if you are joining us via the Teams link, please be aware that your email contact may…",
-    "source": "IC",
-    "date": "2026-11-19T12:00:00+00:00",
-    "durationMin": 60,
-    "venue": "G47A (ground floor), Flowers Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "events",
-      "Infectious diseases",
-      "Postdoctoral researchers",
-      "School of Public Health"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212786/imperial-fungal-science-network-seminar-series-ecr-talks-4/",
-    "image": "data/images/50568538d214626f.jpg"
-  },
-  {
-    "id": "ic:212783",
-    "sourceEventId": "212783",
-    "title": "Lunchtime Concert – Onyx Brass",
-    "desc": "Programme to feature Crystalla Serghiou Horns of Triton, a new RPS commission, alongside recently discovered archive brass chamber music by Benjamin Britten",
-    "source": "IC",
-    "date": "2026-11-19T13:00:00+00:00",
-    "durationMin": 45,
-    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Arts",
-      "Creative",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212783/lunchtime-concert-onyx-brass-11/",
-    "image": "data/images/f26a905db18fcb6c.jpg"
-  },
-  {
     "id": "ic:214382",
     "sourceEventId": "214382",
     "title": "Introductory Medical Statistics (held online)",
@@ -486,134 +419,6 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214382/introductory-medical-statistics-held-online-7/",
     "image": "data/images/39aa6b3abe50ad4d.jpg"
-  },
-  {
-    "id": "ic:213077",
-    "sourceEventId": "213077",
-    "title": "Conspiracy Without Theory? Exploring the Past and Present of Conspiratorial Thinking",
-    "desc": "Throughout many historical periods, conspiracy theories have exerted an influence in societies and been manipulated for their own purposes by those in power. Recent controversies over climate change, vaccines, telecommunications, media and more, have given rise to concepts such as the ‘deep state’, ‘the establishment’, and ‘globalists’.\n\nOften fuelled by social media, these newer claims are often so shallow and impulsive that they’ve been branded as ‘conspiracism’; that is, ‘conspiracy without the theory’. As Muirhead and Rosenblum (2019) explain, ‘conspiracy without the theory dispenses with the burden of explanation. We see no insistent demand for proof, no exhaustive amassing of evidence, no dots revealed to form a pattern, no close examination of the operators plotting in the…",
-    "source": "IC",
-    "date": "2026-11-19T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "ASL S303A, (Access via Sherfield Level 3), Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213077/conspiracy-without-theory-exploring-the-past-and-present-of-conspiratorial-thinking/",
-    "image": "data/images/6c0bde755d4bc614.jpg"
-  },
-  {
-    "id": "ic:213362",
-    "sourceEventId": "213362",
-    "title": "PDEs Seminar – Leonardo Tolomeo (University of Edinburgh)",
-    "desc": "PDEs Seminar",
-    "source": "IC",
-    "date": "2026-11-19T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Huxley 130, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213362/pdes-seminar-leonardo-tolomeo-university-of-edinburgh/",
-    "image": "data/images/030edec8db1523e2.jpg"
-  },
-  {
-    "id": "ic:216007",
-    "sourceEventId": "216007",
-    "title": "Algebra Colloquium – Thomas Peirce (Warwick)",
-    "desc": "Thomas Peirce (Warwick): tba\n\nMore details available on Algebra Colloquium website .",
-    "source": "IC",
-    "date": "2026-11-19T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Colloquium",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216007/algebra-colloquium-thomas-peirce-warwick/",
-    "image": "data/images/7cd9869c3f438571.jpg"
-  },
-  {
-    "id": "ic:216730",
-    "sourceEventId": "216730",
-    "title": "CLAW: AI in Science Seminar Series – Building AI Research Partners: Connecting Scientific Knowledge, Ideas and Experiments with Professor Yulan He",
-    "desc": "Abstract:\n\nLarge language models are increasingly used to support scientific research, but challenges remain in developing reliable AI research partners. Scientific literature exploration needs to move beyond semantic similarity, since meaningful discoveries often emerge from connecting seemingly unrelated work through shared problems or transferable methods. Novelty assessment requires grounding scientific claims in structured evidence and prior work. Research reproducibility is hindered by incomplete descriptions and omissions of implementation details in papers. In this talk, I will discuss our recent work addressing these challenges, including graph-distilled generative retrieval enabling literature discovery beyond similarity-based search; bi-level graph reasoning for…",
-    "source": "IC",
-    "date": "2026-11-19T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Digital Foundry, Level 6, Translation and Innovation Hub (I-HUB), White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "maths",
-      "Artificial intelligence",
-      "Science",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216730/claw-ai-in-science-seminar-series-building-ai-research-partners-connecting-scientific-knowledge-ideas-and-experiments-with-professor-yulan-he/",
-    "image": "data/images/de8f6380b9a6518a.jpg"
-  },
-  {
-    "id": "ic:216602",
-    "sourceEventId": "216602",
-    "title": "Junior Dynamics Seminar – Fraser Sanders (University of Manchester)",
-    "desc": "Infinite-dimensional contact geometry and conservative contact systems\n\nSpeaker: Fraser Sanders (University of Manchester)\n\nAbstract : In finite dimensions, contact geometry is well-studied as an odd-dimensional counterpart to symplectic geometry. It is also a natural setting in which to generalise Hamiltonian mechanics of systems, taking into account a notion of dissipation or diffusion. For example, the simplest example of a contact-Hamiltonian system is the damped harmonic oscillator (the dissipative counterpart to the simple harmonic oscillator). Due to the diffusive properties of the contact-Hamilton equations, it is also a natural setting in which to study thermodynamics (cf. Grmela, Bravetti, and many others). In fact, the 1st law of thermodynamics, $dU = T dS$ can be considered…",
-    "source": "IC",
-    "date": "2026-11-19T16:00:00+00:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216602/junior-dynamics-seminar-fraser-sanders-university-of-manchester/",
-    "image": "data/images/5378b299790f4be0.jpg"
-  },
-  {
-    "id": "ic:217153",
-    "sourceEventId": "217153",
-    "title": "PDEs Seminar – Andrea Zanoni ( University of Pisa)",
-    "desc": "Title: Inverse problems for a coupled parabolic-elliptic PDE system\n\nAbstract: Inverse problems arising from coupled partial differential equations pose significant analytical challenges, particularly when unknown coefficients influence the observed quantities only indirectly. In this talk, we investigate the recovery of a spatially varying permittivity in a coupled Fokker-Planck-Darcy system from discrete, noisy observations of the Fokker-Planck solution. The unknown coefficient enters the elliptic Darcy equation, while observations are available only through the coupled parabolic equation. We establish well-posedness and a priori estimates for the underlying PDE system, together with stability estimates for the associated inverse problem. Building on these analytical results, we study…",
-    "source": "IC",
-    "date": "2026-11-19T16:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Huxley 144, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/217153/pdes-seminar-andrea-zanoni-university-of-pisa/",
-    "image": "data/images/030edec8db1523e2.jpg"
   },
   {
     "id": "ic:211733",
@@ -678,7 +483,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216891/geometry-and-topology-seminar-kyler-siegel-imperial/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:213921",
@@ -699,7 +504,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213921/statistics-seminar-laura-forastiere-yale/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:216077",
@@ -720,7 +525,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216077/siam-junior-applied-mathematics-seminar-jams-philipp-plank-dr-samantha-linn/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:216739",
@@ -788,48 +593,200 @@
     "image": "data/images/3664c76b77dd16c7.jpg"
   },
   {
-    "id": "lse:18-november-2026-masters-health-policy",
-    "sourceEventId": "18-november-2026-masters-health-policy",
-    "title": "Master's study in Health Policy at LSE - Virtual Graduate Open Events",
-    "desc": "Virtual Graduate Open Events, United Kingdom LSE's Department of Health Policy will be holding a live online event for prospective research students. The event will enable prospective students to find out more about the master's study opportunities offered by the department, followed by the opportunity for attendees to submit their own questions.&#8239;The event will take place online via&#8239; Zoom . This event will not address the full admissions process - please register for the Applying to LSE session or an&#8239; LSE Discovery Session &#8239;for more information about applying to LSE.",
-    "source": "LSE",
-    "date": "2026-11-18T15:00:00+01:00",
-    "durationMin": 60,
-    "venue": "Master's study in Health Policy at LSE - Virtual Graduate Open Events",
-    "area": "Holborn",
+    "id": "ic:217008",
+    "sourceEventId": "217008",
+    "title": "GATP Seminar – Andrew Dancer (Oxford)",
+    "desc": "Symplectic implosion is an abelianisation construction in symplectic geometry. The implosion of the cotangent bundle of a group K plays a universal role in the implosion of manifolds with a K-action. This universal implosion, which is usually a singular variety, can also be viewed as the non-reductive Geometric Invariant Theory quotient of the complexification G of K by its maximal unipotent subgroup. In this talk, we describe joint work with Johan Martens and Nick Proudfoot which uses point-counting techniques to calculate the intersection cohomology of the universal implosion.",
+    "source": "IC",
+    "date": "2026-11-24T11:00:00+00:00",
+    "durationMin": 120,
+    "venue": "Huxley 658, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Healthcare",
-      "health",
-      "health policy",
+      "Seminar",
+      "Event",
       "Open to all"
     ],
     "format": "In person",
-    "match": 80,
-    "url": "https://www.lse.ac.uk/study-at-lse/meet-visit-and-discover-LSE/events/virtual-events/2026-27/virtual-graduate-open-events/18-november-2026-masters-health-policy?_gl=1*nbdmtp*_gcl_au*NzI2OTY4OTY5LjE3ODgzNDM5NTk.*_ga*Mjc1NDM0NzIzLjE3ODgzNDM5NTc.*_ga_LWTEVFESYX*czE3OTM2OTg0OTckbzE2JGcxJHQxNzkzNzAyNDQ2JGozOCRsMCRoMA..&entryId=2319c173-7bdc-45d3-9a69-d12fd54340d7&nodeId=e2e64854-5d30-44fa-a289-a5ef76104f3e",
-    "image": null
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217008/gatp-seminar-dancer-intersection-cohomology-of-symplectic-implosions/",
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
-    "id": "lse:18-november-2026-phd-health-policy",
-    "sourceEventId": "18-november-2026-phd-health-policy",
-    "title": "PhD study in Health Policy at LSE - Virtual Graduate Open Events",
-    "desc": "Virtual Graduate Open Events, United Kingdom LSE's Department of Health Policy will be holding a live online event for prospective research students. The event will enable prospective students to find out more about the research study opportunities offered by the department, followed by the opportunity for attendees to submit their own questions.&#8239;The event will take place online via&#8239; Zoom . This event will not address the full admissions process - please register for the Applying to LSE session or an&#8239; LSE Discovery Session &#8239;for more information about applying to LSE.",
-    "source": "LSE",
-    "date": "2026-11-18T16:30:00+01:00",
+    "id": "ic:217045",
+    "sourceEventId": "217045",
+    "title": "SPC Seminar – Climate – Quran Wu (University of Reading)",
+    "desc": "Title: New Constraint on Future Ocean Heat Uptake Revealed by Considering Model Spread of Radiative Forcing\n\nSpeaker: Quran Wu (University of Reading)\n\nAbstract: Human-induced climate change has resulted in a positive Earth energy imbalance at the top of the atmosphere. About 90% of this energy imbalance is taken up by the ocean. Ocean heat uptake (OHU) is therefore a key metric for assessing future climate risk. Contemporary climate models exhibit an intermodel spread in simulated OHU under a given future emissions scenario. Previous studies have investigated this spread in terms of ocean processes (e.g. OHU efficiency) and attempted to constrain it using historical OHU. However, the role of radiative forcing, the fundamental driver of OHU, has not been explicitly considered in previous…",
+    "source": "IC",
+    "date": "2026-11-24T11:30:00+00:00",
     "durationMin": 60,
-    "venue": "PhD study in Health Policy at LSE - Virtual Graduate Open Events",
-    "area": "Holborn",
+    "venue": "711c, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
     "price": 0,
     "tags": [
-      "Healthcare",
-      "health",
-      "health policy",
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Event",
       "Open to all"
     ],
     "format": "In person",
-    "match": 80,
-    "url": "https://www.lse.ac.uk/study-at-lse/meet-visit-and-discover-LSE/events/virtual-events/2026-27/virtual-graduate-open-events/18-november-2026-phd-health-policy?_gl=1*16m6pqy*_gcl_au*NzI2OTY4OTY5LjE3ODgzNDM5NTk.*_ga*Mjc1NDM0NzIzLjE3ODgzNDM5NTc.*_ga_LWTEVFESYX*czE3OTM2OTg0OTckbzE2JGcxJHQxNzkzNzAyNDU5JGoyNSRsMCRoMA..&entryId=2319c173-7bdc-45d3-9a69-d12fd54340d7&nodeId=e2e64854-5d30-44fa-a289-a5ef76104f3e",
-    "image": null
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217045/spc-seminar-climate-quran-wu-university-of-reading/",
+    "image": "data/images/263a03c01b826444.jpg"
+  },
+  {
+    "id": "ic:213179",
+    "sourceEventId": "213179",
+    "title": "Speak like a researcher 2: making complexity visible",
+    "desc": "Do you want to improve your academic speaking?\n\nSave this placeholder as a reminder of the Speak like a researcher workshops. The appointment is for the all of the sessions below so delete the occurrences of any sessions you do not wish to attend.\n\nSpeak like a researcher (SLAR) is a three-part, on-campus workshop series designed to help you communicate your research confidently in the situations that matter. You will learn how to build purposeful professional relationships, explain complex ideas clearly to different audiences, and respond credibly when your claims are questioned. Through practical activities, guided reflection and realistic speaking tasks, you will develop strategies for listening, questioning, structuring explanations and handling uncertainty. Each worksho p focuses on…",
+    "source": "IC",
+    "date": "2026-11-24T12:00:00+00:00",
+    "durationMin": 60,
+    "venue": "ASL-315 - Access through the SHERFIELD building, Sherfield Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Practice session",
+      "CfAE speaking and listening practice sessions",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213179/speak-like-a-researcher-2-making-complexity-visible-2/",
+    "image": "data/images/97eb39b4cfa88e4b.jpg"
+  },
+  {
+    "id": "ic:216533",
+    "sourceEventId": "216533",
+    "title": "IDE Seminar Series – Dr Ada Yan",
+    "desc": "I am a Lecturer in Mathematical Sciences at RMIT University, Australia. I develop mathematical models to understand how biological mechanisms drive the time course of infection within the host, and interactions between infection and host immunity. Prior to my appointment at RMIT University, I was an Imperial College Research Fellow in the Section of Virology, Department of Infectious Disease. During my fellowship, I developed skills in experimental virology and bioinformatics, to understand the cutting-edge questions in the field of infectious disease and the technologies available to tackle them.\n\nI have held previous Research Fellow appointments at La Trobe University, The University of Melbourne and the Department of Infectious Disease at Imperial College London. My PhD studies at the…",
+    "source": "IC",
+    "date": "2026-11-24T12:30:00+00:00",
+    "durationMin": 60,
+    "venue": "202, School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Infectious diseases",
+      "MRC Centre for Global Infectious Disease Analysis",
+      "Modelling",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216533/ide-seminar-series-dr-ada-yan/",
+    "image": "data/images/61fe7e0d1b960940.jpg"
+  },
+  {
+    "id": "ic:213996",
+    "sourceEventId": "213996",
+    "title": "Finance and Stochastics Seminar – Martin Friesen",
+    "desc": "Speaker : Martin Friesen\n\nTitle : TBA\n\nAbstract : TBA",
+    "source": "IC",
+    "date": "2026-11-24T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213996/finance-and-stochastics-seminar-martin-friesen/",
+    "image": "data/images/cdec15043aac087d.jpg"
+  },
+  {
+    "id": "ic:215516",
+    "sourceEventId": "215516",
+    "title": "Mohn Mingle – Digital Tools to Support Adolescent Mental Health",
+    "desc": "Welcome to the November Mohn Mingle.\n\nThis series of informal gatherings aims to bring together academics from all levels and backgrounds to collaboratively discuss ideas and explore ways to improve the health and wellbeing of children and young people in urban environments.\n\nWe are delighted to welcome\n\nAglaia Frederico , President’s PhD Scholar, Clinical Medicine Research with a talk entitled: “ AI-based personalised behavioural recommendations to support adolescents’ mental health in schools” , and\n\nDr Michaela Otis , Research Associate, Health Informatics and NHS Clinical. with a talk entitled: “ Integrating digital mental health in paediatric emergency settings”.\n\nWe look forward to seeing many of you there.\n\nLight refreshments will be served.\n\nIf you have a presentation idea or…",
+    "source": "IC",
+    "date": "2026-11-24T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Room 313 - 3rd Floor, School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Epidemiology",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215516/mohn-mingle-digital-tools-to-support-adolescent-mental-health/",
+    "image": "data/images/8917452e8a6fa100.jpg"
+  },
+  {
+    "id": "ic:216279",
+    "sourceEventId": "216279",
+    "title": "Astrophysics Weekly Seminar: Chris Clarkson",
+    "desc": "Astrophysics Weekly Seminar: Chris Clarkson",
+    "source": "IC",
+    "date": "2026-11-24T14:15:00+00:00",
+    "durationMin": 60,
+    "venue": "711C, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216279/astrophysics-weekly-seminar-chris-clarkson/",
+    "image": "data/images/5378b299790f4be0.jpg"
+  },
+  {
+    "id": "ic:217164",
+    "sourceEventId": "217164",
+    "title": "Stochastic Analysis Seminar – Arnaud Guillin(Université Clermont-Auvergne)",
+    "desc": "Arnaud Guillin\n\nTitle:\n\nCutoff beyond non-negative curvature\n\nAbstract",
+    "source": "IC",
+    "date": "2026-11-24T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217164/stochastic-analysis-seminar-arnaud-guillinuniversite-clermont-auvergne/",
+    "image": "data/images/5378b299790f4be0.jpg"
+  },
+  {
+    "id": "ic:215193",
+    "sourceEventId": "215193",
+    "title": "From Campus to Luxembourg: The Next Chapter",
+    "desc": "Overview\n\nJoin fellow alumni for a Climate Fresk workshop at Café Bel Air, led by Xavier Turquin, formerly CEO of Greenpeace Luxembourg. The workshop will be followed by burgers at Café Bel Air’s private room, and a career coaching session.\n\nRegistration\n\nPlease email Silvia Colucci to secure your space.",
+    "source": "IC",
+    "date": "2026-11-24T18:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Café Bel Air",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "International",
+      "Alumni",
+      "From Campus to City 2026",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215193/from-campus-to-luxembourg-the-next-chapter/",
+    "image": "data/images/922e85bfc480594e.jpg"
   },
   {
     "id": "lse:ai-democracy",
@@ -870,6 +827,27 @@
     "format": "Online",
     "match": 74,
     "url": "https://www.lse.ac.uk/events/general-artificial-intelligence",
+    "image": null
+  },
+  {
+    "id": "lse:economics-chance-health",
+    "sourceEventId": "economics-chance-health",
+    "title": "The economics of chance: what random events reveal about forces shaping health",
+    "desc": "The economics of chance: what random events reveal about forces shaping health",
+    "source": "LSE",
+    "date": "2026-11-26T18:30:00+01:00",
+    "durationMin": 90,
+    "venue": "In-person and online public event (Hong Kong Theatre, Clement House)",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Healthcare",
+      "health",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 74,
+    "url": "https://www.lse.ac.uk/events/economics-chance-health",
     "image": null
   },
   {
@@ -1239,7 +1217,7 @@
     "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/11/science-narratives-and-the-public/",
-    "image": "data/images/46f734dcef9017de.jpg"
+    "image": "data/images/199b122f1925331f.jpg"
   },
   {
     "id": "rs:2026-11-see-healthcare-differently",
