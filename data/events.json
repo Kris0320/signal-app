@@ -1,5 +1,26 @@
 [
   {
+    "id": "kcl:origin-route-and-destination-reconfigurations-of-transnational-organised-crime-and-their-impacts-on-society-and-the-armed-forces-in-latin-america-and-europe",
+    "sourceEventId": "eb3927d8-c9fd-4aa8-91bc-e670babf0f44",
+    "title": "ORIGIN, ROUTE AND DESTINATION Reconfigurations of Transnational Organised Crime and their Impacts on Society and the Armed Forces in Latin America and Europe",
+    "desc": "This workshop will discuss the reconfigurations of transnational organised crime along the routes that connect South America and Europe, and their impacts on society and the armed forces.",
+    "source": "KCL",
+    "date": "2026-12-01T09:00:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Faculty of Social Science & Public Policy",
+      "School of Security Studies",
+      "Department of War Studies"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/origin-route-and-destination-reconfigurations-of-transnational-organised-crime-and-their-impacts-on-society-and-the-armed-forces-in-latin-america-and-europe",
+    "image": "data/images/f6588068beb3780c.png"
+  },
+  {
     "id": "kcl:morning-prayer-at-waterloo-10",
     "sourceEventId": "b8a2a1b5-a753-4210-8200-9cf190164a7d",
     "title": "Morning Prayer at Waterloo",
@@ -288,27 +309,6 @@
     "image": "data/images/ca6cdc53bca73dd8.jpg"
   },
   {
-    "id": "kcl:book-launch-politics-of-the-periphery",
-    "sourceEventId": "d651bc16-c806-454d-9fdc-09d4c1bcec6e",
-    "title": "Book Launch: Politics of the Periphery, with Dr Martijn Koster",
-    "desc": "Based on over two decades of ethnographic engagement, \"Politics of the Periphery: Governance and Elections in Brazil's Urban Margins\" offers detailed insights into Brazil's urban margins.",
-    "source": "KCL",
-    "date": "2026-12-02T12:00:00",
-    "durationMin": 120,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "King’s Brazil Institute",
-      "School of Global Affairs",
-      "Faculty of Social Science & Public Policy"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/book-launch-politics-of-the-periphery",
-    "image": "data/images/8c7bf855cd7bad43.png"
-  },
-  {
     "id": "ic:215848",
     "sourceEventId": "215848",
     "title": "Imperial Lates: Science Across Africa",
@@ -400,27 +400,6 @@
     "image": "data/images/0bad00d38a08b9af.jpg"
   },
   {
-    "id": "ic:214382",
-    "sourceEventId": "214382",
-    "title": "Introductory Medical Statistics (held online)",
-    "desc": "Introductory Medical Statistics\n\nThe Introductory Medical Statistics Course introduces you to basic statistical concepts. The course is run by statisticians and epidemiologists based at the National Heart and Lung Institute (NHLI).\n\nIt is suitable for: Doctors (including trainee grades), nurses, allied health professionals, clinical research fellows and postgraduate students.\n\nFor more information, please visit the website: https://www.medstatscourse.co.uk\n\nRegistration fees:\n\n£125 – MSc/PhD students\n\n£195 – academic/NHS/charities\n\nThe course will be held on Microsoft Teams, and recordings of the two half days are circulated the following week. Delegates also receive an individual attendance certificate.\n\nWe send the slides out about a week before the event.\n\nNB:\n\nImperial College staff…",
-    "source": "IC",
-    "date": "2026-11-19T13:30:00+00:00",
-    "durationMin": 480,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Training Course",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214382/introductory-medical-statistics-held-online-7/",
-    "image": "data/images/39aa6b3abe50ad4d.jpg"
-  },
-  {
     "id": "ic:211733",
     "sourceEventId": "211733",
     "title": "Friday Forum – The Ethics of Air Pollution",
@@ -468,7 +447,7 @@
     "id": "ic:216891",
     "sourceEventId": "216891",
     "title": "Geometry and Topology Seminar – Kyler Siegel (Imperial)",
-    "desc": "Kyler Siegel (Imperial): tba\n\nMore information on the GT seminar website",
+    "desc": "Kyler Siegel (Imperial): Sesquicurves\n\nMore information on the GT seminar website",
     "source": "IC",
     "date": "2026-11-20T13:30:00+00:00",
     "durationMin": 60,
@@ -504,7 +483,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213921/statistics-seminar-laura-forastiere-yale/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:216077",
@@ -525,7 +504,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216077/siam-junior-applied-mathematics-seminar-jams-philipp-plank-dr-samantha-linn/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:216739",
@@ -570,6 +549,27 @@
     "image": "data/images/3fa8f32d206cdc0f.jpg"
   },
   {
+    "id": "ic:217228",
+    "sourceEventId": "217228",
+    "title": "MAGIC Seminar – Rin Ray (Münster)",
+    "desc": "Rin Ray (Münster): Ramification as level structure: a curve model for the symmetries of Lubin-Tata space\n\nMore details can be found on https://www.imperial.ac.uk/geometry/seminars/magic-seminar/",
+    "source": "IC",
+    "date": "2026-11-23T13:00:00+00:00",
+    "durationMin": 90,
+    "venue": "tba, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217228/magic-seminar-rin-ray-munster/",
+    "image": "data/images/6a3c37ce4e152683.jpg"
+  },
+  {
     "id": "ic:212959",
     "sourceEventId": "212959",
     "title": "Christian Meditation: Online and In-person",
@@ -611,7 +611,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217008/gatp-seminar-dancer-intersection-cohomology-of-symplectic-implosions/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:217045",
@@ -684,7 +684,7 @@
     "id": "ic:213996",
     "sourceEventId": "213996",
     "title": "Finance and Stochastics Seminar – Martin Friesen",
-    "desc": "Speaker : Martin Friesen\n\nTitle : TBA\n\nAbstract : TBA",
+    "desc": "Speaker : Martin Friesen\n\nTitle : Boundary behavior of the Volterra square-root process\n\nAbstract : The classical square-root diffusion, also known as the Cox-Ingersoll-Ross (CIR) process, admits a complete characterization of its boundary behavior through the well-known Feller condition. For its non-Markovian analogue, the rough or Volterra square-root process, the situation is considerably more subtle, as memory and roughness fundamentally alter the dynamics. In this talk, we review recent advances on the boundary behavior of Volterra square-root processes. For regular kernels, we present a natural analogue of the Feller condition that explicitly captures the effect of memory. In contrast, for singular kernels we show that the process necessarily hits the boundary. As an application,…",
     "source": "IC",
     "date": "2026-11-24T14:00:00+00:00",
     "durationMin": 60,
@@ -699,7 +699,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213996/finance-and-stochastics-seminar-martin-friesen/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:215516",
@@ -742,7 +742,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216279/astrophysics-weekly-seminar-chris-clarkson/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:217164",
@@ -763,30 +763,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217164/stochastic-analysis-seminar-arnaud-guillinuniversite-clermont-auvergne/",
-    "image": "data/images/5378b299790f4be0.jpg"
-  },
-  {
-    "id": "ic:215193",
-    "sourceEventId": "215193",
-    "title": "From Campus to Luxembourg: The Next Chapter",
-    "desc": "Overview\n\nJoin fellow alumni for a Climate Fresk workshop at Café Bel Air, led by Xavier Turquin, formerly CEO of Greenpeace Luxembourg. The workshop will be followed by burgers at Café Bel Air’s private room, and a career coaching session.\n\nRegistration\n\nPlease email Silvia Colucci to secure your space.",
-    "source": "IC",
-    "date": "2026-11-24T18:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Café Bel Air",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "International",
-      "Alumni",
-      "From Campus to City 2026",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215193/from-campus-to-luxembourg-the-next-chapter/",
-    "image": "data/images/922e85bfc480594e.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "lse:ai-democracy",
@@ -1181,26 +1158,6 @@
     "image": "data/images/b6d4a4028a4de58e.jpg"
   },
   {
-    "id": "rs:2026-11-lost-women-of-science-conversations",
-    "sourceEventId": "2026-11-lost-women-of-science-conversations",
-    "title": "Lost Women of Science Conversations: Hertha Ayrton - Electrical Engineer Extraordinaire",
-    "desc": "Join Lost Women of Science, the award-winning podcast that tells the stories of remarkable - and largely unheralded - female scientists throughout history, for an evening celebrating Royal Society Hughes Medal-winner Hertha Ayrton: inventor, engineer, suffragette, trailblazer and firefighter.",
-    "source": "RS",
-    "date": "2026-11-19T19:00:00+01:00",
-    "durationMin": 90,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Policy",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/lost-women-of-science-conversations/",
-    "image": "data/images/37f957b096c8c3f0.jpg"
-  },
-  {
     "id": "rs:2026-11-science-narratives-and-the-public",
     "sourceEventId": "2026-11-science-narratives-and-the-public",
     "title": "Science narratives and the public",
@@ -1275,7 +1232,7 @@
     "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/02/ferrier-prize-lecture/",
-    "image": "data/images/678fb46c963a2204.jpg"
+    "image": "data/images/9d472a12f0d0251b.jpg"
   },
   {
     "id": "rs:2027-03-africa-prize-lecture",
@@ -1295,7 +1252,7 @@
     "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/03/africa-prize-lecture/",
-    "image": "data/images/678fb46c963a2204.jpg"
+    "image": "data/images/db5babdb09bc1731.jpg"
   },
   {
     "id": "rs:2027-04-croonian-prize-lecture",
@@ -1314,7 +1271,7 @@
     "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/04/croonian-prize-lecture/",
-    "image": "data/images/678fb46c963a2204.jpg"
+    "image": "data/images/70d4cfd4a8d41aa3.jpg"
   },
   {
     "id": "rs:2027-05-bakerian-prize-lecture",
@@ -1333,7 +1290,7 @@
     "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/05/bakerian-prize-lecture/",
-    "image": "data/images/678fb46c963a2204.jpg"
+    "image": "data/images/d0a410bc1b1220ab.jpg"
   },
   {
     "id": "rs:2027-06-environment-prize-lecture",
@@ -1353,7 +1310,7 @@
     "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/06/environment-prize-lecture/",
-    "image": "data/images/678fb46c963a2204.jpg"
+    "image": "data/images/cdc41565bb4ed661.jpg"
   },
   {
     "id": "rs:2027-10-francis-crick-prize-lecture",
@@ -1372,7 +1329,7 @@
     "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/10/francis-crick-prize-lecture/",
-    "image": "data/images/678fb46c963a2204.jpg"
+    "image": "data/images/b9a1d799507ceb16.jpg"
   },
   {
     "id": "rs:2027-11-milner-prize-lecture",
@@ -1391,6 +1348,6 @@
     "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/11/milner-prize-lecture/",
-    "image": "data/images/678fb46c963a2204.jpg"
+    "image": "data/images/a1063fc3d1d66de7.jpg"
   }
 ]
