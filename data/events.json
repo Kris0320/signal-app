@@ -159,7 +159,8 @@
     "price": 0,
     "tags": [
       "Law",
-      "The Dickson Poon School of Law"
+      "The Dickson Poon School of Law",
+      "King’s Institute for Artificial Intelligence"
     ],
     "format": "In person",
     "match": 70,
@@ -400,134 +401,6 @@
     "image": "data/images/0bad00d38a08b9af.jpg"
   },
   {
-    "id": "ic:211733",
-    "sourceEventId": "211733",
-    "title": "Friday Forum – The Ethics of Air Pollution",
-    "desc": "This event is now full. Thank you for your interest. If you would like to be put on the waiting list, please contact Dr Stephen Webster\n\nEthics and air pollution\n\nAll Imperial members are invited to the first Friday Forum of the academic year, on the ethics of air pollution.\n\nWe are delighted to welcome to the discussion Sir Chris Whitty, the Chief Medical Officer for England. The event is organised in collaboration with Imperial’s Environmental Research Group , and is chaired by Professor Sir Stephen Holgate, lead author of the Royal College of Physician’s recent report on air quality, ‘A Breath of Fresh Air’.\n\nWe will be discussing two ethical aspects of air pollution. Firstly, we examine the relation between air pollution, resultant poor health, and inequality. Secondly, we showcase…",
-    "source": "IC",
-    "date": "2026-11-20T12:00:00+00:00",
-    "durationMin": 135,
-    "venue": "Queen's Tower Rooms B & C, Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Symposium",
-      "Science",
-      "Science communication",
-      "Air quality",
-      "Pollution"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/211733/friday-forum-the-ethics-of-air-pollution/",
-    "image": "data/images/1f8e34092c6928dd.jpg"
-  },
-  {
-    "id": "ic:215618",
-    "sourceEventId": "215618",
-    "title": "Climbing – Movember",
-    "desc": "Come and have a go on our climbing wall at ethos South Ken. No previous experience needed! If attending this session please arrive on time otherwise you risk missing the induction and not being able to take part.",
-    "source": "IC",
-    "date": "2026-11-20T12:00:00+00:00",
-    "durationMin": 60,
-    "venue": "5th court, Ethos Sports Centre, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215618/climbing-movember/",
-    "image": "data/images/c5a80b5d6df61329.jpg"
-  },
-  {
-    "id": "ic:216891",
-    "sourceEventId": "216891",
-    "title": "Geometry and Topology Seminar – Kyler Siegel (Imperial)",
-    "desc": "Kyler Siegel (Imperial): Sesquicurves\n\nMore information on the GT seminar website",
-    "source": "IC",
-    "date": "2026-11-20T13:30:00+00:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216891/geometry-and-topology-seminar-kyler-siegel-imperial/",
-    "image": "data/images/5378b299790f4be0.jpg"
-  },
-  {
-    "id": "ic:213921",
-    "sourceEventId": "213921",
-    "title": "Statistics Seminar: Laura Forastiere (Yale)",
-    "desc": "14:00 – 15:00 – Laura Forastiere (Yale)\n\nTitle: TBA\n\nAbstract: TBA",
-    "source": "IC",
-    "date": "2026-11-20T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "HXLY139, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213921/statistics-seminar-laura-forastiere-yale/",
-    "image": "data/images/263a03c01b826444.jpg"
-  },
-  {
-    "id": "ic:216077",
-    "sourceEventId": "216077",
-    "title": "SIAM Junior Applied Mathematics Seminar (JAMS) – Philipp Plank & Dr Samantha Linn",
-    "desc": "Learning Distributed Equilibria in Linear-Quadratic Stochastic Differential Games: An alpha-Potential Approach\n\nSpeaker 1: Philip Plank\n\nAbstract: This talk analyses independent policy-gradient learning in N-player linear-quadratic stochastic differential games. Each player employs a distributed policy that depends only on its own state and updates its policy independently by following the gradient of its own objective. We show that the game admits an alpha-potential structure, where alpha is determined by the degree of pairwise interaction asymmetry. Exploiting this structure, we establish global linear convergence of these methods to an approximate equilibrium, with suboptimality proportional to the degree of asymmetry and complexity scaling approximately linearly with the population…",
-    "source": "IC",
-    "date": "2026-11-20T17:00:00+00:00",
-    "durationMin": 60,
-    "venue": "144, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216077/siam-junior-applied-mathematics-seminar-jams-philipp-plank-dr-samantha-linn/",
-    "image": "data/images/263a03c01b826444.jpg"
-  },
-  {
-    "id": "ic:216739",
-    "sourceEventId": "216739",
-    "title": "Junior Geometry Seminar – Siliva Gangeri",
-    "desc": "Title: Introduction to the dynamics of circle homeomorphisms\n\nSpeaker: Silvia Gangeri\n\nAbstract: Dynamics is known to be a very rich field of mathematics, mostly because it has connections with virtually any area of mathematics. The reason is that the leading questions in the filed can be applied to almost literally anything. A dynamical system is defined just by a map acting on a space but the specific system can come for weirdest places: maps can emerge from the real world (here dynamics becomes much more applied), a lot of dynamics is motived by number theory (especially unidimensional problems, which we explore in this talk) and more often than not manifolds come endowed with a very natural dynamical system (a great example of this is Morse Theory). What brings these different…",
-    "source": "IC",
-    "date": "2026-11-20T17:30:00+00:00",
-    "durationMin": 60,
-    "venue": "Room 140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216739/junior-geometry-seminar-siliva-gangeri/",
-    "image": "data/images/f0ee1dbe9a1d5f2b.jpg"
-  },
-  {
     "id": "ic:213567",
     "sourceEventId": "213567",
     "title": "International Climate and Sustainability Youth Summit 2026",
@@ -567,7 +440,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217228/magic-seminar-rin-ray-munster/",
-    "image": "data/images/6a3c37ce4e152683.jpg"
+    "image": "data/images/7cd9869c3f438571.jpg"
   },
   {
     "id": "ic:212959",
@@ -611,7 +484,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217008/gatp-seminar-dancer-intersection-cohomology-of-symplectic-implosions/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:217045",
@@ -633,7 +506,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217045/spc-seminar-climate-quran-wu-university-of-reading/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:213179",
@@ -726,8 +599,8 @@
   {
     "id": "ic:216279",
     "sourceEventId": "216279",
-    "title": "Astrophysics Weekly Seminar: Chris Clarkson",
-    "desc": "Astrophysics Weekly Seminar: Chris Clarkson",
+    "title": "Universe Community Colloquium: Professor Chris Clarkson – Signatures of general relativity in galaxy clustering",
+    "desc": "Signatures of general relativity in galaxy clustering\n\nFuture galaxy surveys will map the large-scale structure of the Universe with unprecedented precision. One of their main goals is to use galaxy clustering to test the physics of the early Universe and search for primordial non-Gaussianity. On the largest scales, however, the observed galaxy distribution is not simply a three-dimensional density field: it is reconstructed from light arriving on our past lightcone, and is affected by a variety of relativistic projection effects and distortions. Alongside lensing and redshift-space distortions, a hierarchy of more subtle effects comes into play.\n\nIn this talk I will give an overview of how these relativistic effects appear in galaxy clustering statistics. In Fourier space they generate…",
     "source": "IC",
     "date": "2026-11-24T14:15:00+00:00",
     "durationMin": 60,
@@ -742,7 +615,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216279/astrophysics-weekly-seminar-chris-clarkson/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:217164",
@@ -763,7 +636,137 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217164/stochastic-analysis-seminar-arnaud-guillinuniversite-clermont-auvergne/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
+  },
+  {
+    "id": "ic:215193",
+    "sourceEventId": "215193",
+    "title": "From Campus to Luxembourg: The Next Chapter",
+    "desc": "Overview\n\nJoin fellow alumni for a Climate Fresk workshop at Café Bel Air, led by Xavier Turquin, formerly CEO of Greenpeace Luxembourg. The workshop will be followed by burgers at Café Bel Air’s private room, and a career coaching session.\n\nRegistration\n\nPlease email Silvia Colucci to secure your space.",
+    "source": "IC",
+    "date": "2026-11-24T18:00:00+01:00",
+    "durationMin": 120,
+    "venue": "Café Bel Air",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "International",
+      "Alumni",
+      "From Campus to City 2026",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215193/from-campus-to-luxembourg-the-next-chapter/",
+    "image": "data/images/922e85bfc480594e.jpg"
+  },
+  {
+    "id": "ic:216122",
+    "sourceEventId": "216122",
+    "title": "Imperial Science Cafe – Ovarian Cancer Research @ Imperial",
+    "desc": "Join us for the next Imperial Science Cafe -Ovarian Cancer Research @ Imperial at Maggie’s West London .\n\nThe Imperial Science Café, started in 201, remains a space where our researchers share their research with patients and the public. These events allow plenty of time questions and discussion about our cancer research. It is a great place to learn about cancer and how our research aims to better understand cancer, to diagnose it earlier and to find better and kinder treatments.\n\nSpeakers include: Lura Tookman, Eunice Xing and Ellie Ware\n\nElli Ware (Dietician)\n\nDetermining best practice for the management of Malignant Bowel Obstruction (MBO), as a complication of Ovarian Cancer.\n\nThe overall goal of Ellie’s research is to improve dietary care for people with recurrent ovarian cancer…",
+    "source": "IC",
+    "date": "2026-11-24T18:00:00+00:00",
+    "durationMin": 120,
+    "venue": "Maggie’s West London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216122/imperial-science-cafe-nov26/",
+    "image": "data/images/5a056e2deea5f770.jpg"
+  },
+  {
+    "id": "ic:216090",
+    "sourceEventId": "216090",
+    "title": "Lab of the Future Tech Showcase",
+    "desc": "We would like to invite attendees to submit abstracts relevant to the Lab of the Future remit. A number of abstracts will be invited to be presented as posters. Submit an abstract by filling out this form by midday on the 18 th November. We will confirm with you as soon as possible following the application deadline.\n\nPlease see below for confirmed speakers:\n\nBecky Greenaway, Associate Professor, Imperial College London Richard Borne, Professor of Digital Chemical Engineering, University of Leeds Bethan Howells, Senior Automation Scientist, AstraZeneca Nicolas Houvenaghel, Director of Automation and Biochemical Screening, AstraZeneca Behzad Mohebbi, Director of Analytical and Measurement Science, P&G Sanket Gaurav, Senior Machine Learning and Robotics Scientist, P&G Emilie Fritsch,…",
+    "source": "IC",
+    "date": "2026-11-25T09:30:00+00:00",
+    "durationMin": 480,
+    "venue": "B10, Molecular Sciences Research Hub (MSRH), White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Symposium",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216090/lab-of-the-future-tech-showcase/",
+    "image": "data/images/a723be2d13a04983.jpg"
+  },
+  {
+    "id": "ic:210467",
+    "sourceEventId": "210467",
+    "title": "Open Themed Art Class [4]",
+    "desc": "This art class is open to everyone working and studying at Imperial College.\n\nIt is free and open to all levels and abilities, so whether you are an absolute beginner or an experienced artist you will find the tutor has something special to offer you. Come and explore.\n\nPlease feel free to join and leave at any point during the session.\n\nThese sessions are responsive to you , providing an invaluable opportunity for you to create whatever you like with free materials and mentoring support with professional artist Mindy Lee.\n\nSpaces are limited to 10 per session\n\nTickets will be released 8 days in advance of the class. Please book a ticket from your COLLEGE EMAIL ADDRESS only. Tickets booked from external emails will be deleted. Please cancel your ticket if you can no longer attend.\n\nHow…",
+    "source": "IC",
+    "date": "2026-11-25T13:00:00+00:00",
+    "durationMin": 120,
+    "venue": "Blyth Art Studio, Room RODH 319, LEVEL 3, Roderic Hill, Roderic Hill Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Arts",
+      "Education",
+      "Student experience",
+      "Staff experience"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210467/open-themed-art-class-4-6/",
+    "image": "data/images/44b52abaaff5d460.jpg"
+  },
+  {
+    "id": "ic:214090",
+    "sourceEventId": "214090",
+    "title": "Communion Service",
+    "desc": "A reflective service of communion (sharing bread and wine) in the middle of the working week.\n\nA chance to pause and stand back from the activities of work, to reflect on our lives, and to pray for peace and justice and for people we know.\n\nJoin the people of Holy Trinity Church, and staff and students from other colleges and local institutions.\n\nService open to all, using an order from the Church of England.\n\nSubscribe to Mailing list for more information and weekly reminder delivered at your inbox.\n\nHow to find us: Holy Trinity Church, Prince Consort Rd, SW7 2BA (next to Beit Quadrangle, South Kensington)",
+    "source": "IC",
+    "date": "2026-11-25T13:05:00+00:00",
+    "durationMin": 35,
+    "venue": "Holy Trinity Church, Prince Consort Rd, SW7 2BA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214090/communion-service-and-weekly-prayers-8/",
+    "image": "data/images/af9b490ac7fdb97b.jpg"
+  },
+  {
+    "id": "ic:213558",
+    "sourceEventId": "213558",
+    "title": "Triangle seminar: City U",
+    "desc": "Triangle seminar: City U (please check the exact time near the event)",
+    "source": "IC",
+    "date": "2026-11-25T13:30:00+00:00",
+    "durationMin": 60,
+    "venue": "City U",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213558/triangle-seminar-city-u-2/",
+    "image": "data/images/512d103d5423a9c7.jpg"
   },
   {
     "id": "lse:ai-democracy",
