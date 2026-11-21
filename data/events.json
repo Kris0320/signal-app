@@ -440,7 +440,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217228/magic-seminar-rin-ray-munster/",
-    "image": "data/images/7cd9869c3f438571.jpg"
+    "image": "data/images/512d103d5423a9c7.jpg"
   },
   {
     "id": "ic:212959",
@@ -484,7 +484,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217008/gatp-seminar-dancer-intersection-cohomology-of-symplectic-implosions/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:217045",
@@ -615,7 +615,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216279/astrophysics-weekly-seminar-chris-clarkson/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:217164",
@@ -636,7 +636,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217164/stochastic-analysis-seminar-arnaud-guillinuniversite-clermont-auvergne/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:215193",
@@ -766,7 +766,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213558/triangle-seminar-city-u-2/",
-    "image": "data/images/512d103d5423a9c7.jpg"
+    "image": "data/images/1a84b406c80838f1.jpg"
   },
   {
     "id": "lse:ai-democracy",
@@ -1159,25 +1159,6 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/04/recombinant-genealogies/",
     "image": "data/images/b6d4a4028a4de58e.jpg"
-  },
-  {
-    "id": "rs:2026-11-science-narratives-and-the-public",
-    "sourceEventId": "2026-11-science-narratives-and-the-public",
-    "title": "Science narratives and the public",
-    "desc": "A conference exploring how scientists have crafted narratives about their work, exploring a broad sweep of media, from print to television and beyond.",
-    "source": "RS",
-    "date": "2026-11-20T09:30:00+01:00",
-    "durationMin": 450,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/science-narratives-and-the-public/",
-    "image": "data/images/199b122f1925331f.jpg"
   },
   {
     "id": "rs:2026-11-see-healthcare-differently",
