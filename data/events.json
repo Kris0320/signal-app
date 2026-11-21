@@ -401,27 +401,6 @@
     "image": "data/images/0bad00d38a08b9af.jpg"
   },
   {
-    "id": "ic:213567",
-    "sourceEventId": "213567",
-    "title": "International Climate and Sustainability Youth Summit 2026",
-    "desc": "We are inviting young people aged 16–30 to join us for this youth summit in London, in the context of COP31.\n\nThe International Climate and Sustainability Youth Summit 2026 will take place to coincide with COP31 in Türkiye. Join us and share your views!\n\nThe Summit is co-hosted by the United Nations Association Climate & Oceans and the Leverhulme Centre for Wildfires, Environment and Society, Imperial College London .\n\nInspired by the global momentum surrounding COP31 , this international gathering will bring together young leaders, diplomats, academics, sustainability and geopolitics experts, policymakers and civil society to discuss the urgent climate and sustainability challenges shaping our shared future.\n\nDiscussions will focus on interconnected challenges including global water and…",
-    "source": "IC",
-    "date": "2026-11-21T14:00:00+00:00",
-    "durationMin": 240,
-    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213567/international-climate-and-sustainability-youth-summit-2026/",
-    "image": "data/images/3fa8f32d206cdc0f.jpg"
-  },
-  {
     "id": "ic:217228",
     "sourceEventId": "217228",
     "title": "MAGIC Seminar – Rin Ray (Münster)",
@@ -440,7 +419,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217228/magic-seminar-rin-ray-munster/",
-    "image": "data/images/512d103d5423a9c7.jpg"
+    "image": "data/images/7cd9869c3f438571.jpg"
   },
   {
     "id": "ic:212959",
@@ -484,7 +463,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217008/gatp-seminar-dancer-intersection-cohomology-of-symplectic-implosions/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:217045",
@@ -506,7 +485,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217045/spc-seminar-climate-quran-wu-university-of-reading/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:213179",
@@ -572,7 +551,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213996/finance-and-stochastics-seminar-martin-friesen/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:215516",
@@ -615,7 +594,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216279/astrophysics-weekly-seminar-chris-clarkson/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:217164",
@@ -636,7 +615,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217164/stochastic-analysis-seminar-arnaud-guillinuniversite-clermont-auvergne/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:215193",
@@ -766,7 +745,28 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213558/triangle-seminar-city-u-2/",
-    "image": "data/images/1a84b406c80838f1.jpg"
+    "image": "data/images/7cd9869c3f438571.jpg"
+  },
+  {
+    "id": "ic:216949",
+    "sourceEventId": "216949",
+    "title": "Road Traffic Injuries: From Collision to Recovery",
+    "desc": "Please email Funanani Nemaheni: F.nemaheni@imperial.ac.uk to RSVP\n\nWe are delighted to invite you to the Centre for Injury Studies seminar on Road traffic injuries, from collision to Recovery.\n\nDate: 25 November 2025\n\nTime: 2:00–4:30 pm\n\nVenue: Sir Michael Uren Building, Room 1202/1203, White City Campus.\n\nMotor-vehicle collision-related trauma is a leading cause of death and disability worldwide. It is “the neglected disease of modern society” with 1.35 million people dying and 50 million seriously injured on the world’s roads each year. It has a high burden of disease, affecting families and burdening healthcare and social care systems. Injuries occurring on roads are preventable.\n\nHosted by the Centre for Injury Studies and chaired by Professor Spyros Masouros, this seminar will…",
+    "source": "IC",
+    "date": "2026-11-25T14:00:00+00:00",
+    "durationMin": 150,
+    "venue": "Room 1202/1203, Sir Michael Uren Hub, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216949/road-traffic-injuries-from-collision-to-recovery/",
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "lse:ai-democracy",
