@@ -356,28 +356,6 @@
     "image": "data/images/00c795653f0c2344.jpg"
   },
   {
-    "id": "ic:212320",
-    "sourceEventId": "212320",
-    "title": "Numerics for finance: from stochastics to quantum",
-    "desc": "How are financial models built from complex and uncertain data, and what tools do we need to make sense of them?\n\nProfessor Jack Jacquier, Professor of Mathematics, brings together the theory and application of mathematical finance, from stochastic analysis and numerical modelling to the potential of quantum computing.\n\nPlease register to attend in person. A live stream link for online attendance is available here.\n\nWe look forward to seeing you on Wednesday 25 November!\n\nImperial Inaugurals are term-time lectures that celebrate our newest professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nMathematical Finance deals with providing rigorous theoretical foundations and numerical tools to understand and manage financial data. In this sense, it is both…",
-    "source": "IC",
-    "date": "2026-11-25T17:30:00+00:00",
-    "durationMin": 60,
-    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Institutional Event",
-      "Imperial Inaugurals",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212320/numerics-for-finance-from-stochastics-to-quantum/",
-    "image": "data/images/4962253a3fc210f6.jpg"
-  },
-  {
     "id": "ic:213405",
     "sourceEventId": "213405",
     "title": "RSM175: Day of Celebration",
@@ -401,6 +379,52 @@
     "image": "data/images/0bad00d38a08b9af.jpg"
   },
   {
+    "id": "ic:212662",
+    "sourceEventId": "212662",
+    "title": "Who creates, who captures? Value, power, and the future of digital ecosystems",
+    "desc": "Digital platforms have transformed how we work, create and consume. Professor Tobias Kretschmer, Professor of Strategy, Technology and Organisation at Imperial Business School, sheds light on the shifting balance of power between platforms and creators and what AI and regulation could mean for the digital economy.\n\nPlease register to attend in person. A live stream link for online attendance is available here.\n\nWe look forward to seeing you on Wednesday 2 December!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nDigital platforms — from app stores and music streaming to freelance marketplaces — have become the defining economic infrastructure of our time, shaping what we watch,…",
+    "source": "IC",
+    "date": "2026-12-02T17:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Institutional Event",
+      "Imperial Inaugurals",
+      "Faculty staff",
+      "Business School promoted"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212662/who-creates-who-captures-value-power-and-the-future-of-digital-ecosystems/",
+    "image": "data/images/6ced98add2dd3db4.jpg"
+  },
+  {
+    "id": "ic:212834",
+    "sourceEventId": "212834",
+    "title": "The power of placebo",
+    "desc": "What happens when a medical procedure is put to the placebo test?\n\nProfessor Rasha Al-Lamee, Clinical Professor of Cardiology at the National Heart and Lung Institute, explores the surprising results of the first placebo-controlled trial of coronary stenting for angina, the questions it raised about what drives symptom relief, and how a negative clinical trial led to positive changes.\n\nPlease register to attend in person. A live stream link for online attendance is available here.\n\nWe look forward to seeing you on Wednesday 9 December!\n\nImperial Inaugurals are term-time lectures that celebrate our newest Professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nWe hold drugs to the highest standard. Before a medicine reaches patients, it must outperform…",
+    "source": "IC",
+    "date": "2026-12-09T17:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Institutional Event",
+      "Imperial Inaugurals",
+      "NHLI",
+      "Women at Imperial"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212834/the-power-of-placebo/",
+    "image": "data/images/51e3aa5b6e8b95f6.jpg"
+  },
+  {
     "id": "ic:217228",
     "sourceEventId": "217228",
     "title": "MAGIC Seminar – Rin Ray (Münster)",
@@ -419,7 +443,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217228/magic-seminar-rin-ray-munster/",
-    "image": "data/images/b4f3c036c0b69eb4.jpg"
+    "image": "data/images/512d103d5423a9c7.jpg"
   },
   {
     "id": "ic:212959",
@@ -463,7 +487,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217008/gatp-seminar-dancer-intersection-cohomology-of-symplectic-implosions/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:217045",
@@ -551,7 +575,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217291/dynamical-systems-seminar-david-parmenter-university-of-bristol/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:213996",
@@ -766,7 +790,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213558/triangle-seminar-city-u-2/",
-    "image": "data/images/512d103d5423a9c7.jpg"
+    "image": "data/images/7cd9869c3f438571.jpg"
   },
   {
     "id": "lse:ai-democracy",
@@ -1198,6 +1222,26 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2026/12/see-christmas-differently/",
     "image": "data/images/b0e415b892e229de.jpg"
+  },
+  {
+    "id": "rs:2027-01-attenborough-prize-lecture",
+    "sourceEventId": "2027-01-attenborough-prize-lecture",
+    "title": "David Attenborough Prize Lecture: Future histories of space",
+    "desc": "Join us for the Royal Society David Attenborough Prize Lecture delivered by 2026 winner Dame Maggie Aderin.",
+    "source": "RS",
+    "date": "2027-01-21T18:30:00+01:00",
+    "durationMin": 60,
+    "venue": "The Royal Society",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Policy",
+      "Open to all"
+    ],
+    "format": "In person + online",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/01/attenborough-prize-lecture/",
+    "image": "data/images/cdd7e144861cbd5e.jpg"
   },
   {
     "id": "rs:2027-02-ferrier-prize-lecture",
