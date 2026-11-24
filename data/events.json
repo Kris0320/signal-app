@@ -1,316 +1,5 @@
 [
   {
-    "id": "kcl:origin-route-and-destination-reconfigurations-of-transnational-organised-crime-and-their-impacts-on-society-and-the-armed-forces-in-latin-america-and-europe",
-    "sourceEventId": "eb3927d8-c9fd-4aa8-91bc-e670babf0f44",
-    "title": "ORIGIN, ROUTE AND DESTINATION Reconfigurations of Transnational Organised Crime and their Impacts on Society and the Armed Forces in Latin America and Europe",
-    "desc": "This workshop will discuss the reconfigurations of transnational organised crime along the routes that connect South America and Europe, and their impacts on society and the armed forces.",
-    "source": "KCL",
-    "date": "2026-12-01T09:00:00",
-    "durationMin": 480,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Faculty of Social Science & Public Policy",
-      "School of Security Studies",
-      "Department of War Studies"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/origin-route-and-destination-reconfigurations-of-transnational-organised-crime-and-their-impacts-on-society-and-the-armed-forces-in-latin-america-and-europe",
-    "image": "data/images/f6588068beb3780c.png"
-  },
-  {
-    "id": "kcl:morning-prayer-at-waterloo-10",
-    "sourceEventId": "b8a2a1b5-a753-4210-8200-9cf190164a7d",
-    "title": "Morning Prayer at Waterloo",
-    "desc": "A simple morning prayer in the Christian tradition to start your day.",
-    "source": "KCL",
-    "date": "2026-12-01T09:30:00",
-    "durationMin": 20,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-waterloo-10",
-    "image": "data/images/51d0f1d6416d1658.jpg"
-  },
-  {
-    "id": "kcl:morning-prayer-at-denmark-hill-14",
-    "sourceEventId": "c36f6f10-39d4-413f-be61-1a770243c324",
-    "title": "Morning Prayer at Denmark Hill",
-    "desc": "A Morning Prayer service every Tuesday morning in term time.",
-    "source": "KCL",
-    "date": "2026-12-01T09:30:00",
-    "durationMin": 20,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-denmark-hill-14",
-    "image": "data/images/51d0f1d6416d1658.jpg"
-  },
-  {
-    "id": "kcl:international-lunch-at-waterloo-15",
-    "sourceEventId": "1bd7bf57-f3ec-4780-aca0-9697dc2e73ef",
-    "title": "International Lunch at Waterloo",
-    "desc": "Meet other members of the King's community and enjoy a (free!) lunch.",
-    "source": "KCL",
-    "date": "2026-12-01T12:00:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/international-lunch-at-waterloo-15",
-    "image": "data/images/3893d758d72ca4c5.jpg"
-  },
-  {
-    "id": "kcl:deans-office-book-club-at-waterloo-14",
-    "sourceEventId": "6c3e04bb-63c0-489e-93a6-69e6a23eb95e",
-    "title": "Dean's Office Book Club at Waterloo",
-    "desc": "Read & discuss 'The Left Hand of Darkness' by Ursula K. Le Guin.",
-    "source": "KCL",
-    "date": "2026-12-01T13:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/deans-office-book-club-at-waterloo-14",
-    "image": "data/images/253213817a71e924.jpg"
-  },
-  {
-    "id": "kcl:compassionate-leadership",
-    "sourceEventId": "30aac43e-30e7-4cbb-aa3a-f7f3e36d81fe",
-    "title": "Compassionate Leadership",
-    "desc": "We're pleased to announce that Dr Rachna Chowla (Joint Director of Clinical Strategy at King's Health Partners) will deliver a department seminar in the first week of December. Rachna is based in the Dept of Primary Care & Data Science.",
-    "source": "KCL",
-    "date": "2026-12-01T14:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Health",
-      "Faculty of Life Sciences & Medicine"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/compassionate-leadership",
-    "image": "data/images/23ca3ec2528c1c2a.jpg"
-  },
-  {
-    "id": "kcl:stem-cells-at-lunch-dr-elvira-infante-francis-crick-institute-dr-david-willnow-francis-crick-institute-copy",
-    "sourceEventId": "adabb9a0-e460-4bf9-a7bd-6c8f213ebc8f",
-    "title": "Stem Cells @ Lunch -  Dr Berta Font Cunill (Francis Crick Institute)",
-    "desc": "Stem Cells @ Lunch - Dr Berta Font Cunill (Francis Crick Institute): Using chemical biology and phenotypic screening to uncover regulators of human cell fate",
-    "source": "KCL",
-    "date": "2026-12-01T14:00:00",
-    "durationMin": 60,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Health",
-      "Technology & Science"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/stem-cells-at-lunch-dr-elvira-infante-francis-crick-institute-dr-david-willnow-francis-crick-institute-copy",
-    "image": "data/images/f8e23aa43f420cc2.png"
-  },
-  {
-    "id": "kcl:annual-computing-schools-lecture-from-data-to-decisions-copy",
-    "sourceEventId": "6f0bee84-3e91-4667-ab49-970654fb0308",
-    "title": "Python Teaching Masterclass: Teaching Python in Secondary School with Strype",
-    "desc": "Teaching Python in Secondary School with Strype",
-    "source": "KCL",
-    "date": "2026-12-01T16:30:00",
-    "durationMin": 480,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "Technology & Science",
-      "Faculty of Natural, Mathematical & Engineering Sciences",
-      "Department of Informatics"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/annual-computing-schools-lecture-from-data-to-decisions-copy",
-    "image": "data/images/7a40854441362e24.png"
-  },
-  {
-    "id": "kcl:kings-law-technology-guest-lecture-generative-ai-and-the-gdprs-household-exemption",
-    "sourceEventId": "edf7d5c0-6d96-4235-824e-2e9bc9e78c6a",
-    "title": "King’s Law & Technology Guest Lecture: Generative AI and the GDPR’s Household Exemption",
-    "desc": "Join us for a guest lecture by Dr Henry Pearce, Senior Lecturer in Internet Law at Queen Mary University of London, exploring the data protection implications of individuals sharing other people’s personal data with generative AI systems.",
-    "source": "KCL",
-    "date": "2026-12-01T16:30:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Law",
-      "The Dickson Poon School of Law",
-      "King’s Institute for Artificial Intelligence"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/kings-law-technology-guest-lecture-generative-ai-and-the-gdprs-household-exemption",
-    "image": "data/images/5da5c2c117afef2a.png"
-  },
-  {
-    "id": "kcl:school-of-the-sacraments-at-guys-7",
-    "sourceEventId": "cc6e5680-73a2-40ee-97b7-44c8b2f5c58d",
-    "title": "School of the Sacraments at Guy's",
-    "desc": "A group for students interested in the liturgy and sacraments of the Catholic Church.",
-    "source": "KCL",
-    "date": "2026-12-01T18:00:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-7",
-    "image": "data/images/d9cf36757a289b06.jpg"
-  },
-  {
-    "id": "kcl:the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
-    "sourceEventId": "1fb8bfc8-3beb-4b14-a44c-c989e5ea09c2",
-    "title": "The Sir Michael Howard Centre for the History of War Annual Lecture - 'New Directions in the History of the Second World War in South Asia'",
-    "desc": "Professor Yasmin Khan will examine the idea of the Second World War and the Partition of 1947 as part of a historical continuum, arguing that the Second World War did not simply end at VJ day in 1945 in Asia.",
-    "source": "KCL",
-    "date": "2026-12-01T18:00:00",
-    "durationMin": 150,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Public lecture",
-      "Seminar",
-      "International"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
-    "image": "data/images/47fbe34d8efd1f28.png"
-  },
-  {
-    "id": "kcl:kings-alumni-reception-new-york",
-    "sourceEventId": "234e5ba5-4033-4e5d-a69a-305b39603c51",
-    "title": "King's Alumni Reception – New York",
-    "desc": "Meet fellow alumni in New Yok City and hear the latest news from King's at our exclusive alumni event.",
-    "source": "KCL",
-    "date": "2026-12-01T18:30:00",
-    "durationMin": 180,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "University",
-      "King’s alumni"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/kings-alumni-reception-new-york",
-    "image": "data/images/5e7d7b2bac7b1cc2.png"
-  },
-  {
-    "id": "kcl:undergraduate-virtual-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
-    "sourceEventId": "df134ee3-4d3a-4759-be26-b3946933524a",
-    "title": "Undergraduate Virtual Info Session: The Dentistry Pathway for Medical Graduates - 2 December 2026",
-    "desc": "Join us online at our first of two events for medics interested in studying dentistry: The Dentistry Pathway for Medical Graduates (DPMG)",
-    "source": "KCL",
-    "date": "2026-12-02T09:30:00",
-    "durationMin": 150,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "Health"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-virtual-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
-    "image": "data/images/4d782de7350834ef.png"
-  },
-  {
-    "id": "kcl:undergraduate-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
-    "sourceEventId": "45638aa1-7bb0-464c-8db6-790ee0df0ccb",
-    "title": "Undergraduate Info Session: The Dentistry Pathway for Medical Graduates - 2 December 2026",
-    "desc": "Join us on campus at our first of two events for medics interested in studying dentistry: The Dentistry Pathway for Medical Graduates (DPMG)",
-    "source": "KCL",
-    "date": "2026-12-02T09:30:00",
-    "durationMin": 150,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Health"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
-    "image": "data/images/4d782de7350834ef.png"
-  },
-  {
-    "id": "kcl:mindfulness-with-jenny-online-25",
-    "sourceEventId": "3f02d878-210c-4e70-b8e8-0032f534b4ec",
-    "title": "Mindfulness with Jenny - Online",
-    "desc": "A session to explore mindfulness and how to be mindful.",
-    "source": "KCL",
-    "date": "2026-12-02T10:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "University",
-      "Student",
-      "International"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-25",
-    "image": "data/images/9a428ca7444d0e16.jpg"
-  },
-  {
     "id": "ic:215848",
     "sourceEventId": "215848",
     "title": "Imperial Lates: Science Across Africa",
@@ -444,7 +133,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217008/gatp-seminar-dancer-intersection-cohomology-of-symplectic-implosions/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:217045",
@@ -514,6 +203,29 @@
     "image": "data/images/61fe7e0d1b960940.jpg"
   },
   {
+    "id": "ic:210467",
+    "sourceEventId": "210467",
+    "title": "Open Themed Art Class [4]",
+    "desc": "This art class is open to everyone working and studying at Imperial College.\n\nIt is free and open to all levels and abilities, so whether you are an absolute beginner or an experienced artist you will find the tutor has something special to offer you. Come and explore.\n\nPlease feel free to join and leave at any point during the session.\n\nThese sessions are responsive to you , providing an invaluable opportunity for you to create whatever you like with free materials and mentoring support with professional artist Mindy Lee.\n\nSpaces are limited to 10 per session\n\nTickets will be released 8 days in advance of the class. Please book a ticket from your COLLEGE EMAIL ADDRESS only. Tickets booked from external emails will be deleted. Please cancel your ticket if you can no longer attend.\n\nHow…",
+    "source": "IC",
+    "date": "2026-11-24T13:00:00+00:00",
+    "durationMin": 120,
+    "venue": "Blyth Art Studio, Room RODH 319, LEVEL 3, Roderic Hill, Roderic Hill Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Arts",
+      "Education",
+      "Student experience",
+      "Staff experience"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/210467/open-themed-art-class-4-6/",
+    "image": "data/images/44b52abaaff5d460.jpg"
+  },
+  {
     "id": "ic:217291",
     "sourceEventId": "217291",
     "title": "Dynamical Systems Seminar – David Parmenter (University of Bristol)",
@@ -532,7 +244,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217291/dynamical-systems-seminar-david-parmenter-university-of-bristol/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:213996",
@@ -553,7 +265,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213996/finance-and-stochastics-seminar-martin-friesen/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:215516",
@@ -597,7 +309,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216279/astrophysics-weekly-seminar-chris-clarkson/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:217164",
@@ -618,7 +330,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217164/stochastic-analysis-seminar-arnaud-guillinuniversite-clermont-auvergne/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:215193",
@@ -686,29 +398,6 @@
     "image": "data/images/a723be2d13a04983.jpg"
   },
   {
-    "id": "ic:210467",
-    "sourceEventId": "210467",
-    "title": "Open Themed Art Class [4]",
-    "desc": "This art class is open to everyone working and studying at Imperial College.\n\nIt is free and open to all levels and abilities, so whether you are an absolute beginner or an experienced artist you will find the tutor has something special to offer you. Come and explore.\n\nPlease feel free to join and leave at any point during the session.\n\nThese sessions are responsive to you , providing an invaluable opportunity for you to create whatever you like with free materials and mentoring support with professional artist Mindy Lee.\n\nSpaces are limited to 10 per session\n\nTickets will be released 8 days in advance of the class. Please book a ticket from your COLLEGE EMAIL ADDRESS only. Tickets booked from external emails will be deleted. Please cancel your ticket if you can no longer attend.\n\nHow…",
-    "source": "IC",
-    "date": "2026-11-25T13:00:00+00:00",
-    "durationMin": 120,
-    "venue": "Blyth Art Studio, Room RODH 319, LEVEL 3, Roderic Hill, Roderic Hill Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Arts",
-      "Education",
-      "Student experience",
-      "Staff experience"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210467/open-themed-art-class-4-6/",
-    "image": "data/images/44b52abaaff5d460.jpg"
-  },
-  {
     "id": "ic:214090",
     "sourceEventId": "214090",
     "title": "Communion Service",
@@ -769,7 +458,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216949/road-traffic-injuries-from-collision-to-recovery/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:217319",
@@ -956,25 +645,6 @@
     "match": 78,
     "url": "https://wellcomecollection.org/events/gazing-back-at-the-gaze",
     "image": "data/images/0170d39b82f9cd55.avif"
-  },
-  {
-    "id": "rs:2026-11-neuromorphic-computing",
-    "sourceEventId": "2026-11-neuromorphic-computing",
-    "title": "Innovating technologies for neuromorphic computing",
-    "desc": "Discussion meeting and Transforming our Future event organised by Professor Stephen Furber CBE FREng FRS, Professor Judith Driscoll FREng FRS, Professor Stuart Parkin FREng FRS, Dr Sebastian C Dixon and Professor Tony Kenyon",
-    "source": "RS",
-    "date": "2026-11-23T09:00:00+01:00",
-    "durationMin": 420,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Open to all"
-    ],
-    "format": "In person + online",
-    "match": 70,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/neuromorphic-computing/",
-    "image": "data/images/5ded1d642ceee4bc.jpg"
   },
   {
     "id": "rs:2026-12-crossing-barriers",
