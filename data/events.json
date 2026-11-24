@@ -1,5 +1,316 @@
 [
   {
+    "id": "kcl:origin-route-and-destination-reconfigurations-of-transnational-organised-crime-and-their-impacts-on-society-and-the-armed-forces-in-latin-america-and-europe",
+    "sourceEventId": "eb3927d8-c9fd-4aa8-91bc-e670babf0f44",
+    "title": "ORIGIN, ROUTE AND DESTINATION Reconfigurations of Transnational Organised Crime and their Impacts on Society and the Armed Forces in Latin America and Europe",
+    "desc": "This workshop will discuss the reconfigurations of transnational organised crime along the routes that connect South America and Europe, and their impacts on society and the armed forces.",
+    "source": "KCL",
+    "date": "2026-12-01T09:00:00",
+    "durationMin": 480,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Faculty of Social Science & Public Policy",
+      "School of Security Studies",
+      "Department of War Studies"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/origin-route-and-destination-reconfigurations-of-transnational-organised-crime-and-their-impacts-on-society-and-the-armed-forces-in-latin-america-and-europe",
+    "image": "data/images/f6588068beb3780c.png"
+  },
+  {
+    "id": "kcl:morning-prayer-at-waterloo-10",
+    "sourceEventId": "b8a2a1b5-a753-4210-8200-9cf190164a7d",
+    "title": "Morning Prayer at Waterloo",
+    "desc": "A simple morning prayer in the Christian tradition to start your day.",
+    "source": "KCL",
+    "date": "2026-12-01T09:30:00",
+    "durationMin": 20,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-waterloo-10",
+    "image": "data/images/51d0f1d6416d1658.jpg"
+  },
+  {
+    "id": "kcl:morning-prayer-at-denmark-hill-14",
+    "sourceEventId": "c36f6f10-39d4-413f-be61-1a770243c324",
+    "title": "Morning Prayer at Denmark Hill",
+    "desc": "A Morning Prayer service every Tuesday morning in term time.",
+    "source": "KCL",
+    "date": "2026-12-01T09:30:00",
+    "durationMin": 20,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/morning-prayer-at-denmark-hill-14",
+    "image": "data/images/51d0f1d6416d1658.jpg"
+  },
+  {
+    "id": "kcl:international-lunch-at-waterloo-15",
+    "sourceEventId": "1bd7bf57-f3ec-4780-aca0-9697dc2e73ef",
+    "title": "International Lunch at Waterloo",
+    "desc": "Meet other members of the King's community and enjoy a (free!) lunch.",
+    "source": "KCL",
+    "date": "2026-12-01T12:00:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/international-lunch-at-waterloo-15",
+    "image": "data/images/3893d758d72ca4c5.jpg"
+  },
+  {
+    "id": "kcl:deans-office-book-club-at-waterloo-14",
+    "sourceEventId": "6c3e04bb-63c0-489e-93a6-69e6a23eb95e",
+    "title": "Dean's Office Book Club at Waterloo",
+    "desc": "Read & discuss 'The Left Hand of Darkness' by Ursula K. Le Guin.",
+    "source": "KCL",
+    "date": "2026-12-01T13:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/deans-office-book-club-at-waterloo-14",
+    "image": "data/images/253213817a71e924.jpg"
+  },
+  {
+    "id": "kcl:compassionate-leadership",
+    "sourceEventId": "30aac43e-30e7-4cbb-aa3a-f7f3e36d81fe",
+    "title": "Compassionate Leadership",
+    "desc": "We're pleased to announce that Dr Rachna Chowla (Joint Director of Clinical Strategy at King's Health Partners) will deliver a department seminar in the first week of December. Rachna is based in the Dept of Primary Care & Data Science.",
+    "source": "KCL",
+    "date": "2026-12-01T14:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Health",
+      "Faculty of Life Sciences & Medicine"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/compassionate-leadership",
+    "image": "data/images/23ca3ec2528c1c2a.jpg"
+  },
+  {
+    "id": "kcl:stem-cells-at-lunch-dr-elvira-infante-francis-crick-institute-dr-david-willnow-francis-crick-institute-copy",
+    "sourceEventId": "adabb9a0-e460-4bf9-a7bd-6c8f213ebc8f",
+    "title": "Stem Cells @ Lunch -  Dr Berta Font Cunill (Francis Crick Institute)",
+    "desc": "Stem Cells @ Lunch - Dr Berta Font Cunill (Francis Crick Institute): Using chemical biology and phenotypic screening to uncover regulators of human cell fate",
+    "source": "KCL",
+    "date": "2026-12-01T14:00:00",
+    "durationMin": 60,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Health",
+      "Technology & Science"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/stem-cells-at-lunch-dr-elvira-infante-francis-crick-institute-dr-david-willnow-francis-crick-institute-copy",
+    "image": "data/images/f8e23aa43f420cc2.png"
+  },
+  {
+    "id": "kcl:annual-computing-schools-lecture-from-data-to-decisions-copy",
+    "sourceEventId": "6f0bee84-3e91-4667-ab49-970654fb0308",
+    "title": "Python Teaching Masterclass: Teaching Python in Secondary School with Strype",
+    "desc": "Teaching Python in Secondary School with Strype",
+    "source": "KCL",
+    "date": "2026-12-01T16:30:00",
+    "durationMin": 480,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Technology & Science",
+      "Faculty of Natural, Mathematical & Engineering Sciences",
+      "Department of Informatics"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/annual-computing-schools-lecture-from-data-to-decisions-copy",
+    "image": "data/images/7a40854441362e24.png"
+  },
+  {
+    "id": "kcl:kings-law-technology-guest-lecture-generative-ai-and-the-gdprs-household-exemption",
+    "sourceEventId": "edf7d5c0-6d96-4235-824e-2e9bc9e78c6a",
+    "title": "King’s Law & Technology Guest Lecture: Generative AI and the GDPR’s Household Exemption",
+    "desc": "Join us for a guest lecture by Dr Henry Pearce, Senior Lecturer in Internet Law at Queen Mary University of London, exploring the data protection implications of individuals sharing other people’s personal data with generative AI systems.",
+    "source": "KCL",
+    "date": "2026-12-01T16:30:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Law",
+      "The Dickson Poon School of Law",
+      "King’s Institute for Artificial Intelligence"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/kings-law-technology-guest-lecture-generative-ai-and-the-gdprs-household-exemption",
+    "image": "data/images/5da5c2c117afef2a.png"
+  },
+  {
+    "id": "kcl:school-of-the-sacraments-at-guys-7",
+    "sourceEventId": "cc6e5680-73a2-40ee-97b7-44c8b2f5c58d",
+    "title": "School of the Sacraments at Guy's",
+    "desc": "A group for students interested in the liturgy and sacraments of the Catholic Church.",
+    "source": "KCL",
+    "date": "2026-12-01T18:00:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-7",
+    "image": "data/images/d9cf36757a289b06.jpg"
+  },
+  {
+    "id": "kcl:the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
+    "sourceEventId": "1fb8bfc8-3beb-4b14-a44c-c989e5ea09c2",
+    "title": "The Sir Michael Howard Centre for the History of War Annual Lecture - 'New Directions in the History of the Second World War in South Asia'",
+    "desc": "Professor Yasmin Khan will examine the idea of the Second World War and the Partition of 1947 as part of a historical continuum, arguing that the Second World War did not simply end at VJ day in 1945 in Asia.",
+    "source": "KCL",
+    "date": "2026-12-01T18:00:00",
+    "durationMin": 150,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Public lecture",
+      "Seminar",
+      "International"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
+    "image": "data/images/47fbe34d8efd1f28.png"
+  },
+  {
+    "id": "kcl:kings-alumni-reception-new-york",
+    "sourceEventId": "234e5ba5-4033-4e5d-a69a-305b39603c51",
+    "title": "King's Alumni Reception – New York",
+    "desc": "Meet fellow alumni in New Yok City and hear the latest news from King's at our exclusive alumni event.",
+    "source": "KCL",
+    "date": "2026-12-01T18:30:00",
+    "durationMin": 180,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "University",
+      "King’s alumni"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/kings-alumni-reception-new-york",
+    "image": "data/images/5e7d7b2bac7b1cc2.png"
+  },
+  {
+    "id": "kcl:undergraduate-virtual-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
+    "sourceEventId": "df134ee3-4d3a-4759-be26-b3946933524a",
+    "title": "Undergraduate Virtual Info Session: The Dentistry Pathway for Medical Graduates - 2 December 2026",
+    "desc": "Join us online at our first of two events for medics interested in studying dentistry: The Dentistry Pathway for Medical Graduates (DPMG)",
+    "source": "KCL",
+    "date": "2026-12-02T09:30:00",
+    "durationMin": 150,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Health"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/undergraduate-virtual-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
+    "image": "data/images/4d782de7350834ef.png"
+  },
+  {
+    "id": "kcl:undergraduate-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
+    "sourceEventId": "45638aa1-7bb0-464c-8db6-790ee0df0ccb",
+    "title": "Undergraduate Info Session: The Dentistry Pathway for Medical Graduates - 2 December 2026",
+    "desc": "Join us on campus at our first of two events for medics interested in studying dentistry: The Dentistry Pathway for Medical Graduates (DPMG)",
+    "source": "KCL",
+    "date": "2026-12-02T09:30:00",
+    "durationMin": 150,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Health"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
+    "image": "data/images/4d782de7350834ef.png"
+  },
+  {
+    "id": "kcl:mindfulness-with-jenny-online-25",
+    "sourceEventId": "3f02d878-210c-4e70-b8e8-0032f534b4ec",
+    "title": "Mindfulness with Jenny - Online",
+    "desc": "A session to explore mindfulness and how to be mindful.",
+    "source": "KCL",
+    "date": "2026-12-02T10:00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "University",
+      "Student",
+      "International"
+    ],
+    "format": "Online",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-25",
+    "image": "data/images/9a428ca7444d0e16.jpg"
+  },
+  {
     "id": "ic:215848",
     "sourceEventId": "215848",
     "title": "Imperial Lates: Science Across Africa",
@@ -115,268 +426,6 @@
     "image": "data/images/51e3aa5b6e8b95f6.jpg"
   },
   {
-    "id": "ic:217008",
-    "sourceEventId": "217008",
-    "title": "GATP Seminar – Andrew Dancer (Oxford)",
-    "desc": "Symplectic implosion is an abelianisation construction in symplectic geometry. The implosion of the cotangent bundle of a group K plays a universal role in the implosion of manifolds with a K-action. This universal implosion, which is usually a singular variety, can also be viewed as the non-reductive Geometric Invariant Theory quotient of the complexification G of K by its maximal unipotent subgroup. In this talk, we describe joint work with Johan Martens and Nick Proudfoot which uses point-counting techniques to calculate the intersection cohomology of the universal implosion.",
-    "source": "IC",
-    "date": "2026-11-24T11:00:00+00:00",
-    "durationMin": 120,
-    "venue": "Huxley 658, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/217008/gatp-seminar-dancer-intersection-cohomology-of-symplectic-implosions/",
-    "image": "data/images/cdec15043aac087d.jpg"
-  },
-  {
-    "id": "ic:217045",
-    "sourceEventId": "217045",
-    "title": "SPC Seminar – Climate – Quran Wu (University of Reading)",
-    "desc": "Title: New Constraint on Future Ocean Heat Uptake Revealed by Considering Model Spread of Radiative Forcing\n\nSpeaker: Quran Wu (University of Reading)\n\nAbstract: Human-induced climate change has resulted in a positive Earth energy imbalance at the top of the atmosphere. About 90% of this energy imbalance is taken up by the ocean. Ocean heat uptake (OHU) is therefore a key metric for assessing future climate risk. Contemporary climate models exhibit an intermodel spread in simulated OHU under a given future emissions scenario. Previous studies have investigated this spread in terms of ocean processes (e.g. OHU efficiency) and attempted to constrain it using historical OHU. However, the role of radiative forcing, the fundamental driver of OHU, has not been explicitly considered in previous…",
-    "source": "IC",
-    "date": "2026-11-24T11:30:00+00:00",
-    "durationMin": 60,
-    "venue": "711c, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/217045/spc-seminar-climate-quran-wu-university-of-reading/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:213179",
-    "sourceEventId": "213179",
-    "title": "Speak like a researcher 2: making complexity visible",
-    "desc": "Do you want to improve your academic speaking?\n\nSave this placeholder as a reminder of the Speak like a researcher workshops. The appointment is for the all of the sessions below so delete the occurrences of any sessions you do not wish to attend.\n\nSpeak like a researcher (SLAR) is a three-part, on-campus workshop series designed to help you communicate your research confidently in the situations that matter. You will learn how to build purposeful professional relationships, explain complex ideas clearly to different audiences, and respond credibly when your claims are questioned. Through practical activities, guided reflection and realistic speaking tasks, you will develop strategies for listening, questioning, structuring explanations and handling uncertainty. Each worksho p focuses on…",
-    "source": "IC",
-    "date": "2026-11-24T12:00:00+00:00",
-    "durationMin": 60,
-    "venue": "ASL-315 - Access through the SHERFIELD building, Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Practice session",
-      "CfAE speaking and listening practice sessions",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213179/speak-like-a-researcher-2-making-complexity-visible-2/",
-    "image": "data/images/97eb39b4cfa88e4b.jpg"
-  },
-  {
-    "id": "ic:216533",
-    "sourceEventId": "216533",
-    "title": "IDE Seminar Series – Dr Ada Yan",
-    "desc": "I am a Lecturer in Mathematical Sciences at RMIT University, Australia. I develop mathematical models to understand how biological mechanisms drive the time course of infection within the host, and interactions between infection and host immunity. Prior to my appointment at RMIT University, I was an Imperial College Research Fellow in the Section of Virology, Department of Infectious Disease. During my fellowship, I developed skills in experimental virology and bioinformatics, to understand the cutting-edge questions in the field of infectious disease and the technologies available to tackle them.\n\nI have held previous Research Fellow appointments at La Trobe University, The University of Melbourne and the Department of Infectious Disease at Imperial College London. My PhD studies at the…",
-    "source": "IC",
-    "date": "2026-11-24T12:30:00+00:00",
-    "durationMin": 60,
-    "venue": "202, School of Public Health, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Infectious diseases",
-      "MRC Centre for Global Infectious Disease Analysis",
-      "Modelling",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216533/ide-seminar-series-dr-ada-yan/",
-    "image": "data/images/61fe7e0d1b960940.jpg"
-  },
-  {
-    "id": "ic:210467",
-    "sourceEventId": "210467",
-    "title": "Open Themed Art Class [4]",
-    "desc": "This art class is open to everyone working and studying at Imperial College.\n\nIt is free and open to all levels and abilities, so whether you are an absolute beginner or an experienced artist you will find the tutor has something special to offer you. Come and explore.\n\nPlease feel free to join and leave at any point during the session.\n\nThese sessions are responsive to you , providing an invaluable opportunity for you to create whatever you like with free materials and mentoring support with professional artist Mindy Lee.\n\nSpaces are limited to 10 per session\n\nTickets will be released 8 days in advance of the class. Please book a ticket from your COLLEGE EMAIL ADDRESS only. Tickets booked from external emails will be deleted. Please cancel your ticket if you can no longer attend.\n\nHow…",
-    "source": "IC",
-    "date": "2026-11-24T13:00:00+00:00",
-    "durationMin": 120,
-    "venue": "Blyth Art Studio, Room RODH 319, LEVEL 3, Roderic Hill, Roderic Hill Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Arts",
-      "Education",
-      "Student experience",
-      "Staff experience"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/210467/open-themed-art-class-4-6/",
-    "image": "data/images/44b52abaaff5d460.jpg"
-  },
-  {
-    "id": "ic:217291",
-    "sourceEventId": "217291",
-    "title": "Dynamical Systems Seminar – David Parmenter (University of Bristol)",
-    "desc": "Speaker : David Parmenter\n\nTitle : Cones on leaves: exponential convergence to the Margulis measure via an unstable transfer operator\n\nAbstract : In this talk I’ll prove that for a uniformly hyperbolic diffeomorphism, the pull back of the leaf volume on a pushed forward piece of unstable manifold converges exponentially fast to the Margulis measure (the unstable measure of maximal entropy). In order to do this I’ll introduce notions of Birkhoff cones, transfer operators and prove an unstable analogue of the Ruelle-Perron-Frobenius theorem.",
-    "source": "IC",
-    "date": "2026-11-24T13:00:00+00:00",
-    "durationMin": 60,
-    "venue": "145, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/217291/dynamical-systems-seminar-david-parmenter-university-of-bristol/",
-    "image": "data/images/5378b299790f4be0.jpg"
-  },
-  {
-    "id": "ic:213996",
-    "sourceEventId": "213996",
-    "title": "Finance and Stochastics Seminar – Martin Friesen",
-    "desc": "Speaker : Martin Friesen\n\nTitle : Boundary behavior of the Volterra square-root process\n\nAbstract : The classical square-root diffusion, also known as the Cox-Ingersoll-Ross (CIR) process, admits a complete characterization of its boundary behavior through the well-known Feller condition. For its non-Markovian analogue, the rough or Volterra square-root process, the situation is considerably more subtle, as memory and roughness fundamentally alter the dynamics. In this talk, we review recent advances on the boundary behavior of Volterra square-root processes. For regular kernels, we present a natural analogue of the Feller condition that explicitly captures the effect of memory. In contrast, for singular kernels we show that the process necessarily hits the boundary. As an application,…",
-    "source": "IC",
-    "date": "2026-11-24T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213996/finance-and-stochastics-seminar-martin-friesen/",
-    "image": "data/images/5378b299790f4be0.jpg"
-  },
-  {
-    "id": "ic:215516",
-    "sourceEventId": "215516",
-    "title": "Mohn Mingle – Digital Tools to Support Adolescent Mental Health",
-    "desc": "Welcome to the November Mohn Mingle.\n\nThis series of informal gatherings aims to bring together academics from all levels and backgrounds to collaboratively discuss ideas and explore ways to improve the health and wellbeing of children and young people in urban environments.\n\nWe are delighted to welcome\n\nAglaia Frederico , President’s PhD Scholar, Clinical Medicine Research with a talk entitled: “ AI-based personalised behavioural recommendations to support adolescents’ mental health in schools” , and\n\nDr Michaela Otis , Research Associate, Health Informatics and NHS Clinical. with a talk entitled: “ Integrating digital mental health in paediatric emergency settings”.\n\nWe look forward to seeing many of you there.\n\nLight refreshments will be served.\n\nIf you have a presentation idea or…",
-    "source": "IC",
-    "date": "2026-11-24T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Room 313 - 3rd Floor, School of Public Health, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Epidemiology",
-      "Mohn Centre for Childrens Health and Wellbeing",
-      "Centre for Paediatrics and Child Health",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215516/mohn-mingle-digital-tools-to-support-adolescent-mental-health/",
-    "image": "data/images/8917452e8a6fa100.jpg"
-  },
-  {
-    "id": "ic:216279",
-    "sourceEventId": "216279",
-    "title": "Universe Community Colloquium: Professor Chris Clarkson – Signatures of general relativity in galaxy clustering",
-    "desc": "Signatures of general relativity in galaxy clustering\n\nFuture galaxy surveys will map the large-scale structure of the Universe with unprecedented precision. One of their main goals is to use galaxy clustering to test the physics of the early Universe and search for primordial non-Gaussianity. On the largest scales, however, the observed galaxy distribution is not simply a three-dimensional density field: it is reconstructed from light arriving on our past lightcone, and is affected by a variety of relativistic projection effects and distortions. Alongside lensing and redshift-space distortions, a hierarchy of more subtle effects comes into play.\n\nIn this talk I will give an overview of how these relativistic effects appear in galaxy clustering statistics. In Fourier space they generate…",
-    "source": "IC",
-    "date": "2026-11-24T14:15:00+00:00",
-    "durationMin": 60,
-    "venue": "711C, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216279/astrophysics-weekly-seminar-chris-clarkson/",
-    "image": "data/images/b86d11f01e230b11.jpg"
-  },
-  {
-    "id": "ic:217164",
-    "sourceEventId": "217164",
-    "title": "Stochastic Analysis Seminar – Arnaud Guillin(Université Clermont-Auvergne)",
-    "desc": "Arnaud Guillin\n\nTitle:\n\nCutoff beyond non-negative curvature\n\nAbstract",
-    "source": "IC",
-    "date": "2026-11-24T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "410, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/217164/stochastic-analysis-seminar-arnaud-guillinuniversite-clermont-auvergne/",
-    "image": "data/images/263a03c01b826444.jpg"
-  },
-  {
-    "id": "ic:215193",
-    "sourceEventId": "215193",
-    "title": "From Campus to Luxembourg: The Next Chapter",
-    "desc": "Overview\n\nJoin fellow alumni for a Climate Fresk workshop at Café Bel Air, led by Xavier Turquin, formerly CEO of Greenpeace Luxembourg. The workshop will be followed by burgers at Café Bel Air’s private room, and a career coaching session.\n\nRegistration\n\nPlease email Silvia Colucci to secure your space.",
-    "source": "IC",
-    "date": "2026-11-24T18:00:00+01:00",
-    "durationMin": 120,
-    "venue": "Café Bel Air",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "International",
-      "Alumni",
-      "From Campus to City 2026",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215193/from-campus-to-luxembourg-the-next-chapter/",
-    "image": "data/images/922e85bfc480594e.jpg"
-  },
-  {
-    "id": "ic:216122",
-    "sourceEventId": "216122",
-    "title": "Imperial Science Cafe – Ovarian Cancer Research @ Imperial",
-    "desc": "Join us for the next Imperial Science Cafe -Ovarian Cancer Research @ Imperial at Maggie’s West London .\n\nThe Imperial Science Café, started in 201, remains a space where our researchers share their research with patients and the public. These events allow plenty of time questions and discussion about our cancer research. It is a great place to learn about cancer and how our research aims to better understand cancer, to diagnose it earlier and to find better and kinder treatments.\n\nSpeakers include: Lura Tookman, Eunice Xing and Ellie Ware\n\nElli Ware (Dietician)\n\nDetermining best practice for the management of Malignant Bowel Obstruction (MBO), as a complication of Ovarian Cancer.\n\nThe overall goal of Ellie’s research is to improve dietary care for people with recurrent ovarian cancer…",
-    "source": "IC",
-    "date": "2026-11-24T18:00:00+00:00",
-    "durationMin": 120,
-    "venue": "Maggie’s West London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216122/imperial-science-cafe-nov26/",
-    "image": "data/images/5a056e2deea5f770.jpg"
-  },
-  {
     "id": "ic:216090",
     "sourceEventId": "216090",
     "title": "Lab of the Future Tech Showcase",
@@ -437,7 +486,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213558/triangle-seminar-city-u-2/",
-    "image": "data/images/b4f3c036c0b69eb4.jpg"
+    "image": "data/images/512d103d5423a9c7.jpg"
   },
   {
     "id": "ic:216949",
@@ -458,7 +507,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216949/road-traffic-injuries-from-collision-to-recovery/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:217319",
@@ -484,6 +533,269 @@
     "image": "data/images/8ead6bd953517313.jpg"
   },
   {
+    "id": "ic:212632",
+    "sourceEventId": "212632",
+    "title": "HEP seminar: Maria Artero Pons (Padova) – First Search for Sterile Neutrino Oscillation Leading to νμ Disappearance in the Booster Neutrino Beam at ICARUS",
+    "desc": "The ICARUS Collaboration successfully operated the 760-ton T600 detector at the LNGS underground laboratory before undergoing a major overhaul at CERN and relocating to Fermilab. Since 2021, ICARUS has been recording neutrino events from both the Booster Neutrino Beam (BNB) and the off-axis Neutrinos at the Main Injector (NuMI) beam. Now in its sixth year of continuous operation, ICARUS has demonstrated the maturity of large-scale Liquid Argon Time Projection Chamber (LAr-TPC) technology, providing a critical foundation for future experiments like DUNE.\n\nIn this seminar, the first search for muon-neutrino disappearance in the BNB using the ICARUS detector is presented. Neutrino events, identified as charged-current muon-neutrino interactions with a final state consisting of a muon and at…",
+    "source": "IC",
+    "date": "2026-11-25T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "630, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Physics of Particles",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212632/hep-seminar-maria-artero-pons/",
+    "image": "data/images/89ae9f5af0cf5a61.jpg"
+  },
+  {
+    "id": "ic:217181",
+    "sourceEventId": "217181",
+    "title": "SPC Seminar – Plasma – Charles Heaton (Imperial)",
+    "desc": "Title: Novel x-ray free electron laser based techniques for high-energy-density science\n\nSpeaker: Charles Heaton (Imperial)\n\nAbstract: High energy density physics presents significant experimental and theoretical challenges, yet holds the promise of optimising inertial fusion energy experiments, a potential carbon-free power source. The advent of X-ray free-electron lasers has transformed the field, enabling unprecedented diagnostics and theoretical insights from groundbreaking measurements. This seminar presents two novel X-ray free electron laser based diagnostics for high energy density physics experiments: X-ray photon correlation spectroscopy and filtered X-ray diffraction. X-ray photon correlation spectroscopy leverages the coherent X-ray beam to probe time and scale dependent…",
+    "source": "IC",
+    "date": "2026-11-25T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "741, Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217181/spc-seminar-plasma-charles-heaton-imperial/",
+    "image": "data/images/b86d11f01e230b11.jpg"
+  },
+  {
+    "id": "ic:217230",
+    "sourceEventId": "217230",
+    "title": "Number Theory Seminar – Jack Thorne",
+    "desc": "Jack Thorne : Modularity of residually reducible Galois representations\n\nMore information available on the Number Theory seminar website",
+    "source": "IC",
+    "date": "2026-11-25T16:00:00+00:00",
+    "durationMin": 60,
+    "venue": "139, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217230/number-theory-seminar-jack-thorne/",
+    "image": "data/images/b4f3c036c0b69eb4.jpg"
+  },
+  {
+    "id": "ic:212320",
+    "sourceEventId": "212320",
+    "title": "Numerics for finance: from stochastics to quantum",
+    "desc": "How are financial models built from complex and uncertain data, and what tools do we need to make sense of them?\n\nProfessor Jack Jacquier, Professor of Mathematics, brings together the theory and application of mathematical finance, from stochastic analysis and numerical modelling to the potential of quantum computing.\n\nThis event is now fully booked for in-person attendance. We are not operating a waitlist and will update this page if spaces become available.\n\nYou can join our live stream on YouTube .\n\nWe look forward to seeing you on Wednesday 25 November!\n\nImperial Inaugurals are term-time lectures that celebrate our newest professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nMathematical Finance deals with providing rigorous theoretical foundations…",
+    "source": "IC",
+    "date": "2026-11-25T17:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Lecture",
+      "Institutional Event",
+      "Imperial Inaugurals",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212320/numerics-for-finance-from-stochastics-to-quantum/",
+    "image": "data/images/4962253a3fc210f6.jpg"
+  },
+  {
+    "id": "ic:217398",
+    "sourceEventId": "217398",
+    "title": "Spotlight on bacterial vaginosis: the hidden health crisis",
+    "desc": "New findings from the Imperial College London-led Spotlight on BV study reveal the hidden health crisis affecting 1 in 3 women.\n\nOne in three women will experience bacterial vaginosis (BV), yet most have never heard of it until it happens to them. Despite being the most common cause of vaginal discharge in the UK, BV remains overlooked, under-researched and widely misunderstood.\n\nJoin us for an exclusive lunchtime webinar presenting findings from the Imperial College London-led Spotlight on BV study , delivered in partnership with Brook Sexual Health .\n\nLed by Dr Charlotte-Eve Short and Ms Sophie Stephens, this pioneering research shines a light on the real-world impact of a condition that affects millions but is rarely discussed openly.\n\nThrough interviews and focus groups with women…",
+    "source": "IC",
+    "date": "2026-11-26T12:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "bacteria",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217398/spotlight-on-bacterial-vaginosis-the-hidden-health-crisis/",
+    "image": "data/images/67120ee9924d8f07.jpg"
+  },
+  {
+    "id": "ic:217130",
+    "sourceEventId": "217130",
+    "title": "CumbriaMed Research Webinar: Sexual Health: Research, Prevention, and Care",
+    "desc": "The PCSM Research Hub invites you to join us for the next edition of the CumbriaMed Research Webinar Series , which showcases leading health researchers working in and with Cumbria. Each session features two expert speakers and a live Q&A. The series is open to staff, students, patients, relatives, and the public; all are welcome.\n\nProf Matt Phillips – Consultant in Genitourinary Medicine, NCIC; Head of Clinical Education, Pears Cumbria School of Medicine. Delivering Sexual Health Services in Rural Cumbria Matt is a specialist in sexual health and HIV, with particular interests in medical ethics, HIV-related law, and sexual health service provision. He served as President of the British Association for Sexual Health and HIV (BASHH) from 2024 to 2026 and has worked in Cumbria since 2016.…",
+    "source": "IC",
+    "date": "2026-11-26T12:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217130/cumbriamed-research-webinar-sexual-health-research-prevention-and-care/",
+    "image": "data/images/579478ec91c32f25.jpg"
+  },
+  {
+    "id": "ic:212785",
+    "sourceEventId": "212785",
+    "title": "Lunchtime Concert – Brahms Piano Quartet",
+    "desc": "Brahms Piano Quartet\n\nFour respected chamber musicians – Dimitar Burov (violin) Jon Thorne (viola) Lionel Handy (cello) Colin Stone (piano) – come together for Brahms Piano Quartet No 2 in A major Op 26",
+    "source": "IC",
+    "date": "2026-11-26T13:00:00+00:00",
+    "durationMin": 45,
+    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
+    "area": "Off",
+    "price": 0,
+    "tags": [
+      "Social",
+      "Concerts",
+      "Arts",
+      "Creative",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212785/lunchtime-concert-brahms-piano-quartet/",
+    "image": "data/images/b86d11f01e230b11.jpg"
+  },
+  {
+    "id": "ic:215183",
+    "sourceEventId": "215183",
+    "title": "Analysis and Dynamics seminar: Mehrdad Kalantar (University of Oxford)",
+    "desc": "Speaker: Mehrdad Kalanta (University of Oxford) Title: On dynamics of groups with rapid decay properties Abstract: We prove some rigidity results concerning minimal actions of groups with rapid decay properties. In particular, for a group G with the usual rapid decay, and a minimal compact G-space X, we show that if neighborhood stabilizers are amenable, then they are contained in the amenable radical of G.",
+    "source": "IC",
+    "date": "2026-11-26T13:00:00+00:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215183/analysis-and-dynamics-seminar-mehrdad-kalantar-university-of-oxford/",
+    "image": "data/images/b86d11f01e230b11.jpg"
+  },
+  {
+    "id": "ic:212857",
+    "sourceEventId": "212857",
+    "title": "PDEs Seminar – Swann Marx (CNRS, Nantes)",
+    "desc": "TBA",
+    "source": "IC",
+    "date": "2026-11-26T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Huxley 130, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212857/pdes-seminar-swann-marx-cnrs-ls2n-nantes/",
+    "image": "data/images/030edec8db1523e2.jpg"
+  },
+  {
+    "id": "ic:216996",
+    "sourceEventId": "216996",
+    "title": "Digital Foundry Seminar Series: Forging Neurosymbolic World Models with Dr Emile van Krieken",
+    "desc": "The Digital Foundry, Imperial College London’s pioneering, cross-disciplinary innovation hub embedded within the university’s new School of Convergence Science, is a strategic hub for digital convergence, bringing together expertise in artificial intelligence, robotics, data science and digital technologies within a shared environment at the White City Campus. Through co-location, community building and access to specialist facilities, the Digital Foundry connects researchers, innovators, students, and industry partners from across disciplines to tackle complex challenges, accelerate translational research and create new opportunities at the intersection of science, engineering, medicine and technology.\n\nAbstract:\n\nWorld models enable agents to predict the consequences of their actions…",
+    "source": "IC",
+    "date": "2026-11-26T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "LT 608 A/B, Digital Foundry, Level 6, Translation and Innovation Hub (I-HUB), White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "maths",
+      "Artificial intelligence",
+      "EEE",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216996/digital-foundry-seminar-series-forging-neurosymbolic-world-models-with-dr-emile-van-krieken/",
+    "image": "data/images/0ee57b5b59195fe5.jpg"
+  },
+  {
+    "id": "ic:216009",
+    "sourceEventId": "216009",
+    "title": "Algebra Colloquium – Emmanuel Breuillard (Oxford)",
+    "desc": "Emmanuel Breuillard (Oxford): On the inverse problem for isometry groups of norms\n\nMore details available on Algebra Colloquium website .",
+    "source": "IC",
+    "date": "2026-11-26T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "642, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Colloquium",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216009/algebra-colloquium-emmanuel-breuillard-oxford/",
+    "image": "data/images/512d103d5423a9c7.jpg"
+  },
+  {
+    "id": "ic:216718",
+    "sourceEventId": "216718",
+    "title": "Physics Colloquium: Correlation-driven topological semimetals",
+    "desc": "Join us for a Department of Physics colloquium entitled “Correlation-driven topological semimetals ” with Professor Silke Bühler-Paschen, Vienna University of Technology (TU Wien)\n\nPlease note – The lecture will run from 16:00-17:00 , followed by refreshments from 17:00-18:00 in the Level 8 Common Room of the Blackett Building.\n\nBiography\n\nSilke Paschen is an experimental condensed matter physicist, with a research focus on strongly correlated electron systems. After her graduation at the Graz University of Technology, her PhD at EPFL Lausanne and research stays at ETH Zurich, the Max Planck Institute for Chemical Solid State Physics in Dresden and Nagoya U niversity, she was appointed full professor of physics at the Vienna University of Technology (TU Wien). Since 2017, she has held a…",
+    "source": "IC",
+    "date": "2026-11-26T16:00:00+00:00",
+    "durationMin": 120,
+    "venue": "Lecture Theatre 1 , Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Colloquium",
+      "Physics",
+      "Departmental event",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216718/physics-colloquium-correlation-driven-topological-semimetals/",
+    "image": "data/images/cddd5dcc50ae5de1.jpg"
+  },
+  {
     "id": "lse:ai-democracy",
     "sourceEventId": "ai-democracy",
     "title": "AI and democracy",
@@ -501,27 +813,6 @@
     "format": "Online",
     "match": 74,
     "url": "https://www.lse.ac.uk/events/ai-democracy",
-    "image": null
-  },
-  {
-    "id": "lse:general-artificial-intelligence",
-    "sourceEventId": "general-artificial-intelligence",
-    "title": "From AlphaGo to general reasoning: the future of artificial intelligence and what it means",
-    "desc": "From AlphaGo to general reasoning: the future of artificial intelligence and what it means",
-    "source": "LSE",
-    "date": "2026-11-24T18:30:00+01:00",
-    "durationMin": 90,
-    "venue": "In-person and online public event (Sheikh Zayed Theatre, Cheng Kin Ku Building)",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "AI",
-      "artificial intelligence",
-      "Open to all"
-    ],
-    "format": "Online",
-    "match": 74,
-    "url": "https://www.lse.ac.uk/events/general-artificial-intelligence",
     "image": null
   },
   {
@@ -544,26 +835,6 @@
     "match": 74,
     "url": "https://www.lse.ac.uk/events/economics-chance-health",
     "image": null
-  },
-  {
-    "id": "wc:discovering-our-collections-through-ephemera",
-    "sourceEventId": "discovering-our-collections-through-ephemera",
-    "title": "Discovering our Collections through Ephemera",
-    "desc": "Join us for an interactive workshop about ephemera in our collections and take part in an activity to create your own.",
-    "source": "WC",
-    "date": "2026-11-24T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Viewing Room",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Workshop",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/discovering-our-collections-through-ephemera",
-    "image": "data/images/0771f9b7ba64b7cb.jpg"
   },
   {
     "id": "wc:wellcome-collection-lates-not-done-yet",
@@ -913,7 +1184,7 @@
     "format": "In person + online",
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/01/attenborough-prize-lecture/",
-    "image": "data/images/cdd7e144861cbd5e.jpg"
+    "image": "data/images/4d93e7586d068df9.jpg"
   },
   {
     "id": "rs:2027-02-ferrier-prize-lecture",
