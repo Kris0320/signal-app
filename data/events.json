@@ -189,27 +189,6 @@
     "image": "data/images/5da5c2c117afef2a.png"
   },
   {
-    "id": "kcl:the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
-    "sourceEventId": "1fb8bfc8-3beb-4b14-a44c-c989e5ea09c2",
-    "title": "The Sir Michael Howard Centre for the History of War Annual Lecture - 'New Directions in the History of the Second World War in South Asia'",
-    "desc": "Professor Yasmin Khan will examine the idea of the Second World War and the Partition of 1947 as part of a historical continuum, arguing that the Second World War did not simply end at VJ day in 1945 in Asia.",
-    "source": "KCL",
-    "date": "2026-12-01T18:00:00",
-    "durationMin": 150,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Public lecture",
-      "Seminar",
-      "International"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
-    "image": "data/images/47fbe34d8efd1f28.png"
-  },
-  {
     "id": "kcl:school-of-the-sacraments-at-guys-7",
     "sourceEventId": "cc6e5680-73a2-40ee-97b7-44c8b2f5c58d",
     "title": "School of the Sacraments at Guy's",
@@ -229,6 +208,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-7",
     "image": "data/images/d9cf36757a289b06.jpg"
+  },
+  {
+    "id": "kcl:the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
+    "sourceEventId": "1fb8bfc8-3beb-4b14-a44c-c989e5ea09c2",
+    "title": "The Sir Michael Howard Centre for the History of War Annual Lecture - 'New Directions in the History of the Second World War in South Asia'",
+    "desc": "Professor Yasmin Khan will examine the idea of the Second World War and the Partition of 1947 as part of a historical continuum, arguing that the Second World War did not simply end at VJ day in 1945 in Asia.",
+    "source": "KCL",
+    "date": "2026-12-01T18:00:00",
+    "durationMin": 150,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Public lecture",
+      "Seminar",
+      "International"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
+    "image": "data/images/47fbe34d8efd1f28.png"
   },
   {
     "id": "kcl:kings-alumni-reception-new-york",
@@ -334,29 +334,6 @@
     "image": "data/images/a00b0ab708d48c5e.jpg"
   },
   {
-    "id": "ic:213883",
-    "sourceEventId": "213883",
-    "title": "Breaking Topics in AI Conference 2026",
-    "desc": "We are excited to invite you to the fourth annual Breaking Topics in AI Conference 2026, supported by the I-X Centre for AI in Science.\n\nThe conference, this year bringing together speakers from Oxford, UCL, Cambridge and Imperial, will serve as a platform for sharing cutting-edge knowledge, discussing emerging trends, and fostering collaborative efforts to advance the field further.\n\nPlenary speakers will give overview talks outlining what they consider to be the exciting breakthroughs and future challenges in their area. The conference will also feature Paper Talks from authors of recent standout ICML and NeurIPS papers.\n\nDon’t miss this opportunity to connect with leading experts in the field and expand your knowledge on AI technologies shaping the future.\n\nConfirmed speakers so far:…",
-    "source": "IC",
-    "date": "2026-11-25T09:00:00+00:00",
-    "durationMin": 480,
-    "venue": "LRT 608 A+B, Level 6, Translation and Innovation Hub (I-HUB), White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Conference",
-      "Artificial intelligence",
-      "life sciences",
-      "maths",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213883/breaking-topics-in-ai-conference-2026/",
-    "image": "data/images/00c795653f0c2344.jpg"
-  },
-  {
     "id": "ic:213405",
     "sourceEventId": "213405",
     "title": "RSM175: Day of Celebration",
@@ -426,201 +403,6 @@
     "image": "data/images/51e3aa5b6e8b95f6.jpg"
   },
   {
-    "id": "ic:216090",
-    "sourceEventId": "216090",
-    "title": "Lab of the Future Tech Showcase",
-    "desc": "We would like to invite attendees to submit abstracts relevant to the Lab of the Future remit. A number of abstracts will be invited to be presented as posters. Submit an abstract by filling out this form by midday on the 18 th November. We will confirm with you as soon as possible following the application deadline.\n\nPlease see below for confirmed speakers:\n\nBecky Greenaway, Associate Professor, Imperial College London Richard Borne, Professor of Digital Chemical Engineering, University of Leeds Bethan Howells, Senior Automation Scientist, AstraZeneca Nicolas Houvenaghel, Director of Automation and Biochemical Screening, AstraZeneca Behzad Mohebbi, Director of Analytical and Measurement Science, P&G Sanket Gaurav, Senior Machine Learning and Robotics Scientist, P&G Emilie Fritsch,…",
-    "source": "IC",
-    "date": "2026-11-25T09:30:00+00:00",
-    "durationMin": 480,
-    "venue": "B10, Molecular Sciences Research Hub (MSRH), White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Symposium",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216090/lab-of-the-future-tech-showcase/",
-    "image": "data/images/a723be2d13a04983.jpg"
-  },
-  {
-    "id": "ic:214090",
-    "sourceEventId": "214090",
-    "title": "Communion Service",
-    "desc": "A reflective service of communion (sharing bread and wine) in the middle of the working week.\n\nA chance to pause and stand back from the activities of work, to reflect on our lives, and to pray for peace and justice and for people we know.\n\nJoin the people of Holy Trinity Church, and staff and students from other colleges and local institutions.\n\nService open to all, using an order from the Church of England.\n\nSubscribe to Mailing list for more information and weekly reminder delivered at your inbox.\n\nHow to find us: Holy Trinity Church, Prince Consort Rd, SW7 2BA (next to Beit Quadrangle, South Kensington)",
-    "source": "IC",
-    "date": "2026-11-25T13:05:00+00:00",
-    "durationMin": 35,
-    "venue": "Holy Trinity Church, Prince Consort Rd, SW7 2BA",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "General",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214090/communion-service-and-weekly-prayers-8/",
-    "image": "data/images/af9b490ac7fdb97b.jpg"
-  },
-  {
-    "id": "ic:213558",
-    "sourceEventId": "213558",
-    "title": "Triangle seminar: City U",
-    "desc": "Triangle seminar: City U (please check the exact time near the event)",
-    "source": "IC",
-    "date": "2026-11-25T13:30:00+00:00",
-    "durationMin": 60,
-    "venue": "City U",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213558/triangle-seminar-city-u-2/",
-    "image": "data/images/7cd9869c3f438571.jpg"
-  },
-  {
-    "id": "ic:216949",
-    "sourceEventId": "216949",
-    "title": "Road Traffic Injuries: From Collision to Recovery",
-    "desc": "Please email Funanani Nemaheni: F.nemaheni@imperial.ac.uk to RSVP\n\nWe are delighted to invite you to the Centre for Injury Studies seminar on Road traffic injuries, from collision to Recovery.\n\nDate: 25 November 2025\n\nTime: 2:00–4:30 pm\n\nVenue: Sir Michael Uren Building, Room 1202/1203, White City Campus.\n\nMotor-vehicle collision-related trauma is a leading cause of death and disability worldwide. It is “the neglected disease of modern society” with 1.35 million people dying and 50 million seriously injured on the world’s roads each year. It has a high burden of disease, affecting families and burdening healthcare and social care systems. Injuries occurring on roads are preventable.\n\nHosted by the Centre for Injury Studies and chaired by Professor Spyros Masouros, this seminar will…",
-    "source": "IC",
-    "date": "2026-11-25T14:00:00+00:00",
-    "durationMin": 150,
-    "venue": "Room 1202/1203, Sir Michael Uren Hub, White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216949/road-traffic-injuries-from-collision-to-recovery/",
-    "image": "data/images/5378b299790f4be0.jpg"
-  },
-  {
-    "id": "ic:217319",
-    "sourceEventId": "217319",
-    "title": "AI4Health Centre Talk featuring Elizabeth Nassuna-From Frontline Care to Clinical AI: Bridging Research, Innovation and Real-World Practice",
-    "desc": "Talk by 𝗘𝗹𝗶𝘇𝗮𝗯𝗲𝘁𝗵 𝗡𝗮𝘀𝘀𝘂𝗻𝗮, 𝗙𝗿𝗮𝗰𝘁𝘂𝗿𝗲 𝗟𝗶𝗮𝗶𝘀𝗼𝗻 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 𝗡𝘂𝗿𝘀𝗲 𝗮𝘁 𝗜𝗺𝗽𝗲𝗿𝗶𝗮𝗹 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗛𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲 𝗡𝗛𝗦 𝗧𝗿𝘂𝘀𝘁 𝗮𝗻𝗱 𝗖𝗹𝗶𝗻𝗶𝗰𝗮𝗹 𝗔𝗜 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 𝗶𝗻 𝘁𝗵𝗲 𝗡𝗛𝗦 𝗖𝗹𝗶𝗻𝗶𝗰𝗮𝗹 𝗘𝗻𝘁𝗿𝗲𝗽𝗿𝗲𝗻𝗲𝘂𝗿 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲.\n\n“𝗙𝗿𝗼𝗺 𝗙𝗿𝗼𝗻𝘁𝗹𝗶𝗻𝗲 𝗖𝗮𝗿𝗲 𝘁𝗼 𝗖𝗹𝗶𝗻𝗶𝗰𝗮𝗹 𝗔𝗜: 𝗕𝗿𝗶𝗱𝗴𝗶𝗻𝗴 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵, 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗥𝗲𝗮𝗹-𝗪𝗼𝗿𝗹𝗱 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲”\n\n📅 25 November 2026 🕑 2:00 PM 📍 HXLY 315, South Kensington Campus\n\nDrawing on experience that spans frontline nursing, digital health innovation, AI governance, and clinical implementation, Elizabeth will share insights into the realities of introducing AI technologies into healthcare settings. The session will…",
-    "source": "IC",
-    "date": "2026-11-25T14:00:00+00:00",
-    "durationMin": 90,
-    "venue": "Room 315, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Artificial intelligence",
-      "Imperial College Health Partners",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/217319/ai4health-centre-talk-featuring-elizabeth-nassuna-from-frontline-care-to-clinical-ai-bridging-research-innovation-and-real-world-practice/",
-    "image": "data/images/8ead6bd953517313.jpg"
-  },
-  {
-    "id": "ic:212632",
-    "sourceEventId": "212632",
-    "title": "HEP seminar: Maria Artero Pons (Padova) – First Search for Sterile Neutrino Oscillation Leading to νμ Disappearance in the Booster Neutrino Beam at ICARUS",
-    "desc": "The ICARUS Collaboration successfully operated the 760-ton T600 detector at the LNGS underground laboratory before undergoing a major overhaul at CERN and relocating to Fermilab. Since 2021, ICARUS has been recording neutrino events from both the Booster Neutrino Beam (BNB) and the off-axis Neutrinos at the Main Injector (NuMI) beam. Now in its sixth year of continuous operation, ICARUS has demonstrated the maturity of large-scale Liquid Argon Time Projection Chamber (LAr-TPC) technology, providing a critical foundation for future experiments like DUNE.\n\nIn this seminar, the first search for muon-neutrino disappearance in the BNB using the ICARUS detector is presented. Neutrino events, identified as charged-current muon-neutrino interactions with a final state consisting of a muon and at…",
-    "source": "IC",
-    "date": "2026-11-25T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "630, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Physics of Particles",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212632/hep-seminar-maria-artero-pons/",
-    "image": "data/images/89ae9f5af0cf5a61.jpg"
-  },
-  {
-    "id": "ic:217181",
-    "sourceEventId": "217181",
-    "title": "SPC Seminar – Plasma – Charles Heaton (Imperial)",
-    "desc": "Title: Novel x-ray free electron laser based techniques for high-energy-density science\n\nSpeaker: Charles Heaton (Imperial)\n\nAbstract: High energy density physics presents significant experimental and theoretical challenges, yet holds the promise of optimising inertial fusion energy experiments, a potential carbon-free power source. The advent of X-ray free-electron lasers has transformed the field, enabling unprecedented diagnostics and theoretical insights from groundbreaking measurements. This seminar presents two novel X-ray free electron laser based diagnostics for high energy density physics experiments: X-ray photon correlation spectroscopy and filtered X-ray diffraction. X-ray photon correlation spectroscopy leverages the coherent X-ray beam to probe time and scale dependent…",
-    "source": "IC",
-    "date": "2026-11-25T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "741, Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "The Space, Plasma and Climate Community",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/217181/spc-seminar-plasma-charles-heaton-imperial/",
-    "image": "data/images/5378b299790f4be0.jpg"
-  },
-  {
-    "id": "ic:217230",
-    "sourceEventId": "217230",
-    "title": "Number Theory Seminar – Jack Thorne",
-    "desc": "Jack Thorne : Modularity of residually reducible Galois representations\n\nMore information available on the Number Theory seminar website",
-    "source": "IC",
-    "date": "2026-11-25T16:00:00+00:00",
-    "durationMin": 60,
-    "venue": "139, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/217230/number-theory-seminar-jack-thorne/",
-    "image": "data/images/512d103d5423a9c7.jpg"
-  },
-  {
-    "id": "ic:212320",
-    "sourceEventId": "212320",
-    "title": "Numerics for finance: from stochastics to quantum",
-    "desc": "How are financial models built from complex and uncertain data, and what tools do we need to make sense of them?\n\nProfessor Jack Jacquier, Professor of Mathematics, brings together the theory and application of mathematical finance, from stochastic analysis and numerical modelling to the potential of quantum computing.\n\nThis event is now fully booked for in-person attendance. We are not operating a waitlist and will update this page if spaces become available.\n\nYou can join our live stream on YouTube .\n\nWe look forward to seeing you on Wednesday 25 November!\n\nImperial Inaugurals are term-time lectures that celebrate our newest professors, recognising their academic journey and showcasing their research.\n\nAbstract\n\nMathematical Finance deals with providing rigorous theoretical foundations…",
-    "source": "IC",
-    "date": "2026-11-25T17:30:00+00:00",
-    "durationMin": 60,
-    "venue": "Lecture theatre 200, City and Guilds Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Lecture",
-      "Institutional Event",
-      "Imperial Inaugurals",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212320/numerics-for-finance-from-stochastics-to-quantum/",
-    "image": "data/images/4962253a3fc210f6.jpg"
-  },
-  {
     "id": "ic:217398",
     "sourceEventId": "217398",
     "title": "Spotlight on bacterial vaginosis: the hidden health crisis",
@@ -684,7 +466,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212785/lunchtime-concert-brahms-piano-quartet/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:215183",
@@ -705,7 +487,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215183/analysis-and-dynamics-seminar-mehrdad-kalantar-university-of-oxford/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:212857",
@@ -770,7 +552,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216009/algebra-colloquium-emmanuel-breuillard-oxford/",
-    "image": "data/images/7cd9869c3f438571.jpg"
+    "image": "data/images/b4f3c036c0b69eb4.jpg"
   },
   {
     "id": "ic:216718",
@@ -794,6 +576,225 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216718/physics-colloquium-correlation-driven-topological-semimetals/",
     "image": "data/images/cddd5dcc50ae5de1.jpg"
+  },
+  {
+    "id": "ic:217305",
+    "sourceEventId": "217305",
+    "title": "Junior Dynamics Seminar – Oscar Randles (Durham University)",
+    "desc": "Energy-constrained Brownian Motion\n\nSpeaker: Oscar Randles (Durham University)\n\nAbstract : For reflected Brownian motion in an interval of length N, we consider the first time at which the length of time since the most recent visit to the boundary exceeds M; this random ‘lifetime’ comes from the interpretation in which the Brownian motion has a finite energy capacity M, uses energy at unit rate in the interior, and gets its energy replenished up to M on every visit to the boundary. We prove distributional asymptotics for the lifetime in three different regimes depending on the relative growth of N and M; these one-dimensional results parallel results in the random walk case by Wade and Grinfeld. We also present some initial results on the multidimensional version of the problem.",
+    "source": "IC",
+    "date": "2026-11-26T16:00:00+00:00",
+    "durationMin": 60,
+    "venue": "642, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217305/junior-dynamics-seminar-oscar-randles-durham-university/",
+    "image": "data/images/5f47d88be043d445.jpg"
+  },
+  {
+    "id": "ic:216348",
+    "sourceEventId": "216348",
+    "title": "Europe | Germany | World Class Study in London Information Session in Munich",
+    "desc": "Meet Imperial College London and The London School of Economics and Political Science (LSE) to find out more about studying in London.\n\nRepresentatives from two world leading universities in London – the London School of Economics and Political Science (LSE) and Imperial College London – will provide advice and guidance about UK degrees, the benefits of studying in London and the application process. This free session is open to any students, families, school counsellors and education advisors interested in finding out more about university studies in the UK.\n\nPlease note that, due to limited seating capacity, we may ask those accompanying prospective students to wait in the venue’s reception area during the main presentation.\n\nPlease direct any questions about this event to Sophie…",
+    "source": "IC",
+    "date": "2026-11-26T19:30:00+01:00",
+    "durationMin": 90,
+    "venue": "Sofitel Munich Bayerpost",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Recruitment",
+      "Europe",
+      "Counsellors",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216348/europe-germany-world-class-study-in-london-information-session-in-munich/",
+    "image": "data/images/2eda082564fa1320.jpg"
+  },
+  {
+    "id": "ic:216496",
+    "sourceEventId": "216496",
+    "title": "Santiago | Recruitment & Admissions team one-to-ones",
+    "desc": "Are you interested in an MBA or Master’s at Imperial Business School?\n\nRegister your interest for a one-to-one meeting in Santiago to meet with our Recruitment & Admissions team and discuss our programme portfolio.\n\nMeeting Imperial staff is a great way to find out if an MBA or Master’s programme is right for you. At a 30-minute one-to-one with a member of the Recruitment & Admissions team, you can discuss your personal profile and gain insights into the MBA programmes and MSc programmes at the Business School.\n\nWe will be visiting Santiago, Chile on Friday 27 November and will be holding one-to-one meetings between 08.00 – 18.00 local time.\n\nIf you would like to attend any of our other events, then please look at our Meet us page for all in-person and online opportunities.\n\nKey…",
+    "source": "IC",
+    "date": "2026-11-27T08:00:00-03:00",
+    "durationMin": 480,
+    "venue": "Location to be confirmed",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Recruitment",
+      "MSc Business Analytics & AI",
+      "MSc Climate Change, Management & Finance",
+      "MSc Economics & Strategy for Business",
+      "MSc Finance"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216496/santiago-recruitment-admissions-team-one-to-ones/",
+    "image": "data/images/15c61a2e704a020f.jpg"
+  },
+  {
+    "id": "ic:217522",
+    "sourceEventId": "217522",
+    "title": "Engineering Topological Spin Textures in Three-Dimensional Magnetic Metamaterials",
+    "desc": "Dr. Naemi Leo, Loughborough University\n\nFriday 27 th November 2026, B630, 11am\n\nAbstract :\n\nConfinement at the mesoscale gives rise to magnetic states and dynamical phenomena that have no counterparts in bulk materials. In this talk, I will discuss how three-dimensional magnetic metamaterials can be engineered to stabilize and control complex topological spin textures through geometry alone. Using magnetic nanohelices fabricated by focused electron beam induced deposition (FEBID), combined with x-ray magnetic circular dichroism microscopy and micromagnetic simulations, we demonstrate the controlled formation of metastable topological states, including Skyrmion tubes [1].\n\nBio : Dr Naëmi Leo is a UKRI Future Leaders Fellow at Loughborough University. After studying physics at the…",
+    "source": "IC",
+    "date": "2026-11-27T11:00:00+00:00",
+    "durationMin": 60,
+    "venue": "B630- Level 6 , Blackett Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Physics",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217522/engineering-topological-spin-textures-in-three-dimensional-magnetic-metamaterials/",
+    "image": "data/images/5f47d88be043d445.jpg"
+  },
+  {
+    "id": "ic:214792",
+    "sourceEventId": "214792",
+    "title": "Friday Forum – Science, Hope and Shaping Futures",
+    "desc": "Thinking about the social value of your science? Anxious that your work should make the world a better place? Keen to understand how your ideas, combined with a practical understanding of policy, might shape a future you’d look forward to? This Friday Forum reflects upon Imperial’s strapline ‘Science for Humanity’ and gives you an opportunity to put your research into a framework for the future.\n\nFor this Friday Forum the Good Science Project is delighted to collaborate with the Centre for Environmental Policy and the Imperial Policy Forum. Together we plan an afternoon of science imagination and robust future-shaping.\n\nThe Friday Forum consists of two parts. Part One is our customary panel discussion, running from 13:00-14:00. In Part Two, running from 14:15 – 16:00, we work in groups,…",
+    "source": "IC",
+    "date": "2026-11-27T12:15:00+00:00",
+    "durationMin": 225,
+    "venue": "Queen's Tower Rooms B & C, Sherfield Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Symposium",
+      "Science",
+      "Science communication",
+      "human behaviour",
+      "Human-Like Computing"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214792/science-hope-and-shaping-futures/",
+    "image": "data/images/1820c6102934f39b.jpg"
+  },
+  {
+    "id": "ic:213625",
+    "sourceEventId": "213625",
+    "title": "Teaching Seminar: Dr Layal Hakim (University of Exeter)",
+    "desc": "Speaker: Dr Layal Hakim (University of Exeter)\n\nTalk title: Transitioning to independent learning within HE Mathematics\n\nAbstract: The transition to university level mathematics involves more than learning new mathematical content. Students are also expected to develop confidence, skills and habits needed to learn independently, manage their studies and work through unfamiliar problems. This talk will explore approaches to supporting that transition within undergraduate mathematics. Drawing on examples from practice, we will look at how online quizzes , feedback, guided problem solving, interactive teaching and other forms of structures support can help students gradually take greater responsibility for their learning. We will also reflect on how we can avoid assuming that student will…",
+    "source": "IC",
+    "date": "2026-11-27T13:00:00+00:00",
+    "durationMin": 60,
+    "venue": "340, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213625/teaching-seminar-dr-layal-hakim-university-of-exeter/",
+    "image": "data/images/263a03c01b826444.jpg"
+  },
+  {
+    "id": "ic:217239",
+    "sourceEventId": "217239",
+    "title": "Geometry and Topology Seminar – Severin Barmeier (Cologne)",
+    "desc": "Severin Barmeier (Cologne): tba\n\nMore information on the GT seminar website",
+    "source": "IC",
+    "date": "2026-11-27T13:30:00+00:00",
+    "durationMin": 60,
+    "venue": "642, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217239/geometry-and-topology-seminar-severin-barmeier-cologne/",
+    "image": "data/images/263a03c01b826444.jpg"
+  },
+  {
+    "id": "ic:213728",
+    "sourceEventId": "213728",
+    "title": "Fluid Dynamics Seminar: Linda Cummings (NJIT)",
+    "desc": "Network models for membrane filters",
+    "source": "IC",
+    "date": "2026-11-27T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "139, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213728/fluid-dynamics-seminar-linda-cummings-njit/",
+    "image": "data/images/b86d11f01e230b11.jpg"
+  },
+  {
+    "id": "ic:216741",
+    "sourceEventId": "216741",
+    "title": "Junior Geometry Seminar – Natasha Diederen",
+    "desc": "Title: Topological change in mean curvature flow\n\nSpeaker: Natasha Diederen\n\nAbstract: A hypersurface evolves by mean curvature flow if each point moves with velocity given by its mean curvature vector. This process is described by a nonlinear parabolic PDE and solutions form singularities in finite time. Mean curvature flow can be viewed as an extrinsic analogue to Ricci flow, and has similarly proved to be a useful tool in approaching various questions in geometry and topology. Addressing such questions requires an understanding of the formation and structure of singularities, as well as how the flow can be meaningfully extended past them. In this talk, we will explore, through a series of examples, what is known about the behaviour of mean curvature flow near singularities, and how…",
+    "source": "IC",
+    "date": "2026-11-27T17:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Room 140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216741/junior-geometry-seminar-natasha-diederen-2/",
+    "image": "data/images/f0ee1dbe9a1d5f2b.jpg"
+  },
+  {
+    "id": "ic:216324",
+    "sourceEventId": "216324",
+    "title": "Europe | Austria | World Class Study in London Information Session in Vienna",
+    "desc": "Meet Imperial College London and The London School of Economics and Political Science (LSE) to find out more about studying in London.\n\nRepresentatives from two world leading universities in London – the London School of Economics and Political Science (LSE) and Imperial College London – will provide advice and guidance about UK degrees, the benefits of studying in London and the application process. This free session is open to any students, families, school counsellors and education advisors interested in finding out more about university studies in the UK.\n\nPlease note that, due to limited seating capacity, we may ask those accompanying prospective students to wait in the venue’s reception area during the main presentation.\n\nPlease direct any questions about this event to Sophie…",
+    "source": "IC",
+    "date": "2026-11-27T19:30:00+01:00",
+    "durationMin": 90,
+    "venue": "Steinberger Hotel Herrenhof ",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Recruitment",
+      "Europe",
+      "Counsellors",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216324/europe-austria-world-class-study-in-london-information-session-in-vienna/",
+    "image": "data/images/2eda082564fa1320.jpg"
   },
   {
     "id": "lse:ai-democracy",
@@ -1092,7 +1093,7 @@
   {
     "id": "rs:2027-04-neuropeptide-connectome",
     "sourceEventId": "2027-04-neuropeptide-connectome",
-    "title": "The neuropeptide connectome: Unlocking secrets of the brain’s dark matter",
+    "title": "The neuropeptide connectome: unlocking secrets of the brain’s dark matter",
     "desc": "Discussion meeting organised by Professor Isabel Beets, Professor Christine Li, Professor William R Schafer FRS FMedSci and Emeritus Professor John G White FRS",
     "source": "RS",
     "date": "2027-04-12T09:00:00+01:00",
