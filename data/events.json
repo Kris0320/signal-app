@@ -189,27 +189,6 @@
     "image": "data/images/5da5c2c117afef2a.png"
   },
   {
-    "id": "kcl:school-of-the-sacraments-at-guys-7",
-    "sourceEventId": "cc6e5680-73a2-40ee-97b7-44c8b2f5c58d",
-    "title": "School of the Sacraments at Guy's",
-    "desc": "A group for students interested in the liturgy and sacraments of the Catholic Church.",
-    "source": "KCL",
-    "date": "2026-12-01T18:00:00",
-    "durationMin": 90,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Student",
-      "International",
-      "University"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-7",
-    "image": "data/images/d9cf36757a289b06.jpg"
-  },
-  {
     "id": "kcl:the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
     "sourceEventId": "1fb8bfc8-3beb-4b14-a44c-c989e5ea09c2",
     "title": "The Sir Michael Howard Centre for the History of War Annual Lecture - 'New Directions in the History of the Second World War in South Asia'",
@@ -229,6 +208,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
     "image": "data/images/47fbe34d8efd1f28.png"
+  },
+  {
+    "id": "kcl:school-of-the-sacraments-at-guys-7",
+    "sourceEventId": "cc6e5680-73a2-40ee-97b7-44c8b2f5c58d",
+    "title": "School of the Sacraments at Guy's",
+    "desc": "A group for students interested in the liturgy and sacraments of the Catholic Church.",
+    "source": "KCL",
+    "date": "2026-12-01T18:00:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-7",
+    "image": "data/images/d9cf36757a289b06.jpg"
   },
   {
     "id": "kcl:kings-alumni-reception-new-york",
@@ -486,7 +486,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213558/triangle-seminar-city-u-2/",
-    "image": "data/images/512d103d5423a9c7.jpg"
+    "image": "data/images/7cd9869c3f438571.jpg"
   },
   {
     "id": "ic:216949",
@@ -574,7 +574,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217181/spc-seminar-plasma-charles-heaton-imperial/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:217230",
@@ -595,7 +595,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217230/number-theory-seminar-jack-thorne/",
-    "image": "data/images/b4f3c036c0b69eb4.jpg"
+    "image": "data/images/512d103d5423a9c7.jpg"
   },
   {
     "id": "ic:212320",
@@ -684,7 +684,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212785/lunchtime-concert-brahms-piano-quartet/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:215183",
@@ -705,13 +705,13 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215183/analysis-and-dynamics-seminar-mehrdad-kalantar-university-of-oxford/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:212857",
     "sourceEventId": "212857",
     "title": "PDEs Seminar – Swann Marx (CNRS, Nantes)",
-    "desc": "TBA",
+    "desc": "Title: Singular perturbation results for infinite-dimensional linear systems.\n\nAbstract: Consider two coupled equations evolving on different time scales. A natural way to simplify the system is to set the time derivative in the fast equation to zero while retaining the slow equation. Can the resulting reduced model describes properly the stability of the full system? For ordinary differential equations, classical singular perturbation theory gives conditions under which stability of the reduced system and of the fast dynamics with the slow variables supposed fixed implies stability of the full system, provided the time scales are sufficiently far away to each other. In this talk, I will examine how far this principle extends to coupled systems involving partial differential equations.…",
     "source": "IC",
     "date": "2026-11-26T14:00:00+00:00",
     "durationMin": 60,
@@ -770,7 +770,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216009/algebra-colloquium-emmanuel-breuillard-oxford/",
-    "image": "data/images/512d103d5423a9c7.jpg"
+    "image": "data/images/7cd9869c3f438571.jpg"
   },
   {
     "id": "ic:216718",
@@ -1126,26 +1126,6 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/04/recombinant-genealogies/",
     "image": "data/images/b6d4a4028a4de58e.jpg"
-  },
-  {
-    "id": "rs:2026-11-see-healthcare-differently",
-    "sourceEventId": "2026-11-see-healthcare-differently",
-    "title": "See Healthcare Differently",
-    "desc": "In this panel discussion, we gather some of the UK's brightest minds to see if they can See Healthcare Differently.",
-    "source": "RS",
-    "date": "2026-11-24T18:30:00+01:00",
-    "durationMin": 60,
-    "venue": "The Royal Society",
-    "area": "Mayfair",
-    "price": 0,
-    "tags": [
-      "Healthcare",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 82,
-    "url": "https://royalsociety.org/science-events-and-lectures/2026/11/see-healthcare-differently/",
-    "image": "data/images/38c096db4d9a50fe.jpg"
   },
   {
     "id": "rs:2026-12-see-christmas-differently",
