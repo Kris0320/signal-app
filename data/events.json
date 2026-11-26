@@ -189,25 +189,25 @@
     "image": "data/images/5da5c2c117afef2a.png"
   },
   {
-    "id": "kcl:school-of-the-sacraments-at-guys-7",
-    "sourceEventId": "cc6e5680-73a2-40ee-97b7-44c8b2f5c58d",
-    "title": "School of the Sacraments at Guy's",
-    "desc": "A group for students interested in the liturgy and sacraments of the Catholic Church.",
+    "id": "kcl:the-david-d.-caron-praelium-copy-1",
+    "sourceEventId": "5b56ce33-ff40-4d9c-aec6-b90cd66353ef",
+    "title": "The David D. Caron Praelium 2026",
+    "desc": "An annual celebration of advocacy, with two leading international advocates deploying their oratorical and advocacy skills in the service of important current legal issues before a distinguished three-member tribunal.",
     "source": "KCL",
-    "date": "2026-12-01T18:00:00",
-    "durationMin": 90,
+    "date": "2026-12-01T17:30:00",
+    "durationMin": 120,
     "venue": "Strand",
     "area": "Strand",
     "price": 0,
     "tags": [
-      "Student",
-      "International",
-      "University"
+      "Public lecture",
+      "Law",
+      "International"
     ],
     "format": "In person",
     "match": 70,
-    "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-7",
-    "image": "data/images/d9cf36757a289b06.jpg"
+    "url": "https://www.kcl.ac.uk/events/the-david-d.-caron-praelium-copy-1",
+    "image": "data/images/0eba11444221c0c1.png"
   },
   {
     "id": "kcl:the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
@@ -229,6 +229,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
     "image": "data/images/47fbe34d8efd1f28.png"
+  },
+  {
+    "id": "kcl:school-of-the-sacraments-at-guys-7",
+    "sourceEventId": "cc6e5680-73a2-40ee-97b7-44c8b2f5c58d",
+    "title": "School of the Sacraments at Guy's",
+    "desc": "A group for students interested in the liturgy and sacraments of the Catholic Church.",
+    "source": "KCL",
+    "date": "2026-12-01T18:00:00",
+    "durationMin": 90,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Student",
+      "International",
+      "University"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-7",
+    "image": "data/images/d9cf36757a289b06.jpg"
   },
   {
     "id": "kcl:kings-alumni-reception-new-york",
@@ -288,27 +309,6 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/undergraduate-info-session-the-dentistry-pathway-for-medical-graduates-2-december-2026",
     "image": "data/images/4d782de7350834ef.png"
-  },
-  {
-    "id": "kcl:mindfulness-with-jenny-online-25",
-    "sourceEventId": "3f02d878-210c-4e70-b8e8-0032f534b4ec",
-    "title": "Mindfulness with Jenny - Online",
-    "desc": "A session to explore mindfulness and how to be mindful.",
-    "source": "KCL",
-    "date": "2026-12-02T10:00:00",
-    "durationMin": 60,
-    "venue": "Online",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "University",
-      "Student",
-      "International"
-    ],
-    "format": "Online",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/mindfulness-with-jenny-online-25",
-    "image": "data/images/9a428ca7444d0e16.jpg"
   },
   {
     "id": "ic:215848",
@@ -378,6 +378,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212662/who-creates-who-captures-value-power-and-the-future-of-digital-ecosystems/",
     "image": "data/images/6ced98add2dd3db4.jpg"
+  },
+  {
+    "id": "ic:217350",
+    "sourceEventId": "217350",
+    "title": "White City Campus Christmas Market",
+    "desc": "Join us for a festive afternoon open to all on 3 December, from 12:00pm to 6:00pm, at North Campus, White City.\n\nCome and visit Santa in his grotto and have your photo taken before enjoying mulled wine and mince pies at The Works! Enjoy delicious food from one of our vendors including crepes, hot chocolate, pizza, bratwurst and toasties.\n\nIt’s the most wonderful time of the year to bring your colleagues, friends and family along to enjoy good food and seasonal celebrations together!",
+    "source": "IC",
+    "date": "2026-12-03T12:00:00+00:00",
+    "durationMin": 360,
+    "venue": "Perkins Green Garden, North Campus, Collabor-88, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Social",
+      "White City Campus",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217350/white-city-campus-christmas-market/",
+    "image": "data/images/6b21c5b8e718703d.jpg"
   },
   {
     "id": "ic:212834",
@@ -466,7 +487,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/212785/lunchtime-concert-brahms-piano-quartet/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:215183",
@@ -487,7 +508,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215183/analysis-and-dynamics-seminar-mehrdad-kalantar-university-of-oxford/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:212857",
@@ -552,7 +573,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216009/algebra-colloquium-emmanuel-breuillard-oxford/",
-    "image": "data/images/b4f3c036c0b69eb4.jpg"
+    "image": "data/images/7cd9869c3f438571.jpg"
   },
   {
     "id": "ic:216718",
@@ -596,7 +617,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217305/junior-dynamics-seminar-oscar-randles-durham-university/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:216348",
@@ -664,7 +685,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217522/engineering-topological-spin-textures-in-three-dimensional-magnetic-metamaterials/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:214792",
@@ -708,7 +729,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213625/teaching-seminar-dr-layal-hakim-university-of-exeter/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:217239",
@@ -729,7 +750,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217239/geometry-and-topology-seminar-severin-barmeier-cologne/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:213728",
@@ -750,7 +771,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213728/fluid-dynamics-seminar-linda-cummings-njit/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:216741",
@@ -1127,6 +1148,26 @@
     "match": 70,
     "url": "https://royalsociety.org/science-events-and-lectures/2027/04/recombinant-genealogies/",
     "image": "data/images/b6d4a4028a4de58e.jpg"
+  },
+  {
+    "id": "rs:2027-05-ultrafine-particles",
+    "sourceEventId": "2027-05-ultrafine-particles",
+    "title": "Ultrafine particles in the environment",
+    "desc": "Theo Murphy meeting organised by Professor Jamie Lead and Professor Roy Harrison OBE FRS",
+    "source": "RS",
+    "date": "2027-05-10T09:00:00+01:00",
+    "durationMin": 480,
+    "venue": "Clayton Hotel, Birmingham",
+    "area": "Mayfair",
+    "price": 0,
+    "tags": [
+      "Climate",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://royalsociety.org/science-events-and-lectures/2027/05/ultrafine-particles/",
+    "image": "data/images/f3792b0d5836ca7c.jpg"
   },
   {
     "id": "rs:2026-12-see-christmas-differently",
