@@ -424,225 +424,6 @@
     "image": "data/images/51e3aa5b6e8b95f6.jpg"
   },
   {
-    "id": "ic:217398",
-    "sourceEventId": "217398",
-    "title": "Spotlight on bacterial vaginosis: the hidden health crisis",
-    "desc": "New findings from the Imperial College London-led Spotlight on BV study reveal the hidden health crisis affecting 1 in 3 women.\n\nOne in three women will experience bacterial vaginosis (BV), yet most have never heard of it until it happens to them. Despite being the most common cause of vaginal discharge in the UK, BV remains overlooked, under-researched and widely misunderstood.\n\nJoin us for an exclusive lunchtime webinar presenting findings from the Imperial College London-led Spotlight on BV study , delivered in partnership with Brook Sexual Health .\n\nLed by Dr Charlotte-Eve Short and Ms Sophie Stephens, this pioneering research shines a light on the real-world impact of a condition that affects millions but is rarely discussed openly.\n\nThrough interviews and focus groups with women…",
-    "source": "IC",
-    "date": "2026-11-26T12:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "bacteria",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/217398/spotlight-on-bacterial-vaginosis-the-hidden-health-crisis/",
-    "image": "data/images/67120ee9924d8f07.jpg"
-  },
-  {
-    "id": "ic:217130",
-    "sourceEventId": "217130",
-    "title": "CumbriaMed Research Webinar: Sexual Health: Research, Prevention, and Care",
-    "desc": "The PCSM Research Hub invites you to join us for the next edition of the CumbriaMed Research Webinar Series , which showcases leading health researchers working in and with Cumbria. Each session features two expert speakers and a live Q&A. The series is open to staff, students, patients, relatives, and the public; all are welcome.\n\nProf Matt Phillips – Consultant in Genitourinary Medicine, NCIC; Head of Clinical Education, Pears Cumbria School of Medicine. Delivering Sexual Health Services in Rural Cumbria Matt is a specialist in sexual health and HIV, with particular interests in medical ethics, HIV-related law, and sexual health service provision. He served as President of the British Association for Sexual Health and HIV (BASHH) from 2024 to 2026 and has worked in Cumbria since 2016.…",
-    "source": "IC",
-    "date": "2026-11-26T12:30:00+00:00",
-    "durationMin": 60,
-    "venue": "Imperial College London",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/217130/cumbriamed-research-webinar-sexual-health-research-prevention-and-care/",
-    "image": "data/images/579478ec91c32f25.jpg"
-  },
-  {
-    "id": "ic:212785",
-    "sourceEventId": "212785",
-    "title": "Lunchtime Concert – Brahms Piano Quartet",
-    "desc": "Brahms Piano Quartet\n\nFour respected chamber musicians – Dimitar Burov (violin) Jon Thorne (viola) Lionel Handy (cello) Colin Stone (piano) – come together for Brahms Piano Quartet No 2 in A major Op 26",
-    "source": "IC",
-    "date": "2026-11-26T13:00:00+00:00",
-    "durationMin": 45,
-    "venue": "Holy Trinity Church, Prince Consort Road London, SW7 2BA, Holy Trinity Church, Off campus",
-    "area": "Off",
-    "price": 0,
-    "tags": [
-      "Social",
-      "Concerts",
-      "Arts",
-      "Creative",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212785/lunchtime-concert-brahms-piano-quartet/",
-    "image": "data/images/263a03c01b826444.jpg"
-  },
-  {
-    "id": "ic:215183",
-    "sourceEventId": "215183",
-    "title": "Analysis and Dynamics seminar: Mehrdad Kalantar (University of Oxford)",
-    "desc": "Speaker: Mehrdad Kalanta (University of Oxford) Title: On dynamics of groups with rapid decay properties Abstract: We prove some rigidity results concerning minimal actions of groups with rapid decay properties. In particular, for a group G with the usual rapid decay, and a minimal compact G-space X, we show that if neighborhood stabilizers are amenable, then they are contained in the amenable radical of G.",
-    "source": "IC",
-    "date": "2026-11-26T13:00:00+00:00",
-    "durationMin": 60,
-    "venue": "410, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/215183/analysis-and-dynamics-seminar-mehrdad-kalantar-university-of-oxford/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:212857",
-    "sourceEventId": "212857",
-    "title": "PDEs Seminar – Swann Marx (CNRS, Nantes)",
-    "desc": "Title: Singular perturbation results for infinite-dimensional linear systems.\n\nAbstract: Consider two coupled equations evolving on different time scales. A natural way to simplify the system is to set the time derivative in the fast equation to zero while retaining the slow equation. Can the resulting reduced model describes properly the stability of the full system? For ordinary differential equations, classical singular perturbation theory gives conditions under which stability of the reduced system and of the fast dynamics with the slow variables supposed fixed implies stability of the full system, provided the time scales are sufficiently far away to each other. In this talk, I will examine how far this principle extends to coupled systems involving partial differential equations.…",
-    "source": "IC",
-    "date": "2026-11-26T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "Huxley 130, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/212857/pdes-seminar-swann-marx-cnrs-ls2n-nantes/",
-    "image": "data/images/030edec8db1523e2.jpg"
-  },
-  {
-    "id": "ic:216996",
-    "sourceEventId": "216996",
-    "title": "Digital Foundry Seminar Series: Forging Neurosymbolic World Models with Dr Emile van Krieken",
-    "desc": "The Digital Foundry, Imperial College London’s pioneering, cross-disciplinary innovation hub embedded within the university’s new School of Convergence Science, is a strategic hub for digital convergence, bringing together expertise in artificial intelligence, robotics, data science and digital technologies within a shared environment at the White City Campus. Through co-location, community building and access to specialist facilities, the Digital Foundry connects researchers, innovators, students, and industry partners from across disciplines to tackle complex challenges, accelerate translational research and create new opportunities at the intersection of science, engineering, medicine and technology.\n\nAbstract:\n\nWorld models enable agents to predict the consequences of their actions…",
-    "source": "IC",
-    "date": "2026-11-26T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "LT 608 A/B, Digital Foundry, Level 6, Translation and Innovation Hub (I-HUB), White City Campus",
-    "area": "White City",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "maths",
-      "Artificial intelligence",
-      "EEE",
-      "Event"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216996/digital-foundry-seminar-series-forging-neurosymbolic-world-models-with-dr-emile-van-krieken/",
-    "image": "data/images/0ee57b5b59195fe5.jpg"
-  },
-  {
-    "id": "ic:216009",
-    "sourceEventId": "216009",
-    "title": "Algebra Colloquium – Emmanuel Breuillard (Oxford)",
-    "desc": "Emmanuel Breuillard (Oxford): On the inverse problem for isometry groups of norms\n\nMore details available on Algebra Colloquium website .",
-    "source": "IC",
-    "date": "2026-11-26T15:00:00+00:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Colloquium",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216009/algebra-colloquium-emmanuel-breuillard-oxford/",
-    "image": "data/images/7cd9869c3f438571.jpg"
-  },
-  {
-    "id": "ic:216718",
-    "sourceEventId": "216718",
-    "title": "Physics Colloquium: Correlation-driven topological semimetals",
-    "desc": "Join us for a Department of Physics colloquium entitled “Correlation-driven topological semimetals ” with Professor Silke Bühler-Paschen, Vienna University of Technology (TU Wien)\n\nPlease note – The lecture will run from 16:00-17:00 , followed by refreshments from 17:00-18:00 in the Level 8 Common Room of the Blackett Building.\n\nBiography\n\nSilke Paschen is an experimental condensed matter physicist, with a research focus on strongly correlated electron systems. After her graduation at the Graz University of Technology, her PhD at EPFL Lausanne and research stays at ETH Zurich, the Max Planck Institute for Chemical Solid State Physics in Dresden and Nagoya U niversity, she was appointed full professor of physics at the Vienna University of Technology (TU Wien). Since 2017, she has held a…",
-    "source": "IC",
-    "date": "2026-11-26T16:00:00+00:00",
-    "durationMin": 120,
-    "venue": "Lecture Theatre 1 , Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Colloquium",
-      "Physics",
-      "Departmental event",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216718/physics-colloquium-correlation-driven-topological-semimetals/",
-    "image": "data/images/cddd5dcc50ae5de1.jpg"
-  },
-  {
-    "id": "ic:217305",
-    "sourceEventId": "217305",
-    "title": "Junior Dynamics Seminar – Oscar Randles (Durham University)",
-    "desc": "Energy-constrained Brownian Motion\n\nSpeaker: Oscar Randles (Durham University)\n\nAbstract : For reflected Brownian motion in an interval of length N, we consider the first time at which the length of time since the most recent visit to the boundary exceeds M; this random ‘lifetime’ comes from the interpretation in which the Brownian motion has a finite energy capacity M, uses energy at unit rate in the interior, and gets its energy replenished up to M on every visit to the boundary. We prove distributional asymptotics for the lifetime in three different regimes depending on the relative growth of N and M; these one-dimensional results parallel results in the random walk case by Wade and Grinfeld. We also present some initial results on the multidimensional version of the problem.",
-    "source": "IC",
-    "date": "2026-11-26T16:00:00+00:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/217305/junior-dynamics-seminar-oscar-randles-durham-university/",
-    "image": "data/images/263a03c01b826444.jpg"
-  },
-  {
-    "id": "ic:216348",
-    "sourceEventId": "216348",
-    "title": "Europe | Germany | World Class Study in London Information Session in Munich",
-    "desc": "Meet Imperial College London and The London School of Economics and Political Science (LSE) to find out more about studying in London.\n\nRepresentatives from two world leading universities in London – the London School of Economics and Political Science (LSE) and Imperial College London – will provide advice and guidance about UK degrees, the benefits of studying in London and the application process. This free session is open to any students, families, school counsellors and education advisors interested in finding out more about university studies in the UK.\n\nPlease note that, due to limited seating capacity, we may ask those accompanying prospective students to wait in the venue’s reception area during the main presentation.\n\nPlease direct any questions about this event to Sophie…",
-    "source": "IC",
-    "date": "2026-11-26T19:30:00+01:00",
-    "durationMin": 90,
-    "venue": "Sofitel Munich Bayerpost",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Recruitment",
-      "Europe",
-      "Counsellors",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216348/europe-germany-world-class-study-in-london-information-session-in-munich/",
-    "image": "data/images/2eda082564fa1320.jpg"
-  },
-  {
     "id": "ic:216496",
     "sourceEventId": "216496",
     "title": "Santiago | Recruitment & Admissions team one-to-ones",
@@ -685,7 +466,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217522/engineering-topological-spin-textures-in-three-dimensional-magnetic-metamaterials/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:214792",
@@ -750,7 +531,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217239/geometry-and-topology-seminar-severin-barmeier-cologne/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:213728",
@@ -771,7 +552,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213728/fluid-dynamics-seminar-linda-cummings-njit/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:216741",
@@ -818,6 +599,225 @@
     "image": "data/images/2eda082564fa1320.jpg"
   },
   {
+    "id": "ic:216252",
+    "sourceEventId": "216252",
+    "title": "Environment & Health Research Coffee Morning",
+    "desc": "Join Small Area Health Statistics Unit (SAHSU) at Imperial College London for an informal coffee morning exploring how our environment influences our health. Learn about our research, share your perspectives and enjoy conversations over tea or coffee.",
+    "source": "IC",
+    "date": "2026-11-30T10:30:00+00:00",
+    "durationMin": 120,
+    "venue": "N/A, The Invention Rooms, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "General",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216252/environment-health-research-coffee-morning/",
+    "image": "data/images/cf6382a3b19db4e9.jpg"
+  },
+  {
+    "id": "ic:212960",
+    "sourceEventId": "212960",
+    "title": "Christian Meditation: Online and In-person",
+    "desc": "Format: In person and Online (hybrid)\n\nIn Person: Chaplaincy, 15 Prince’s Gardens, South Kensington Campus, SW7 1NA (Drop-in)\n\nOnline via private Zoom Meeting invite . You can subscribe to our weekly mailing list to get the weekly Zoom Link.\n\nAnyone outside the Colleges of South Kensington who would like to attend online please contact Andrew Willson a.willson@imperial.ac.uk\n\nFacilitator: The Christian Meditation sessions are led by Andrew Willson, College Chaplain.\n\nAbout Christian Meditation\n\nChristianity has a long and rich history of meditation and contemplative prayer. These ancient Christian traditions have their roots in the monasteries of the desert hermits of the second century. Jesus himself often prayed in times of stillness and solitude. Many of these long established…",
+    "source": "IC",
+    "date": "2026-11-30T13:10:00+00:00",
+    "durationMin": 30,
+    "venue": "Chaplaincy Multi-Faith Centre, 15 Prince's Gardens, South Kensington, SW7 1NA",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "General",
+      "mental health",
+      "Education",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/212960/weekly-christian-meditation-9/",
+    "image": "data/images/3664c76b77dd16c7.jpg"
+  },
+  {
+    "id": "ic:216366",
+    "sourceEventId": "216366",
+    "title": "Berlin | Masters’ one-to-ones",
+    "desc": "Are you interested in an Master’s at Imperial Business School?\n\nRegister your interest for a one-to-one meeting in Berlin to meet with our Recruitment & Admissions team and discuss our programme portfolio.\n\nMeeting Imperial staff is a great way to find out if an Master’s programme is right for you. At a 30-minute one-to-one with a member of the Recruitment & Admissions team, you can discuss your personal profile and gain insights into the MSc programmes at the Business School.\n\nWe will be visiting Berlin, Germany on Tuesday 01 December and will be holding one-to-one meetings between 10.00 – 16.00 local time.\n\nIf you would like to attend any of our other events, then please look at our Meet us page for all in-person and online opportunities.\n\nKey Information\n\nWhy should I attend?\n\nHow do…",
+    "source": "IC",
+    "date": "2026-12-01T10:00:00+01:00",
+    "durationMin": 360,
+    "venue": "Location to be confirmed",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Recruitment",
+      "MSc Business Analytics & AI",
+      "MSc Climate Change",
+      "MSc Climate Change, Management & Finance",
+      "MSc Economics & Strategy for Business"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216366/berlin-masters-one-to-ones/",
+    "image": "data/images/8573de399d2a1992.jpg"
+  },
+  {
+    "id": "ic:213177",
+    "sourceEventId": "213177",
+    "title": "Speak like a researcher 3: making expertise visible",
+    "desc": "Do you want to improve your academic speaking?\n\nSave this placeholder as a reminder of the Speak like a researcher workshops. The appointment is for the all of the sessions below so delete the occurrences of any sessions you do not wish to attend.\n\nSpeak like a researcher (SLAR) is a three-part, on-campus workshop series designed to help you communicate your research confidently in the situations that matter. You will learn how to build purposeful professional relationships, explain complex ideas clearly to different audiences, and respond credibly when your claims are questioned. Through practical activities, guided reflection and realistic speaking tasks, you will develop strategies for listening, questioning, structuring explanations and handling uncertainty. Each worksho p focuses on…",
+    "source": "IC",
+    "date": "2026-12-01T12:00:00+00:00",
+    "durationMin": 60,
+    "venue": "ASL-315 - Access through the SHERFIELD building, Sherfield Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Practice session",
+      "CfAE speaking and listening practice sessions",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213177/speak-like-a-researcher-3-making-expertise-visible-2/",
+    "image": "data/images/ebfd3403978e3af0.jpg"
+  },
+  {
+    "id": "ic:213347",
+    "sourceEventId": "213347",
+    "title": "Mohn Centre PhD Programme – Careers Beyond Academia",
+    "desc": "Join former Mohn Centre & Imperial PhD students for a discussion of their experiences working outside of academia after their PhDs. Please come along to hear more about their personal experiences, the change from PhD life and top tips for anyone considering different options post PhD.\n\nThere will be time for questions and answers afterwards.",
+    "source": "IC",
+    "date": "2026-12-01T12:00:00+00:00",
+    "durationMin": 120,
+    "venue": "To be confirmed, School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Workshop",
+      "Mohn Centre for Childrens Health and Wellbeing",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213347/mohn-centre-phd-programme-careers-beyond-academia/",
+    "image": "data/images/263a03c01b826444.jpg"
+  },
+  {
+    "id": "ic:216612",
+    "sourceEventId": "216612",
+    "title": "Advances in the understanding and treatment of atrial fibrillation",
+    "desc": "Atrial fibrillation (AF) is the most common heart rhythm disorder, affecting millions of people worldwide. As it affects more and more people, many questions remain unanswered about why AF develops and progresses in some individuals. Improved understanding of the biological mechanisms and risk factors underlying AF is helping to drive new approaches to its prevention and treatment.\n\nIn this seminar, two experts will talk about their research on atrial fibrillation and answer your questions:\n\nProfessor Barbara Casadei is Head of the National Heart and Lung Institute (NHLI) at Imperial and a British Heart Foundation Professor of Cardiovascular Medicine. Professor Casadei will talk about her research on understanding the mechanisms and determinants of atrial fibrillation.\n\nProfessor Prapa…",
+    "source": "IC",
+    "date": "2026-12-01T12:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Imperial College London",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Medicine",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216612/advances-in-the-understanding-and-treatment-of-atrial-fibrillation/",
+    "image": "data/images/717e3c074bcaf985.jpg"
+  },
+  {
+    "id": "ic:217393",
+    "sourceEventId": "217393",
+    "title": "IDE Seminar Series – Professor Kat Rock",
+    "desc": "Professor Kat Rock is a mathematical epidemiologist and scientific leader who specialises in the mathematical and dynamical modelling of infectious diseases, particularly vector-borne diseases and neglected tropical diseases. Her work combines new modelling approaches with applied research to produce evidence that informs public health policy and disease intervention strategies.\n\nSince 2017, Professor Rock has led the HAT Modelling and Economic Predictions for Policy (HAT MEPP) programme, funded by the Gates Foundation. HAT MEPP is a large international, multidisciplinary team covering mathematical modelling, statistics, health economics and data visualisation. It works closely with six national sleeping sickness control programmes, the World Health Organization and international…",
+    "source": "IC",
+    "date": "2026-12-01T12:30:00+00:00",
+    "durationMin": 60,
+    "venue": "202, School of Public Health, White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Infectious diseases",
+      "MRC Centre for Global Infectious Disease Analysis",
+      "Modelling",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217393/ide-seminar-series-professor-kat-rock/",
+    "image": "data/images/eb0ead32ad0aa4ec.jpg"
+  },
+  {
+    "id": "ic:215884",
+    "sourceEventId": "215884",
+    "title": "Dynamical Systems Seminar – Tresnia Berah (Imperial)",
+    "desc": "Speaker : Tresnia Berah\n\nTitle : Selection principles for quasi-stationary distributions and reinforcement processes\n\nAbstract : (https://arxiv.org/abs/2606.25857) Let P be a sub-Markov matrix on a finite set S. We study a reinforced process that evolves according to P until absorption and is then resurrected at a point sampled from its weighted past occupation measure ??, with positive weights w? and cumulative weights W? = w? + ? + w?. Whereas the irreducible case leads to almost sure convergence towards the unique quasi-stationary distribution (QSD), we consider reducible kernels, for which several QSDs may coexist. Under generic assumptions on P and suitable assumptions on the weights and initial condition, there are finitely many QSDs and the asymptotic selection is governed by the…",
+    "source": "IC",
+    "date": "2026-12-01T13:00:00+00:00",
+    "durationMin": 60,
+    "venue": "145, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215884/dynamical-systems-seminar-tresnia-berah-imperial/",
+    "image": "data/images/cdec15043aac087d.jpg"
+  },
+  {
+    "id": "ic:213999",
+    "sourceEventId": "213999",
+    "title": "Finance and Stochastics Seminar – Dan Leonte",
+    "desc": "Speaker : Dan Leonte\n\nTitle : Uncertainty and Explainability in Deep Rough Volatility: A Neural Information-Theoretic Posterior Approach\n\nAbstract :",
+    "source": "IC",
+    "date": "2026-12-01T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213999/finance-and-stochastics-seminar-dan-lenote/",
+    "image": "data/images/263a03c01b826444.jpg"
+  },
+  {
+    "id": "ic:216284",
+    "sourceEventId": "216284",
+    "title": "Astrophysics Weekly Seminar: Ryan MacDonald – The Diversity of Worlds Revealed by the James Webb Space Telescope",
+    "desc": "Exoplanets are far more diverse than the planets in our solar system. A vast phase space of possible atmospheric conditions exists, from highly irradiated ultra-hot giant planets to frigid worlds around long dead stars. These worlds require detailed spectral investigation to uncover their secrets. The James Webb Space Telescope (JWST) has opened new possibilities in the characterisation of exoplanet atmospheres, including first looks at temperate worlds in the habitable zone, revealing these diverse worlds in unprecedented detail.\n\nIn this seminar, Dr Ryan MacDonald (Lecturer in Extrasolar Planets at the University of St Andrews) will present several highlights from the exotic exoplanets being revealed by JWST. He will describe how we measure properties of transiting exoplanets and offer…",
+    "source": "IC",
+    "date": "2026-12-01T14:15:00+00:00",
+    "durationMin": 60,
+    "venue": "711C, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/216284/astrophysics-weekly-seminar-ryan-macdonald-2/",
+    "image": "data/images/cdec15043aac087d.jpg"
+  },
+  {
     "id": "lse:ai-democracy",
     "sourceEventId": "ai-democracy",
     "title": "AI and democracy",
@@ -836,47 +836,6 @@
     "match": 74,
     "url": "https://www.lse.ac.uk/events/ai-democracy",
     "image": null
-  },
-  {
-    "id": "lse:economics-chance-health",
-    "sourceEventId": "economics-chance-health",
-    "title": "The economics of chance: what random events reveal about forces shaping health",
-    "desc": "The economics of chance: what random events reveal about forces shaping health",
-    "source": "LSE",
-    "date": "2026-11-26T18:30:00+01:00",
-    "durationMin": 90,
-    "venue": "In-person and online public event (Hong Kong Theatre, Clement House)",
-    "area": "Online",
-    "price": 0,
-    "tags": [
-      "Healthcare",
-      "health",
-      "Open to all"
-    ],
-    "format": "Online",
-    "match": 74,
-    "url": "https://www.lse.ac.uk/events/economics-chance-health",
-    "image": null
-  },
-  {
-    "id": "wc:wellcome-collection-lates-not-done-yet",
-    "sourceEventId": "wellcome-collection-lates-not-done-yet",
-    "title": "Wellcome Collection Lates: Not Done Yet",
-    "desc": "Explore care, creativity and activism in the ongoing response to HIV at our next Wellcome Collection Late.",
-    "source": "WC",
-    "date": "2026-11-26T19:00:00+00:00",
-    "durationMin": 180,
-    "venue": "Throughout our building",
-    "area": "Euston",
-    "price": 0,
-    "tags": [
-      "Lates",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 78,
-    "url": "https://wellcomecollection.org/events/wellcome-collection-lates-not-done-yet",
-    "image": "data/images/3d108a684fa83d60.jpg"
   },
   {
     "id": "wc:world-aids-day-connecting-threads",
