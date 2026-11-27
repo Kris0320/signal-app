@@ -334,29 +334,6 @@
     "image": "data/images/a00b0ab708d48c5e.jpg"
   },
   {
-    "id": "ic:213405",
-    "sourceEventId": "213405",
-    "title": "RSM175: Day of Celebration",
-    "desc": "In celebration of this year’s 175th anniversary of the Royal School of Mines ( RSM175 ), the Department of Earth Science and Engineering and Department of Materials are holding a special flagship event celebrating this important milestone.\n\nEstablished in 1851, the RSM was one of the three founding colleges of Imperial College London. Since then, it has nurtured generations of students, staff, researchers and educators, building a legacy of discovery and innovation across materials science and earth science.\n\nTaking place throughout the RSM building on Friday 27th November , this all-day ‘Day of Celebration’ event will bring together alumni, students, staff, industry partners and friends for a day of discovery, celebration and connection, showcasing the people, research, teaching,…",
-    "source": "IC",
-    "date": "2026-11-27T10:00:00+00:00",
-    "durationMin": 420,
-    "venue": "Multiple rooms, Royal School Of Mines, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Departmental event",
-      "Alumni",
-      "Faculty staff",
-      "Students",
-      "Engineering"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213405/rsm175-day-of-celebration/",
-    "image": "data/images/0bad00d38a08b9af.jpg"
-  },
-  {
     "id": "ic:212662",
     "sourceEventId": "212662",
     "title": "Who creates, who captures? Value, power, and the future of digital ecosystems",
@@ -424,181 +401,6 @@
     "image": "data/images/51e3aa5b6e8b95f6.jpg"
   },
   {
-    "id": "ic:216496",
-    "sourceEventId": "216496",
-    "title": "Santiago | Recruitment & Admissions team one-to-ones",
-    "desc": "Are you interested in an MBA or Master’s at Imperial Business School?\n\nRegister your interest for a one-to-one meeting in Santiago to meet with our Recruitment & Admissions team and discuss our programme portfolio.\n\nMeeting Imperial staff is a great way to find out if an MBA or Master’s programme is right for you. At a 30-minute one-to-one with a member of the Recruitment & Admissions team, you can discuss your personal profile and gain insights into the MBA programmes and MSc programmes at the Business School.\n\nWe will be visiting Santiago, Chile on Friday 27 November and will be holding one-to-one meetings between 08.00 – 18.00 local time.\n\nIf you would like to attend any of our other events, then please look at our Meet us page for all in-person and online opportunities.\n\nKey…",
-    "source": "IC",
-    "date": "2026-11-27T08:00:00-03:00",
-    "durationMin": 480,
-    "venue": "Location to be confirmed",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Recruitment",
-      "MSc Business Analytics & AI",
-      "MSc Climate Change, Management & Finance",
-      "MSc Economics & Strategy for Business",
-      "MSc Finance"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216496/santiago-recruitment-admissions-team-one-to-ones/",
-    "image": "data/images/15c61a2e704a020f.jpg"
-  },
-  {
-    "id": "ic:217522",
-    "sourceEventId": "217522",
-    "title": "Engineering Topological Spin Textures in Three-Dimensional Magnetic Metamaterials",
-    "desc": "Dr. Naemi Leo, Loughborough University\n\nFriday 27 th November 2026, B630, 11am\n\nAbstract :\n\nConfinement at the mesoscale gives rise to magnetic states and dynamical phenomena that have no counterparts in bulk materials. In this talk, I will discuss how three-dimensional magnetic metamaterials can be engineered to stabilize and control complex topological spin textures through geometry alone. Using magnetic nanohelices fabricated by focused electron beam induced deposition (FEBID), combined with x-ray magnetic circular dichroism microscopy and micromagnetic simulations, we demonstrate the controlled formation of metastable topological states, including Skyrmion tubes [1].\n\nBio : Dr Naëmi Leo is a UKRI Future Leaders Fellow at Loughborough University. After studying physics at the…",
-    "source": "IC",
-    "date": "2026-11-27T11:00:00+00:00",
-    "durationMin": 60,
-    "venue": "B630- Level 6 , Blackett Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Physics",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/217522/engineering-topological-spin-textures-in-three-dimensional-magnetic-metamaterials/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:214792",
-    "sourceEventId": "214792",
-    "title": "Friday Forum – Science, Hope and Shaping Futures",
-    "desc": "Thinking about the social value of your science? Anxious that your work should make the world a better place? Keen to understand how your ideas, combined with a practical understanding of policy, might shape a future you’d look forward to? This Friday Forum reflects upon Imperial’s strapline ‘Science for Humanity’ and gives you an opportunity to put your research into a framework for the future.\n\nFor this Friday Forum the Good Science Project is delighted to collaborate with the Centre for Environmental Policy and the Imperial Policy Forum. Together we plan an afternoon of science imagination and robust future-shaping.\n\nThe Friday Forum consists of two parts. Part One is our customary panel discussion, running from 13:00-14:00. In Part Two, running from 14:15 – 16:00, we work in groups,…",
-    "source": "IC",
-    "date": "2026-11-27T12:15:00+00:00",
-    "durationMin": 225,
-    "venue": "Queen's Tower Rooms B & C, Sherfield Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Symposium",
-      "Science",
-      "Science communication",
-      "human behaviour",
-      "Human-Like Computing"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/214792/science-hope-and-shaping-futures/",
-    "image": "data/images/1820c6102934f39b.jpg"
-  },
-  {
-    "id": "ic:213625",
-    "sourceEventId": "213625",
-    "title": "Teaching Seminar: Dr Layal Hakim (University of Exeter)",
-    "desc": "Speaker: Dr Layal Hakim (University of Exeter)\n\nTalk title: Transitioning to independent learning within HE Mathematics\n\nAbstract: The transition to university level mathematics involves more than learning new mathematical content. Students are also expected to develop confidence, skills and habits needed to learn independently, manage their studies and work through unfamiliar problems. This talk will explore approaches to supporting that transition within undergraduate mathematics. Drawing on examples from practice, we will look at how online quizzes , feedback, guided problem solving, interactive teaching and other forms of structures support can help students gradually take greater responsibility for their learning. We will also reflect on how we can avoid assuming that student will…",
-    "source": "IC",
-    "date": "2026-11-27T13:00:00+00:00",
-    "durationMin": 60,
-    "venue": "340, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213625/teaching-seminar-dr-layal-hakim-university-of-exeter/",
-    "image": "data/images/cdec15043aac087d.jpg"
-  },
-  {
-    "id": "ic:217239",
-    "sourceEventId": "217239",
-    "title": "Geometry and Topology Seminar – Severin Barmeier (Cologne)",
-    "desc": "Severin Barmeier (Cologne): tba\n\nMore information on the GT seminar website",
-    "source": "IC",
-    "date": "2026-11-27T13:30:00+00:00",
-    "durationMin": 60,
-    "venue": "642, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/217239/geometry-and-topology-seminar-severin-barmeier-cologne/",
-    "image": "data/images/b86d11f01e230b11.jpg"
-  },
-  {
-    "id": "ic:213728",
-    "sourceEventId": "213728",
-    "title": "Fluid Dynamics Seminar: Linda Cummings (NJIT)",
-    "desc": "Network models for membrane filters",
-    "source": "IC",
-    "date": "2026-11-27T14:00:00+00:00",
-    "durationMin": 60,
-    "venue": "139, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/213728/fluid-dynamics-seminar-linda-cummings-njit/",
-    "image": "data/images/5f47d88be043d445.jpg"
-  },
-  {
-    "id": "ic:216741",
-    "sourceEventId": "216741",
-    "title": "Junior Geometry Seminar – Natasha Diederen",
-    "desc": "Title: Topological change in mean curvature flow\n\nSpeaker: Natasha Diederen\n\nAbstract: A hypersurface evolves by mean curvature flow if each point moves with velocity given by its mean curvature vector. This process is described by a nonlinear parabolic PDE and solutions form singularities in finite time. Mean curvature flow can be viewed as an extrinsic analogue to Ricci flow, and has similarly proved to be a useful tool in approaching various questions in geometry and topology. Addressing such questions requires an understanding of the formation and structure of singularities, as well as how the flow can be meaningfully extended past them. In this talk, we will explore, through a series of examples, what is known about the behaviour of mean curvature flow near singularities, and how…",
-    "source": "IC",
-    "date": "2026-11-27T17:30:00+00:00",
-    "durationMin": 60,
-    "venue": "Room 140, Huxley Building, South Kensington Campus",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Seminar",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216741/junior-geometry-seminar-natasha-diederen-2/",
-    "image": "data/images/f0ee1dbe9a1d5f2b.jpg"
-  },
-  {
-    "id": "ic:216324",
-    "sourceEventId": "216324",
-    "title": "Europe | Austria | World Class Study in London Information Session in Vienna",
-    "desc": "Meet Imperial College London and The London School of Economics and Political Science (LSE) to find out more about studying in London.\n\nRepresentatives from two world leading universities in London – the London School of Economics and Political Science (LSE) and Imperial College London – will provide advice and guidance about UK degrees, the benefits of studying in London and the application process. This free session is open to any students, families, school counsellors and education advisors interested in finding out more about university studies in the UK.\n\nPlease note that, due to limited seating capacity, we may ask those accompanying prospective students to wait in the venue’s reception area during the main presentation.\n\nPlease direct any questions about this event to Sophie…",
-    "source": "IC",
-    "date": "2026-11-27T19:30:00+01:00",
-    "durationMin": 90,
-    "venue": "Steinberger Hotel Herrenhof ",
-    "area": "South Kensington",
-    "price": 0,
-    "tags": [
-      "Recruitment",
-      "Europe",
-      "Counsellors",
-      "Event",
-      "Open to all"
-    ],
-    "format": "In person",
-    "match": 72,
-    "url": "https://www.imperial.ac.uk/events/216324/europe-austria-world-class-study-in-london-information-session-in-vienna/",
-    "image": "data/images/2eda082564fa1320.jpg"
-  },
-  {
     "id": "ic:216252",
     "sourceEventId": "216252",
     "title": "Environment & Health Research Coffee Morning",
@@ -618,6 +420,27 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216252/environment-health-research-coffee-morning/",
     "image": "data/images/cf6382a3b19db4e9.jpg"
+  },
+  {
+    "id": "ic:217589",
+    "sourceEventId": "217589",
+    "title": "MAGIC Seminar – Yizhen Zhao (Queen Mary)",
+    "desc": "Yizhen Zhao (Queen Mary): Open r-spin Theories and Categories of Matrix Factorizations\n\nMore details can be found on https://www.imperial.ac.uk/geometry/seminars/magic-seminar/",
+    "source": "IC",
+    "date": "2026-11-30T13:00:00+00:00",
+    "durationMin": 60,
+    "venue": "658, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217589/magic-seminar-yizhen-zhao-queen-mary/",
+    "image": "data/images/512d103d5423a9c7.jpg"
   },
   {
     "id": "ic:212960",
@@ -773,7 +596,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215884/dynamical-systems-seminar-tresnia-berah-imperial/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:213999",
@@ -794,7 +617,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213999/finance-and-stochastics-seminar-dan-lenote/",
-    "image": "data/images/cdec15043aac087d.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:216284",
@@ -816,6 +639,180 @@
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216284/astrophysics-weekly-seminar-ryan-macdonald-2/",
     "image": "data/images/5378b299790f4be0.jpg"
+  },
+  {
+    "id": "ic:217166",
+    "sourceEventId": "217166",
+    "title": "Stochastic Analysis Seminar – Kohei Suzuki (Durham University)",
+    "desc": "Kohei Suzuki\n\nTitle:\n\nSpectral gap for logarithmic interacting Brownian motions\n\nAbstract",
+    "source": "IC",
+    "date": "2026-12-01T15:00:00+00:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217166/stochastic-analysis-seminar-kohei-suzuki-durham-university/",
+    "image": "data/images/5f47d88be043d445.jpg"
+  },
+  {
+    "id": "ic:214872",
+    "sourceEventId": "214872",
+    "title": "San Francisco Alumni Gathering at the Battery",
+    "desc": "Meet fellow Imperial alumni in San Francisco for an evening of conversation, connections, and community.\n\nRing in December with fellow Imperial alumni with an evening of conversation and connection at The Battery in San Francisco on Tuesday, December 1st, from 5:30–9:00 PM .\n\nFounded by Imperial alumnus Michael Birch , The Battery is a private social club and community space in the heart of San Francisco that brings together innovators, entrepreneurs, creatives, and leaders from across the Bay Area. We’ll gather in the Primrose Room for a relaxed evening to reconnect with familiar faces, meet new alumni, and continue building the Imperial community in Northern California.\n\nDrinks and small plates will be available for purchase throughout the evening.\n\nAlumni are welcome to bring a guest,…",
+    "source": "IC",
+    "date": "2026-12-01T17:00:00-08:00",
+    "durationMin": 180,
+    "venue": "The Battery ",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "International",
+      "Alumni",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214872/san-francisco-alumni-gathering-at-the-battery/",
+    "image": "data/images/263a03c01b826444.jpg"
+  },
+  {
+    "id": "ic:214623",
+    "sourceEventId": "214623",
+    "title": "Imperial Grand Rounds: ‘The race against time: neonatal brain injury, and consent when every minute matters’ – Professor Sudhin Thayyil, Professor of Perinatal Neuroscience and Dr Stuti Pant, Senior Programme Manager",
+    "desc": "The Imperial Grand Round series brings together academics and clinicians across the University and our NHS partners to explore and showcase how engagement with patients and treating clinical cases leads to scientific research which can benefit patients and populations.\n\nChair:\n\nMr Barry Paraskeva\n\nSpeaker details:\n\n12.30 to 13.30\n\nThis is an internal only event . On-campus venues and online streaming details for this session can be found on the FoM Staff Round webpage (requires log-in): https://www.imperial.ac.uk/medicine/fom-staff/staff-rounds/",
+    "source": "IC",
+    "date": "2026-12-02T12:30:00+00:00",
+    "durationMin": 60,
+    "venue": "Online",
+    "area": "Online",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "brain",
+      "Event",
+      "Open to all"
+    ],
+    "format": "Online",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214623/02-dec-2026/",
+    "image": "data/images/29226a33d2e41291.jpg"
+  },
+  {
+    "id": "ic:213754",
+    "sourceEventId": "213754",
+    "title": "Control and Optimisation seminar – PhD Research Presentations 2026",
+    "desc": "Imperial PhD Research Presentations\n\nThis is a special session of control and optimization seminar program, featuring short talks by Imperial PhD students.\n\n14:00-14:15 Emma Rothwell (Mathematics)\n\nClimate Resilient Trajectory Optimisation for Air Transport\n\n14:15-14:30 Matthew Marsh (Chemical Engineering)\n\nEmbedding Physics as Evidence: Physics Conditioned Bayesian Neural Networks for Chance Constrained MPC\n\n14:30-14:45 Edoardo Scaccia (Electrical and Electronic Engineering)\n\nAdaptive Discretization Methods for Solving Two-Stage Robust Problems with Applications in Power Systems\n\n14:45-15:15 Coffee Break\n\n15:15-15:30 Sarah Boufelja (Design Engineering)\n\nRandomised Optimal Transport: Distributions over Transport Plans for Fair Matching and Cell-fate Dynamics\n\n15:30-15:45 Rihan Dsilva…",
+    "source": "IC",
+    "date": "2026-12-02T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "410, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/213754/control-and-optimisation-seminar-phd-research-presentations-2026/",
+    "image": "data/images/5f47d88be043d445.jpg"
+  },
+  {
+    "id": "ic:214954",
+    "sourceEventId": "214954",
+    "title": "Junior Analysis Seminar – Zhuoya Yao (Lyon)",
+    "desc": "Title\n\nAbstract\n\nPlease note that the seminar will take place in person in room 140 of Huxley Building .\n\nClick here to get to the Junior Analysis Seminar webpage .",
+    "source": "IC",
+    "date": "2026-12-02T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "140, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/214954/junior-analysis-seminar-zhuoya-yao-lyon/",
+    "image": "data/images/f307df66c1f6d553.jpg"
+  },
+  {
+    "id": "ic:215858",
+    "sourceEventId": "215858",
+    "title": "Digital Foundry Seminar Series: I, Scientist: Evidence, Deception, and Conflict in Automated Science with Bálint Gyevnár",
+    "desc": "The Digital Foundry, Imperial College London’s pioneering, cross-disciplinary innovation hub embedded within the university’s new School of Convergence Science, is a strategic hub for digital convergence, bringing together expertise in artificial intelligence, robotics, data science and digital technologies within a shared environment at the White City Campus. Through co-location, community building and access to specialist facilities, the Digital Foundry connects researchers, innovators, students, and industry partners from across disciplines to tackle complex challenges, accelerate translational research and create new opportunities at the intersection of science, engineering, medicine and technology.\n\nAbstract:\n\nAs scientists increasingly delegate their work to AI systems, questions…",
+    "source": "IC",
+    "date": "2026-12-02T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "LRT 608 A+B, Digital Foundry Level 6, Translation and Innovation Hub (I-HUB), White City Campus",
+    "area": "White City",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "maths",
+      "Department of Electrical and Electronic Engineering",
+      "Artificial intelligence",
+      "Event"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/215858/digital-foundry-seminar-series-i-scientist-evidence-deception-and-conflict-in-automated-science/",
+    "image": "data/images/c1ec00cd19294e9e.jpg"
+  },
+  {
+    "id": "ic:217282",
+    "sourceEventId": "217282",
+    "title": "SPC Seminar – Space – Dr. Niklas Grimmich (Imperial)",
+    "desc": "Title: Insights into the magnetopause: A comparison of models and observations of the dynamic boundary between the solar wind and the Earth’s magnetic field\n\nSpeaker: Dr. Niklas Grimmich (Imperial)\n\nAbstract: The planetary magnetic field surrounds the Earth like an invisible shield. It forms a barrier to the stream of high-energy particles emanating from the Sun, known as solar wind. Similar to a river flowing around a rock, the solar wind is slowed down and diverted around the Earth’s magnetic field in what is known as the magnetosheath. The boundary between this flow region and the sphere of influence of the planetary magnetic field, called the magnetosphere, is the magnetopause. Satellite observations and simulations can be used to model the shape and location of the boundary, as well…",
+    "source": "IC",
+    "date": "2026-12-02T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "711c, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "The Space, Plasma and Climate Community",
+      "Space",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217282/spc-seminar-space-dr-niklas-grimmich-imperial/",
+    "image": "data/images/5378b299790f4be0.jpg"
+  },
+  {
+    "id": "ic:217352",
+    "sourceEventId": "217352",
+    "title": "Mathematical Physics Seminar (December 2nd) – David Dean (Bordeaux) – Destruction of Van der Waals screening in driven electrolytes",
+    "desc": "Abstract: Two dielectric bodies separated by water interact through long-range Van der Waals forces, which have both quantum and thermal components. Adding an electrolyte to the water screens the long-range thermal component, substantially reducing the interaction. In this talk, I will first explain how screening arises at equilibrium through a surprising cancellation between contributions from dipole fluctuations in the dielectrics and charge and image-charge fluctuations associated with the electrolyte. I will then describe how an electric field applied parallel to the dielectric plates destroys this screening, giving rise to a long-range repulsive force, and explain this behaviour in terms of a novel mechanism involving the decoupling of charge fluctuations.\n\nLocation : Huxley 144,…",
+    "source": "IC",
+    "date": "2026-12-02T14:00:00+00:00",
+    "durationMin": 60,
+    "venue": "Huxley 144, Huxley Building, South Kensington Campus",
+    "area": "South Kensington",
+    "price": 0,
+    "tags": [
+      "Seminar",
+      "Event",
+      "Open to all"
+    ],
+    "format": "In person",
+    "match": 72,
+    "url": "https://www.imperial.ac.uk/events/217352/mathematical-physics-seminar-december-2nd-david-dean-bordeaux-destruction-of-van-der-waals-screening-in-driven-electrolytes/",
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "lse:ai-democracy",
