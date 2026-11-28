@@ -210,27 +210,6 @@
     "image": "data/images/0eba11444221c0c1.png"
   },
   {
-    "id": "kcl:the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
-    "sourceEventId": "1fb8bfc8-3beb-4b14-a44c-c989e5ea09c2",
-    "title": "The Sir Michael Howard Centre for the History of War Annual Lecture - 'New Directions in the History of the Second World War in South Asia'",
-    "desc": "Professor Yasmin Khan will examine the idea of the Second World War and the Partition of 1947 as part of a historical continuum, arguing that the Second World War did not simply end at VJ day in 1945 in Asia.",
-    "source": "KCL",
-    "date": "2026-12-01T18:00:00",
-    "durationMin": 150,
-    "venue": "Strand",
-    "area": "Strand",
-    "price": 0,
-    "tags": [
-      "Public lecture",
-      "Seminar",
-      "International"
-    ],
-    "format": "In person",
-    "match": 70,
-    "url": "https://www.kcl.ac.uk/events/the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
-    "image": "data/images/47fbe34d8efd1f28.png"
-  },
-  {
     "id": "kcl:school-of-the-sacraments-at-guys-7",
     "sourceEventId": "cc6e5680-73a2-40ee-97b7-44c8b2f5c58d",
     "title": "School of the Sacraments at Guy's",
@@ -250,6 +229,27 @@
     "match": 70,
     "url": "https://www.kcl.ac.uk/events/school-of-the-sacraments-at-guys-7",
     "image": "data/images/d9cf36757a289b06.jpg"
+  },
+  {
+    "id": "kcl:the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
+    "sourceEventId": "1fb8bfc8-3beb-4b14-a44c-c989e5ea09c2",
+    "title": "The Sir Michael Howard Centre for the History of War Annual Lecture - 'New Directions in the History of the Second World War in South Asia'",
+    "desc": "Professor Yasmin Khan will examine the idea of the Second World War and the Partition of 1947 as part of a historical continuum, arguing that the Second World War did not simply end at VJ day in 1945 in Asia.",
+    "source": "KCL",
+    "date": "2026-12-01T18:00:00",
+    "durationMin": 150,
+    "venue": "Strand",
+    "area": "Strand",
+    "price": 0,
+    "tags": [
+      "Public lecture",
+      "Seminar",
+      "International"
+    ],
+    "format": "In person",
+    "match": 70,
+    "url": "https://www.kcl.ac.uk/events/the-sir-michael-howard-centre-for-the-history-of-war-annual-lecture-new-directions-in-the-history-of-the-second-world-war-in-south-asia",
+    "image": "data/images/47fbe34d8efd1f28.png"
   },
   {
     "id": "kcl:kings-alumni-reception-new-york",
@@ -440,7 +440,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217589/magic-seminar-yizhen-zhao-queen-mary/",
-    "image": "data/images/512d103d5423a9c7.jpg"
+    "image": "data/images/1a84b406c80838f1.jpg"
   },
   {
     "id": "ic:212960",
@@ -530,7 +530,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213347/mohn-centre-phd-programme-careers-beyond-academia/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:216612",
@@ -596,7 +596,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/215884/dynamical-systems-seminar-tresnia-berah-imperial/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:213999",
@@ -617,7 +617,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213999/finance-and-stochastics-seminar-dan-lenote/",
-    "image": "data/images/b86d11f01e230b11.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:216284",
@@ -638,7 +638,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/216284/astrophysics-weekly-seminar-ryan-macdonald-2/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/cdec15043aac087d.jpg"
   },
   {
     "id": "ic:217166",
@@ -659,7 +659,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217166/stochastic-analysis-seminar-kohei-suzuki-durham-university/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/5378b299790f4be0.jpg"
   },
   {
     "id": "ic:214872",
@@ -681,7 +681,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/214872/san-francisco-alumni-gathering-at-the-battery/",
-    "image": "data/images/263a03c01b826444.jpg"
+    "image": "data/images/5f47d88be043d445.jpg"
   },
   {
     "id": "ic:214623",
@@ -724,7 +724,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/213754/control-and-optimisation-seminar-phd-research-presentations-2026/",
-    "image": "data/images/5f47d88be043d445.jpg"
+    "image": "data/images/b86d11f01e230b11.jpg"
   },
   {
     "id": "ic:214954",
@@ -791,7 +791,7 @@
     "format": "In person",
     "match": 72,
     "url": "https://www.imperial.ac.uk/events/217282/spc-seminar-space-dr-niklas-grimmich-imperial/",
-    "image": "data/images/5378b299790f4be0.jpg"
+    "image": "data/images/263a03c01b826444.jpg"
   },
   {
     "id": "ic:217352",
